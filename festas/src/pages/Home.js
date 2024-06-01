@@ -1,4 +1,4 @@
-import Head from 'next/head';
+import React from 'react';
 import Header from '../components/Header';
 import Festa from '../components/Festa';
 
@@ -17,10 +17,6 @@ const festas = [
 export default function Home() {
     return (
         <div>
-            <Head>
-                <title>Festas e Romarias</title>
-                <meta name="description" content="Lista de Festas e Romarias" />
-            </Head>
             <Header />
             <main className="flex">
                 <div className="w-1/2 p-4">

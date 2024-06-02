@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 import Header from '../components/Header';
 
-const CreateEvent = () => {
+
+export default function Criar() {
     const [formData, setFormData] = useState({
         nome: '',
         data: '',
@@ -115,4 +116,3 @@ const CreateEvent = () => {
     );
 };
 
-export default CreateEvent;

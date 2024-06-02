@@ -1,25 +1,37 @@
 import React from 'react';
-import logo from '../logo.svg'; // Substitua pelo caminho para o seu logotipo
-import { Link } from 'react-router-dom';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
+import logo from '../logo.svg';
 
 const Header = () => {
-  const scrollToFestas = () => {
-    const festasSection = document.getElementById('festas-section');
-    const headerOffset = 70; 
-    const elementPosition = festasSection.getBoundingClientRect().top;
+  const location = useLocation();
+  const navigate = useNavigate();
+
+  const scrollToSection = (sectionId) => {
+    const section = document.getElementById(sectionId);
+    const headerOffset = 70;
+    const elementPosition = section.getBoundingClientRect().top + window.pageYOffset;
     const offsetPosition = elementPosition - headerOffset;
 
     window.scrollTo({
       top: offsetPosition,
-      behavior: "smooth"
+      behavior: 'smooth',
     });
   };
 
-  const scrollToHome = () => {
-    window.scrollTo({
-      top: 0,
-      behavior: "smooth"
-    });
+  const handleHomeClick = () => {
+    if (location.pathname === '/') {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    } else {
+      navigate('/');
+    }
+  };
+
+  const handleFestasClick = () => {
+    if (location.pathname === '/') {
+      scrollToSection('festas-section');
+    } else {
+      navigate('/', { state: { scrollTo: 'festas-section' } });
+    }
   };
 
   return (
@@ -28,19 +40,22 @@ const Header = () => {
         <img src={logo} alt="Logo" className="h-16" />
         <h1 className="text-4xl font-bold" style={{ fontFamily: 'serif', color: '#4a2e2a' }}>Festas e Romarias</h1>
         <div>
-          <button 
-            onClick={scrollToHome} 
+          <button
+            onClick={handleHomeClick}
             className="bg-white text-[#4a2e2a] rounded px-4 py-2 mr-2 ml-2 transition-colors duration-300 hover:bg-[#4a2e2a] hover:text-white"
           >
             Home
           </button>
-          <button 
-            onClick={scrollToFestas} 
+          <button
+            onClick={handleFestasClick}
             className="bg-white text-[#4a2e2a] rounded px-4 py-2 mr-2 ml-2 transition-colors duration-300 hover:bg-[#4a2e2a] hover:text-white"
           >
             Festas
           </button>
-          <Link to="/CriarFesta" className="bg-white text-[#4a2e2a] rounded px-4 py-2 mr-2 ml-2 transition-colors duration-300 hover:bg-[#4a2e2a] hover:text-white">
+          <Link
+            to="/CriarFesta"
+            className="bg-white text-[#4a2e2a] rounded px-4 py-2 mr-2 ml-2 transition-colors duration-300 hover:bg-[#4a2e2a] hover:text-white"
+          >
             Criar Festa
           </Link>
         </div>
@@ -49,4 +64,4 @@ const Header = () => {
   );
 };
 
-export default Header
+export default Header;

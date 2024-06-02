@@ -1,11 +1,9 @@
 import React, { useState } from 'react';
 import Festa from './Festa'; // supondo que o componente Festa esteja no mesmo diretório
 import DatePicker from 'react-datepicker';
-import 'react-datepicker/dist/react-datepicker.css';
-import imagemDescricao from '../assets/romaria.png';
 import festas from '../assets/festas.json';
 
-function Festas() {
+const Festas = () => {
     const [searchTerm, setSearchTerm] = useState('');
     const [startDate, setStartDate] = useState(null);
     const [endDate, setEndDate] = useState(null);
@@ -18,7 +16,6 @@ function Festas() {
 
     return (
         <div className="border p-4 rounded bg-white bg-opacity-90 h-full overflow-y-auto" style={{ fontFamily: 'serif', color: '#4a2e2a' }}>
-            <h2 className="text-2xl font-bold mb-4 px-4">Mapa de Festas</h2>
             <div className="sticky top-0 bg-white p-4 mb-4 rounded z-10">
                 <form className="max-w-md mx-auto">
                     <label htmlFor="default-search" className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white">Search</label>

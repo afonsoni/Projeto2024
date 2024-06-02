@@ -1,0 +1,218 @@
+[
+    {
+        "Trimestre":"1º trimestre",
+        "Nome":"carnaval",
+        "Data":"",
+        "Freguesia":"Albufeira",
+        "Concelho":"Albufeira",
+        "Distrito":"Faro",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"1º trimestre",
+        "Nome":"carnaval",
+        "Data":"Loulé",
+        "Freguesia":"Quarteira",
+        "Concelho":"Loulé",
+        "Distrito":"Faro",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"1º trimestre",
+        "Nome":"carnaval",
+        "Data":"",
+        "Freguesia":"Loulé",
+        "Concelho":"Loulé",
+        "Distrito":"Faro",
+        "Descrição":"corso"
+    },
+    {
+        "Trimestre":"1º trimestre",
+        "Nome":"desfile de carnaval",
+        "Data":"",
+        "Freguesia":"Brás de Alportel",
+        "Concelho":"São Brás de Alportel",
+        "Distrito":"Faro",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"1º trimestre",
+        "Nome":"carnaval",
+        "Data":"Silves",
+        "Freguesia":"Bartolomeu de Messines",
+        "Concelho":"Silves",
+        "Distrito":"Faro",
+        "Descrição":"corso"
+    },
+    {
+        "Trimestre":"1º trimestre",
+        "Nome":"carnaval",
+        "Data":"",
+        "Freguesia":"Tavira",
+        "Concelho":"Tavira",
+        "Distrito":"Faro",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Procissão dos Ramos",
+        "Data":"Domingo de Ramos",
+        "Freguesia":"Tavira",
+        "Concelho":"Tavira",
+        "Distrito":"Faro",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Festa das tochas floridas",
+        "Data":"Domingo de Páscoa",
+        "Freguesia":"Brás de Alportel",
+        "Concelho":"São Brás de Alportel",
+        "Distrito":"Faro",
+        "Descrição":"cortejo que percorre alegremente as ruas até à igreja matriz"
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Festa da Senhora da Graça ou dos Folares",
+        "Data":"02-06-2024",
+        "Freguesia":"Querença",
+        "Concelho":"Loulé",
+        "Distrito":"Faro",
+        "Descrição":"Depois das cerimónias religiosas, há lugar ao leilão das ofertas, constituída por folares, enchidos e “ramos”, tabuleiros das ofertas ornamentados de flores"
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Romaria da Senhora da Piedade ou da Mãe Soberana",
+        "Data":"02-06-2024",
+        "Freguesia":"Loulé",
+        "Concelho":"Loulé",
+        "Distrito":"Faro",
+        "Descrição":"Regresso da imagem desde Loulé até ao santuário, sendo o andor transportado a correr pela ladeira acima"
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Festa da Fonte Grande",
+        "Data":"01-06-2024",
+        "Freguesia":"Alte",
+        "Concelho":"Loulé",
+        "Distrito":"Faro",
+        "Descrição":"Cortejo de oferendas, designado por cavalhada."
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Festa da Espiga",
+        "Data":"05-06-2024",
+        "Freguesia":"Salir",
+        "Concelho":"Loulé",
+        "Distrito":"Faro",
+        "Descrição":"Cortejo etnográfico."
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Festa de Nossa Senhora do Carmo",
+        "Data":"16-06-2024",
+        "Freguesia":"Fuzeta",
+        "Concelho":"Olhão",
+        "Distrito":"Faro",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Senhora da Rocha",
+        "Data":"primeiro Domingo de Agosto",
+        "Freguesia":"Porches",
+        "Concelho":"Lagoa",
+        "Distrito":"Faro",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Senhora da Orada",
+        "Data":"segundo Domingo de Agosto",
+        "Freguesia":"Albufeira",
+        "Concelho":"Albufeira",
+        "Distrito":"Faro",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Senhora dos Mártires",
+        "Data":"15-06-2024",
+        "Freguesia":"Castro Marim",
+        "Concelho":"Castro Marim",
+        "Distrito":"Faro",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Nossa Senhora de Alva",
+        "Data":"primeiro domingo de Setembro",
+        "Freguesia":"Algezur",
+        "Concelho":"",
+        "Distrito":"",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Senhora dos Aflitos",
+        "Data":"segundo domingo de Setembro",
+        "Freguesia":"Armação de Pera",
+        "Concelho":"Silves",
+        "Distrito":"Faro",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"São Gonçalo",
+        "Data":"último domingo de Outubro",
+        "Freguesia":"Lagos",
+        "Concelho":"Lagos",
+        "Distrito":"Faro",
+        "Descrição":"de Lagos"
+    },
+    {
+        "Trimestre":"4º trimestre",
+        "Nome":"Festa de São Luís",
+        "Data":"01-06-2024",
+        "Freguesia":"Aljezur",
+        "Concelho":"Aljezur",
+        "Distrito":"Faro",
+        "Descrição":"Luís: Bênção de gado"
+    },
+    {
+        "Trimestre":"4º trimestre",
+        "Nome":"Festa de São Martinho",
+        "Data":"11-06-2024",
+        "Freguesia":"Portimão",
+        "Concelho":"Portimão",
+        "Distrito":"Faro",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"4º trimestre",
+        "Nome":"Festa da Senhora da Conceição",
+        "Data":"08-06-2024",
+        "Freguesia":"Monchique",
+        "Concelho":"Monchique",
+        "Distrito":"Faro",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"4º trimestre",
+        "Nome":"Festas da Casa de Deus Menino",
+        "Data":"25-06-2024",
+        "Freguesia":"Brás de Alportel",
+        "Concelho":"São Brás de Alportel",
+        "Distrito":"Faro",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"4º trimestre",
+        "Nome":"idem",
+        "Data":"",
+        "Freguesia":"Olhão",
+        "Concelho":"",
+        "Distrito":"",
+        "Descrição":""
+    }
+]

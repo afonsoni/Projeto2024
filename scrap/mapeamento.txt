@@ -1,0 +1,384 @@
+Vila Chã da Braciosa,Miranda do Douro,Bragança
+Tó,Mogadouro,Bragança
+Babe,Bragança,Bragança
+Rio de Onor,Bragança,Bragança
+Vale de Anta,Chaves,Vila Real
+Vale de Salgueiro,Mirandela,Bragança
+Alturas do Barroso,Boticas,Vila Real
+Dornelas,Boticas,Vila Real
+Gimonde,Bragança,Bragança
+Paradela,Miranda do Douro,Bragança
+Pinhão,Alijó,Vila Real
+Podence,Macedo de Cavaleiros,Bragança
+Freixo de Espada à Cinta,Freixo de Espada à Cinta,Bragança
+Vilar de Perdizes,Montalegre,Vila Real
+Vila Real,Vila Real,Vila Real
+Mateus,Vila Real,Vila Real
+Vila Verde,Alijó,Vila Real
+Coelhoso,Bragança,Bragança
+Covas do Barroso,Boticas,Vila Real
+Teixeira,Baião,Porto
+Mirandela,Mirandela,Bragança
+Campeã,Vila Real,Vila Real
+Montalegre,Montalegre,Vila Real
+Póvoa,Miranda do Douro,Bragança
+Vinhais,Vinhais,Bragança
+Torre de Moncorvo,Torre de Moncorvo,Bragança
+Vilas Boas,Vila Flor,Bragança
+Salto,Montalegre,Vila Real
+Algoso,Vimioso,Bragança
+Boticas,Boticas,Vila Real
+Montesinho,Bragança,Bragança
+Pegarinhos,Alijó,Vila Real
+Constantim,Miranda do Douro,Bragança
+Vilarelho,Alfândega da Fé,Bragança
+Mouçós,Vila Real,Vila Real
+Mogadouro,Mogadouro,Bragança
+Fetais,Sabrosa,Vila Real
+Maçores,Torre de Moncorvo,Bragança
+Martinho,Miranda do Douro,Bragança
+Vale de Porco,Mogadouro,Bragança
+Travanca,Vinhais,Bragança
+Bruçó,Mogadouro,Bragança
+Rio Frio,Bragança,Bragança
+Bemposta,Mogadouro,Bragança
+Ousilhão,Vinhais,Bragança
+Grijó de Parada,Bragança,Bragança
+Vila Meã,Bragança,Bragança
+Deilão,Bragança,Bragança
+Amiais de Baixo,Santarém,Santarém
+Almeirim,Almeirim,Santarém
+Benavente,Samora Correia,Santarém
+Alcanena,Espinheiro,Santarém
+Alpiarça,Alpiarça,Santarém
+Abrantes,Abrantes,Santarém
+Santarém,Santarém,Santarém
+Sardoal,Sardoal,Santarém
+Cem Soldos,Tomar,Santarém
+Constância,Constância,Santarém
+Mação,Mação,Santarém
+Alcochete,Alcochete,Santarém
+Pontével,Cartaxo,Santarém
+Dornes,Ferreira do Zêzere,Santarém
+Carregueiros,Tomar,Santarém
+Meia Via,Torres Novas,Santarém
+Azinhaga,Golegã,Santarém
+Chamusca,Chamusca,Santarém
+Montijo,Montijo,Santarém
+Vila Franca de Xira,Vila Franca de Xira,Santarém
+Coruche,Coruche,Santarém
+Atalaia,Montijo,Santarém
+Moita,Moita,Santarém
+Sabacheira,Tomar,Santarém
+Vila Nova de Gaia,Gaia,Porto
+Louredo,Santa Marta de Penaguião,Vila Real
+Santa Cruz do Bispo,Matosinhos,Porto
+Santa Maria da Feira,Santa Maria da Feira,Aveiro
+Ermesinde,Valongo,Porto
+Lousada,Meinedo,Porto
+Melres,Gondomar,Porto
+Póvoa de Varzim,Póvoa de Varzim,Porto
+Caramos,Felgueiras,Porto
+Rates,Póvoa de Varzim,Porto
+Entre-os-Rios,Penafiel,Porto
+Ovar,Ovar,Aveiro
+Vila do Conde,Vila do Conde,Porto
+Guilhabreu,Vila do Conde,Porto
+Eja,Penafiel,Porto
+Várzea,Felgueiras,Porto
+Arouca,Arouca,Aveiro
+Urrô,Arouca,Aveiro
+Aguiar do Sousa,Paredes,Porto
+Matosinhos,Matosinhos,Porto
+Beiriz,Póvoa de Varzim,Porto
+Amarante,Amarante,Porto
+Freamunde,Paços de Ferreira,Porto
+Miramar,Gaia,Porto
+Castelo de Paiva,Castelo de Paiva,Aveiro
+Porto,Porto,Porto
+Sobrado,Valongo,Porto
+Afurada,Gaia,Porto
+Santo Tirso,Santo Tirso,Porto
+Rio Tinto,Gondomar,Porto
+Aguçadoura,Póvoa de Varzim,Porto
+A-Ver-o-Mar,Póvoa de Varzim,Porto
+Sanfins do Torno,Lousada,Porto
+Monte Córdova,Santo Tirso,Porto
+São Pedro,Castelo de Paiva,Aveiro
+Trofa,Trofa,Porto
+Barqueiros,Mesão Frio,Vila Real
+Freixo de Cima,Amarante,Porto
+Monte da Mó,Arouca,Aveiro
+Monte Córdova,Santo Tirso,Porto
+Duas Igrejas,Penafiel,Porto
+Ancede,Baião,Porto
+Novais,Póvoa de Varzim,Porto
+Vila Nova de Gaia,Gaia,Porto
+Louredo,Santa Marta de Penaguião,Vila Real
+Santa Cruz do Bispo,Matosinhos,Porto
+Santa Maria da Feira,Santa Maria da Feira,Aveiro
+Ermesinde,Valongo,Porto
+Lousada,Meinedo,Porto
+Melres,Gondomar,Porto
+Póvoa de Varzim,Póvoa de Varzim,Porto
+Caramos,Felgueiras,Porto
+Rates,Póvoa de Varzim,Porto
+Entre-os-Rios,Penafiel,Porto
+Ovar,Ovar,Aveiro
+Vila do Conde,Vila do Conde,Porto
+Guilhabreu,Vila do Conde,Porto
+Eja,Penafiel,Porto
+Várzea,Felgueiras,Porto
+Arouca,Arouca,Aveiro
+Urrô,Arouca,Aveiro
+Aguiar do Sousa,Paredes,Porto
+Matosinhos,Matosinhos,Porto
+Beiriz,Póvoa de Varzim,Porto
+Amarante,Amarante,Porto
+Freamunde,Paços de Ferreira,Porto
+Miramar,Gaia,Porto
+Castelo de Paiva,Castelo de Paiva,Aveiro
+Porto,Porto,Porto
+Sobrado,Valongo,Porto
+Afurada,Gaia,Porto
+Santo Tirso,Santo Tirso,Porto
+Rio Tinto,Gondomar,Porto
+Aguçadoura,Póvoa de Varzim,Porto
+A-Ver-o-Mar,Póvoa de Varzim,Porto
+Sanfins do Torno,Lousada,Porto
+Monte Córdova,Santo Tirso,Porto
+São Pedro,Castelo de Paiva,Aveiro
+Trofa,Trofa,Porto
+Barqueiros,Mesão Frio,Vila Real
+Freixo de Cima,Amarante,Porto
+Monte da Mó,Arouca,Aveiro
+Monte Córdova,Santo Tirso,Porto
+Duas Igrejas,Penafiel,Porto
+Ancede,Baião,Porto
+Novais,Póvoa de Varzim,Porto
+Talhadas,Sever do Vouga,Aveiro
+Travassô,Águeda,Aveiro
+Avanca,Estarreja,Aveiro
+Vale de Ílhavo,Ílhavo,Aveiro
+Brasfemes,Coimbra,Coimbra
+Assequins,Águeda,Aveiro
+Aguada de Cima,Águeda,Aveiro
+Escapães,Cantanhede,Coimbra
+Sepins,Cantanhede,Coimbra
+Cernache,Coimbra,Coimbra
+Lousã,Lousã,Coimbra
+Espírito Santo,Soure,Coimbra
+Vagos,Vagos,Aveiro
+Vila Pouca,Cernache,Coimbra
+Praia da Tocha,Cantanhede,Coimbra
+Palhaça,Oliveira do Bairro,Aveiro
+Ançã,Cantanhede,Coimbra
+Pombal,Pombal,Leiria
+Oliveira de Azeméis,Oliveira de Azeméis,Aveiro
+Esmoriz,Esmoriz,Aveiro
+Semide,Miranda do Corvo,Coimbra
+Fermentelos,Águeda,Aveiro
+Furadouro,Ovar,Aveiro
+Macieira de Cambra,Vale de Cambra,Aveiro
+Torreira,Murtosa,Aveiro
+Montemor-o-Velho,Montemor-o-Velho,Coimbra
+Podentes,Penela,Coimbra
+Soure,Soure,Coimbra
+São Jacinto,Aveiro,Aveiro
+Mouquim,Albergaria-a-Velha,Aveiro
+Oiã,Oliveira do Bairro,Aveiro
+Veiros,Estarreja,Aveiro
+Fermelã,Estarreja,Aveiro
+Albufeira,Albufeira,Faro
+Quarteira,Loulé,Faro
+Loulé,Loulé,Faro
+Brás de Alportel,São Brás de Alportel,Faro
+Bartolomeu de Messines,Silves,Faro
+Tavira,Tavira,Faro
+Querença,Loulé,Faro
+Alte,Loulé,Faro
+Salir,Loulé,Faro
+Fuzeta,Olhão,Faro
+Porches,Lagoa,Faro
+Castro Marim,Castro Marim,Faro
+Aljezur,Aljezur,Faro
+Armação de Pera,Silves,Faro
+Lagos,Lagos,Faro
+Portimão,Portimão,Faro
+Monchique,Monchique,Faro
+Póvoa da Atalaia,Fundão,Castelo Branco
+Almaceda,Castelo Branco,Castelo Branco
+S. Jorge da Beira,Covilhã,Castelo Branco
+Janeiro de Baixo,Pampilhosa da Serra,Coimbra
+Cabril,Pampilhosa da Serra,Coimbra
+Ponte de Fajão,Pampilhosa da Serra,Coimbra
+Vidual,Pampilhosa da Serra,Coimbra
+Forcalhos,Sabugal,Guarda
+Paúl,Covilhã,Castelo Branco
+Fundão,Fundão,Castelo Branco
+Castelo Novo,Fundão,Castelo Branco
+Penamacor,Penamacor,Castelo Branco
+Salvaterra do Extremo,Idanha-a-Nova,Castelo Branco
+Ladoeiro,Castelo Branco,Castelo Branco
+Proença-a-Velha,Idanha-a-Nova,Castelo Branco
+Belmonte,Belmonte,Castelo Branco
+Idanha-a-Nova,Idanha-a-Nova,Castelo Branco
+Monsanto,Idanha-a-Nova,Castelo Branco
+Alcaide,Fundão,Castelo Branco
+Lousa,Castelo Branco,Castelo Branco
+Tortosendo,Covilhã,Castelo Branco
+Alcains,Castelo Branco,Castelo Branco
+Vale da Senhora da Póvoa,Penamacor,Castelo Branco
+Aldeia das Dez,Oliveira do Hospital,Coimbra
+Sabugal,Sabugal,Guarda
+Teixoso,Covilhã,Castelo Branco
+Aldeia de Santa Margarida,Idanha-a-Nova,Castelo Branco
+Alcafozes,Idanha-a-Nova,Castelo Branco
+Pedrógão Pequeno,Sertã,Castelo Branco
+Castelejo,Fundão,Castelo Branco
+Quadrazais,Sabugal,Guarda
+Caria,Belmonte,Castelo Branco
+Lalim,Lamego,Viseu
+Palhaça,Oliveira de Frades,Viseu
+Lazarim,Lamego,Viseu
+Cabanas de Viriato,Carregal do Sal,Viseu
+Lagares da Beira,Oliveira do Hospital,Coimbra
+Lamego,Lamego,Viseu
+Sandomil,Seia,Guarda
+Meda,Meda,Guarda
+Sernancelhe,Sernancelhe,Viseu
+Mortágua,Mortágua,Viseu
+Pedro do Sul,Oliveira do Hospital,Coimbra
+Guardão,Tondela,Viseu
+Poço do Canto,Meda,Guarda
+Quintela,Sernancelhe,Viseu
+Serra dos Cabaços,Mangualde,Viseu
+Vil de Moinhos,Viseu,Viseu
+Guarda,Guarda,Guarda
+Sul,S. Pedro do Sul,Viseu
+Vouzela,Vouzela,Viseu
+Póvoa do Mileu,Guarda,Guarda
+Laceiras,Carregal do Sal,Viseu
+Figueira de Castelo Rodrigo,Figueira de Castelo Rodrigo,Guarda
+Gouveia,Gouveia,Guarda
+Viseu,Viseu,Viseu
+Celorico da Beira,Celorico da Beira,Guarda
+Vilar Maior,Sabugal,Guarda
+Mangualde,Mangualde,Viseu
+Trancoso,Trancoso,Guarda
+Vila Nova de Fozcoa,Vila Nova de Fozcoa,Guarda
+Vasconha de Queirã,Vouzela,Viseu
+Pereiro,Vilar,Cadaval
+Alfeizerão,Alcobaça,Leiria
+Valado de Frades,Nazaré,Leiria
+Pederneira,Nazaré,Leiria
+Torres Vedras,Torres Vedras,Lisboa
+Sesimbra,Sesimbra,Setúbal
+Mafra,Mafra,Lisboa
+Cortes,Leiria,Leiria
+Caldas da Rainha,Caldas da Rainha,Leiria
+Meca,Alenquer,Lisboa
+Pataias,Alcobaça,Leiria
+Marinha Grande,Marinha Grande,Leiria
+Aldeiagalega da Merceana,Alenquer,Lisboa
+Batalha,Batalha,Leiria
+Rebolaria,Batalha,Leiria
+Cascais,Cascais,Lisboa
+Runa,Torres Vedras,Lisboa
+Porto de Mós,Porto de Mós,Leiria
+Monte Real,Leiria,Leiria
+A dos Negros,Óbidos,Leiria
+Pragança,Cadaval,Lisboa
+Enxara do Bispo,Mafra,Lisboa
+Belas,Sintra,Lisboa
+Cheleiros,Mafra,Lisboa
+Ericeira,Mafra,Lisboa
+Lagoa de Óbidos,Óbidos,Leiria
+Janas,Sintra,Lisboa
+Gaeiras,Óbidos,Leiria
+Vila Fresca de Azeitão,Setúbal,Setúbal
+Palmela,Palmela,Setúbal
+Reguengo do Fetal,Batalha,Leiria
+Carvalhal,Bombarral,Leiria
+Mercês,Sintra,Lisboa
+Arelho,Óbidos,Leiria
+Alfarim,Sesimbra,Setúbal
+Livramento,Mafra,Lisboa
+São Martinho do Porto,Alcobaça,Leiria
+Atouguia da Baleia,Peniche,Leiria
+Gondiães,Cabeceiras de Basto,Braga
+Lindoso,Ponte da Barca,Viana do Castelo
+Taipas,Guimarães,Braga
+Tamel,Barcelos,Braga
+Fão,Esposende,Braga
+Louro,Famalicão,Braga
+Não,Esposende,Braga
+Cristelo Covo,Valença,Viana do Castelo
+Serzedelo,Guimarães,Braga
+Vila Franca do Lima,Viana do Castelo,Viana do Castelo
+Nespereira,Guimarães,Braga
+Cardielos,Viana do Castelo,Viana do Castelo
+Alvarães,Viana do Castelo,Viana do Castelo
+Barrosas,Felgueiras,Porto
+Vila Mou,Viana do Castelo,Viana do Castelo
+Nogueira,Viana do Castelo,Viana do Castelo
+Mixões,Vila Verde,Braga
+Amares,Amares,Braga
+Famalicão,Famalicão,Braga
+Calvos,Guimarães,Braga
+Torcato,Guimarães,Braga
+Vizela,Guimarães,Braga
+Cossourado,Paredes de Coura,Viana do Castelo
+Fafe,Fafe,Braga
+Vale de Bouro,Celorico de Basto,Braga
+Alto da Serra de Arga,Viana do Castelo,Viana do Castelo
+Lanheses,Viana do Castelo,Viana do Castelo
+Rio Caldo,Gerês,Braga
+Neves,Viana do Castelo,Viana do Castelo
+Guimarães,Guimarães,Braga
+Caminha,Caminha,Viana do Castelo
+Santa Marta de Portuzelo,Viana do Castelo,Viana do Castelo
+Apúlia,Esposende,Braga
+Lagoa,Fafe,Braga
+Balugães,Barcelos,Braga
+Soajo,Arcos de Valdevez,Viana do Castelo
+Santa Maria de Bouro,Amares,Braga
+Bartolomeu do Mar,Esposende,Braga
+Ponte da Barca,Ponte da Barca,Viana do Castelo
+Arga de S. João,Caminha,Viana do Castelo
+Negreiros,Barcelos,Braga
+Gavieira,Arcos de Valdevez,Viana do Castelo
+Vila Praia de Âncora,Caminha,Viana do Castelo
+Ponte de Lima,Ponte de Lima,Viana do Castelo
+Cabeceiras de Basto,Cabeceiras de Basto,Braga
+Lanhelas,Caminha,Viana do Castelo
+Mondim de Basto,Mondim de Basto,Vila Real
+Porto de Ave,Póvoa de Lanhoso,Braga
+Freamunde,Paços de Ferreira,Porto
+Mourão,Mourão,Évora
+Évora,Évora,Évora
+Amareleja,Moura,Beja
+Granja,Mourão,Évora
+Sines,Sines,Setúbal
+Castelo de Vide,Castelo de Vide,Portalegre
+Serpa,Serpa,Beja
+Nisa,Nisa,Portalegre
+Terena,Alandroal,Évora
+Viana do Alentejo,Viana do Alentejo,Évora
+Aldeia Nova de S. Bento,Serpa,Beja
+Barrada,Reguengos de Monsaraz,Évora
+Fortios,Portalegre,Portalegre
+Reguengos de Monsaraz,Reguengos de Monsaraz,Évora
+Estremoz,Estremoz,Évora
+Tróia,Grândola,Setúbal
+Brotas,Mora,Évora
+Flor da Rosa,Crato,Portalegre
+Campo Maior,Campo Maior,Portalegre
+Ourique,Ourique,Beja
+Assumar,Monforte,Portalegre
+Elvas,Elvas,Portalegre
+Odemira,Odemira,Beja
+Alvito,Alvito,Beja
+Vila Viçosa,Vila Viçosa,Évora
+Barrancos,Barrancos,Beja
+Alandroal,Alandroal,Évora

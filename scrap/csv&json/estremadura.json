@@ -1,0 +1,560 @@
+[
+    {
+        "Trimestre":"1º trimestre",
+        "Nome":"Cantar e pintar dos Bons Reis Magos",
+        "Data":"Cadaval",
+        "Freguesia":"Pereiro",
+        "Concelho":"Vilar",
+        "Distrito":"Cadaval",
+        "Descrição":"Com pequenas variantes, pinta-se e canta-se os Reis em todas as povoações do concelho do Cadaval e Alenquer que rodeiam a Serra do Montejunto"
+    },
+    {
+        "Trimestre":"1º trimestre",
+        "Nome":"Festa de Santo Amaro",
+        "Data":"15-06-2024",
+        "Freguesia":"Alfeizerão",
+        "Concelho":"Alcobaça",
+        "Distrito":"Leiria",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"1º trimestre",
+        "Nome":"Romaria de Santo Antão",
+        "Data":"17-06-2024",
+        "Freguesia":"Óbidos",
+        "Concelho":"",
+        "Distrito":"",
+        "Descrição":"Arraial com cantares ao acordeão nas tendas de comes e bebes."
+    },
+    {
+        "Trimestre":"1º trimestre",
+        "Nome":"Festa de São Sebastião",
+        "Data":"20-06-2024",
+        "Freguesia":"Valado de Frades",
+        "Concelho":"Nazaré",
+        "Distrito":"Leiria",
+        "Descrição":"Sebastião, por vezes chamada festa da chouriça, pelo leilão das oferendas em chouriços."
+    },
+    {
+        "Trimestre":"1º trimestre",
+        "Nome":"Romaria de São Brás",
+        "Data":"03-06-2024",
+        "Freguesia":"Pederneira",
+        "Concelho":"Nazaré",
+        "Distrito":"Leiria",
+        "Descrição":"Brás, a que acorrem quase todos os nazarenos e nazarenas: Actuação de ranchos de “ensaiados”, grupos músico-coreográficos que se exibem entre o dia de Reis e o Carnaval, e que levam o nome de contradanças na maioria das regiões do país"
+    },
+    {
+        "Trimestre":"1º trimestre",
+        "Nome":"grupos músico-coreográfico-teatrais (cègadas",
+        "Data":"Carnaval",
+        "Freguesia":"Nazaré",
+        "Concelho":"",
+        "Distrito":"",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"1º trimestre",
+        "Nome":"Carnaval de Torres",
+        "Data":"",
+        "Freguesia":"Torres Vedras",
+        "Concelho":"Torres Vedras",
+        "Distrito":"Lisboa",
+        "Descrição":"Na sexta-feira, no largo da Estação, chegada dos bombos e desfile dos cabeçudos até ao centro da avenida principal (ultimamente junto ao Mercado), onde se realiza a solene abertura: Sábado à noite, corso nocturno e concurso de máscaras: Domingo Gordo, à tarde, corso pelas ruas principais da cidade, com carros alegóricos satirizando a política local, nacional e internacional, bem como figuras do desporto e do espectáculo: Segunda-feira à noite, corso nocturno: Terça-Feira de entrudo, à tarde, corso com as mesmas características de Domingo Gordo: Destaque para as matrafonas, homens travestidos de mulheres, na linha da tradição de mascarados por todo o país: Quarta-Feira à noite, enterro do entrudo, com cortejo, julgamento, leitura do testamento, morte pelo fogo do boneco simbolizando o entrudo, tudo terminando com fogo de artifício."
+    },
+    {
+        "Trimestre":"1º trimestre",
+        "Nome":"Carnaval com actuação de cègadas",
+        "Data":"",
+        "Freguesia":"Sesimbra",
+        "Concelho":"Sesimbra",
+        "Distrito":"Setúbal",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"1º trimestre",
+        "Nome":"Procissão da burrinha",
+        "Data":"04-06-2024",
+        "Freguesia":"Mafra",
+        "Concelho":"Mafra",
+        "Distrito":"Lisboa",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"1º trimestre",
+        "Nome":"Enterro do bacalhau",
+        "Data":"sábado de Aleluia",
+        "Freguesia":"Sesimbra",
+        "Concelho":"Sesimbra",
+        "Distrito":"Setúbal",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Procissão dos Passos",
+        "Data":"Domingo de Ramos",
+        "Freguesia":"Óbidos",
+        "Concelho":"",
+        "Distrito":"",
+        "Descrição":"que percorre as ruas do burgo medieval"
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Procissão da Burrinha",
+        "Data":"Domingo de Ramos",
+        "Freguesia":"Mafra",
+        "Concelho":"Mafra",
+        "Distrito":"Lisboa",
+        "Descrição":"é uma procissão dos Passos do Senhor, com várias figurações bíblicas, entre as quais a cena da “Fuga para o Egipto”, donde provém o nome da procissão"
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"círio dos marítimos à Senhora da Atalaia",
+        "Data":"Domingo de Páscoa",
+        "Freguesia":"Alcochete",
+        "Concelho":"Alcochete",
+        "Distrito":"Santarém",
+        "Descrição":"Gaiteiro, cortejo com carros de bois, carroças em direcção ao santuário: Leilão das bandeiras e fogaças."
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Festa do Senhor Jesus das Chagas",
+        "Data":"03-06-2024",
+        "Freguesia":"Sesimbra",
+        "Concelho":"Sesimbra",
+        "Distrito":"Setúbal",
+        "Descrição":"Procissão dos pescadores com bênção do mar."
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Festa da Senhora da Gaiola ou Festa do Bodo",
+        "Data":"03-06-2024",
+        "Freguesia":"Cortes",
+        "Concelho":"Leiria",
+        "Distrito":"Leiria",
+        "Descrição":"As moças transportam à cabeça tabuleiros de oferendas, doces chamados “fradinhos do Menino Jesus”: Procissão de imagens do Menino Jesus, pertencentes a todas as famílias da freguesia."
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Festas da Cidade",
+        "Data":"15-06-2024",
+        "Freguesia":"Caldas da Rainha",
+        "Concelho":"Caldas da Rainha",
+        "Distrito":"Leiria",
+        "Descrição":"Missa na Igreja de Nossa senhora do Pópulo em honra da Rainha D: Leonor, fundadora e padroeira da cidade: Grande variedade de espectáculos e certames, como exposições de cerâmica, arte em que sempre se destacou a cidade de Caldas da Rainha."
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"círio do Carregal",
+        "Data":"05-06-2024",
+        "Freguesia":"Óbidos",
+        "Concelho":"Santuário do Senhor da Pedra",
+        "Distrito":"",
+        "Descrição":"Cavaleiro comanda a peregrinação transportando o guião: Loas cantadas pelo anjinho."
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Romaria de Santa Quitéria de Meca",
+        "Data":"02-05-2040",
+        "Freguesia":"Meca",
+        "Concelho":"Alenquer",
+        "Distrito":"Lisboa",
+        "Descrição":"Bênção do gado em redor do cruzeiro."
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Círio da Nazaré a Nossa Senhora da Vitória",
+        "Data":"05-06-2024",
+        "Freguesia":"Pataias",
+        "Concelho":"Alcobaça",
+        "Distrito":"Leiria",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"celebrações do dia da espiga com merenda no pinhal de Leiria",
+        "Data":"05-06-2024",
+        "Freguesia":"Marinha Grande",
+        "Concelho":"Marinha Grande",
+        "Distrito":"Leiria",
+        "Descrição":"Guarda-se a espiga em casa durante o ano, como é da tradição por todo o país: Carros enfeitados com verduras, como também faz parte da tradição geral."
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Festa de Nossa Senhora dos Prazeres",
+        "Data":"Domingo do Espírito Santo",
+        "Freguesia":"Aldeiagalega da Merceana",
+        "Concelho":"Alenquer",
+        "Distrito":"Lisboa",
+        "Descrição":"Procissão com bênção das vinhas."
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Festa da Santíssima Trindade",
+        "Data":"Domingo da Santíssima Trindade",
+        "Freguesia":"Batalha",
+        "Concelho":"Batalha",
+        "Distrito":"Leiria",
+        "Descrição":"Cortejo e bênção dos tabuleiros de oferendas: Distribuição, ou melhor, lançamento dos merendeirinhos ao fiéis."
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Festas de Santo António",
+        "Data":"13-06-2024",
+        "Freguesia":"Lisboa",
+        "Concelho":"",
+        "Distrito":"",
+        "Descrição":"Marchas populares na Avenida da Liberdade: Tronos ao santo, sardinha assada e bailes nos bairros populares, sobretudo em Alfama, mas também no Bairro Alto, Bica, Mouraria, Graça e Costa do Castelo: Casamentos de Santo António"
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Festa de Santo António",
+        "Data":"13-06-2024",
+        "Freguesia":"Rebolaria",
+        "Concelho":"Batalha",
+        "Distrito":"Leiria",
+        "Descrição":"O cortejo desce à vila e regressa ao adro da Rebolaria: Acompanhamento musical a cargo de uma pequena banda filarmónica."
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Festa de Santo António",
+        "Data":"13-06-2024",
+        "Freguesia":"Cascais",
+        "Concelho":"Cascais",
+        "Distrito":"Lisboa",
+        "Descrição":"procissão da Capela da Cidadela, onde se guarda a imagem do taumaturgo."
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Festa de S. João Baptista",
+        "Data":"24-06-2024",
+        "Freguesia":"Runa",
+        "Concelho":"Torres Vedras",
+        "Distrito":"Lisboa",
+        "Descrição":"arruadas, folclore, fogo de artifício."
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Festas de São Pedro",
+        "Data":"29-06-2024",
+        "Freguesia":"Porto de Mós",
+        "Concelho":"Porto de Mós",
+        "Distrito":"Leiria",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Feira de São Pedro",
+        "Data":"29-06-2024",
+        "Freguesia":"Torres Vedras",
+        "Concelho":"Torres Vedras",
+        "Distrito":"Lisboa",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Festas de São Pedro",
+        "Data":"29-06-2024",
+        "Freguesia":"Montijo",
+        "Concelho":"Montijo",
+        "Distrito":"Santarém",
+        "Descrição":"Pedro: Procissão com bênção dos barcos: Bodo da sardinha assada: Largada e corridas de touros: Queima do batel."
+    },
+    {
+        "Trimestre":"2º trimestre",
+        "Nome":"Feira Grande de São Pedro",
+        "Data":"29-06-2024",
+        "Freguesia":"Sintra",
+        "Concelho":"",
+        "Distrito":"",
+        "Descrição":"Pedro."
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Círio da Senhora da Arrábida",
+        "Data":"primeiro fim-de-semana de Julho",
+        "Freguesia":"Setúbal",
+        "Concelho":"",
+        "Distrito":"",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Festa de Nossa Senhora do Cardal",
+        "Data":"último domingo de Julho",
+        "Freguesia":"Pombal",
+        "Concelho":"Pombal",
+        "Distrito":"Leiria",
+        "Descrição":"ou Festa do Bodo"
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Festas da Rainha Santa",
+        "Data":"último domingo de Julho",
+        "Freguesia":"Monte Real",
+        "Concelho":"Leiria",
+        "Distrito":"Leiria",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Festa de Santa Maria Madalena",
+        "Data":"22-06-2024",
+        "Freguesia":"A dos Negros",
+        "Concelho":"Óbidos",
+        "Distrito":"Leiria",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Festas do município",
+        "Data":"24-06-2024",
+        "Freguesia":"Pedrógão Grande",
+        "Concelho":"",
+        "Distrito":"",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Senhora das Neves",
+        "Data":"05-06-2024",
+        "Freguesia":"Pragança",
+        "Concelho":"Cadaval",
+        "Distrito":"Lisboa",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Romaria da Senhora do Socorro",
+        "Data":"05-06-2024",
+        "Freguesia":"Enxara do Bispo",
+        "Concelho":"Mafra",
+        "Distrito":"Lisboa",
+        "Descrição":"na sua capelinha do alto da Serra do Socorro"
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Festas de Nossa Senhora da Boa Viagem",
+        "Data":"primeiro Domingo de Agosto",
+        "Freguesia":"Peniche",
+        "Concelho":"",
+        "Distrito":"",
+        "Descrição":"Procissão no mar com bênção dos barcos: Domingo à tarde, solene procissão da festa."
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Festa de Nossa Senhora da Misericórdia",
+        "Data":"primeiro Domingo de Agosto",
+        "Freguesia":"Belas",
+        "Concelho":"Sintra",
+        "Distrito":"Lisboa",
+        "Descrição":"missa e procissão pelas ruas da vila."
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Senhora da Vitória",
+        "Data":"15-06-2024",
+        "Freguesia":"Batalha",
+        "Concelho":"Batalha",
+        "Distrito":"Leiria",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Festa de Nossa Senhora da Assunção",
+        "Data":"15-06-2024",
+        "Freguesia":"Cheleiros",
+        "Concelho":"Mafra",
+        "Distrito":"Lisboa",
+        "Descrição":"missa e procissão pelas ruas da aldeia"
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Festa de Nossa Senhora da Encarnação",
+        "Data":"15-06-2024",
+        "Freguesia":"Leiria",
+        "Concelho":"",
+        "Distrito":"",
+        "Descrição":"Procissão solene desde a Igreja de Santo Agostinho até ao santuário da Senhora da Encarnação, no alto de um monte fronteiro ao Castelo de Leiria."
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Senhora da Boa Viagem",
+        "Data":"15-06-2024",
+        "Freguesia":"Ericeira",
+        "Concelho":"Mafra",
+        "Distrito":"Lisboa",
+        "Descrição":"Procissão no mar no sábado à noite: Procissão pelas ruas da vila no domingo à tarde, com destaque para o andor transportado pelos pescadores."
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Senhora do Bom Sucesso",
+        "Data":"15-06-2024",
+        "Freguesia":"Lagoa de Óbidos",
+        "Concelho":"Óbidos",
+        "Distrito":"Leiria",
+        "Descrição":"Círio do Vau, com o canto das loas pelo anjinho montado num cavalo."
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Romaria de S. Mamede",
+        "Data":"17-06-2024",
+        "Freguesia":"Janas",
+        "Concelho":"Sintra",
+        "Distrito":"Lisboa",
+        "Descrição":"bênção de gado com três voltas à capela, outrora rebanhos, hoje sobretudo cães de companhia e cavalos. Destaque para a arquitectura regional, em redondo, da capela."
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Festa de Nossa Senhora dos Navegantes",
+        "Data":"Agosto (data variável)",
+        "Freguesia":"Cascais",
+        "Concelho":"Cascais",
+        "Distrito":"Lisboa",
+        "Descrição":"Procissão dos pescadores que leva a imagem às traineiras engalanadas (que vão até à Guia e voltam) e bênção do mar: Artesanato, gastronomia, fogo-de-artifício."
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Festas da São José:enhora da Nazaré",
+        "Data":"08-06-2024",
+        "Freguesia":"Nazaré",
+        "Concelho":"",
+        "Distrito":"",
+        "Descrição":"José: Durante a invasão muçulmana, teria sido escondida na Pederneira, onde mais tarde foi encontrada pelos pastores: O milagre protagonizado por D: Fuas Roupinho ficou consagrada na capelinha da Memória, no Sítio, no alto da falésia, perto da qual foi erigido o santuário: Durante todo o mês, é notável o concurso de muitoscírios, de variadas proveniências, de que se destacam o Círio da Prata Grande (giro que inclui povoações dos concelhos de Mafra, Sintra e Torres Vedras), o Círio de Penela e o Círio de Olhalvo, sucessivamente a cargo de vários lugares da freguesia"
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Senhora da Ajuda",
+        "Data":"primeiro domingo de Setembro",
+        "Freguesia":"Gaeiras",
+        "Concelho":"Óbidos",
+        "Distrito":"Leiria",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Festa de Nossa Senhora da Saúde",
+        "Data":"08-06-2024",
+        "Freguesia":"Vila Fresca de Azeitão",
+        "Concelho":"Setúbal",
+        "Distrito":"Setúbal",
+        "Descrição":"No sábado à tarde, cavalhadas à moda antiga, com competição para os cavaleiros acertarem numa roseta pendurada em fio que atravessa a rua: Procissão solene."
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Festa das Vindimas",
+        "Data":"princípio de Setembro",
+        "Freguesia":"Palmela",
+        "Concelho":"Palmela",
+        "Distrito":"Setúbal",
+        "Descrição":"largadas de touros; provas do vinho; arruadas; cortejo alegórico."
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Festa da Senhora do Fetal",
+        "Data":"primeiro domingo de Outubro",
+        "Freguesia":"Reguengo do Fetal",
+        "Concelho":"Batalha",
+        "Distrito":"Leiria",
+        "Descrição":"Procissão nocturna à luz de milhares de lamparinas em cascas de caracóis: Procissão das oferendas armadas em tabuleiros."
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Romaria dos pescadores à Senhora do Cabo Espichel",
+        "Data":"último domingo de Setembro",
+        "Freguesia":"Sesimbra",
+        "Concelho":"Sesimbra",
+        "Distrito":"Setúbal",
+        "Descrição":"Procissão com bênção do mar: Santuário barroco situado na imponente falésia do Espichel: Círios do giro à Senhora do Cabo."
+    },
+    {
+        "Trimestre":"3º trimestre",
+        "Nome":"Bom Jesus do Carvalhal",
+        "Data":"segundo domingo de Setembro",
+        "Freguesia":"Carvalhal",
+        "Concelho":"Bombarral",
+        "Distrito":"Leiria",
+        "Descrição":"Visita de círios, com os anjinhos a cantarem as loas e os gaiteiros tocando à frente da procissão de cada localidade"
+    },
+    {
+        "Trimestre":"4º trimestre",
+        "Nome":"Feira das Mercês",
+        "Data":"segunda quinzena de Outubro",
+        "Freguesia":"Mercês",
+        "Concelho":"Sintra",
+        "Distrito":"Lisboa",
+        "Descrição":"missa solene e procissão. Feira característica da região saloia"
+    },
+    {
+        "Trimestre":"4º trimestre",
+        "Nome":"Círios a Nossa Senhora dos Remédios",
+        "Data":"terceiro domingo de Outubro",
+        "Freguesia":"Peniche",
+        "Concelho":"",
+        "Distrito":"",
+        "Descrição":"provenientes de várias localidades: com o canto das loas e seus gaiteiros"
+    },
+    {
+        "Trimestre":"4º trimestre",
+        "Nome":"Santo André",
+        "Data":"30-06-2024",
+        "Freguesia":"Arelho",
+        "Concelho":"Óbidos",
+        "Distrito":"Leiria",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"4º trimestre",
+        "Nome":"celebração de Todos os Santos",
+        "Data":"01-06-2024",
+        "Freguesia":"Alfarim",
+        "Concelho":"Sesimbra",
+        "Distrito":"Setúbal",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"4º trimestre",
+        "Nome":"Feira dos Santos",
+        "Data":"01-06-2024",
+        "Freguesia":"Livramento",
+        "Concelho":"Mafra",
+        "Distrito":"Lisboa",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"4º trimestre",
+        "Nome":"Festa de São Martinho",
+        "Data":"11-06-2024",
+        "Freguesia":"São Martinho do Porto",
+        "Concelho":"Alcobaça",
+        "Distrito":"Leiria",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"4º trimestre",
+        "Nome":"Senhora da Conceição",
+        "Data":"08-06-2024",
+        "Freguesia":"Atouguia da Baleia",
+        "Concelho":"Peniche",
+        "Distrito":"Leiria",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"4º trimestre",
+        "Nome":"círio da Carrasqueira ao Bom Jesus do Carvalhal",
+        "Data":"primeiro domingo de Dezembro",
+        "Freguesia":"Carvalhal",
+        "Concelho":"Bombarral",
+        "Distrito":"Leiria",
+        "Descrição":""
+    },
+    {
+        "Trimestre":"4º trimestre",
+        "Nome":"círio de Atouguia da Baleia ao Bom Jesus do Carvalhal",
+        "Data":"terceiro domingo de Dezembro",
+        "Freguesia":"Carvalhal",
+        "Concelho":"Bombarral",
+        "Distrito":"Leiria",
+        "Descrição":""
+    }
+]

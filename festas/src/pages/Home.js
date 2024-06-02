@@ -1,37 +1,10 @@
 import React from 'react';
 import Header from '../components/Header';
-import Festa from '../components/Festa';
-import { ReactComponent as PortugalMap } from '../assets/portugal_map.svg'; // Importar arquivo SVG do mapa de Portugal
-import { ReactComponent as AveiroSvg } from '../assets/aveiro.svg';
-import { ReactComponent as BejaSvg } from '../assets/beja.svg';
-import { ReactComponent as BragaSvg } from '../assets/braga.svg';
-import { ReactComponent as BragancaSvg } from '../assets/braganca.svg';
-import { ReactComponent as CasteloBrancoSvg } from '../assets/castelo branco.svg';
-import { ReactComponent as CoimbraSvg } from '../assets/coimbra.svg';
-import { ReactComponent as EvoraSvg } from '../assets/evora.svg';
-import { ReactComponent as FaroSvg } from '../assets/faro.svg';
-import { ReactComponent as GuardaSvg } from '../assets/guarda.svg';
-import { ReactComponent as LeiriaSvg } from '../assets/leiria.svg';
-import { ReactComponent as LisbonSvg } from '../assets/lisboa.svg';
-import { ReactComponent as PortalegreSvg } from '../assets/portalegre.svg';
-import { ReactComponent as PortoSvg } from '../assets/porto.svg';
-import { ReactComponent as SantaremSvg } from '../assets/santarem.svg';
-import { ReactComponent as SetubalSvg } from '../assets/setubal.svg';
-import { ReactComponent as VianaDoCasteloSvg } from '../assets/viana do castelo.svg';
-import { ReactComponent as VilaRealSvg } from '../assets/vila real.svg';
-import { ReactComponent as ViseuSvg } from '../assets/viseu.svg';
-
-const festas = [
-    {
-        "Freguesia": "Vila Chã da Braciosa",
-        "Concelho": "Miranda do Douro",
-        "Distrito": "Bragança",
-        "Data": "1 de Janeiro",
-        "Nome da Festa": "Festa do Menino Jesus",
-        "Descrição": "alvorada com gaiteiros, peditório com os mesmos acompanhando a Velha, o Bailador e a Bailadeira."
-    },
-    // Adicione mais festas aqui
-];
+import Descricao from '../components/Descricao';
+import Festas from '../components/Festas';
+import Mapa from '../components/Mapa';
+import Criar_Festa from '../components/Criar';
+import imagemDescricao from '../fotos_juntas.png';
 
 export default function Home() {
 
@@ -105,28 +78,27 @@ export default function Home() {
     };
 
     return (
-        <div>
+        <div className="bg-cover bg-center min-h-screen" style={{ backgroundColor: '#f2e3c6' }}>
             <Header />
-            <main className="flex">
-                <div className="w-1/2 p-4">
-                    {festas.map((festa, index) => (
-                        <Festa key={index} festa={festa} />
-                    ))}
+            <main className="flex-grow flex flex-col mt-20">
+                <div className="bg-white p-4 w-full">
+                    <Descricao 
+                      imageSrc={imagemDescricao} 
+                      description="Bem-vindo às Festas e Romarias de Portugal. Descubra as mais belas e tradicionais festas e romarias de Portugal. Viaje no tempo e conheça as celebrações que mantêm viva a nossa cultura e história." 
+                    />
                 </div>
-                <div className="w-1/2 p-4">
-                    {/* Substitua com o seu mapa SVG */}
-                    <div className="border p-4 rounded shadow-md bg-white" onClick={handleSvgClick}>
-                        {selectedDistrict ? (
-                            <>
-                                {districtMap[selectedDistrict]}
-                                <div className="custom-button">
-                                    <a onClick={closeMessage}>Fechar</a>
-                                </div>
-                            </>
-                        ) : (
-                            <PortugalMap className="map-svg" width="800px" height="600px" />
-                        )}
+                <div id="festas-section" className=" p-4 w-full bg-brown-800" style={{ marginTop: '20px', paddingTop: '20px' }}>
+                    <div className="flex justify-center my-8 px-32">
+                        <div className="md:w-1/2 p-4">
+                            <Festas />
+                        </div>
+                        <div className="md:w-1/2 p-4">
+                            <Mapa />
+                        </div>
                     </div>
+                </div>  
+                <div id="criar-section" className="p-4 w-full bg-brown-800" style={{ marginTop: '20px', paddingTop: '20px' }}>
+                <Criar_Festa />
                 </div>
             </main>
         </div>

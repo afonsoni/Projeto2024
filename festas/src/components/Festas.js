@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import Festa from './Festa'; // supondo que o componente Festa esteja no mesmo diretório
 import DatePicker from 'react-datepicker';
 import 'react-datepicker/dist/react-datepicker.css';
-import imagemDescricao from '../romaria.png';
-import festas from '../festas.json';
+import imagemDescricao from '../assets/romaria.png';
+import festas from '../assets/festas.json';
 
 function Festas() {
     const [searchTerm, setSearchTerm] = useState('');

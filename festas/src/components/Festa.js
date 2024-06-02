@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { FaChevronDown, FaChevronUp } from 'react-icons/fa';
 
 const Festa = ({ festa }) => {
   const [showMore, setShowMore] = useState(false);
@@ -10,10 +11,11 @@ const Festa = ({ festa }) => {
       <p>{festa.Freguesia}, {festa.Concelho}, {festa.Distrito}</p>
       {showMore && <p className="mt-2">{festa.Descrição}</p>}
       <button
-        className="mt-2 text-blue-500 hover:underline"
+        className="border-[#4a2e2a] mt-2 text-[#4a2e2a] hover:text-[#f2e3c6] hover:bg-[#4a2e2a] rounded px-1 py-1 transition-colors duration-300 flex items-center"
         onClick={() => setShowMore(!showMore)}
       >
-        {showMore ? 'Mostrar menos' : 'Mostrar mais'}
+        {showMore ? <FaChevronUp /> : <FaChevronDown />}
+        <span className="ml-1">{showMore ? 'Mostrar menos' : 'Mostrar mais'}</span>
       </button>
     </div>
   );

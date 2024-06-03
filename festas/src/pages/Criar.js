@@ -1,118 +1,60 @@
-import React, { useState } from 'react';
-import Header from '../components/Header';
+import React from 'react';
 
+const EventoForm = () => {
+    return  (
+        <div className="flex flex-col items-center">
+            <h2 className="text-2xl font-bold mb-8 mt-8 px-4 text-right text-[#4a2e2a]">Criar Evento</h2>
 
-export default function Criar() {
-    const [formData, setFormData] = useState({
-        nome: '',
-        data: '',
-        freguesia: '',
-        concelho: '',
-        distrito: '',
-        descricao: ''
-    });
-
-    const handleChange = (e) => {
-        const { name, value } = e.target;
-        setFormData(prevState => ({
-            ...prevState,
-            [name]: value
-        }));
-    };
-
-    const handleSubmit = (e) => {
-        e.preventDefault();
-        // Aqui você pode adicionar a lógica para enviar os dados do formulário para onde quiser
-        console.log(formData);
-        // Resetar os campos depois de enviar
-        setFormData({
-            nome: '',
-            data: '',
-            freguesia: '',
-            concelho: '',
-            distrito: '',
-            descricao: ''
-        });
-    };
-
-    return (
-        <div className="min-h-screen bg-white">
-            <Header />
-            <main className="flex-grow flex items-center justify-center px-4">
-                <div className="w-full max-w-md p-8 rounded-lg shadow-md bg-white">
-                    <h2 className="text-xl font-semibold mb-4">Criar Evento</h2>
-                    <form onSubmit={handleSubmit}>
-                        <div className="mb-4">
-                            <label htmlFor="nome" className="block text-sm font-medium text-gray-700">Nome:</label>
-                            <input
-                                type="text"
-                                id="nome"
-                                name="nome"
-                                value={formData.nome}
-                                onChange={handleChange}
-                                className="mt-1 p-2 w-full border rounded-md focus:outline-none focus:ring focus:ring-blue-200"
-                            />
-                        </div>
-                        <div className="mb-4">
-                            <label htmlFor="data" className="block text-sm font-medium text-gray-700">Data:</label>
-                            <input
-                                type="date"
-                                id="data"
-                                name="data"
-                                value={formData.data}
-                                onChange={handleChange}
-                                className="mt-1 p-2 w-full border rounded-md focus:outline-none focus:ring focus:ring-blue-200"
-                            />
-                        </div>
-                        <div className="mb-4">
-                            <label htmlFor="freguesia" className="block text-sm font-medium text-gray-700">Freguesia:</label>
-                            <input
-                                type="text"
-                                id="freguesia"
-                                name="freguesia"
-                                value={formData.freguesia}
-                                onChange={handleChange}
-                                className="mt-1 p-2 w-full border rounded-md focus:outline-none focus:ring focus:ring-blue-200"
-                            />
-                        </div>
-                        <div className="mb-4">
-                            <label htmlFor="concelho" className="block text-sm font-medium text-gray-700">Concelho:</label>
-                            <input
-                                type="text"
-                                id="concelho"
-                                name="concelho"
-                                value={formData.concelho}
-                                onChange={handleChange}
-                                className="mt-1 p-2 w-full border rounded-md focus:outline-none focus:ring focus:ring-blue-200"
-                            />
-                        </div>
-                        <div className="mb-4">
-                            <label htmlFor="distrito" className="block text-sm font-medium text-gray-700">Distrito:</label>
-                            <input
-                                type="text"
-                                id="distrito"
-                                name="distrito"
-                                value={formData.distrito}
-                                onChange={handleChange}
-                                className="mt-1 p-2 w-full border rounded-md focus:outline-none focus:ring focus:ring-blue-200"
-                            />
-                        </div>
-                        <div className="mb-4">
-                            <label htmlFor="descricao" className="block text-sm font-medium text-gray-700">Descrição:</label>
-                            <textarea
-                                id="descricao"
-                                name="descricao"
-                                value={formData.descricao}
-                                onChange={handleChange}
-                                rows="4"
-                                className="mt-1 p-2 w-full border rounded-md focus:outline-none focus:ring focus:ring-blue-200"
-                            ></textarea>
-                        </div>
-                        <button type="submit" className="bg-blue-500 text-white rounded-md px-4 py-2 hover:bg-blue-600">Criar Evento</button>
-                    </form>
+            <form className="w-full max-w-lg">
+                <div className="mb-6">
+                    <label className="block uppercase tracking-wide text-[#4a2e2a] text-xs font-bold mb-2" htmlFor="grid-name">
+                        Nome do Evento
+                    </label>
+                    <input className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-name" type="text" placeholder="Nome do Evento" />
                 </div>
-            </main>
+                <div className="flex flex-wrap -mx-3 mb-6">
+                    <div className="w-full md:w-1/2 px-3 mb-6 md:mb-0">
+                        <label className="block uppercase tracking-wide text-[#4a2e2a] text-xs font-bold mb-2" htmlFor="grid-start-date">
+                            Data de Início
+                        </label>
+                        <input className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-start-date" type="date" />
+                    </div>
+                    <div className="w-full md:w-1/2 px-3">
+                        <label className="block uppercase tracking-wide text-[#4a2e2a] text-xs font-bold mb-2" htmlFor="grid-end-date">
+                            Data de Fim
+                        </label>
+                        <input className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-end-date" type="date" />
+                    </div>
+                </div>
+                <div className="flex flex-wrap -mx-3 mb-6">
+                    <div className="w-full md:w-1/3 px-3 mb-6 md:mb-0">
+                        <label className="block uppercase tracking-wide text-[#4a2e2a] text-xs font-bold mb-2" htmlFor="grid-district">
+                            Distrito
+                        </label>
+                        <input className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-district" type="text" placeholder="Distrito" />
+                    </div>
+                    <div className="w-full md:w-1/3 px-3 mb-6 md:mb-0">
+                        <label className="block uppercase tracking-wide text-[#4a2e2a] text-xs font-bold mb-2" htmlFor="grid-county">
+                            Concelho
+                        </label>
+                        <input className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-county" type="text" placeholder="Concelho" />
+                    </div>
+                    <div className="w-full md:w-1/3 px-3 mb-6 md:mb-0">
+                        <label className="block uppercase tracking-wide text-[#4a2e2a] text-xs font-bold mb-2" htmlFor="grid-parish">
+                            Freguesia
+                        </label>
+                        <input className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-parish" type="text" placeholder="Freguesia" />
+                    </div>
+                </div>
+                <div className="mb-6">
+                    <label className="block uppercase tracking-wide text-[#4a2e2a] text-xs font-bold mb-2" htmlFor="grid-description">
+                        Descrição
+                    </label>
+                    <textarea className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500" id="grid-description" placeholder="Descrição do Evento" />
+                </div>
+            </form>
         </div>
     );
 };
 
+export default EventoForm;

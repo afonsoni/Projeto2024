@@ -8,7 +8,7 @@ const Header = () => {
 
   const scrollToSection = (sectionId) => {
     const section = document.getElementById(sectionId);
-    const headerOffset = 70;
+    const headerOffset = 40;
     const elementPosition = section.getBoundingClientRect().top + window.pageYOffset;
     const offsetPosition = elementPosition - headerOffset;
 
@@ -38,7 +38,8 @@ const Header = () => {
     <header className="fixed top-0 left-0 right-0 p-4 z-50" style={{ backgroundColor: '#f2e3c6' }}>
       <div className="container mx-auto flex justify-between items-center">
         <img src={logo} alt="Logo" className="h-16" />
-        <h1 className="text-4xl font-bold" style={{ fontFamily: 'serif', color: '#4a2e2a' }}>Festas e Romarias</h1>
+        <link href="https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap" rel="stylesheet"></link>
+        <h1 className="text-4xl font-bold" style={{ fontFamily: 'MedievalSharp', color: '#4a2e2a' }}>Festas e Romarias</h1>
         <div>
           <button
             onClick={handleHomeClick}

@@ -11,7 +11,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa de Santo Amaro",
-        "Data":"15-06-2024",
+        "Data":"15-01-2024",
         "Freguesia":"Alfeizerão",
         "Concelho":"Alcobaça",
         "Distrito":"Leiria",
@@ -20,7 +20,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Romaria de Santo Antão",
-        "Data":"17-06-2024",
+        "Data":"17-01-2024",
         "Freguesia":"Óbidos",
         "Concelho":"",
         "Distrito":"",
@@ -29,7 +29,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa de São Sebastião",
-        "Data":"20-06-2024",
+        "Data":"20-01-2024",
         "Freguesia":"Valado de Frades",
         "Concelho":"Nazaré",
         "Distrito":"Leiria",
@@ -38,7 +38,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Romaria de São Brás",
-        "Data":"03-06-2024",
+        "Data":"03-02-2024",
         "Freguesia":"Pederneira",
         "Concelho":"Nazaré",
         "Distrito":"Leiria",
@@ -74,7 +74,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Procissão da burrinha",
-        "Data":"04-06-2024",
+        "Data":"4º domingo da Quaresma",
         "Freguesia":"Mafra",
         "Concelho":"Mafra",
         "Distrito":"Lisboa",
@@ -119,7 +119,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa do Senhor Jesus das Chagas",
-        "Data":"03-06-2024",
+        "Data":"03-05-2024",
         "Freguesia":"Sesimbra",
         "Concelho":"Sesimbra",
         "Distrito":"Setúbal",
@@ -128,7 +128,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa da Senhora da Gaiola ou Festa do Bodo",
-        "Data":"03-06-2024",
+        "Data":"03-05-2024",
         "Freguesia":"Cortes",
         "Concelho":"Leiria",
         "Distrito":"Leiria",
@@ -137,7 +137,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festas da Cidade",
-        "Data":"15-06-2024",
+        "Data":"15-05-2024",
         "Freguesia":"Caldas da Rainha",
         "Concelho":"Caldas da Rainha",
         "Distrito":"Leiria",
@@ -146,7 +146,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"círio do Carregal",
-        "Data":"05-06-2024",
+        "Data":"5ª Feira da Ascensão",
         "Freguesia":"Óbidos",
         "Concelho":"Santuário do Senhor da Pedra",
         "Distrito":"",
@@ -155,7 +155,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Romaria de Santa Quitéria de Meca",
-        "Data":"02-05-2040",
+        "Data":"5ª Feira da Ascensão (40 dias após a Páscoa)",
         "Freguesia":"Meca",
         "Concelho":"Alenquer",
         "Distrito":"Lisboa",
@@ -164,7 +164,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Círio da Nazaré a Nossa Senhora da Vitória",
-        "Data":"05-06-2024",
+        "Data":"5ª Feira da Ascensão",
         "Freguesia":"Pataias",
         "Concelho":"Alcobaça",
         "Distrito":"Leiria",
@@ -173,7 +173,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"celebrações do dia da espiga com merenda no pinhal de Leiria",
-        "Data":"05-06-2024",
+        "Data":"5ª. Feira da Ascensão",
         "Freguesia":"Marinha Grande",
         "Concelho":"Marinha Grande",
         "Distrito":"Leiria",
@@ -272,7 +272,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Círio da Senhora da Arrábida",
-        "Data":"primeiro fim-de-semana de Julho",
+        "Data":"primeiro fim-de-semana de julho",
         "Freguesia":"Setúbal",
         "Concelho":"",
         "Distrito":"",
@@ -281,7 +281,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nossa Senhora do Cardal",
-        "Data":"último domingo de Julho",
+        "Data":"28-07-2024",
         "Freguesia":"Pombal",
         "Concelho":"Pombal",
         "Distrito":"Leiria",
@@ -290,7 +290,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festas da Rainha Santa",
-        "Data":"último domingo de Julho",
+        "Data":"28-07-2024",
         "Freguesia":"Monte Real",
         "Concelho":"Leiria",
         "Distrito":"Leiria",
@@ -299,7 +299,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Santa Maria Madalena",
-        "Data":"22-06-2024",
+        "Data":"22-07-2024",
         "Freguesia":"A dos Negros",
         "Concelho":"Óbidos",
         "Distrito":"Leiria",
@@ -308,7 +308,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festas do município",
-        "Data":"24-06-2024",
+        "Data":"24-07-2024",
         "Freguesia":"Pedrógão Grande",
         "Concelho":"",
         "Distrito":"",
@@ -317,7 +317,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora das Neves",
-        "Data":"05-06-2024",
+        "Data":"05-08-2024",
         "Freguesia":"Pragança",
         "Concelho":"Cadaval",
         "Distrito":"Lisboa",
@@ -326,7 +326,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria da Senhora do Socorro",
-        "Data":"05-06-2024",
+        "Data":"05-08-2024",
         "Freguesia":"Enxara do Bispo",
         "Concelho":"Mafra",
         "Distrito":"Lisboa",
@@ -335,7 +335,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festas de Nossa Senhora da Boa Viagem",
-        "Data":"primeiro Domingo de Agosto",
+        "Data":"04-08-2024",
         "Freguesia":"Peniche",
         "Concelho":"",
         "Distrito":"",
@@ -344,7 +344,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nossa Senhora da Misericórdia",
-        "Data":"primeiro Domingo de Agosto",
+        "Data":"04-08-2024",
         "Freguesia":"Belas",
         "Concelho":"Sintra",
         "Distrito":"Lisboa",
@@ -353,7 +353,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora da Vitória",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Batalha",
         "Concelho":"Batalha",
         "Distrito":"Leiria",
@@ -362,7 +362,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nossa Senhora da Assunção",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Cheleiros",
         "Concelho":"Mafra",
         "Distrito":"Lisboa",
@@ -371,7 +371,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nossa Senhora da Encarnação",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Leiria",
         "Concelho":"",
         "Distrito":"",
@@ -380,7 +380,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora da Boa Viagem",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Ericeira",
         "Concelho":"Mafra",
         "Distrito":"Lisboa",
@@ -389,7 +389,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora do Bom Sucesso",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Lagoa de Óbidos",
         "Concelho":"Óbidos",
         "Distrito":"Leiria",
@@ -398,7 +398,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de S. Mamede",
-        "Data":"17-06-2024",
+        "Data":"17-08-2024",
         "Freguesia":"Janas",
         "Concelho":"Sintra",
         "Distrito":"Lisboa",
@@ -407,7 +407,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nossa Senhora dos Navegantes",
-        "Data":"Agosto (data variável)",
+        "Data":"08-06-2024",
         "Freguesia":"Cascais",
         "Concelho":"Cascais",
         "Distrito":"Lisboa",
@@ -416,7 +416,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festas da São José:enhora da Nazaré",
-        "Data":"08-06-2024",
+        "Data":"08-09-2024",
         "Freguesia":"Nazaré",
         "Concelho":"",
         "Distrito":"",
@@ -425,7 +425,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora da Ajuda",
-        "Data":"primeiro domingo de Setembro",
+        "Data":"01-09-2024",
         "Freguesia":"Gaeiras",
         "Concelho":"Óbidos",
         "Distrito":"Leiria",
@@ -434,7 +434,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nossa Senhora da Saúde",
-        "Data":"08-06-2024",
+        "Data":"08-09-2024",
         "Freguesia":"Vila Fresca de Azeitão",
         "Concelho":"Setúbal",
         "Distrito":"Setúbal",
@@ -443,7 +443,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa das Vindimas",
-        "Data":"princípio de Setembro",
+        "Data":"09-06-2024",
         "Freguesia":"Palmela",
         "Concelho":"Palmela",
         "Distrito":"Setúbal",
@@ -452,7 +452,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa da Senhora do Fetal",
-        "Data":"primeiro domingo de Outubro",
+        "Data":"06-10-2024",
         "Freguesia":"Reguengo do Fetal",
         "Concelho":"Batalha",
         "Distrito":"Leiria",
@@ -461,7 +461,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria dos pescadores à Senhora do Cabo Espichel",
-        "Data":"último domingo de Setembro",
+        "Data":"29-09-2024",
         "Freguesia":"Sesimbra",
         "Concelho":"Sesimbra",
         "Distrito":"Setúbal",
@@ -470,7 +470,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Bom Jesus do Carvalhal",
-        "Data":"segundo domingo de Setembro",
+        "Data":"08-09-2024",
         "Freguesia":"Carvalhal",
         "Concelho":"Bombarral",
         "Distrito":"Leiria",
@@ -479,7 +479,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Feira das Mercês",
-        "Data":"segunda quinzena de Outubro",
+        "Data":"10-06-2024",
         "Freguesia":"Mercês",
         "Concelho":"Sintra",
         "Distrito":"Lisboa",
@@ -488,7 +488,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Círios a Nossa Senhora dos Remédios",
-        "Data":"terceiro domingo de Outubro",
+        "Data":"20-10-2024",
         "Freguesia":"Peniche",
         "Concelho":"",
         "Distrito":"",
@@ -497,7 +497,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Santo André",
-        "Data":"30-06-2024",
+        "Data":"30-11-2024",
         "Freguesia":"Arelho",
         "Concelho":"Óbidos",
         "Distrito":"Leiria",
@@ -506,7 +506,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"celebração de Todos os Santos",
-        "Data":"01-06-2024",
+        "Data":"01-11-2024",
         "Freguesia":"Alfarim",
         "Concelho":"Sesimbra",
         "Distrito":"Setúbal",
@@ -515,7 +515,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Feira dos Santos",
-        "Data":"01-06-2024",
+        "Data":"01-11-2024",
         "Freguesia":"Livramento",
         "Concelho":"Mafra",
         "Distrito":"Lisboa",
@@ -524,7 +524,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Festa de São Martinho",
-        "Data":"11-06-2024",
+        "Data":"11-11-2024",
         "Freguesia":"São Martinho do Porto",
         "Concelho":"Alcobaça",
         "Distrito":"Leiria",
@@ -533,7 +533,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Senhora da Conceição",
-        "Data":"08-06-2024",
+        "Data":"08-12-2024",
         "Freguesia":"Atouguia da Baleia",
         "Concelho":"Peniche",
         "Distrito":"Leiria",
@@ -542,7 +542,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"círio da Carrasqueira ao Bom Jesus do Carvalhal",
-        "Data":"primeiro domingo de Dezembro",
+        "Data":"01-12-2024",
         "Freguesia":"Carvalhal",
         "Concelho":"Bombarral",
         "Distrito":"Leiria",
@@ -551,7 +551,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"círio de Atouguia da Baleia ao Bom Jesus do Carvalhal",
-        "Data":"terceiro domingo de Dezembro",
+        "Data":"15-12-2024",
         "Freguesia":"Carvalhal",
         "Concelho":"Bombarral",
         "Distrito":"Leiria",

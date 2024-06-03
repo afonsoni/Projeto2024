@@ -74,7 +74,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa da Senhora da Graça ou dos Folares",
-        "Data":"02-06-2024",
+        "Data":"2ª feira de Páscoa",
         "Freguesia":"Querença",
         "Concelho":"Loulé",
         "Distrito":"Faro",
@@ -83,7 +83,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Romaria da Senhora da Piedade ou da Mãe Soberana",
-        "Data":"02-06-2024",
+        "Data":"2º domingo depois da Páscoa",
         "Freguesia":"Loulé",
         "Concelho":"Loulé",
         "Distrito":"Faro",
@@ -92,7 +92,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa da Fonte Grande",
-        "Data":"01-06-2024",
+        "Data":"01-05-2024",
         "Freguesia":"Alte",
         "Concelho":"Loulé",
         "Distrito":"Faro",
@@ -101,7 +101,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa da Espiga",
-        "Data":"05-06-2024",
+        "Data":"5ª feira da Ascensão",
         "Freguesia":"Salir",
         "Concelho":"Loulé",
         "Distrito":"Faro",
@@ -110,7 +110,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nossa Senhora do Carmo",
-        "Data":"16-06-2024",
+        "Data":"16-07-2024",
         "Freguesia":"Fuzeta",
         "Concelho":"Olhão",
         "Distrito":"Faro",
@@ -119,7 +119,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora da Rocha",
-        "Data":"primeiro Domingo de Agosto",
+        "Data":"04-08-2024",
         "Freguesia":"Porches",
         "Concelho":"Lagoa",
         "Distrito":"Faro",
@@ -128,7 +128,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora da Orada",
-        "Data":"segundo Domingo de Agosto",
+        "Data":"11-08-2024",
         "Freguesia":"Albufeira",
         "Concelho":"Albufeira",
         "Distrito":"Faro",
@@ -137,7 +137,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora dos Mártires",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Castro Marim",
         "Concelho":"Castro Marim",
         "Distrito":"Faro",
@@ -146,7 +146,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Nossa Senhora de Alva",
-        "Data":"primeiro domingo de Setembro",
+        "Data":"01-09-2024",
         "Freguesia":"Algezur",
         "Concelho":"",
         "Distrito":"",
@@ -155,7 +155,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora dos Aflitos",
-        "Data":"segundo domingo de Setembro",
+        "Data":"08-09-2024",
         "Freguesia":"Armação de Pera",
         "Concelho":"Silves",
         "Distrito":"Faro",
@@ -164,7 +164,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"São Gonçalo",
-        "Data":"último domingo de Outubro",
+        "Data":"27-10-2024",
         "Freguesia":"Lagos",
         "Concelho":"Lagos",
         "Distrito":"Faro",
@@ -173,7 +173,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Festa de São Luís",
-        "Data":"01-06-2024",
+        "Data":"01-11-2024",
         "Freguesia":"Aljezur",
         "Concelho":"Aljezur",
         "Distrito":"Faro",
@@ -182,7 +182,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Festa de São Martinho",
-        "Data":"11-06-2024",
+        "Data":"11-11-2024",
         "Freguesia":"Portimão",
         "Concelho":"Portimão",
         "Distrito":"Faro",
@@ -191,7 +191,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Festa da Senhora da Conceição",
-        "Data":"08-06-2024",
+        "Data":"08-12-2024",
         "Freguesia":"Monchique",
         "Concelho":"Monchique",
         "Distrito":"Faro",
@@ -200,7 +200,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Festas da Casa de Deus Menino",
-        "Data":"25-06-2024",
+        "Data":"25-12-2024",
         "Freguesia":"Brás de Alportel",
         "Concelho":"São Brás de Alportel",
         "Distrito":"Faro",

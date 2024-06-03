@@ -11,7 +11,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa da Candelária",
-        "Data":"02-06-2024",
+        "Data":"02-02-2024",
         "Freguesia":"Louredo",
         "Concelho":"Santa Marta de Penaguião",
         "Distrito":"Vila Real",
@@ -20,7 +20,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Romaria de São Brás",
-        "Data":"03-06-2024",
+        "Data":"03-02-2024",
         "Freguesia":"Santa Cruz do Bispo",
         "Concelho":"Matosinhos",
         "Distrito":"Porto",
@@ -29,7 +29,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa das Fogaceiras",
-        "Data":"20-06-2024",
+        "Data":"20-01-2024",
         "Freguesia":"Santa Maria da Feira",
         "Concelho":"Santa Maria da Feira",
         "Distrito":"Aveiro",
@@ -47,7 +47,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"serração da velha e baile da pinhata",
-        "Data":"quarta-feira da terceira semana da Quaresma",
+        "Data":"quarta-feira da terceira semana da quaresma",
         "Freguesia":"Lousada",
         "Concelho":"Meinedo",
         "Distrito":"Porto",
@@ -101,7 +101,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"procissão do Terro-Terro (nocturna",
-        "Data":"Semana Santa",
+        "Data":"semana santa",
         "Freguesia":"Ovar",
         "Concelho":"Ovar",
         "Distrito":"Aveiro",
@@ -164,7 +164,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"festa de Santa Mafalda",
-        "Data":"02-06-2024",
+        "Data":"02-05-2024",
         "Freguesia":"Arouca",
         "Concelho":"Arouca",
         "Distrito":"Aveiro",
@@ -173,7 +173,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Romaria da Senhora da Laje ou das Cruzes",
-        "Data":"03-06-2024",
+        "Data":"03-05-2024",
         "Freguesia":"Urrô",
         "Concelho":"Arouca",
         "Distrito":"Aveiro",
@@ -182,7 +182,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Romaria da Senhora do Salto",
-        "Data":"03-06-2024",
+        "Data":"03-05-2024",
         "Freguesia":"Aguiar do Sousa",
         "Concelho":"Paredes",
         "Distrito":"Porto",
@@ -191,7 +191,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Romaria da Senhora da Hora",
-        "Data":"05-06-2024",
+        "Data":"5ª Feira da Ascensão (início no domingo anterior)",
         "Freguesia":"Matosinhos",
         "Concelho":"Matosinhos",
         "Distrito":"Porto",
@@ -209,7 +209,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festas do Senhor de Matosinhos",
-        "Data":"02-06-2051",
+        "Data":"51 dias depois da Páscoa)",
         "Freguesia":"Matosinhos",
         "Concelho":"fins de Maio \/ princípios de Junho (terça-feira",
         "Distrito":"Porto",
@@ -218,7 +218,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Romaria de São Gonçalo",
-        "Data":"primeiro domingo de Junho",
+        "Data":"02-06-2024",
         "Freguesia":"Amarante",
         "Concelho":"Amarante",
         "Distrito":"Porto",
@@ -227,7 +227,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa de São Sebastião",
-        "Data":"segundo domingo de Junho",
+        "Data":"09-06-2024",
         "Freguesia":"Freamunde",
         "Concelho":"Paços de Ferreira",
         "Distrito":"Porto",
@@ -326,7 +326,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Feira do vinho e do lavrador",
-        "Data":"primeiro fim-de-semana de Julho",
+        "Data":"primeiro fim-de-semana de julho",
         "Freguesia":"Castelo de Paiva",
         "Concelho":"Castelo de Paiva",
         "Distrito":"Aveiro",
@@ -335,7 +335,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa de São Bento",
-        "Data":"11-06-2024",
+        "Data":"11-07-2024",
         "Freguesia":"Santo Tirso",
         "Concelho":"Santo Tirso",
         "Distrito":"Porto",
@@ -344,7 +344,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Romaria de São Bento",
-        "Data":"11-06-2024",
+        "Data":"11-07-2024",
         "Freguesia":"Rio Tinto",
         "Concelho":"Gondomar",
         "Distrito":"Porto",
@@ -353,7 +353,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Senhora da Boa Viagem",
-        "Data":"último Domingo de Julho",
+        "Data":"28-07-2024",
         "Freguesia":"Aguçadoura",
         "Concelho":"Póvoa de Varzim",
         "Distrito":"Porto",
@@ -362,7 +362,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nossa Senhora das Neves",
-        "Data":"05-06-2024",
+        "Data":"05-08-2024",
         "Freguesia":"A-Ver-o-Mar",
         "Concelho":"Póvoa de Varzim",
         "Distrito":"Porto",
@@ -371,7 +371,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nosso Senhor dos Navegantes",
-        "Data":"primeiro domingo de Agosto",
+        "Data":"04-08-2024",
         "Freguesia":"Vila do Conde",
         "Concelho":"Vila do Conde",
         "Distrito":"Porto",
@@ -380,7 +380,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria da Senhora Aparecida",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Sanfins do Torno",
         "Concelho":"Lousada",
         "Distrito":"Porto",
@@ -389,7 +389,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nossa Senhora da Assunção",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Monte Córdova",
         "Concelho":"Santo Tirso",
         "Distrito":"Porto",
@@ -398,7 +398,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nossa Senhora da Assunção",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Póvoa de Varzim",
         "Concelho":"Póvoa de Varzim",
         "Distrito":"Porto",
@@ -407,7 +407,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de Santa Eufémia",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"São Pedro",
         "Concelho":"Castelo de Paiva",
         "Distrito":"Aveiro",
@@ -416,7 +416,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nossa Senhora das Dores",
-        "Data":"terceiro domingo de Agosto",
+        "Data":"18-08-2024",
         "Freguesia":"Trofa",
         "Concelho":"Trofa",
         "Distrito":"Porto",
@@ -425,7 +425,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"São Bartolomeu",
-        "Data":"24-06-2024",
+        "Data":"24-08-2024",
         "Freguesia":"Barqueiros",
         "Concelho":"Mesão Frio",
         "Distrito":"Vila Real",
@@ -434,7 +434,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Feira de São Bartolomeu",
-        "Data":"24-06-2024",
+        "Data":"24-08-2024",
         "Freguesia":"Penafiel",
         "Concelho":"",
         "Distrito":"",
@@ -443,7 +443,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"São Gens",
-        "Data":"08-06-2024",
+        "Data":"08-09-2024",
         "Freguesia":"Freixo de Cima",
         "Concelho":"Amarante",
         "Distrito":"Porto",
@@ -452,7 +452,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora da Mó",
-        "Data":"08-06-2024",
+        "Data":"08-09-2024",
         "Freguesia":"Monte da Mó",
         "Concelho":"Arouca",
         "Distrito":"Aveiro",
@@ -461,7 +461,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de Nossa Senhora de Valinhas",
-        "Data":"08-06-2024",
+        "Data":"08-09-2024",
         "Freguesia":"Monte Córdova",
         "Concelho":"Santo Tirso",
         "Distrito":"Porto",
@@ -470,7 +470,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nossa Senhora do Ó (Senhora da Expectação)",
-        "Data":"terceiro domingo de Setembro",
+        "Data":"15-09-2024",
         "Freguesia":"Porto",
         "Concelho":"Porto",
         "Distrito":"Porto",
@@ -479,7 +479,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Feira das Colheitas",
-        "Data":"último domingo de Setembro",
+        "Data":"29-09-2024",
         "Freguesia":"Arouca",
         "Concelho":"Arouca",
         "Distrito":"Aveiro",
@@ -488,7 +488,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Romaria de Nossa Senhora do Rosário",
-        "Data":"primeiro domingo de Outubro",
+        "Data":"06-10-2024",
         "Freguesia":"Gondomar",
         "Concelho":"",
         "Distrito":"",
@@ -497,7 +497,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Festa de Nossa Senhora do Rosário",
-        "Data":"primeiro domingo de Outubro",
+        "Data":"06-10-2024",
         "Freguesia":"Duas Igrejas",
         "Concelho":"Penafiel",
         "Distrito":"Porto",
@@ -506,7 +506,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Santo André",
-        "Data":"30-06-2024",
+        "Data":"30-11-2024",
         "Freguesia":"Ancede",
         "Concelho":"Baião",
         "Distrito":"Porto",
@@ -515,7 +515,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Nossa Senhora da Conceição",
-        "Data":"08-06-2024",
+        "Data":"08-12-2024",
         "Freguesia":"Barqueiros",
         "Concelho":"Mesão Frio",
         "Distrito":"Vila Real",
@@ -524,7 +524,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Santa Luzia",
-        "Data":"13-06-2024",
+        "Data":"13-12-2024",
         "Freguesia":"Novais",
         "Concelho":"Póvoa de Varzim",
         "Distrito":"Porto",
@@ -533,7 +533,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Festa de Santa Luzia",
-        "Data":"13-06-2024",
+        "Data":"13-12-2024",
         "Freguesia":"Monte Córdova",
         "Concelho":"Santo Tirso",
         "Distrito":"Porto",

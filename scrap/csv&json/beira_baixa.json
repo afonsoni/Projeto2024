@@ -2,7 +2,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa de São Sebastião",
-        "Data":"03-06-2024",
+        "Data":"03-01-2024",
         "Freguesia":"Póvoa da Atalaia",
         "Concelho":"Fundão",
         "Distrito":"Castelo Branco",
@@ -11,7 +11,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa de São Sebastião",
-        "Data":"20-06-2024",
+        "Data":"20-01-2024",
         "Freguesia":"Almaceda",
         "Concelho":"Castelo Branco",
         "Distrito":"Castelo Branco",
@@ -20,7 +20,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa de São Sebastião",
-        "Data":"20-06-2024",
+        "Data":"20-01-2024",
         "Freguesia":"S. Jorge da Beira",
         "Concelho":"Covilhã",
         "Distrito":"Castelo Branco",
@@ -29,7 +29,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa de São Sebastião",
-        "Data":"20-06-2024",
+        "Data":"20-01-2024",
         "Freguesia":"Janeiro de Baixo",
         "Concelho":"Pampilhosa da Serra",
         "Distrito":"Coimbra",
@@ -38,7 +38,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa de São Brás",
-        "Data":"03-06-2024",
+        "Data":"03-02-2024",
         "Freguesia":"Forcalhos",
         "Concelho":"Sabugal",
         "Distrito":"Guarda",
@@ -56,7 +56,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Quinta-Feira Santa",
-        "Data":"Semana Santa",
+        "Data":"semana santa",
         "Freguesia":"Fundão",
         "Concelho":"Fundão",
         "Distrito":"Castelo Branco",
@@ -65,7 +65,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Romaria da Senhora da Serra",
-        "Data":"02-06-2024",
+        "Data":"2ª feira de Páscoa",
         "Freguesia":"Castelo Novo",
         "Concelho":"Fundão",
         "Distrito":"Castelo Branco",
@@ -83,7 +83,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa da Senhora da Consolação ou Festa do Bodo",
-        "Data":"02-06-2024",
+        "Data":"2ª feira de Páscoa",
         "Freguesia":"Salvaterra do Extremo",
         "Concelho":"Idanha-a-Nova",
         "Distrito":"Castelo Branco",
@@ -110,7 +110,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Romaria de Nossa Senhora da Esperança",
-        "Data":"26-06-2024",
+        "Data":"26-04-2024",
         "Freguesia":"Belmonte",
         "Concelho":"Belmonte",
         "Distrito":"Castelo Branco",
@@ -119,7 +119,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Romaria de Nossa Senhora do Almortão",
-        "Data":"segunda-feira do terceiro domingo de Páscoa",
+        "Data":"segunda-feira do terceiro domingo de páscoa",
         "Freguesia":"Idanha-a-Nova",
         "Concelho":"Idanha-a-Nova",
         "Distrito":"Castelo Branco",
@@ -128,7 +128,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"feriado municipal na terça-feira)",
-        "Data":"15-06-2024",
+        "Data":"domingo terceiro de páscoa  (15 dias depois do domingo de páscoa",
         "Freguesia":"Castelo Branco",
         "Concelho":"",
         "Distrito":"",
@@ -137,7 +137,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa da Santa Cruz ou do Castelo",
-        "Data":"03-06-2024",
+        "Data":"03-05-2024",
         "Freguesia":"Monsanto",
         "Concelho":"Idanha-a-Nova",
         "Distrito":"Castelo Branco",
@@ -146,7 +146,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Romaria de S. Macário",
-        "Data":"domingo terceiro de Páscoa",
+        "Data":"domingo terceiro de páscoa",
         "Freguesia":"Alcaide",
         "Concelho":"Fundão",
         "Distrito":"Castelo Branco",
@@ -155,7 +155,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa da Senhora dos Altos Céus. Interessantes danças rituais",
-        "Data":"03-06-2024",
+        "Data":"03-05-2024",
         "Freguesia":"Lousa",
         "Concelho":"Castelo Branco",
         "Distrito":"Castelo Branco",
@@ -164,7 +164,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa de Nossa Senhora dos Remédios",
-        "Data":"02-06-2040",
+        "Data":"40 dias depois da Páscoa",
         "Freguesia":"Tortosendo",
         "Concelho":"Covilhã",
         "Distrito":"Castelo Branco",
@@ -173,7 +173,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Romaria de Santa Apolónia",
-        "Data":"quinto domingo depois de Páscoa",
+        "Data":"quinto domingo depois de páscoa",
         "Freguesia":"Alcains",
         "Concelho":"Castelo Branco",
         "Distrito":"Castelo Branco",
@@ -191,7 +191,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Feira de São Tiago",
-        "Data":"Julho (data móvel)",
+        "Data":"07-06-2024",
         "Freguesia":"Covilhã",
         "Concelho":"",
         "Distrito":"",
@@ -200,7 +200,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa de São Pedro",
-        "Data":"primeiro domingo de Julho",
+        "Data":"07-07-2024",
         "Freguesia":"Alcains",
         "Concelho":"Castelo Branco",
         "Distrito":"Castelo Branco",
@@ -209,7 +209,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de Nossa Senhora das Preces",
-        "Data":"primeiro domingo de Julho",
+        "Data":"07-07-2024",
         "Freguesia":"Aldeia das Dez",
         "Concelho":"Oliveira do Hospital",
         "Distrito":"Coimbra",
@@ -218,7 +218,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de Nossa Senhora das Dores",
-        "Data":"primeiro domingo de Julho",
+        "Data":"07-07-2024",
         "Freguesia":"Paúl",
         "Concelho":"Covilhã",
         "Distrito":"Castelo Branco",
@@ -227,7 +227,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"capeia raiana",
-        "Data":"mês de Agosto",
+        "Data":"08-06-2024",
         "Freguesia":"Sabugal",
         "Concelho":"várias aldeias do concelho",
         "Distrito":"Guarda",
@@ -236,7 +236,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora do Carmo",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Teixoso",
         "Concelho":"Covilhã",
         "Distrito":"Castelo Branco",
@@ -245,7 +245,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Santa Margarida",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Aldeia de Santa Margarida",
         "Concelho":"Idanha-a-Nova",
         "Distrito":"Castelo Branco",
@@ -254,7 +254,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhor do Calvário",
-        "Data":"terceiro domingo de Agosto",
+        "Data":"18-08-2024",
         "Freguesia":"Proença-a-Velha",
         "Concelho":"Idanha-a-Nova",
         "Distrito":"Castelo Branco",
@@ -263,7 +263,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nossa Senhora do Loreto",
-        "Data":"último domingo de Agosto",
+        "Data":"25-08-2024",
         "Freguesia":"Alcafozes",
         "Concelho":"Idanha-a-Nova",
         "Distrito":"Castelo Branco",
@@ -272,7 +272,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora da Confiança",
-        "Data":"08-06-2024",
+        "Data":"08-09-2024",
         "Freguesia":"Pedrógão Pequeno",
         "Concelho":"Sertã",
         "Distrito":"Castelo Branco",
@@ -281,7 +281,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora da Azenha",
-        "Data":"segundo domingo de Setembro",
+        "Data":"08-09-2024",
         "Freguesia":"Monsanto",
         "Concelho":"Idanha-a-Nova",
         "Distrito":"Castelo Branco",
@@ -290,7 +290,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de Santa Luzia",
-        "Data":"15-06-2024",
+        "Data":"15-09-2024",
         "Freguesia":"Castelejo",
         "Concelho":"Fundão",
         "Distrito":"Castelo Branco",
@@ -299,7 +299,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Santa Eufémia",
-        "Data":"segundo domingo de Setembro",
+        "Data":"08-09-2024",
         "Freguesia":"Quadrazais",
         "Concelho":"Sabugal",
         "Distrito":"Guarda",
@@ -308,7 +308,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Festa de Santa Bebiana",
-        "Data":"02-06-2024",
+        "Data":"02-12-2024",
         "Freguesia":"Caria",
         "Concelho":"Belmonte",
         "Distrito":"Castelo Branco",

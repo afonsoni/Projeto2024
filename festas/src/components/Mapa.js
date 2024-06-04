@@ -25,66 +25,75 @@ const Mapa = () => {
     const [selectedCounty, setSelectedCounty] = useState(null);
 
     const decodeURIComponent = (str) => {
-        return str.replace(/%([0-9A-F]{2})/g, (match, p1) => {
+        return str.replace(/\\x([0-9A-Fa-f]{2})/g, (match, p1) => {
             return String.fromCharCode('0x' + p1);
         });
     }
 
-    const handleDistrictClick = (event) => {
+    const handleClick = (event) => {
         if (event.target.tagName === 'path') {
             if (!selectedDistrict) {
                 let districtEncoded = event.target.getAttribute('class');
                 let district = decodeURIComponent(districtEncoded);
                 setSelectedDistrict(district);
+                console.log(district);
+            } else {
+                if (!event.target.classList.contains("selected")) {
+                    let countyEncoded = event.target.getAttribute('class');
+                    let county = decodeURIComponent(countyEncoded);
+                    console.log(county);
+                } else {
+                    setSelectedCounty(null);
+                }
             }
         }
     };
 
-    const handleCountyClick = (event) => {
-        if (event.target.tagName === 'path') {
-            if (!selectedCounty) {
-                let countyEncoded = event.target.getAttribute('class');
-                let county = decodeURIComponent(countyEncoded);
-                setSelectedCounty(county);
-            }
-        }
-    };
     const close = () => {
         setSelectedDistrict(null);
     }
 
+    const generateDistrict = (district, SvgComponent) => {
+        return (
+            <div>
+                <h2 className="text-2xl font-bold mb-4 px-4">{district}</h2>
+                {selectedCounty}
+                <SvgComponent />
+            </div>
+        );
+    }
+
     const districtMap = {
-        Aveiro: <AveiroSvg />,
-        Beja: <BejaSvg />,
-        Braga: <BragaSvg />,
-        Braganca: <BragancaSvg />,
-        CasteloBranco: <CasteloBrancoSvg />,
-        Coimbra: <CoimbraSvg />,
-        Evora: <EvoraSvg />,
-        Faro: <FaroSvg />,
-        Guarda: <GuardaSvg />,
-        Leiria: <LeiriaSvg />,
-        Lisboa: <LisbonSvg />,
-        Portalegre: <PortalegreSvg />,
-        Porto: <PortoSvg />,
-        Santarem: <SantaremSvg />,
-        Setubal: <SetubalSvg />,
-        VianadoCastelo: <VianaDoCasteloSvg />,
-        VilaReal: <VilaRealSvg />,
-        Viseu: <ViseuSvg />,
+        Aveiro: generateDistrict('Aveiro', AveiroSvg),
+        Beja: generateDistrict('Beja', BejaSvg),
+        Braga: generateDistrict('Braga', BragaSvg),
+        Bragança: generateDistrict('Bragança', BragancaSvg),
+        'Castelo Branco': generateDistrict('Castelo Branco', CasteloBrancoSvg),
+        Coimbra: generateDistrict('Coimbra', CoimbraSvg),
+        Évora: generateDistrict('Évora', EvoraSvg),
+        Faro: generateDistrict('Faro', FaroSvg),
+        Guarda: generateDistrict('Guarda', GuardaSvg),
+        Leiria: generateDistrict('Leiria', LeiriaSvg),
+        Lisboa: generateDistrict('Lisboa', LisbonSvg),
+        Portalegre: generateDistrict('Portalegre', PortalegreSvg),
+        Porto: generateDistrict('Porto', PortoSvg),
+        Santarém: generateDistrict('Santarém', SantaremSvg),
+        Setúbal: generateDistrict('Setúbal', SetubalSvg),
+        'Viana do Castelo': generateDistrict('Viana do Castelo', VianaDoCasteloSvg),
+        'Vila Real': generateDistrict('Vila Real', VilaRealSvg),
+        Viseu: generateDistrict('Viseu', ViseuSvg)
     };
 
     return (
         <div className="border p-4 rounded bg-white bg-opacity-90 h-full overflow-y-auto" style={{ fontFamily: 'serif', color: '#4a2e2a' }}>
             <h2 className="text-2xl font-bold mb-4 px-4">Mapa de Festas</h2>
-            <div onClick={handleDistrictClick}>
+            <div onClick={handleClick}>
                 {selectedDistrict ? (
-                    <>
+                    <div className="text-center width:300px height:300px">
                         {districtMap[selectedDistrict]}
-                        <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-                            <a onClick={close}>Fechar</a>
+                        <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" onClick={close}>Fechar
                         </button>
-                    </>
+                    </div>
                 ) : (
                     <PortugalMap />
                 )}

@@ -1,13 +1,15 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useLocation } from 'react-router-dom';
 import Header from '../components/Header';
 import Descricao from '../components/Descricao';
 import Festas from '../components/Festas';
 import Mapa from '../components/Mapa';
 import Criar from '../pages/Criar';
+import Footer from '../components/Footer';
 
 export default function Home() {
     const location = useLocation();
+    const [showScrollButton, setShowScrollButton] = useState(false);
 
     useEffect(() => {
         if (location.state && location.state.scrollTo) {
@@ -23,7 +25,28 @@ export default function Home() {
                 });
             }
         }
+
+        const handleScroll = () => {
+            if (window.scrollY > 100) {
+                setShowScrollButton(true);
+            } else {
+                setShowScrollButton(false);
+            }
+        };
+
+        window.addEventListener('scroll', handleScroll);
+
+        return () => {
+            window.removeEventListener('scroll', handleScroll);
+        };
     }, [location]);
+
+    const scrollToTop = () => {
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth',
+        });
+    };
 
     return (
         <div className="bg-cover bg-center min-h-screen" style={{ backgroundColor: '#f2e3c6' }}>
@@ -40,6 +63,17 @@ export default function Home() {
                     <Criar />
                 </div>
             </main>
+            <Footer />
+            {showScrollButton && (
+                <button 
+                    className="fixed bottom-10 right-10 bg-[#4a2e2a] text-white p-4 rounded-full shadow-lg"
+                    onClick={scrollToTop}
+                >
+                    <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 10l7-7m0 0l7 7m-7-7v18" />
+                    </svg>
+                </button>
+            )}
         </div>
     );
 }

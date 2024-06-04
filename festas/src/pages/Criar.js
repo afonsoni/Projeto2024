@@ -1,8 +1,11 @@
 import React from 'react';
+import Header from '../components/Header';
 
 const EventoForm = () => {
     return  (
-        <div className="flex flex-col items-center">
+    <div className="bg-cover bg-center min-h-screen" style={{ backgroundColor: '#f2e3c6' }}>
+        <Header />
+        <div className="flex flex-col items-center mb-10">
             <h2 className="text-2xl font-bold mb-8 mt-8 px-4 text-right text-[#4a2e2a]">Criar Evento</h2>
 
             <form className="w-full max-w-lg">
@@ -54,6 +57,7 @@ const EventoForm = () => {
                 </div>
             </form>
         </div>
+    </div>
     );
 };
 

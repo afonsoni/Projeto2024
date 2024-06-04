@@ -59,9 +59,6 @@ export default function Home() {
                         <div className="md:w-1/2 p-4"> <Mapa /> </div>
                     </div>
                 </div>  
-                <div id="criar-section" className="p-4 w-full bg-white" style={{ marginTop: '20px', paddingTop: '20px' }}>
-                    <Criar />
-                </div>
             </main>
             <Footer />
             {showScrollButton && (

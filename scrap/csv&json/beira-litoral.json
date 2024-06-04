@@ -2,7 +2,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Cortejo dos Reis",
-        "Data":"06-06-2024",
+        "Data":"06-01-2024",
         "Freguesia":"Talhadas",
         "Concelho":"Sever do Vouga",
         "Distrito":"Aveiro",
@@ -11,7 +11,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa de S. Gonçalinho (S. Gonçalo de Amarante",
-        "Data":"10-06-2024",
+        "Data":"10-01-2024",
         "Freguesia":"Aveiro",
         "Concelho":"",
         "Distrito":"",
@@ -20,7 +20,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festas de Nossa São Brás:enhora da Purificação e de São Brás",
-        "Data":"primeiro domingo de Fevereiro",
+        "Data":"04-02-2024",
         "Freguesia":"Vila Chã",
         "Concelho":"Vale de Cambra",
         "Distrito":"",
@@ -29,7 +29,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Romaria dos Santos Mártires",
-        "Data":"16-06-2024",
+        "Data":"07-01-2024",
         "Freguesia":"Travassô",
         "Concelho":"Águeda",
         "Distrito":"Aveiro",
@@ -38,7 +38,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa das Fogaceiras",
-        "Data":"20-06-2024",
+        "Data":"20-01-2024",
         "Freguesia":"Santa Maria da Feira",
         "Concelho":"Santa Maria da Feira",
         "Distrito":"Aveiro",
@@ -47,7 +47,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa de São Sebastião",
-        "Data":"20-06-2024",
+        "Data":"20-01-2024",
         "Freguesia":"Avanca",
         "Concelho":"Estarreja",
         "Distrito":"Aveiro",
@@ -137,7 +137,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"procissão dos passos",
-        "Data":"02-06-2024",
+        "Data":"2º domingo da Quaresma",
         "Freguesia":"Ovar",
         "Concelho":"Ovar",
         "Distrito":"Aveiro",
@@ -155,7 +155,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa da Senhora da Graça",
-        "Data":"02-06-2024",
+        "Data":"2ª feira de Páscoa",
         "Freguesia":"Assequins",
         "Concelho":"Águeda",
         "Distrito":"Aveiro",
@@ -191,7 +191,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa da Senhora da Piedade",
-        "Data":"terceiro domingo depois da Páscoa",
+        "Data":"terceiro domingo depois da páscoa",
         "Freguesia":"Lousã",
         "Concelho":"Lousã",
         "Distrito":"Coimbra",
@@ -200,7 +200,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa da Rainha Santa Mafalda",
-        "Data":"02-06-2024",
+        "Data":"02-05-2024",
         "Freguesia":"Arouca",
         "Concelho":"Arouca",
         "Distrito":"Aveiro",
@@ -209,7 +209,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festas de Santa Joana ou festas da cidade",
-        "Data":"12-06-2024",
+        "Data":"12-05-2024",
         "Freguesia":"Aveiro",
         "Concelho":"",
         "Distrito":"",
@@ -245,7 +245,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa de São Sebastião",
-        "Data":"primeiro domingo de Junho",
+        "Data":"02-06-2024",
         "Freguesia":"Águeda",
         "Concelho":"",
         "Distrito":"",
@@ -299,7 +299,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festas da Rainha Santa",
-        "Data":"primeira quinzena de Julho",
+        "Data":"07-06-2024",
         "Freguesia":"Coimbra",
         "Concelho":"",
         "Distrito":"",
@@ -308,7 +308,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de São Tomé",
-        "Data":"25-06-2024",
+        "Data":"25-07-2024",
         "Freguesia":"Ançã",
         "Concelho":"Cantanhede",
         "Distrito":"Coimbra",
@@ -317,7 +317,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festas da Padroeira",
-        "Data":"último Domingo de Julho",
+        "Data":"28-07-2024",
         "Freguesia":"Pombal",
         "Concelho":"Pombal",
         "Distrito":"Leiria",
@@ -326,7 +326,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nossa Senhora de la Salette",
-        "Data":"primeiro domingo de Agosto",
+        "Data":"04-08-2024",
         "Freguesia":"Oliveira de Azeméis",
         "Concelho":"Oliveira de Azeméis",
         "Distrito":"Aveiro",
@@ -335,7 +335,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nossa Senhora da Boa Viagem",
-        "Data":"primeiro domingo de Agosto",
+        "Data":"04-08-2024",
         "Freguesia":"Esmoriz",
         "Concelho":"Esmoriz",
         "Distrito":"Aveiro",
@@ -344,7 +344,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria do Divino Senhor da Serra",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Semide",
         "Concelho":"Miranda do Corvo",
         "Distrito":"Coimbra",
@@ -353,7 +353,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nossa Senhora da Saúde",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Fermentelos",
         "Concelho":"Águeda",
         "Distrito":"Aveiro",
@@ -362,7 +362,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora do Pranto",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Dornes",
         "Concelho":"Ferreira do Zêzere",
         "Distrito":"Santarém",
@@ -371,7 +371,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora da Saúde",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Vale de Cambra",
         "Concelho":"",
         "Distrito":"",
@@ -380,7 +380,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora da Piedade",
-        "Data":"primeiro domingo de Setembro",
+        "Data":"01-09-2024",
         "Freguesia":"Furadouro",
         "Concelho":"Ovar",
         "Distrito":"Aveiro",
@@ -389,7 +389,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa do Senhor do Calvário",
-        "Data":"primeiro domingo de Setembro",
+        "Data":"01-09-2024",
         "Freguesia":"Macieira de Cambra",
         "Concelho":"Vale de Cambra",
         "Distrito":"Aveiro",
@@ -398,7 +398,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de São Paio",
-        "Data":"08-06-2024",
+        "Data":"08-09-2024",
         "Freguesia":"Torreira",
         "Concelho":"Murtosa",
         "Distrito":"Aveiro",
@@ -407,7 +407,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa municipal",
-        "Data":"08-06-2024",
+        "Data":"08-09-2024",
         "Freguesia":"Montemor-o-Velho",
         "Concelho":"Montemor-o-Velho",
         "Distrito":"Coimbra",
@@ -416,7 +416,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festas de Nossa Senhora do Pranto",
-        "Data":"terceiro domingo de Setembro",
+        "Data":"15-09-2024",
         "Freguesia":"Podentes",
         "Concelho":"Penela",
         "Distrito":"Coimbra",
@@ -425,7 +425,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festas de São Mateus",
-        "Data":"21-06-2024",
+        "Data":"21-09-2024",
         "Freguesia":"Soure",
         "Concelho":"Soure",
         "Distrito":"Coimbra",
@@ -434,7 +434,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa da Senhora do Rosário",
-        "Data":"primeiro domingo de Outubro",
+        "Data":"06-10-2024",
         "Freguesia":"Aguada de Cima",
         "Concelho":"Águeda",
         "Distrito":"Aveiro",
@@ -443,7 +443,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Romaria de Nossa Senhora das Areias",
-        "Data":"primeiro domingo de Outubro",
+        "Data":"06-10-2024",
         "Freguesia":"São Jacinto",
         "Concelho":"Aveiro",
         "Distrito":"Aveiro",
@@ -452,7 +452,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"São Martinho",
-        "Data":"11-06-2024",
+        "Data":"11-11-2024",
         "Freguesia":"Mouquim",
         "Concelho":"Albergaria-a-Velha",
         "Distrito":"Aveiro",
@@ -461,7 +461,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Senhora da Conceição",
-        "Data":"08-06-2024",
+        "Data":"08-12-2024",
         "Freguesia":"Oiã",
         "Concelho":"Oliveira do Bairro",
         "Distrito":"Aveiro",
@@ -470,7 +470,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Santa Luzia",
-        "Data":"13-06-2024",
+        "Data":"13-12-2024",
         "Freguesia":"Veiros",
         "Concelho":"Estarreja",
         "Distrito":"Aveiro",
@@ -479,7 +479,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Cortejo dos Reis Magos",
-        "Data":"quarto domingo de Dezembro",
+        "Data":"22-12-2024",
         "Freguesia":"Fermelã",
         "Concelho":"Estarreja",
         "Distrito":"Aveiro",

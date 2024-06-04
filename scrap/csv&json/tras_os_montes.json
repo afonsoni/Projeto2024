@@ -2,7 +2,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa do Menino Jesus",
-        "Data":"01-06-2024",
+        "Data":"01-01-2024",
         "Freguesia":"Vila Chã da Braciosa",
         "Concelho":"Miranda do Douro",
         "Distrito":"Bragança",
@@ -11,7 +11,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa do Santo Menino",
-        "Data":"01-06-2024",
+        "Data":"01-01-2024",
         "Freguesia":"Tó",
         "Concelho":"Mogadouro",
         "Distrito":"Bragança",
@@ -20,7 +20,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa dos Reis Magos com gaiteiros",
-        "Data":"06-06-2024",
+        "Data":"06-01-2024",
         "Freguesia":"Babe",
         "Concelho":"Bragança",
         "Distrito":"Bragança",
@@ -29,7 +29,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa da Mocidade",
-        "Data":"06-06-2024",
+        "Data":"06-01-2024",
         "Freguesia":"Rio de Onor",
         "Concelho":"Bragança",
         "Distrito":"Bragança",
@@ -38,7 +38,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa dos Reis Magos",
-        "Data":"06-06-2024",
+        "Data":"06-01-2024",
         "Freguesia":"Vale de Anta",
         "Concelho":"Chaves",
         "Distrito":"Vila Real",
@@ -47,7 +47,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa dos Reis",
-        "Data":"06-06-2024",
+        "Data":"06-01-2024",
         "Freguesia":"Vale de Salgueiro",
         "Concelho":"Mirandela",
         "Distrito":"Bragança",
@@ -56,7 +56,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa de São Sebastião",
-        "Data":"20-06-2024",
+        "Data":"20-01-2024",
         "Freguesia":"Alturas do Barroso",
         "Concelho":"Boticas",
         "Distrito":"Vila Real",
@@ -65,7 +65,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa de São Sebastião",
-        "Data":"20-06-2024",
+        "Data":"20-01-2024",
         "Freguesia":"Dornelas",
         "Concelho":"Boticas",
         "Distrito":"Vila Real",
@@ -74,7 +74,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa de São Sebastião",
-        "Data":"20-06-2024",
+        "Data":"20-01-2024",
         "Freguesia":"Gimonde",
         "Concelho":"Bragança",
         "Distrito":"Bragança",
@@ -83,7 +83,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa de São Sebastião",
-        "Data":"20-06-2024",
+        "Data":"20-01-2024",
         "Freguesia":"Paradela",
         "Concelho":"Miranda do Douro",
         "Distrito":"Bragança",
@@ -119,7 +119,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"serração da velha",
-        "Data":"quarta-feira da terceira semana da Quaresma",
+        "Data":"quarta-feira da terceira semana da quaresma",
         "Freguesia":"Vilar de Perdizes",
         "Concelho":"Montalegre",
         "Distrito":"Vila Real",
@@ -191,7 +191,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Bom Jesus do Calvário",
-        "Data":"primeiro domingo de Julho",
+        "Data":"07-07-2024",
         "Freguesia":"Vila Real",
         "Concelho":"Vila Real",
         "Distrito":"Vila Real",
@@ -200,7 +200,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora do Marão",
-        "Data":"segundo Domingo de Julho",
+        "Data":"14-07-2024",
         "Freguesia":"Teixeira",
         "Concelho":"Baião",
         "Distrito":"Porto",
@@ -209,7 +209,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora da Conceição",
-        "Data":"segundo Domingo de Julho",
+        "Data":"14-07-2024",
         "Freguesia":"Pinhão",
         "Concelho":"Alijó",
         "Distrito":"Vila Real",
@@ -218,7 +218,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora do Amparo",
-        "Data":"quarto Domingo de Julho",
+        "Data":"28-07-2024",
         "Freguesia":"Mirandela",
         "Concelho":"Mirandela",
         "Distrito":"Bragança",
@@ -227,7 +227,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Santa Ana",
-        "Data":"primeiro domingo de Agosto",
+        "Data":"04-08-2024",
         "Freguesia":"Campeã",
         "Concelho":"Vila Real",
         "Distrito":"Vila Real",
@@ -236,7 +236,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festas do Concelho",
-        "Data":"primeiro fim-de-semana de Agosto",
+        "Data":"primeiro fim-de-semana de agosto",
         "Freguesia":"Montalegre",
         "Concelho":"Montalegre",
         "Distrito":"Vila Real",
@@ -245,7 +245,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora do Nazo",
-        "Data":"segundo Domingo de Agosto",
+        "Data":"11-08-2024",
         "Freguesia":"Póvoa",
         "Concelho":"Miranda do Douro",
         "Distrito":"Bragança",
@@ -254,7 +254,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora da Assunção",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Vinhais",
         "Concelho":"Vinhais",
         "Distrito":"Bragança",
@@ -263,7 +263,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora da Assunção",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Torre de Moncorvo",
         "Concelho":"Torre de Moncorvo",
         "Distrito":"Bragança",
@@ -272,7 +272,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora da Assunção",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Vilas Boas",
         "Concelho":"Vila Flor",
         "Distrito":"Bragança",
@@ -281,7 +281,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora do Salto",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Salto",
         "Concelho":"Montalegre",
         "Distrito":"Vila Real",
@@ -290,7 +290,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora do Castelo",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Algoso",
         "Concelho":"Vimioso",
         "Distrito":"Bragança",
@@ -299,7 +299,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nossa Senhora da Livração",
-        "Data":"terceiro domingo de Agosto",
+        "Data":"18-08-2024",
         "Freguesia":"Boticas",
         "Concelho":"Boticas",
         "Distrito":"Vila Real",
@@ -308,7 +308,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Santo António",
-        "Data":"terceiro domingo de Agosto",
+        "Data":"18-08-2024",
         "Freguesia":"Montesinho",
         "Concelho":"Bragança",
         "Distrito":"Bragança",
@@ -317,7 +317,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Nossa Senhora dos Aflitos",
-        "Data":"último domingo de Agosto",
+        "Data":"25-08-2024",
         "Freguesia":"Pegarinhos",
         "Concelho":"Alijó",
         "Distrito":"Vila Real",
@@ -326,7 +326,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora do Nazo",
-        "Data":"08-06-2024",
+        "Data":"08-09-2024",
         "Freguesia":"Constantim",
         "Concelho":"Miranda do Douro",
         "Distrito":"Bragança",
@@ -335,7 +335,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora de Almodena",
-        "Data":"08-06-2024",
+        "Data":"08-09-2024",
         "Freguesia":"Vila Real",
         "Concelho":"Vila Real",
         "Distrito":"Vila Real",
@@ -344,7 +344,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de Nossa Senhora dos Anúncios",
-        "Data":"12-06-2024",
+        "Data":"12-09-2024",
         "Freguesia":"Vilarelho",
         "Concelho":"Alfândega da Fé",
         "Distrito":"Bragança",
@@ -353,7 +353,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora da Pena",
-        "Data":"segundo domingo de Setembro",
+        "Data":"08-09-2024",
         "Freguesia":"Mouçós",
         "Concelho":"Vila Real",
         "Distrito":"Vila Real",

@@ -1,0 +1,16 @@
+/* Custom styles for the SVG paths using Tailwind's @apply directive */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+path {
+    @apply transition-colors duration-200 ease-in-out cursor-pointer;
+}
+
+path:hover {
+    @apply fill-yellow-400; /* Tailwind class for #ffcc00 */
+}
+
+.highlighted {
+    @apply fill-yellow-400; /* Tailwind class for #ffcc00 */
+}

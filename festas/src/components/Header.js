@@ -19,12 +19,14 @@ const Header = () => {
   };
 
   const handleHomeClick = () => {
-    if (location.pathname === '/') {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    } else {
+      window.scrollTo({ top: 0, behavior: 'smooth'});
       navigate('/');
-    }
   };
+
+  const handleCriarClick = () => {
+    window.scrollTo({ top: 0});
+    navigate('/CriarFesta');
+  };  
 
   const handleFestasClick = () => {
     if (location.pathname === '/') {
@@ -53,12 +55,12 @@ const Header = () => {
           >
             Festas
           </button>
-          <Link
-            to="/CriarFesta"
+          <button
+            onClick={handleCriarClick}
             className="bg-white text-[#4a2e2a] rounded px-4 py-2 mr-2 ml-2 transition-colors duration-300 hover:bg-[#4a2e2a] hover:text-white"
           >
             Criar Festa
-          </Link>
+            </button>
         </div>
       </div>
     </header>

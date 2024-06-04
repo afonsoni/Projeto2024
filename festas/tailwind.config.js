@@ -9,7 +9,12 @@ module.exports = {
     './src/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        // Add custom colors if you need
+        'yellow-400': '#ffcc00', // Ensuring the color matches your highlight color
+      },
+    },
   },
   plugins: [],
 }

@@ -2,7 +2,7 @@
     {
         "Trimestre":"1º trimestre",
         "Nome":"Festa de São Sebastião",
-        "Data":"20-06-2024",
+        "Data":"20-01-2024",
         "Freguesia":"Gondiães",
         "Concelho":"Cabeceiras de Basto",
         "Distrito":"Braga",
@@ -74,7 +74,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"celebrações da Semana Santa de que se destacam a do Ecce Homo",
-        "Data":"Semana Santa",
+        "Data":"semana santa",
         "Freguesia":"Braga",
         "Concelho":"",
         "Distrito":"",
@@ -119,7 +119,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa das Cruzes",
-        "Data":"03-06-2024",
+        "Data":"03-05-2024",
         "Freguesia":"Barcelos",
         "Concelho":"",
         "Distrito":"",
@@ -128,7 +128,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"ruas atapetadas de flores por onde passa a procissão",
-        "Data":"03-06-2024",
+        "Data":"03-05-2024",
         "Freguesia":"Serzedelo",
         "Concelho":"Guimarães",
         "Distrito":"Braga",
@@ -137,7 +137,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa da Senhora da Rosa",
-        "Data":"02-06-2024",
+        "Data":"02-05-2024",
         "Freguesia":"Vila Franca do Lima",
         "Concelho":"Viana do Castelo",
         "Distrito":"Viana do Castelo",
@@ -146,7 +146,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa do Senhor dos Aflitos",
-        "Data":"03-06-2024",
+        "Data":"03-05-2024",
         "Freguesia":"Nespereira",
         "Concelho":"Guimarães",
         "Distrito":"Braga",
@@ -155,7 +155,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Romaria da Senhora do Amparo",
-        "Data":"03-06-2024",
+        "Data":"03-05-2024",
         "Freguesia":"Cardielos",
         "Concelho":"Viana do Castelo",
         "Distrito":"Viana do Castelo",
@@ -164,7 +164,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"Festa da Santa Cruz ou dos Andores Floridos",
-        "Data":"05-06-2024",
+        "Data":"05-05-2024",
         "Freguesia":"Alvarães",
         "Concelho":"Viana do Castelo",
         "Distrito":"Viana do Castelo",
@@ -182,7 +182,7 @@
     {
         "Trimestre":"2º trimestre",
         "Nome":"peregrinação à Senhora do Sameiro",
-        "Data":"primeiro domingo de Junho",
+        "Data":"02-06-2024",
         "Freguesia":"Braga",
         "Concelho":"",
         "Distrito":"",
@@ -290,7 +290,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de São Torcato",
-        "Data":"primeiro Domingo de Julho",
+        "Data":"07-07-2024",
         "Freguesia":"Torcato",
         "Concelho":"Guimarães",
         "Distrito":"Braga",
@@ -299,7 +299,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de São Bento",
-        "Data":"segundo Domingo de Julho",
+        "Data":"14-07-2024",
         "Freguesia":"Vizela",
         "Concelho":"Guimarães",
         "Distrito":"Braga",
@@ -308,7 +308,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de São Bento",
-        "Data":"primeiro fim-de-semana de Julho",
+        "Data":"primeiro fim-de-semana de julho",
         "Freguesia":"Cossourado",
         "Concelho":"Paredes de Coura",
         "Distrito":"Viana do Castelo",
@@ -317,7 +317,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de Nossa Senhora de Antime",
-        "Data":"segundo domingo de Julho",
+        "Data":"14-07-2024",
         "Freguesia":"Fafe",
         "Concelho":"Fafe",
         "Distrito":"Braga",
@@ -326,7 +326,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Santa Maria Madalena ou Clamor da Roda",
-        "Data":"terceiro Domingo de Julho",
+        "Data":"21-07-2024",
         "Freguesia":"Vale de Bouro",
         "Concelho":"Celorico de Basto",
         "Distrito":"Braga",
@@ -335,7 +335,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria da Senhora do Minho",
-        "Data":"terceiro Domingo de Julho",
+        "Data":"21-07-2024",
         "Freguesia":"Alto da Serra de Arga",
         "Concelho":"Viana do Castelo",
         "Distrito":"Viana do Castelo",
@@ -344,7 +344,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festas do Senhor do Cruzeiro e das Necessidades",
-        "Data":"04-06-2024",
+        "Data":"04-07-2024",
         "Freguesia":"Lanheses",
         "Concelho":"Viana do Castelo",
         "Distrito":"Viana do Castelo",
@@ -353,7 +353,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de S. Bento da Porta Aberta",
-        "Data":"12-06-2024",
+        "Data":"12-08-2024",
         "Freguesia":"Rio Caldo",
         "Concelho":"Gerês",
         "Distrito":"Braga",
@@ -362,7 +362,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nossa Senhora das Neves",
-        "Data":"05-06-2024",
+        "Data":"05-08-2024",
         "Freguesia":"Neves",
         "Concelho":"Viana do Castelo",
         "Distrito":"Viana do Castelo",
@@ -371,7 +371,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festas Gualterianas",
-        "Data":"primeiro fim-de-semana de Agosto",
+        "Data":"primeiro fim-de-semana de agosto",
         "Freguesia":"Guimarães",
         "Concelho":"Guimarães",
         "Distrito":"Braga",
@@ -380,7 +380,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"procissão solene",
-        "Data":"segundo fim-de-semana de Agosto: Festa de Santa Rita de Cássia",
+        "Data":"segundo fim-de-semana de agosto: festa de santa rita de cássia",
         "Freguesia":"Caminha",
         "Concelho":"Caminha",
         "Distrito":"Viana do Castelo",
@@ -389,7 +389,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de Santa Marta de Portuzelo",
-        "Data":"segundo fim-de-semana de Agosto",
+        "Data":"segundo fim-de-semana de agosto",
         "Freguesia":"Santa Marta de Portuzelo",
         "Concelho":"Viana do Castelo",
         "Distrito":"Viana do Castelo",
@@ -398,7 +398,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Nossa Senhora das Dores",
-        "Data":"segundo fim-de-semana de Agosto",
+        "Data":"segundo fim-de-semana de agosto",
         "Freguesia":"Monção",
         "Concelho":"",
         "Distrito":"",
@@ -407,7 +407,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora do Amparo",
-        "Data":"segundo fim-de-semana de Agosto",
+        "Data":"segundo fim-de-semana de agosto",
         "Freguesia":"Apúlia",
         "Concelho":"Esposende",
         "Distrito":"Braga",
@@ -416,7 +416,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de Nossa Senhora das Neves da Lagoa",
-        "Data":"última sexta-feira de Agosto",
+        "Data":"08-06-2024",
         "Freguesia":"Lagoa",
         "Concelho":"Fafe",
         "Distrito":"Braga",
@@ -425,7 +425,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria da Senhora Aparecida",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Balugães",
         "Concelho":"Barcelos",
         "Distrito":"Braga",
@@ -434,7 +434,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora das Dores",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Soajo",
         "Concelho":"Arcos de Valdevez",
         "Distrito":"Viana do Castelo",
@@ -443,7 +443,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora da Abadia",
-        "Data":"15-06-2024",
+        "Data":"15-08-2024",
         "Freguesia":"Santa Maria de Bouro",
         "Concelho":"Amares",
         "Distrito":"Braga",
@@ -452,7 +452,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria da Senhora da Agonia",
-        "Data":"20-06-2024",
+        "Data":"20-08-2024",
         "Freguesia":"Viana do Castelo",
         "Concelho":"",
         "Distrito":"",
@@ -461,7 +461,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de São Bartolomeu",
-        "Data":"24-06-2024",
+        "Data":"24-08-2024",
         "Freguesia":"Bartolomeu do Mar",
         "Concelho":"Esposende",
         "Distrito":"Braga",
@@ -470,7 +470,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de São Bartolomeu",
-        "Data":"24-06-2024",
+        "Data":"24-08-2024",
         "Freguesia":"Ponte da Barca",
         "Concelho":"Ponte da Barca",
         "Distrito":"Viana do Castelo",
@@ -479,7 +479,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de São João",
-        "Data":"29-06-2024",
+        "Data":"29-08-2024",
         "Freguesia":"Arga de S. João",
         "Concelho":"Caminha",
         "Distrito":"Viana do Castelo",
@@ -488,7 +488,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora da Guia",
-        "Data":"terceiro Domingo de Agosto",
+        "Data":"18-08-2024",
         "Freguesia":"Apúlia",
         "Concelho":"Esposende",
         "Distrito":"Braga",
@@ -497,7 +497,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"peregrinação estatutária à Senhora do Sameiro",
-        "Data":"último Domingo de Agosto",
+        "Data":"25-08-2024",
         "Freguesia":"Braga",
         "Concelho":"",
         "Distrito":"",
@@ -506,7 +506,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Santa Justa",
-        "Data":"último Domingo de Agosto",
+        "Data":"25-08-2024",
         "Freguesia":"Negreiros",
         "Concelho":"Barcelos",
         "Distrito":"Braga",
@@ -515,7 +515,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria da Senhora da Peneda",
-        "Data":"08-06-2024",
+        "Data":"08-09-2024",
         "Freguesia":"Gavieira",
         "Concelho":"Arcos de Valdevez",
         "Distrito":"Viana do Castelo",
@@ -524,7 +524,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de Nossa Senhora da Bonança",
-        "Data":"segundo fim-de-semana de Setembro",
+        "Data":"segundo fim-de-semana de setembro",
         "Freguesia":"Vila Praia de Âncora",
         "Concelho":"Caminha",
         "Distrito":"Viana do Castelo",
@@ -533,7 +533,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Feiras Novas",
-        "Data":"20-06-2024",
+        "Data":"20 de setembro (ultimamente segundo fim-de-semana de setembro)",
         "Freguesia":"Ponte de Lima",
         "Concelho":"Ponte de Lima",
         "Distrito":"Viana do Castelo",
@@ -542,7 +542,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Festa de São Miguel",
-        "Data":"20-06-2024",
+        "Data":"20-09-2024",
         "Freguesia":"Cabeceiras de Basto",
         "Concelho":"Cabeceiras de Basto",
         "Distrito":"Braga",
@@ -551,7 +551,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora da Saúde",
-        "Data":"primeiro domingo de Setembro",
+        "Data":"01-09-2024",
         "Freguesia":"Lanhelas",
         "Concelho":"Caminha",
         "Distrito":"Viana do Castelo",
@@ -560,7 +560,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Senhora da Graça",
-        "Data":"primeiro domingo de Setembro",
+        "Data":"01-09-2024",
         "Freguesia":"Mondim de Basto",
         "Concelho":"Mondim de Basto",
         "Distrito":"Vila Real",
@@ -569,7 +569,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Romaria de Nossa Senhora do Porto de Ave",
-        "Data":"primeiro domingo de Setembro",
+        "Data":"01-09-2024",
         "Freguesia":"Porto de Ave",
         "Concelho":"Póvoa de Lanhoso",
         "Distrito":"Braga",
@@ -578,7 +578,7 @@
     {
         "Trimestre":"3º trimestre",
         "Nome":"Feira Grande de São Miguel",
-        "Data":"29-06-2024",
+        "Data":"29-09-2024",
         "Freguesia":"Famalicão",
         "Concelho":"Famalicão",
         "Distrito":"Braga",
@@ -587,7 +587,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Festas Nicolinas",
-        "Data":"primeira semana de Dezembro",
+        "Data":"02-12-2024",
         "Freguesia":"Guimarães",
         "Concelho":"Guimarães",
         "Distrito":"Braga",
@@ -596,7 +596,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Festa de Santa Luzia",
-        "Data":"13-06-2024",
+        "Data":"13-12-2024",
         "Freguesia":"Guimarães",
         "Concelho":"Guimarães",
         "Distrito":"Braga",
@@ -605,7 +605,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Festa de Santa Luzia e feira dos capões",
-        "Data":"13-06-2024",
+        "Data":"13-12-2024",
         "Freguesia":"Freamunde",
         "Concelho":"Paços de Ferreira",
         "Distrito":"Porto",
@@ -614,7 +614,7 @@
     {
         "Trimestre":"4º trimestre",
         "Nome":"Romaria de São Silvestre",
-        "Data":"31 de Dezembro",
+        "Data":"31-12-2024",
         "Freguesia":"Cardielos",
         "Concelho":"Viana do Castelo",
         "Distrito":"Viana do Castelo",

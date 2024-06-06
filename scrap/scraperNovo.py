@@ -411,4 +411,19 @@ output_json = os.path.join(output_dir, 'todas_festas.json')
 with open(output_json, 'w', encoding='utf-8') as f:
     json.dump(all_festas, f, ensure_ascii=False, indent=4)
 
-print(f"Dados extraídos e salvos em '{output_csv}' e '{output_json}'.")
+# Reestruturar o JSON para que "Distrito" seja a classe e a "Região" esteja junto das outras propriedades
+new_data = {}
+for region, events in all_festas.items():
+    for event in events:
+        district = event.pop('Distrito')
+        if district not in new_data:
+            new_data[district] = []
+        event['Região'] = region
+        new_data[district].append(event)
+
+# Salvar o novo JSON modificado
+modified_json_path = os.path.join(output_dir, 'festas_para_ontologia.json')
+with open(modified_json_path, 'w', encoding='utf-8') as f:
+    json.dump(new_data, f, ensure_ascii=False, indent=4)
+
+print(f"Dados extraídos e salvos em '{output_csv}', '{output_json}' e '{modified_json_path}'.")

@@ -19,6 +19,15 @@
             "Região": "beira_litoral"
         },
         {
+            "Nome": "Festa de S. Gonçalinho (S. Gonçalo de Amarante, casamenteiro das velhas)",
+            "Data Início": "10-01-2024",
+            "Data Fim": "10-01-2024",
+            "Freguesia": "",
+            "Concelho": "Aveiro",
+            "Descrição": "junto à capela e do alto da mesma, lançamento de cavacas ao povo. Dança dos mancos, pequena comédia interpretada por homens. Música e danças pelas ruas.",
+            "Região": "beira_litoral"
+        },
+        {
             "Nome": "Festa das Fogaceiras",
             "Data Início": "20-01-2024",
             "Data Fim": "20-01-2024",
@@ -37,18 +46,18 @@
             "Região": "beira_litoral"
         },
         {
-            "Nome": "cortejo muito concorrido",
-            "Data Início": "Carnaval",
-            "Data Fim": "Carnaval",
+            "Nome": "Carnaval",
+            "Data Início": "13-02-2024",
+            "Data Fim": "13-02-2024",
             "Freguesia": "Vale de Ílhavo",
             "Concelho": "Ílhavo",
-            "Descrição": "",
+            "Descrição": "cortejo muito concorrido, onde pontificam os cardadores, rapazes solteiros mascarados com longo nariz e enormes cabeleiras coloridas, que se aproximam das moças para as “cardar” (abraçar e apalpar)",
             "Região": "beira_litoral"
         },
         {
             "Nome": "desfile com escolas de samba",
-            "Data Início": "Carnaval",
-            "Data Fim": "Carnaval",
+            "Data Início": "13-02-2024",
+            "Data Fim": "13-02-2024",
             "Freguesia": "Estarreja",
             "Concelho": "Estarreja",
             "Descrição": "Batalha de Flores",
@@ -231,7 +240,7 @@
             "Data Fim": "20-01-2024",
             "Freguesia": "Santa Maria da Feira",
             "Concelho": "Santa Maria da Feira",
-            "Descrição": "importantíssima romaria celebrando S. Sebastião. Na procissão, meninas de branco levam as fogaças à cabeça. Andores de S. Sebastião e de Nossa Senhora da Encarnação. As fogaças destinavam-se inicialmente a serem distribuídas pelos pobres. Desfile das fogaceiras.",
+            "Descrição": "importantíssima romaria celebrando S. Sebastião. Na procissão, meninas de branco levam as fogaças à cabeça. Andores de S. Sebastião e de Nossa Senhora da Encarnação. As fogaças destinavam-se inicialmente a serem distribuídas pelos pobres. Desfile das fogaceiras.",
             "Região": "douro_litoral"
         },
         {
@@ -309,30 +318,12 @@
     ],
     "": [
         {
-            "Nome": "Festa de S. Gonçalinho (S. Gonçalo de Amarante",
-            "Data Início": "10-01-2024",
-            "Data Fim": "10-01-2024",
-            "Freguesia": "Aveiro",
-            "Concelho": "",
-            "Descrição": "junto à capela e do alto da mesma, lançamento de cavacas ao povo. Dança dos mancos, pequena comédia interpretada por homens. Música e danças pelas ruas.",
-            "Região": "beira_litoral"
-        },
-        {
-            "Nome": "",
-            "Data Início": "sem data",
-            "Data Fim": "sem data",
-            "Freguesia": "",
-            "Concelho": "",
-            "Descrição": "Góis, Carnaval",
-            "Região": "beira_litoral"
-        },
-        {
             "Nome": "Festas de Santa Joana ou festas da cidade",
             "Data Início": "12-05-2024",
             "Data Fim": "12-05-2024",
-            "Freguesia": "Aveiro",
-            "Concelho": "",
-            "Descrição": "Era filha de D: Afonso V e ficou conhecida pela sua extrema bondade: Procissão dos Irmãos de Santa Joana e missa solene na Sé: À tarde, procissão de Santa Joana com a irmandade vestida à época: Desfile de barcos moliceiros.",
+            "Freguesia": "",
+            "Concelho": "Aveiro",
+            "Descrição": "Era filha de D. Afonso V e ficou conhecida pela sua extrema bondade. Procissão dos Irmãos de Santa Joana e missa solene na Sé. À tarde, procissão de Santa Joana com a irmandade vestida à época: Desfile de barcos moliceiros.",
             "Região": "beira_litoral"
         },
         {
@@ -343,15 +334,6 @@
             "Concelho": "",
             "Descrição": "Santo António dos Olivais, Coimbra, Romaria do Espírito Santo. Importante romaria das Beiras, provavelmente proveniente dos antigos Impérios do Espírito Santo, ainda hoje pertinentes no arquipélago açoreano. Grande parque de diversões.",
             "Região": "beira_litoral"
-        },
-        {
-            "Nome": "",
-            "Data Início": "sem data",
-            "Data Fim": "sem data",
-            "Freguesia": "",
-            "Concelho": "",
-            "Descrição": "Vila Verde, Alijó, Festa do Corpo de Deus. Passadeiras de flores. Procissão integrando as cruzes e estandartes de todas as paróquias do concelho.",
-            "Região": "tras_os_montes"
         },
         {
             "Nome": "Nossa Senhora de Alva",
@@ -622,7 +604,7 @@
             "Data Fim": "09-06-2024",
             "Freguesia": "Freamunde",
             "Concelho": "Paços de Ferreira",
-            "Descrição": "Sebastião: Santo protector contra a fome, a peste e a guerra: Festa a cargo dos homens casados: Missa de festa e procissão: Ranchos folclóricos, Zés-Pereiras, cabeçudos e gigantones: Tradição das “vacas de fogo”",
+            "Descrição": "Santo protector contra a fome, a peste e a guerra: Festa a cargo dos homens casados: Missa de festa e procissão: Ranchos folclóricos, Zés-Pereiras, cabeçudos e gigantones: Tradição das “vacas de fogo”",
             "Região": "douro_litoral"
         },
         {
@@ -649,7 +631,7 @@
             "Data Fim": "24-06-2024",
             "Freguesia": "Porto",
             "Concelho": "Porto",
-            "Descrição": "João: Arraiais nos bairros populares, sobretudo nas Fontainhas: Cascatas, fogueiras, martelinhos e alho-porro: Arraiais nos bairros populares, mais típicos nas Fontainhas e Miragaia: Magnífico fogo de artifício sobre o rio Douro.",
+            "Descrição": "Arraiais nos bairros populares, sobretudo nas Fontainhas: Cascatas, fogueiras, martelinhos e alho-porro: Arraiais nos bairros populares, mais típicos nas Fontainhas e Miragaia: Magnífico fogo de artifício sobre o rio Douro.",
             "Região": "douro_litoral"
         },
         {
@@ -676,7 +658,7 @@
             "Data Fim": "29-06-2024",
             "Freguesia": "Póvoa de Varzim",
             "Concelho": "Póvoa de Varzim",
-            "Descrição": "Pedro: Cada bairro organiza as suas cascatas e as suas rusgas ou marchas: Bailes pela noite fora: Sardinhadas pelos bairros populares.",
+            "Descrição": "Cada bairro organiza as suas cascatas e as suas rusgas ou marchas: Bailes pela noite fora: Sardinhadas pelos bairros populares.",
             "Região": "douro_litoral"
         },
         {
@@ -694,7 +676,7 @@
             "Data Fim": "29-06-2024",
             "Freguesia": "Felgueiras",
             "Concelho": "Felgueiras",
-            "Descrição": "Pedro: Marchas populares: Cortejo das flores.",
+            "Descrição": "Marchas populares: Cortejo das flores.",
             "Região": "douro_litoral"
         },
         {
@@ -703,16 +685,16 @@
             "Data Fim": "11-07-2024",
             "Freguesia": "Santo Tirso",
             "Concelho": "Santo Tirso",
-            "Descrição": "Bento: Ofertas populares de cravos brancos, ovos e sal.",
+            "Descrição": "Ofertas populares de cravos brancos, ovos e sal.",
             "Região": "douro_litoral"
         },
         {
-            "Nome": "Romaria de São Bento",
+            "Nome": "Romaria de São Bento das Peras e de S. Cristóvão",
             "Data Início": "11-07-2024",
             "Data Fim": "11-07-2024",
             "Freguesia": "Rio Tinto",
             "Concelho": "Gondomar",
-            "Descrição": "das Peras e de S: Cristóvão: No último domingo, procissão pela encosta do monte acima até à capela, onde se realiza a missa campal: Cantares ao desafio no arraial.",
+            "Descrição": "No último domingo, procissão pela encosta do monte acima até à capela, onde se realiza a missa campal: Cantares ao desafio no arraial.",
             "Região": "douro_litoral"
         },
         {
@@ -793,7 +775,7 @@
             "Data Fim": "08-09-2024",
             "Freguesia": "Freixo de Cima",
             "Concelho": "Amarante",
-            "Descrição": "Gens: Cantares ao desafio.",
+            "Descrição": "Cantares ao desafio.",
             "Região": "douro_litoral"
         },
         {
@@ -870,6 +852,15 @@
             "Descrição": "",
             "Região": "beira_litoral"
         },
+        {   
+            "Nome": "Carnaval",
+            "Data Início": "13-02-2024",
+            "Data Fim": "13-02-2024",
+            "Freguesia": "",
+            "Concelho": "Góis",
+            "Descrição": "",
+            "Região": "beira_litoral"
+        },
         {
             "Nome": "Festa de Nossa Senhora dos Milagres",
             "Data Início": "07-04-2024",
@@ -943,12 +934,12 @@
             "Região": "beira_litoral"
         },
         {
-            "Nome": "Romaria de São Tomé",
+            "Nome": "Romaria de São Tomé (protector dos animais e das colheitas) e S. Tiago",
             "Data Início": "25-07-2024",
             "Data Fim": "25-07-2024",
             "Freguesia": "Ançã",
             "Concelho": "Cantanhede",
-            "Descrição": "(protector dos animais e das colheitas) e S: Tiago: Cortejo desde a casa do juiz da festa até à Capela de S: Bento: Seguem a cavalo o juiz e o anjo, um menino vestido de menina: Bênção do gado.",
+            "Descrição": "Cortejo desde a casa do juiz da festa até à Capela de S. Bento. Seguem a cavalo o juiz e o anjo, um menino vestido de menina. Bênção do gado.",
             "Região": "beira_litoral"
         },
         {
@@ -975,7 +966,7 @@
             "Data Fim": "08-09-2024",
             "Freguesia": "Montemor-o-Velho",
             "Concelho": "Montemor-o-Velho",
-            "Descrição": "Feira anual: Feira do cavalo.",
+            "Descrição": "Feira anual. Feira do cavalo.",
             "Região": "beira_litoral"
         },
         {
@@ -988,12 +979,12 @@
             "Região": "beira_litoral"
         },
         {
-            "Nome": "Festas de São Mateus",
+            "Nome": "Festas de São Mateus (romaria e feira franca)",
             "Data Início": "21-09-2024",
             "Data Fim": "21-09-2024",
             "Freguesia": "Soure",
             "Concelho": "Soure",
-            "Descrição": "(romaria e feira franca): Grande romaria que reune no Monte de S: Mateus muito povo das redondezas: Feira da madeira e do artesanato: O dia 21 é feriado municipal: Piquenique popular no parque de merendas.",
+            "Descrição": "Grande romaria que reune no Monte de S: Mateus muito povo das redondezas: Feira da madeira e do artesanato: O dia 21 é feriado municipal: Piquenique popular no parque de merendas.",
             "Região": "beira_litoral"
         },
         {
@@ -1015,12 +1006,12 @@
             "Região": "beira_alta"
         },
         {
-            "Nome": "Festa de São Sebastião",
+            "Nome": "Festa de São Sebastião, com bodo",
             "Data Início": "20-01-2024",
             "Data Fim": "20-01-2024",
             "Freguesia": "Janeiro de Baixo",
             "Concelho": "Pampilhosa da Serra",
-            "Descrição": "Sebastião, com bodo: Festa idêntica, também com bodo, noutras aldeias do concelho, como Cabril, Ponte de Fajão e Vidual.",
+            "Descrição": "Festa idêntica, também com bodo, noutras aldeias do concelho, como Cabril, Ponte de Fajão e Vidual.",
             "Região": "beira_baixa"
         },
         {
@@ -1638,7 +1629,7 @@
             "Data Fim": "primeiro fim-de-semana de Agosto",
             "Freguesia": "Benavente",
             "Concelho": "Benavente",
-            "Descrição": "procissão da padroeira, peditório para a festa e entrega da bandeira aos festeiros do ano seguinte. Touradas.",
+            "Descrição": "Procissão da padroeira, peditório para a festa e entrega da bandeira aos festeiros do ano seguinte. Touradas.",
             "Região": "ribatejo"
         },
         {
@@ -1815,7 +1806,7 @@
             "Região": "tras_os_montes"
         },
         {
-            "Nome": "serração da velha",
+            "Nome": "Serração da velha",
             "Data Início": "quarta-feira da terceira semana da Quaresma",
             "Data Fim": "quarta-feira da terceira semana da Quaresma",
             "Freguesia": "Vilar de Perdizes",
@@ -1842,12 +1833,21 @@
             "Região": "tras_os_montes"
         },
         {
+            "Nome": "Festa do Corpo de Deus",
+            "Data Início": "30-05-2024",
+            "Data Fim": "30-05-2024",
+            "Freguesia": "Vila Verde",
+            "Concelho": "Alijó",
+            "Descrição": "Passadeiras de flores. Procissão integrando as cruzes e estandartes de todas as paróquias do concelho.",
+            "Região": "tras_os_montes"
+        },
+        {
             "Nome": "Festa de Santo António ou da Carola",
             "Data Início": "13-06-2024",
             "Data Fim": "13-06-2024",
             "Freguesia": "Covas do Barroso",
             "Concelho": "Boticas",
-            "Descrição": "Festa religiosa e profana: Distribuição da carola (pão e vinho, previamente abençoados).",
+            "Descrição": "Festa religiosa e profana. Distribuição da carola (pão e vinho, previamente abençoados).",
             "Região": "tras_os_montes"
         },
         {
@@ -2869,7 +2869,7 @@
             "Região": "estremadura"
         }
     ],
-    "Leiria": [
+    "Leiria": [ 
         {
             "Nome": "Festa de Santo Amaro",
             "Data Início": "15-01-2024",
@@ -2898,12 +2898,12 @@
             "Região": "estremadura"
         },
         {
-            "Nome": "grupos músico-coreográfico-teatrais (cègadas",
-            "Data Início": "Carnaval",
-            "Data Fim": "Carnaval",
+            "Nome": "Carnaval",
+            "Data Início": "13-02-2024",
+            "Data Fim": "13-02-2024",
             "Freguesia": "Nazaré",
             "Concelho": "Nazaré",
-            "Descrição": "",
+            "Descrição": "Grupos músico-coreográfico-teatrais (cègadas – vide) percorrem a vila e actuam nas sociedades recreativas, maxime no Casino.",
             "Região": "estremadura"
         },
         {

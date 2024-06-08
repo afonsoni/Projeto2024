@@ -1,0 +1,3883 @@
+{
+    "beira_litoral": [
+        {
+            "Nome": "Cortejo dos Reis",
+            "Data Início": "06-01-2024",
+            "Data Fim": "06-01-2024",
+            "Freguesia": "Talhadas",
+            "Concelho": "Sever do Vouga",
+            "Distrito": "Aveiro",
+            "Descrição": "com pequeno auto teatral e leilão das ofertas"
+        },
+        {
+            "Nome": "Festa de S. Gonçalinho (S. Gonçalo de Amarante",
+            "Data Início": "10-01-2024",
+            "Data Fim": "10-01-2024",
+            "Freguesia": "Aveiro",
+            "Concelho": "",
+            "Distrito": "",
+            "Descrição": "junto à capela e do alto da mesma, lançamento de cavacas ao povo. Dança dos mancos, pequena comédia interpretada por homens. Música e danças pelas ruas."
+        },
+        {
+            "Nome": "Festas de Nossa São Brás:enhora da Purificação e de São Brás",
+            "Data Início": "04-02-2024",
+            "Data Fim": "04-02-2024",
+            "Freguesia": "Vila Chã",
+            "Concelho": "Vale de Cambra",
+            "Distrito": "Porto",
+            "Descrição": "Brás: Procissão das velas dedicada à Senhora da Purificação ou Senhora das Candeias, devoção muito expandida pelo país, cujo dia é o 2 de Fevereiro: Feira de gastronomia e dos grelos."
+        },
+        {
+            "Nome": "Romaria dos Santos Mártires",
+            "Data Início": "07-01-2024",
+            "Data Fim": "07-01-2024",
+            "Freguesia": "Travassô",
+            "Concelho": "Águeda",
+            "Distrito": "Aveiro",
+            "Descrição": "Procissão dos Nus, antigamente composta por fiéis amortalhados em cumprimento das suas promessas: No dia seguinte, nova procissão, em que as crianças passam por debaixo do andor de Santa Clara, para não se atrasarem no falar."
+        },
+        {
+            "Nome": "Festa das Fogaceiras",
+            "Data Início": "20-01-2024",
+            "Data Fim": "20-01-2024",
+            "Freguesia": "Santa Maria da Feira",
+            "Concelho": "Santa Maria da Feira",
+            "Distrito": "Aveiro",
+            "Descrição": "importantíssima romaria celebrando S. Sebastião. Na procissão, meninas de branco levam as fogaças à cabeça."
+        },
+        {
+            "Nome": "Festa de São Sebastião",
+            "Data Início": "20-01-2024",
+            "Data Fim": "20-01-2024",
+            "Freguesia": "Avanca",
+            "Concelho": "Estarreja",
+            "Distrito": "Aveiro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "cortejo muito concorrido",
+            "Data Início": "Carnaval",
+            "Data Fim": "Carnaval",
+            "Freguesia": "Vale de Ílhavo",
+            "Concelho": "Ílhavo",
+            "Distrito": "Aveiro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "",
+            "Data Início": "sem data",
+            "Data Fim": "sem data",
+            "Freguesia": "",
+            "Concelho": "",
+            "Distrito": "",
+            "Descrição": "Góis, Carnaval"
+        },
+        {
+            "Nome": "desfile com escolas de samba",
+            "Data Início": "Carnaval",
+            "Data Fim": "Carnaval",
+            "Freguesia": "Estarreja",
+            "Concelho": "Estarreja",
+            "Distrito": "Aveiro",
+            "Descrição": "Batalha de Flores"
+        },
+        {
+            "Nome": "procissão dos passos",
+            "Data Início": "25-02-2024",
+            "Data Fim": "25-02-2024",
+            "Freguesia": "Ovar",
+            "Concelho": "Ovar",
+            "Distrito": "Aveiro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Queima do Judas",
+            "Data Início": "Sábado da Aleluia",
+            "Data Fim": "Sábado da Aleluia",
+            "Freguesia": "Travassô",
+            "Concelho": "Águeda",
+            "Distrito": "Aveiro",
+            "Descrição": "com um entremês popular de sátira local"
+        },
+        {
+            "Nome": "Festa da Senhora da Graça",
+            "Data Início": "2ª feira de Páscoa",
+            "Data Fim": "2ª feira de Páscoa",
+            "Freguesia": "Assequins",
+            "Concelho": "Águeda",
+            "Distrito": "Aveiro",
+            "Descrição": "Erguer do mastro ou pau, revestido de verduras, no adro da capela da Senhora da Graça, que aí permanecerá até à noite de S: João, em cuja noite será queimado: O mastro é um pinheiro dos mais altos que deverá, segundo a tradição, ser roubado dos pinhais pelos mancebos antes de cumprirem o serviço militar, promessa à santa para que voltem vivos da guerra: O “pau” é erguido da parte da tarde, após as merendas, com a ajuda de todos, ao som da banda filarmónica."
+        },
+        {
+            "Nome": "Romaria das Almas da Areosa",
+            "Data Início": "07-04-2024",
+            "Data Fim": "07-04-2024",
+            "Freguesia": "Aguada de Cima",
+            "Concelho": "Águeda",
+            "Distrito": "Aveiro",
+            "Descrição": "Procissão dos Romeiros em direcção à Igreja Matriz."
+        },
+        {
+            "Nome": "Romaria de São Jorge",
+            "Data Início": "Cantanhede",
+            "Data Fim": "Cantanhede",
+            "Freguesia": "Escapães",
+            "Concelho": "Sepins",
+            "Distrito": "Coimbra",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Nossa Senhora dos Milagres",
+            "Data Início": "07-04-2024",
+            "Data Fim": "07-04-2024",
+            "Freguesia": "Cernache",
+            "Concelho": "Coimbra",
+            "Distrito": "Coimbra",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa da Senhora da Piedade",
+            "Data Início": "terceiro domingo depois da Páscoa",
+            "Data Fim": "terceiro domingo depois da Páscoa",
+            "Freguesia": "Lousã",
+            "Concelho": "Lousã",
+            "Distrito": "Coimbra",
+            "Descrição": "Procissão solene entre o santuário e a Igreja Matriz: Procissão das velas: Cantares ao desafio ao som das concertinas."
+        },
+        {
+            "Nome": "Festa da Rainha Santa Mafalda",
+            "Data Início": "02-05-2024",
+            "Data Fim": "02-05-2024",
+            "Freguesia": "Arouca",
+            "Concelho": "Arouca",
+            "Distrito": "Aveiro",
+            "Descrição": "Filha de D: Sancho I, é a padroeira de Arouca, pelo que se justifica que o sei dia seja o feriado municipal: Procissão solene."
+        },
+        {
+            "Nome": "Festas de Santa Joana ou festas da cidade",
+            "Data Início": "12-05-2024",
+            "Data Fim": "12-05-2024",
+            "Freguesia": "Aveiro",
+            "Concelho": "",
+            "Distrito": "",
+            "Descrição": "Era filha de D: Afonso V e ficou conhecida pela sua extrema bondade: Procissão dos Irmãos de Santa Joana e missa solene na Sé: À tarde, procissão de Santa Joana com a irmandade vestida à época: Desfile de barcos moliceiros."
+        },
+        {
+            "Nome": "Festa do Espírito Santo",
+            "Data Início": "19-05-2024",
+            "Data Fim": "19-05-2024",
+            "Freguesia": "Espírito Santo",
+            "Concelho": "Soure",
+            "Distrito": "Coimbra",
+            "Descrição": ""
+        },
+        {
+            "Nome": "",
+            "Data Início": "sem data",
+            "Data Fim": "sem data",
+            "Freguesia": "",
+            "Concelho": "",
+            "Distrito": "",
+            "Descrição": "Santo António dos Olivais, Coimbra, Romaria do Espírito Santo. Importante romaria das Beiras, provavelmente proveniente dos antigos Impérios do Espírito Santo, ainda hoje pertinentes no arquipélago açoreano. Grande parque de diversões."
+        },
+        {
+            "Nome": "Festas do Espírito Santo e Romaria de Nossa Senhora de Vagos. Romaria. Bodo da Senhora",
+            "Data Início": "Domingo do Espírito Santo (e segunda-feira)",
+            "Data Fim": "Domingo do Espírito Santo (e segunda-feira)",
+            "Freguesia": "Vagos",
+            "Concelho": "Vagos",
+            "Distrito": "Aveiro",
+            "Descrição": "distribuição de pães bentos aos romeiros (pão de Cantanhede). Arraial no domingo e 2ª feira."
+        },
+        {
+            "Nome": "Festa de São Sebastião",
+            "Data Início": "02-06-2024",
+            "Data Fim": "02-06-2024",
+            "Freguesia": "Águeda",
+            "Concelho": "Águeda",
+            "Distrito": "Aveiro",
+            "Descrição": "Sebastião."
+        },
+        {
+            "Nome": "Festa de Santo António",
+            "Data Início": "13-06-2024",
+            "Data Fim": "13-06-2024",
+            "Freguesia": "Vila Pouca",
+            "Concelho": "Cernache",
+            "Distrito": "Coimbra",
+            "Descrição": "Os rapazes montam a cavalo, vão à vila em cavalhada “dar a volta” e regressam ao adro da igreja, onde os esperam as moças, namoradas e pretendidas: Distribuição dos bolos de festa, as “rosquilhas” e os “corações”."
+        },
+        {
+            "Nome": "Festa de São João",
+            "Data Início": "24-06-2024",
+            "Data Fim": "24-06-2024",
+            "Freguesia": "Praia da Tocha",
+            "Concelho": "Cantanhede",
+            "Distrito": "Coimbra",
+            "Descrição": "João: Banho santo."
+        },
+        {
+            "Nome": "Feira anual de São João",
+            "Data Início": "24-06-2024",
+            "Data Fim": "24-06-2024",
+            "Freguesia": "Lousã",
+            "Concelho": "Lousã",
+            "Distrito": "Coimbra",
+            "Descrição": "João: Feriado municipal."
+        },
+        {
+            "Nome": "Festa de São João",
+            "Data Início": "24-06-2024",
+            "Data Fim": "24-06-2024",
+            "Freguesia": "Figueira da Foz",
+            "Concelho": "Figueira da Foz",
+            "Distrito": "Coimbra",
+            "Descrição": "João: Banho santo."
+        },
+        {
+            "Nome": "Festa e feira de São Pedro",
+            "Data Início": "29-06-2024",
+            "Data Fim": "29-06-2024",
+            "Freguesia": "Palhaça",
+            "Concelho": "Oliveira do Bairro",
+            "Distrito": "Viseu",
+            "Descrição": "Pedro."
+        },
+        {
+            "Nome": "Festas da Rainha Santa",
+            "Data Início": "07-06-2024",
+            "Data Fim": "07-06-2024",
+            "Freguesia": "Coimbra",
+            "Concelho": "Coimbra",
+            "Distrito": "Coimbra",
+            "Descrição": "Procissão de penitência e procissão de Louvor: À saída da igreja, o andor que transporta a urna recebe uma chuva de pétalas de rosa, alusão ao célebre milagre das rosas: Parte profana com múltiplas manifestações de concertos musicais populares e espectáculos."
+        },
+        {
+            "Nome": "Romaria de São Tomé",
+            "Data Início": "25-07-2024",
+            "Data Fim": "25-07-2024",
+            "Freguesia": "Ançã",
+            "Concelho": "Cantanhede",
+            "Distrito": "Coimbra",
+            "Descrição": "(protector dos animais e das colheitas) e S: Tiago: Cortejo desde a casa do juiz da festa até à Capela de S: Bento: Seguem a cavalo o juiz e o anjo, um menino vestido de menina: Bênção do gado."
+        },
+        {
+            "Nome": "Festas da Padroeira",
+            "Data Início": "28-07-2024",
+            "Data Fim": "28-07-2024",
+            "Freguesia": "Pombal",
+            "Concelho": "Carrazeda de Ansiães",
+            "Distrito": "Bragança",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Nossa Senhora de la Salette",
+            "Data Início": "04-08-2024",
+            "Data Fim": "04-08-2024",
+            "Freguesia": "Oliveira de Azeméis",
+            "Concelho": "Oliveira de Azeméis",
+            "Distrito": "Aveiro",
+            "Descrição": "Procissão do Triunfo descendo do santuário em direcção à vila."
+        },
+        {
+            "Nome": "Festa de Nossa Senhora da Boa Viagem",
+            "Data Início": "04-08-2024",
+            "Data Fim": "04-08-2024",
+            "Freguesia": "Esmoriz",
+            "Concelho": "Ovar",
+            "Distrito": "Aveiro",
+            "Descrição": "Procissão com bênção do mar."
+        },
+        {
+            "Nome": "Romaria do Divino Senhor da Serra",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Semide",
+            "Concelho": "Miranda do Corvo",
+            "Distrito": "Coimbra",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Nossa Senhora da Saúde",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Fermentelos",
+            "Concelho": "Águeda",
+            "Distrito": "Aveiro",
+            "Descrição": "Procissão das Velas, seguida de fogo-preso."
+        },
+        {
+            "Nome": "Senhora do Pranto",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Dornes",
+            "Concelho": "Ferreira do Zêzere",
+            "Distrito": "Santarém",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora da Saúde",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Vale de Cambra",
+            "Concelho": "Vale de Cambra",
+            "Distrito": "Aveiro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora da Piedade",
+            "Data Início": "01-09-2024",
+            "Data Fim": "01-09-2024",
+            "Freguesia": "Furadouro",
+            "Concelho": "Ovar",
+            "Distrito": "Coimbra",
+            "Descrição": "Festa dos pescadores."
+        },
+        {
+            "Nome": "Festa do Senhor do Calvário",
+            "Data Início": "01-09-2024",
+            "Data Fim": "01-09-2024",
+            "Freguesia": "Macieira de Cambra",
+            "Concelho": "Vale de Cambra",
+            "Distrito": "Aveiro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria de São Paio",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Torreira",
+            "Concelho": "Murtosa",
+            "Distrito": "Aveiro",
+            "Descrição": "da Torreira: Rusgas e danças populares na noitada: Regata de moliceiros."
+        },
+        {
+            "Nome": "Festa municipal",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Montemor-o-Velho",
+            "Concelho": "Montemor-o-Velho",
+            "Distrito": "Coimbra",
+            "Descrição": "Feira anual: Feira do cavalo."
+        },
+        {
+            "Nome": "Festas de Nossa Senhora do Pranto",
+            "Data Início": "15-09-2024",
+            "Data Fim": "15-09-2024",
+            "Freguesia": "Podentes",
+            "Concelho": "Penela",
+            "Distrito": "Coimbra",
+            "Descrição": "Círio de Podentes à Senhora do Pranto, em Dores, Ferreira do Zêzere."
+        },
+        {
+            "Nome": "Festas de São Mateus",
+            "Data Início": "21-09-2024",
+            "Data Fim": "21-09-2024",
+            "Freguesia": "Soure",
+            "Concelho": "Soure",
+            "Distrito": "Coimbra",
+            "Descrição": "(romaria e feira franca): Grande romaria que reune no Monte de S: Mateus muito povo das redondezas: Feira da madeira e do artesanato: O dia 21 é feriado municipal: Piquenique popular no parque de merendas."
+        },
+        {
+            "Nome": "Festa da Senhora do Rosário",
+            "Data Início": "06-10-2024",
+            "Data Fim": "06-10-2024",
+            "Freguesia": "Aguada de Cima",
+            "Concelho": "Águeda",
+            "Distrito": "Aveiro",
+            "Descrição": "com bodo de tremoços"
+        },
+        {
+            "Nome": "Romaria de Nossa Senhora das Areias",
+            "Data Início": "06-10-2024",
+            "Data Fim": "06-10-2024",
+            "Freguesia": "São Jacinto",
+            "Concelho": "Aveiro",
+            "Distrito": "Aveiro",
+            "Descrição": "Povoação de pescadores, a festa foi apontada para a época em que haviam regressado da pesca do bacalhau na Terra Nova."
+        },
+        {
+            "Nome": "São Martinho",
+            "Data Início": "11-11-2024",
+            "Data Fim": "11-11-2024",
+            "Freguesia": "Mouquim",
+            "Concelho": "Albergaria-a-Velha",
+            "Distrito": "Aveiro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora da Conceição",
+            "Data Início": "08-12-2024",
+            "Data Fim": "08-12-2024",
+            "Freguesia": "Oiã",
+            "Concelho": "Oliveira do Bairro",
+            "Distrito": "Aveiro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Santa Luzia",
+            "Data Início": "13-12-2024",
+            "Data Fim": "13-12-2024",
+            "Freguesia": "Veiros",
+            "Concelho": "Estarreja",
+            "Distrito": "Aveiro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Cortejo dos Reis Magos",
+            "Data Início": "22-12-2024",
+            "Data Fim": "22-12-2024",
+            "Freguesia": "Fermelã",
+            "Concelho": "Estarreja",
+            "Distrito": "Aveiro",
+            "Descrição": ""
+        }
+    ],
+    "tras_os_montes": [
+        {
+            "Nome": "Festa do Menino Jesus",
+            "Data Início": "01-01-2024",
+            "Data Fim": "01-01-2024",
+            "Freguesia": "Vila Chã da Braciosa",
+            "Concelho": "Miranda do Douro",
+            "Distrito": "Bragança",
+            "Descrição": "alvorada com gaiteiros, peditório com os mesmos acompanhando a Velha, o Bailador e a Bailadeira."
+        },
+        {
+            "Nome": "Festa do Santo Menino",
+            "Data Início": "01-01-2024",
+            "Data Fim": "01-01-2024",
+            "Freguesia": "Tó",
+            "Concelho": "Mogadouro",
+            "Distrito": "Bragança",
+            "Descrição": "gaiteiros e o Farandulo correndo as casas para tisnar as moças."
+        },
+        {
+            "Nome": "Festa dos Reis Magos com gaiteiros",
+            "Data Início": "06-01-2024",
+            "Data Fim": "06-01-2024",
+            "Freguesia": "Babe",
+            "Concelho": "Bragança",
+            "Distrito": "Bragança",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa da Mocidade",
+            "Data Início": "06-01-2024",
+            "Data Fim": "06-01-2024",
+            "Freguesia": "Rio de Onor",
+            "Concelho": "Bragança",
+            "Distrito": "Bragança",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa dos Reis Magos",
+            "Data Início": "06-01-2024",
+            "Data Fim": "06-01-2024",
+            "Freguesia": "Vale de Anta",
+            "Concelho": "Chaves",
+            "Distrito": "Vila Real",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa dos Reis",
+            "Data Início": "06-01-2024",
+            "Data Fim": "06-01-2024",
+            "Freguesia": "Vale de Salgueiro",
+            "Concelho": "Mirandela",
+            "Distrito": "Bragança",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de São Sebastião",
+            "Data Início": "20-01-2024",
+            "Data Fim": "20-01-2024",
+            "Freguesia": "Alturas do Barroso",
+            "Concelho": "Boticas",
+            "Distrito": "Vila Real",
+            "Descrição": "Sebastião, com missa, procissão e bodo de feijoada, cozinhada em potes de ferro, para todos os que aparecerem: As oferendas ao santo são constituídas essencialmente por enchidos: Festa com concertinas."
+        },
+        {
+            "Nome": "Festa de São Sebastião",
+            "Data Início": "20-01-2024",
+            "Data Fim": "20-01-2024",
+            "Freguesia": "Dornelas",
+            "Concelho": "Boticas",
+            "Distrito": "Braga",
+            "Descrição": "Sebastião, com bodo na chamada mesinha de S: Sebastião"
+        },
+        {
+            "Nome": "Festa de São Sebastião",
+            "Data Início": "20-01-2024",
+            "Data Fim": "20-01-2024",
+            "Freguesia": "Gimonde",
+            "Concelho": "Bragança",
+            "Distrito": "Bragança",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de São Sebastião",
+            "Data Início": "20-01-2024",
+            "Data Fim": "20-01-2024",
+            "Freguesia": "Paradela",
+            "Concelho": "Miranda do Douro",
+            "Distrito": "Bragança",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa dos Compadres e comadres",
+            "Data Início": "08-02-2024",
+            "Data Fim": "08-02-2024",
+            "Freguesia": "Pinhão",
+            "Concelho": "Alijó",
+            "Distrito": "Vila Real",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Domingo Gordo",
+            "Data Início": "Macedo de Cavaleiros",
+            "Data Fim": "Macedo de Cavaleiros",
+            "Freguesia": "Podence",
+            "Concelho": "Macedo de Cavaleiros",
+            "Distrito": "Bragança",
+            "Descrição": "Entrudo popular com caretos pelas ruas a chocalhar as moças."
+        },
+        {
+            "Nome": "Enterro do Entrudo",
+            "Data Início": "13-02-2024",
+            "Data Fim": "13-02-2024",
+            "Freguesia": "Freixo de Espada à Cinta",
+            "Concelho": "Freixo de Espada à Cinta",
+            "Distrito": "Bragança",
+            "Descrição": "Cortejo nocturno a cargo dos rapazes, que batem chocalhos e latas pelas ruas: No largo, queima do entrudo."
+        },
+        {
+            "Nome": "serração da velha",
+            "Data Início": "quarta-feira da terceira semana da Quaresma",
+            "Data Fim": "quarta-feira da terceira semana da Quaresma",
+            "Freguesia": "Vilar de Perdizes",
+            "Concelho": "Montalegre",
+            "Distrito": "Vila Real",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de São Lázaro",
+            "Data Início": "17-03-2024",
+            "Data Fim": "17-03-2024",
+            "Freguesia": "Vila Real",
+            "Concelho": "Vila Real",
+            "Distrito": "Vila Real",
+            "Descrição": "As moças solteiras podem um bom casamento vestindo-se de forma semelhante à imagem do santo: A fita vermelha que pende do braço de S: Lázaro é passado pelo rosto dos crentes, pois o santo é protector contra as doenças de pele."
+        },
+        {
+            "Nome": "Procissão dos Sete Passos",
+            "Data Início": "29-03-2024",
+            "Data Fim": "29-03-2024",
+            "Freguesia": "Freixo de Espada à Cinta",
+            "Concelho": "Freixo de Espada à Cinta",
+            "Distrito": "Bragança",
+            "Descrição": "Trata-se de uma procissão de penitentes, como também ocorre na Cova da Beira, em Lavacolhos e Enxabarda, concelho do Fundão: Homens encapuçados, arrastando correntes presas às pernas: Figura vestida de negro, a velhinha, traz vinho que distribui representando o sangue de Cristo: Em Domingo de Páscoa, após a procissão, queima do Judas."
+        },
+        {
+            "Nome": "Festa de Nossa Senhora dos Prazeres",
+            "Data Início": "07-04-2024",
+            "Data Fim": "07-04-2024",
+            "Freguesia": "Mateus",
+            "Concelho": "Vila Real",
+            "Distrito": "Vila Real",
+            "Descrição": "A missa celebra-se na capela do Palácio de Mateus: Seguem-se as tradicionais merendas."
+        },
+        {
+            "Nome": "",
+            "Data Início": "sem data",
+            "Data Fim": "sem data",
+            "Freguesia": "",
+            "Concelho": "",
+            "Distrito": "",
+            "Descrição": "Vila Verde, Alijó, Festa do Corpo de Deus. Passadeiras de flores. Procissão integrando as cruzes e estandartes de todas as paróquias do concelho."
+        },
+        {
+            "Nome": "Romaria de Santo António",
+            "Data Início": "13-06-2024",
+            "Data Fim": "13-06-2024",
+            "Freguesia": "Coelhoso",
+            "Concelho": "Bragança",
+            "Distrito": "Bragança",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Santo António ou da Carola",
+            "Data Início": "13-06-2024",
+            "Data Fim": "13-06-2024",
+            "Freguesia": "Covas do Barroso",
+            "Concelho": "Boticas",
+            "Distrito": "Vila Real",
+            "Descrição": "Festa religiosa e profana: Distribuição da carola (pão e vinho, previamente abençoados)."
+        },
+        {
+            "Nome": "Feira de São Pedro",
+            "Data Início": "24-06-2024",
+            "Data Fim": "24-06-2024",
+            "Freguesia": "Vila Real",
+            "Concelho": "Vila Real",
+            "Distrito": "Vila Real",
+            "Descrição": "ou dos Pucarinhos, por haver muito pucarinhos de barro à venda, sobretudo os barros negros de Bisalhães: Estes barros servem para o conhecido jogo popular do panelo."
+        },
+        {
+            "Nome": "Bom Jesus do Calvário",
+            "Data Início": "07-07-2024",
+            "Data Fim": "07-07-2024",
+            "Freguesia": "Vila Real",
+            "Concelho": "Vila Real",
+            "Distrito": "Vila Real",
+            "Descrição": "Procissão solene."
+        },
+        {
+            "Nome": "Senhora do Marão",
+            "Data Início": "14-07-2024",
+            "Data Fim": "14-07-2024",
+            "Freguesia": "Teixeira",
+            "Concelho": "Baião",
+            "Distrito": "Guarda",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora da Conceição",
+            "Data Início": "14-07-2024",
+            "Data Fim": "14-07-2024",
+            "Freguesia": "Pinhão",
+            "Concelho": "Alijó",
+            "Distrito": "Vila Real",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora do Amparo",
+            "Data Início": "28-07-2024",
+            "Data Fim": "28-07-2024",
+            "Freguesia": "Mirandela",
+            "Concelho": "Mirandela",
+            "Distrito": "Bragança",
+            "Descrição": "Missa de festa e procissão solene."
+        },
+        {
+            "Nome": "Festa de Santa Ana",
+            "Data Início": "04-08-2024",
+            "Data Fim": "04-08-2024",
+            "Freguesia": "Campeã",
+            "Concelho": "Vila Real",
+            "Distrito": "Vila Real",
+            "Descrição": "Procissão nocturna."
+        },
+        {
+            "Nome": "Festas do Concelho",
+            "Data Início": "primeiro fim-de-semana de Agosto",
+            "Data Fim": "primeiro fim-de-semana de Agosto",
+            "Freguesia": "Montalegre",
+            "Concelho": "Montalegre",
+            "Distrito": "Vila Real",
+            "Descrição": "Corridas de cavalos: Encontro de concertinas: Procissão."
+        },
+        {
+            "Nome": "Senhora do Nazo",
+            "Data Início": "11-08-2024",
+            "Data Fim": "11-08-2024",
+            "Freguesia": "Póvoa",
+            "Concelho": "Miranda do Douro",
+            "Distrito": "Bragança",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora da Assunção",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Vinhais",
+            "Concelho": "Vinhais",
+            "Distrito": "Bragança",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora da Assunção",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Torre de Moncorvo",
+            "Concelho": "Torre de Moncorvo",
+            "Distrito": "Bragança",
+            "Descrição": "Procissão solene: Arraial e bailes populares."
+        },
+        {
+            "Nome": "Senhora da Assunção",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Vilas Boas",
+            "Concelho": "Vila Flor",
+            "Distrito": "Bragança",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora do Salto",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Salto",
+            "Concelho": "Montalegre",
+            "Distrito": "Vila Real",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora do Castelo",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Algoso",
+            "Concelho": "Vimioso",
+            "Distrito": "Bragança",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Nossa Senhora da Livração",
+            "Data Início": "18-08-2024",
+            "Data Fim": "18-08-2024",
+            "Freguesia": "Boticas",
+            "Concelho": "Boticas",
+            "Distrito": "Vila Real",
+            "Descrição": "No sábado, procissão: No domingo arraial e festival de folclore: Fogo de artifício."
+        },
+        {
+            "Nome": "Festa de Santo António",
+            "Data Início": "18-08-2024",
+            "Data Fim": "18-08-2024",
+            "Freguesia": "Montesinho",
+            "Concelho": "Bragança",
+            "Distrito": "Bragança",
+            "Descrição": "Aldeia muito característica, com poucos habitantes: Festa com muita afluência."
+        },
+        {
+            "Nome": "Nossa Senhora dos Aflitos",
+            "Data Início": "25-08-2024",
+            "Data Fim": "25-08-2024",
+            "Freguesia": "Pegarinhos",
+            "Concelho": "Alijó",
+            "Distrito": "Vila Real",
+            "Descrição": "Na procissão, os andores são quadros vivos representando cenas bíblicas, a cargo dos populares que se oferecem para o efeito."
+        },
+        {
+            "Nome": "Senhora do Nazo",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Constantim",
+            "Concelho": "Miranda do Douro",
+            "Distrito": "Bragança",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora de Almodena",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Vila Real",
+            "Concelho": "Vila Real",
+            "Distrito": "Vila Real",
+            "Descrição": "Procissão no dia 7: Feira de gado."
+        },
+        {
+            "Nome": "Romaria de Nossa Senhora dos Anúncios",
+            "Data Início": "12-09-2024",
+            "Data Fim": "12-09-2024",
+            "Freguesia": "Vilarelho",
+            "Concelho": "Alfândega da Fé",
+            "Distrito": "Bragança",
+            "Descrição": "Procissão, arraial, fogo de artifício."
+        },
+        {
+            "Nome": "Senhora da Pena",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Mouçós",
+            "Concelho": "Vila Real",
+            "Distrito": "Vila Real",
+            "Descrição": "A povoação gaba-se de apresentar na procissão o maior andor do mundo, com cerca de vinte metros de altura: O seu transporte durante a procissão tornou-se um espectáculo que atrai milhares de forasteiros: Corrida cavalos: Zés-Pereiras e bailes populares."
+        }
+    ],
+    "ribatejo": [
+        {
+            "Nome": "festa de São Sebastião",
+            "Data Início": "20-01-2024",
+            "Data Fim": "20-01-2024",
+            "Freguesia": "Amiais de Baixo",
+            "Concelho": "Santarém",
+            "Distrito": "Santarém",
+            "Descrição": "Sebastião: Na noite de sábado, procissão dos archotes que se diz ser a maior do mundo."
+        },
+        {
+            "Nome": "Feira de S. Matias",
+            "Data Início": "02-06-2024",
+            "Data Fim": "02-06-2024",
+            "Freguesia": "Abrantes",
+            "Concelho": "Abrantes",
+            "Distrito": "Santarém",
+            "Descrição": "produtos regionais e artesanato. Festival de gastronomia durante as semanas que dura a feira."
+        },
+        {
+            "Nome": "Festas de S. José",
+            "Data Início": "19-03-2024",
+            "Data Fim": "19-03-2024",
+            "Freguesia": "Santarém",
+            "Concelho": "Santarém",
+            "Distrito": "Santarém",
+            "Descrição": "além da componente religiosa com procissão, eventos taurinos e cortejo etnográfico."
+        },
+        {
+            "Nome": "Procissão dos Fogaréus",
+            "Data Início": "5ª Feira Santa",
+            "Data Fim": "5ª Feira Santa",
+            "Freguesia": "Sardoal",
+            "Concelho": "Sardoal",
+            "Distrito": "Santarém",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa da Aleluia",
+            "Data Início": "31-03-2024",
+            "Data Fim": "31-03-2024",
+            "Freguesia": "Cem Soldos",
+            "Concelho": "Tomar",
+            "Distrito": "Santarém",
+            "Descrição": "Celebração da ressurreição de Nosso Senhor, com a manifestação popular das aleluias, flores amarelas ornamentando canas em forma de cruz que, no final do cortejo, são destruídas simbolizando a matança dos judeus, nome genérico que se dá a toda esta festa da Aleluia."
+        },
+        {
+            "Nome": "Festa da Senhora da Boa Viagem",
+            "Data Início": "2ª feira de Páscoa",
+            "Data Fim": "2ª feira de Páscoa",
+            "Freguesia": "Constância",
+            "Concelho": "Constância",
+            "Distrito": "Santarém",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Procissão dos Passos do Senhor",
+            "Data Início": "11-02-2024",
+            "Data Fim": "11-02-2024",
+            "Freguesia": "Mação",
+            "Concelho": "Mação",
+            "Distrito": "Santarém",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Círio dos marítimos à Senhora da Atalaia",
+            "Data Início": "01-04-2024",
+            "Data Fim": "01-04-2024",
+            "Freguesia": "Alcochete",
+            "Concelho": "Alcochete",
+            "Distrito": "Santarém",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa e feira do Santíssimo Milagre",
+            "Data Início": "07-04-2024",
+            "Data Fim": "07-04-2024",
+            "Freguesia": "Santarém",
+            "Concelho": "Santarém",
+            "Distrito": "Santarém",
+            "Descrição": "Procissão solene."
+        },
+        {
+            "Nome": "Festa dos Fazendeiros",
+            "Data Início": "07-04-2024",
+            "Data Fim": "07-04-2024",
+            "Freguesia": "Pontével",
+            "Concelho": "Cartaxo",
+            "Distrito": "Santarém",
+            "Descrição": "cortejo etnográfico de grande impacto."
+        },
+        {
+            "Nome": "Romaria do Senhor da Boa Morte",
+            "Data Início": "09-05-2024",
+            "Data Fim": "09-05-2024",
+            "Freguesia": "Vila Franca de Xira",
+            "Concelho": "Vila Franca de Xira",
+            "Distrito": "Lisboa",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria do Espírito Santo",
+            "Data Início": "19-05-2024",
+            "Data Fim": "19-05-2024",
+            "Freguesia": "Dornes",
+            "Concelho": "Ferreira do Zêzere",
+            "Distrito": "Santarém",
+            "Descrição": "Círios das freguesias vizinhas."
+        },
+        {
+            "Nome": "Festa do Espírito Santo",
+            "Data Início": "19-05-2024",
+            "Data Fim": "19-05-2024",
+            "Freguesia": "Carregueiros",
+            "Concelho": "Tomar",
+            "Distrito": "Santarém",
+            "Descrição": "Coroação do imperador, cortejo das fogaças, bodo."
+        },
+        {
+            "Nome": "Festa do Divino Espírito Santo",
+            "Data Início": "19-05-2024",
+            "Data Fim": "19-05-2024",
+            "Freguesia": "Meia Via",
+            "Concelho": "Torres Novas",
+            "Distrito": "Santarém",
+            "Descrição": "Cortejo dos tabuleiros: Distribuição do bodo."
+        },
+        {
+            "Nome": "Festa do Bodo ou do Divino Espírito Santo",
+            "Data Início": "06-06-2024",
+            "Data Fim": "06-06-2024",
+            "Freguesia": "Azinhaga",
+            "Concelho": "Golegã",
+            "Distrito": "Santarém",
+            "Descrição": "cortejo de recolha do pão, bênção do bodo e sua distribuição. Celebrações religiosas. Largadas de touros."
+        },
+        {
+            "Nome": "Festas da Ascensão (toda a semana)",
+            "Data Início": "quinta-feira da Ascensão",
+            "Data Fim": "quinta-feira da Ascensão",
+            "Freguesia": "Chamusca",
+            "Concelho": "Chamusca",
+            "Distrito": "Santarém",
+            "Descrição": "artesanato, folclore, touradas."
+        },
+        {
+            "Nome": "Feira Nacional de Agricultura",
+            "Data Início": "10-06-2024",
+            "Data Fim": "10-06-2024",
+            "Freguesia": "Santarém",
+            "Concelho": "Santarém",
+            "Distrito": "Santarém",
+            "Descrição": "Mostras gastronómicas: Artesanato de todo o país: Exposição de máquinas agrícolas."
+        },
+        {
+            "Nome": "Festa da sardinha assada",
+            "Data Início": "último fim-de-semana de Junho",
+            "Data Fim": "último fim-de-semana de Junho",
+            "Freguesia": "Benavente",
+            "Concelho": "Benavente",
+            "Distrito": "Santarém",
+            "Descrição": "Exibição de campinos: Bodo de sardinha assada."
+        },
+        {
+            "Nome": "Festas de São Pedro",
+            "Data Início": "29-06-2024",
+            "Data Fim": "29-06-2024",
+            "Freguesia": "Montijo",
+            "Concelho": "Montijo",
+            "Distrito": "Santarém",
+            "Descrição": "Pedro."
+        },
+        {
+            "Nome": "Festa dos Tabuleiros",
+            "Data Início": "14-07-2024",
+            "Data Fim": "14-07-2024",
+            "Freguesia": "Tomar",
+            "Concelho": "Tomar",
+            "Distrito": "Santarém",
+            "Descrição": "o das Coroas e o do Mordomo, que exibe os bois do Espírito Santo. As ruas populares são ornamentadas com milhares de flores de papel. A festa termina com o bodo, oferta de alimentos à população."
+        },
+        {
+            "Nome": "Festas do Colete Encarnado",
+            "Data Início": "primeiro fim-de-semana de Julho",
+            "Data Fim": "primeiro fim-de-semana de Julho",
+            "Freguesia": "Vila Franca de Xira",
+            "Concelho": "Vila Franca de Xira",
+            "Distrito": "Lisboa",
+            "Descrição": "missa solene com música à maneira andaluzia. Fados. Homenagem, concentração e corrida de campinos. Artesanato, bandas filarmónicas pelas ruas. Eventos taurinos. Noite da sardinha assada."
+        },
+        {
+            "Nome": "Festa de Nossa Senhora da Paz",
+            "Data Início": "primeiro fim-de-semana de Agosto",
+            "Data Fim": "primeiro fim-de-semana de Agosto",
+            "Freguesia": "Benavente",
+            "Concelho": "Benavente",
+            "Distrito": "Santarém",
+            "Descrição": "procissão da padroeira, peditório para a festa e entrega da bandeira aos festeiros do ano seguinte. Touradas."
+        },
+        {
+            "Nome": "Festa do Barrete Verde",
+            "Data Início": "segundo fim-de-semana de Agosto",
+            "Data Fim": "segundo fim-de-semana de Agosto",
+            "Freguesia": "Alcochete",
+            "Concelho": "Alcochete",
+            "Distrito": "Santarém",
+            "Descrição": "largadas e corridas de touros; sardinhada colectiva; arruadas; Procissão em terra e no mar em honra de Nossa Senhora da Vida."
+        },
+        {
+            "Nome": "Festa de Nossa Senhora do Castelo",
+            "Data Início": "08-06-2024",
+            "Data Fim": "08-06-2024",
+            "Freguesia": "Coruche",
+            "Concelho": "Coruche",
+            "Distrito": "Santarém",
+            "Descrição": "Festa religiosa: Eventos taurinos, com touradas e largadas de touros: Cortejo etnográfico e festival de folclore."
+        },
+        {
+            "Nome": "Círios à Senhora da Atalaia",
+            "Data Início": "25-08-2024",
+            "Data Fim": "25-08-2024",
+            "Freguesia": "Atalaia",
+            "Concelho": "Montijo",
+            "Distrito": "Santarém",
+            "Descrição": "À chegada, cada círio realiza uma procissão que começa na igreja e dão a volta no cruzeiro: Pernoitam nas casas dos círios: à noite, bailaricos com os “gaiteiros”, assim designados mesmo agora que já se não ouvem as gaitas-de-foles, mas sim os acordeonistas: No último dia, arrematação das bandeiras, cujo produto servirá para suportar as despesas da festa do próximo ano."
+        },
+        {
+            "Nome": "Círio à Senhora da Piedade",
+            "Data Início": "01-09-2024",
+            "Data Fim": "01-09-2024",
+            "Freguesia": "Tomar",
+            "Concelho": "Tomar",
+            "Distrito": "Santarém",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora da Boa Viagem",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Moita",
+            "Concelho": "Moita",
+            "Distrito": "Santarém",
+            "Descrição": "largadas e corridas de touros; banquete colectivo na tarde do fogareiro; procissão com bênção dos barcos."
+        },
+        {
+            "Nome": "círiode Nossa Senhora da Piedade",
+            "Data Início": "primeiro fim-de-semana de Setembro",
+            "Data Fim": "primeiro fim-de-semana de Setembro",
+            "Freguesia": "Tomar",
+            "Concelho": "Tomar",
+            "Distrito": "Santarém",
+            "Descrição": "O círio, vela votiva, também é transportado a cavalo: Procissão subindo as escadas até à capela e missa."
+        },
+        {
+            "Nome": "feira anual",
+            "Data Início": "06-10-2024",
+            "Data Fim": "06-10-2024",
+            "Freguesia": "Vila Franca de Xira",
+            "Concelho": "Vila Franca de Xira",
+            "Distrito": "Lisboa",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Feira de Santa Iria",
+            "Data Início": "20-10-2024",
+            "Data Fim": "20-10-2024",
+            "Freguesia": "Tomar",
+            "Concelho": "Tomar",
+            "Distrito": "Santarém",
+            "Descrição": "O momento mais importante ocorre na sexta-feira anterior, em que se invoca o martírio de Santa Iria: Procissão e lançamento de pétalas ao Rio Nabão."
+        },
+        {
+            "Nome": "Festival Nacional de Gastronomia",
+            "Data Início": "10-10-2024",
+            "Data Fim": "10-10-2024",
+            "Freguesia": "Santarém",
+            "Concelho": "Santarém",
+            "Distrito": "Santarém",
+            "Descrição": "mostra de pratos típicos de todas as regiões do país. Tasquinhas e provas de vinho."
+        },
+        {
+            "Nome": "Feira dos Santos",
+            "Data Início": "01-11-2024",
+            "Data Fim": "01-11-2024",
+            "Freguesia": "Mação",
+            "Concelho": "Mação",
+            "Distrito": "Santarém",
+            "Descrição": "a mais importante festividade desta vila"
+        },
+        {
+            "Nome": "Feira de Todos os Santos",
+            "Data Início": "01-11-2024",
+            "Data Fim": "01-11-2024",
+            "Freguesia": "Cartaxo",
+            "Concelho": "Cartaxo",
+            "Distrito": "Santarém",
+            "Descrição": "Abertura da água-pé, mostra de vinhos e gastronomia: Expo-Cartaxo."
+        },
+        {
+            "Nome": "Festa de São Martinho",
+            "Data Início": "11-11-2024",
+            "Data Fim": "11-11-2024",
+            "Freguesia": "Golegã",
+            "Concelho": "Golegã",
+            "Distrito": "Santarém",
+            "Descrição": "Martinho, também conhecida por Feira do Cavalo, que se prolonga por três semanas, com exibição de cavalos, cavaleiros, amazonas e charretes: Concursos hípicos: Mostra do Puro Sangue Lusitano: No dia 11, cortejo e bênção dos romeiros de S: Martinho, a cavalo."
+        },
+        {
+            "Nome": "Festa de Nossa Senhora da Conceição",
+            "Data Início": "08-12-2024",
+            "Data Fim": "08-12-2024",
+            "Freguesia": "Sabacheira",
+            "Concelho": "Tomar",
+            "Distrito": "Santarém",
+            "Descrição": "Missa, procissão e leilão das promessas"
+        }
+    ],
+    "minho": [
+        {
+            "Nome": "Festa de São Sebastião",
+            "Data Início": "20-01-2024",
+            "Data Fim": "20-01-2024",
+            "Freguesia": "Gondiães",
+            "Concelho": "Cabeceiras de Basto",
+            "Distrito": "Braga",
+            "Descrição": "Sebastião, santo contra a fome, a peste e a guerra: Procissão, bênção dos alimentos e bodo."
+        },
+        {
+            "Nome": "enterro do Arturinho",
+            "Data Início": "13-02-2024",
+            "Data Fim": "13-02-2024",
+            "Freguesia": "Taipas",
+            "Concelho": "Guimarães",
+            "Distrito": "Braga",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Procissão dos Passos",
+            "Data Início": "24-03-2024",
+            "Data Fim": "24-03-2024",
+            "Freguesia": "Tamel",
+            "Concelho": "Barcelos",
+            "Distrito": "Braga",
+            "Descrição": "com interesse especial devido às representações teatrais sobre a Paixão do Senhor"
+        },
+        {
+            "Nome": "Procissão dos Passos",
+            "Data Início": "24-03-2024",
+            "Data Fim": "24-03-2024",
+            "Freguesia": "Braga",
+            "Concelho": "Braga",
+            "Distrito": "Braga",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Procissão dos Passos",
+            "Data Início": "24-03-2024",
+            "Data Fim": "24-03-2024",
+            "Freguesia": "Barcelos",
+            "Concelho": "Barcelos",
+            "Distrito": "Braga",
+            "Descrição": ""
+        },
+        {
+            "Nome": "auto do Enterro e crucifixação do Senhor",
+            "Data Início": "24-03-2024",
+            "Data Fim": "24-03-2024",
+            "Freguesia": "Vilarinho",
+            "Concelho": "Vila Verde",
+            "Distrito": "Porto",
+            "Descrição": "com centenas de crianças representando figuras bíblicas"
+        },
+        {
+            "Nome": "Procissão dos Passos",
+            "Data Início": "24-03-2024",
+            "Data Fim": "24-03-2024",
+            "Freguesia": "Rates",
+            "Concelho": "Póvoa de Varzim",
+            "Distrito": "Porto",
+            "Descrição": ""
+        },
+        {
+            "Nome": "celebrações da Semana Santa de que se destacam a do Ecce Homo",
+            "Data Início": "Semana Santa",
+            "Data Fim": "Semana Santa",
+            "Freguesia": "Braga",
+            "Concelho": "Braga",
+            "Distrito": "Braga",
+            "Descrição": "com farricocos empunhando archotes: a Procissão da Burrinha (quarta-feira) e a de Sexta-Feira Santa: ou do Enterro do Senhor"
+        },
+        {
+            "Nome": "Romaria do Bom Jesus de Fão",
+            "Data Início": "07-04-2024",
+            "Data Fim": "07-04-2024",
+            "Freguesia": "Fão",
+            "Concelho": "Esposende",
+            "Distrito": "Braga",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria do Santo do Monte",
+            "Data Início": "07-04-2024",
+            "Data Fim": "07-04-2024",
+            "Freguesia": "Louro",
+            "Concelho": "Famalicão",
+            "Distrito": "Braga",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria do Bom Jesus",
+            "Data Início": "08-04-2024",
+            "Data Fim": "08-04-2024",
+            "Freguesia": "Não",
+            "Concelho": "Esposende",
+            "Distrito": "Braga",
+            "Descrição": "Festival de fanfarras."
+        },
+        {
+            "Nome": "Romaria de Nossa Senhora da Cabeça",
+            "Data Início": "09-04-2024",
+            "Data Fim": "09-04-2024",
+            "Freguesia": "Cristelo Covo",
+            "Concelho": "Valença",
+            "Distrito": "Viana do Castelo",
+            "Descrição": "Após o compasso pascal, cerimónia do Lanço da Cruz: Procissão no rio Minho até à banda de além, onde a esperam os devotos espanhóis."
+        },
+        {
+            "Nome": "Festa das Cruzes",
+            "Data Início": "03-05-2024",
+            "Data Fim": "03-05-2024",
+            "Freguesia": "Barcelos",
+            "Concelho": "Barcelos",
+            "Distrito": "Braga",
+            "Descrição": "Corrida de cavalos: Cortejo etnográfico: Batalha de flores: Fogo de artifício na ponte medieval sobre o rio Cávado"
+        },
+        {
+            "Nome": "ruas atapetadas de flores por onde passa a procissão",
+            "Data Início": "03-05-2024",
+            "Data Fim": "03-05-2024",
+            "Freguesia": "Serzedelo",
+            "Concelho": "Guimarães",
+            "Distrito": "Braga",
+            "Descrição": "No trajecto encontram-se levantadas 16 cruzes ornamentadas com flores, junto às quais se entoam cânticos religiosos"
+        },
+        {
+            "Nome": "Festa da Senhora da Rosa",
+            "Data Início": "02-05-2024",
+            "Data Fim": "02-05-2024",
+            "Freguesia": "Vila Franca do Lima",
+            "Concelho": "Viana do Castelo",
+            "Distrito": "Viana do Castelo",
+            "Descrição": "Cortejo das rosas, em que as mordomas se apresentam ricamente vestidas à forma regional e transportando à cabeça monumentais cestos floridos, para oferecer a Nossa Senhora: O mesmo na procissão religiosa."
+        },
+        {
+            "Nome": "Festa do Senhor dos Aflitos",
+            "Data Início": "03-05-2024",
+            "Data Fim": "03-05-2024",
+            "Freguesia": "Nespereira",
+            "Concelho": "Guimarães",
+            "Distrito": "Guarda",
+            "Descrição": "Procissão do clamor, em que se entoam cânticos religiosos pedindo protecção para as colheitas."
+        },
+        {
+            "Nome": "Romaria da Senhora do Amparo",
+            "Data Início": "03-05-2024",
+            "Data Fim": "03-05-2024",
+            "Freguesia": "Cardielos",
+            "Concelho": "Viana do Castelo",
+            "Distrito": "Viana do Castelo",
+            "Descrição": "Arraial popular."
+        },
+        {
+            "Nome": "Festa da Santa Cruz ou dos Andores Floridos",
+            "Data Início": "05-05-2024",
+            "Data Fim": "05-05-2024",
+            "Freguesia": "Alvarães",
+            "Concelho": "Viana do Castelo",
+            "Distrito": "Viana do Castelo",
+            "Descrição": "Os andores são ricamente ornamentados com flores, tal como as cruzes de granito por onde passa a procissão: Tapetes de flores pelos caminhos."
+        },
+        {
+            "Nome": "Romaria de São Gonçalo",
+            "Data Início": "01-06-2024",
+            "Data Fim": "01-06-2024",
+            "Freguesia": "Amarante",
+            "Concelho": "Amarante",
+            "Distrito": "Porto",
+            "Descrição": "Gonçalo, santo considerado casamenteiro pelas moças casadoiras da região: Procissão solene: Arraial com exibição de grupos de Zés-Pereiras."
+        },
+        {
+            "Nome": "peregrinação à Senhora do Sameiro",
+            "Data Início": "02-06-2024",
+            "Data Fim": "02-06-2024",
+            "Freguesia": "Braga",
+            "Concelho": "Braga",
+            "Distrito": "Braga",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa do Espírito Santo",
+            "Data Início": "19-05-2024",
+            "Data Fim": "19-05-2024",
+            "Freguesia": "Barrosas",
+            "Concelho": "Felgueiras",
+            "Distrito": "Porto",
+            "Descrição": "Cortejo de oferendas: Na 2ª feira, procissão integrando os cânticos religiosos denominados “clamores”."
+        },
+        {
+            "Nome": "Romaria da Senhora da Encarnação",
+            "Data Início": "19-05-2024",
+            "Data Fim": "19-05-2024",
+            "Freguesia": "Vila Mou",
+            "Concelho": "Viana do Castelo",
+            "Distrito": "Viana do Castelo",
+            "Descrição": "Procissão com o “coro das virgens”: Cortejo das mordomas com os seus trajos regionais: No cortejo e na procissão passam debaixo dos tradicionais arcos de romaria: Arraial festivo."
+        },
+        {
+            "Nome": "Festa da Senhora da Rocha",
+            "Data Início": "26-05-2024",
+            "Data Fim": "26-05-2024",
+            "Freguesia": "Nogueira",
+            "Concelho": "Viana do Castelo",
+            "Distrito": "Bragança",
+            "Descrição": "Moças vestidas em trajos regionais: Na procissão, andor com um enorme bolo, posteriormente benzido e distribuído ao povo."
+        },
+        {
+            "Nome": "Romaria de Santo António",
+            "Data Início": "13-06-2024",
+            "Data Fim": "13-06-2024",
+            "Freguesia": "Mixões",
+            "Concelho": "Vila Verde",
+            "Distrito": "Braga",
+            "Descrição": "Arraial nocturno com fogueiras: Procissão: Os lavradores trazem os seus gados que dão as voltas rituais à capela do santo."
+        },
+        {
+            "Nome": "Festa do Corpo de Deus",
+            "Data Início": "Dia do Corpo de Deus",
+            "Data Fim": "Dia do Corpo de Deus",
+            "Freguesia": "Ponte de Lima",
+            "Concelho": "Ponte de Lima",
+            "Distrito": "Viana do Castelo",
+            "Descrição": "Pelas ruas é corrida a chamada vaca das cordas."
+        },
+        {
+            "Nome": "Festas de Santo António",
+            "Data Início": "13-06-2024",
+            "Data Fim": "13-06-2024",
+            "Freguesia": "Amares",
+            "Concelho": "Amares",
+            "Distrito": "Braga",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festas de Santo António",
+            "Data Início": "13-06-2024",
+            "Data Fim": "13-06-2024",
+            "Freguesia": "Vila Verde",
+            "Concelho": "Figueira da Foz",
+            "Distrito": "Coimbra",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festas de Santo António",
+            "Data Início": "13-06-2024",
+            "Data Fim": "13-06-2024",
+            "Freguesia": "Famalicão",
+            "Concelho": "Guarda",
+            "Distrito": "Guarda",
+            "Descrição": "Na noite da véspera, marchas antoninas: Salto ritual das fogueiras de Santo António: Concurso de cascatas: Rusgas populares: Junto à capela do taumaturgo, depois da missa de festa, distribuição do pão bento de Santo António."
+        },
+        {
+            "Nome": "Festa do Corpus Christi",
+            "Data Início": "Dia do Corpo de Deus",
+            "Data Fim": "Dia do Corpo de Deus",
+            "Freguesia": "Monção",
+            "Concelho": "Monção",
+            "Distrito": "Viana do Castelo",
+            "Descrição": "Procissão que inclui o carro das ervas, o boi bento, o S: Jorge, que, no final, trava um combate com a Coca, dragão símbolo do Mal."
+        },
+        {
+            "Nome": "Ronda da Lapinha",
+            "Data Início": "03-06-2024",
+            "Data Fim": "03-06-2024",
+            "Freguesia": "Calvos",
+            "Concelho": "Guimarães",
+            "Distrito": "Braga",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festividades de São João",
+            "Data Início": "24-06-2024",
+            "Data Fim": "24-06-2024",
+            "Freguesia": "Braga",
+            "Concelho": "Braga",
+            "Distrito": "Braga",
+            "Descrição": "João: Rusgas nocturnas pela cidade a caminho da capelinha de S: João: Carro e dança dos pastores: Carro das ervas: Dança do Rei David: Procissão no dia 24."
+        },
+        {
+            "Nome": "Romaria de São Torcato",
+            "Data Início": "07-07-2024",
+            "Data Fim": "07-07-2024",
+            "Freguesia": "Torcato",
+            "Concelho": "Guimarães",
+            "Distrito": "Braga",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria de São Bento",
+            "Data Início": "14-07-2024",
+            "Data Fim": "14-07-2024",
+            "Freguesia": "Vizela",
+            "Concelho": "Guimarães",
+            "Distrito": "Braga",
+            "Descrição": "das Peras"
+        },
+        {
+            "Nome": "Romaria de São Bento",
+            "Data Início": "primeiro fim-de-semana de Julho",
+            "Data Fim": "primeiro fim-de-semana de Julho",
+            "Freguesia": "Cossourado",
+            "Concelho": "Paredes de Coura",
+            "Distrito": "Braga",
+            "Descrição": "da Porta Aberta: Cumprimento de promessas pelos tradicionais romeirinhos: Exibição de ranchos folclóricos e bandas filarmónicas."
+        },
+        {
+            "Nome": "Romaria de Nossa Senhora de Antime",
+            "Data Início": "14-07-2024",
+            "Data Fim": "14-07-2024",
+            "Freguesia": "Fafe",
+            "Concelho": "Fafe",
+            "Distrito": "Braga",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Santa Maria Madalena ou Clamor da Roda",
+            "Data Início": "21-07-2024",
+            "Data Fim": "21-07-2024",
+            "Freguesia": "Vale de Bouro",
+            "Concelho": "Celorico de Basto",
+            "Distrito": "Braga",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria da Senhora do Minho",
+            "Data Início": "21-07-2024",
+            "Data Fim": "21-07-2024",
+            "Freguesia": "Alto da Serra de Arga",
+            "Concelho": "Viana do Castelo",
+            "Distrito": "Viana do Castelo",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festas do Senhor do Cruzeiro e das Necessidades",
+            "Data Início": "04-07-2024",
+            "Data Fim": "04-07-2024",
+            "Freguesia": "Lanheses",
+            "Concelho": "Viana do Castelo",
+            "Distrito": "Viana do Castelo",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria de S. Bento da Porta Aberta",
+            "Data Início": "12-08-2024",
+            "Data Fim": "12-08-2024",
+            "Freguesia": "Rio Caldo",
+            "Concelho": "Gerês",
+            "Distrito": "Braga",
+            "Descrição": "noitada festiva com baile popular no arraial e cantares ao desafio."
+        },
+        {
+            "Nome": "Festa de Nossa Senhora das Neves",
+            "Data Início": "05-08-2024",
+            "Data Fim": "05-08-2024",
+            "Freguesia": "Neves",
+            "Concelho": "Viana do Castelo",
+            "Distrito": "Viana do Castelo",
+            "Descrição": "Procissão solene: Auto popular de Floripes ou Comédia do Imperador Carlos Magno e dos Doze Pares de França, de origem carolíngia."
+        },
+        {
+            "Nome": "Festas Gualterianas",
+            "Data Início": "primeiro fim-de-semana de Agosto",
+            "Data Fim": "primeiro fim-de-semana de Agosto",
+            "Freguesia": "Guimarães",
+            "Concelho": "Guimarães",
+            "Distrito": "Braga",
+            "Descrição": "Gualter: Cortejo do linho e Batalha de Flores."
+        },
+        {
+            "Nome": "procissão solene",
+            "Data Início": "segundo fim-de-semana de Agosto: Festa de Santa Rita de Cássia",
+            "Data Fim": "segundo fim-de-semana de Agosto: Festa de Santa Rita de Cássia",
+            "Freguesia": "Caminha",
+            "Concelho": "Caminha",
+            "Distrito": "Viana do Castelo",
+            "Descrição": "Arruadas de bombos e Zés-Pereiras: Desfile de trajos regionais: Sábado à noite, rusgas e bailes populares à concertina: Fogo de artifício."
+        },
+        {
+            "Nome": "Romaria de Santa Marta de Portuzelo",
+            "Data Início": "segundo fim-de-semana de Agosto",
+            "Data Fim": "segundo fim-de-semana de Agosto",
+            "Freguesia": "Santa Marta de Portuzelo",
+            "Concelho": "Viana do Castelo",
+            "Distrito": "Viana do Castelo",
+            "Descrição": "Arruadas com bombos e Zés-Pereiras: Cortejo etnográfico."
+        },
+        {
+            "Nome": "Nossa Senhora das Dores",
+            "Data Início": "segundo fim-de-semana de Agosto",
+            "Data Fim": "segundo fim-de-semana de Agosto",
+            "Freguesia": "Monção",
+            "Concelho": "Monção",
+            "Distrito": "Viana do Castelo",
+            "Descrição": "Arruadas com bombos e gaitas-de-foles: Exibição de ranchos folclóricos: Procissão no domingo."
+        },
+        {
+            "Nome": "Senhora do Amparo",
+            "Data Início": "segundo fim-de-semana de Agosto",
+            "Data Fim": "segundo fim-de-semana de Agosto",
+            "Freguesia": "Apúlia",
+            "Concelho": "Esposende",
+            "Distrito": "Braga",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria de Nossa Senhora das Neves da Lagoa",
+            "Data Início": "08-06-2024",
+            "Data Fim": "08-06-2024",
+            "Freguesia": "Lagoa",
+            "Concelho": "Fafe",
+            "Distrito": "Bragança",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria da Senhora Aparecida",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Balugães",
+            "Concelho": "Barcelos",
+            "Distrito": "Braga",
+            "Descrição": "Cumprimento de promessas e procissão solene."
+        },
+        {
+            "Nome": "Senhora das Dores",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Soajo",
+            "Concelho": "Arcos de Valdevez",
+            "Distrito": "Viana do Castelo",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora da Abadia",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Santa Maria de Bouro",
+            "Concelho": "Amares",
+            "Distrito": "Braga",
+            "Descrição": "Procissão solene."
+        },
+        {
+            "Nome": "Romaria da Senhora da Agonia",
+            "Data Início": "20-08-2024",
+            "Data Fim": "20-08-2024",
+            "Freguesia": "Viana do Castelo",
+            "Concelho": "Viana do Castelo",
+            "Distrito": "Viana do Castelo",
+            "Descrição": "Procissão solene: Cortejo etnográfico: Bombos, gigantones, Zés-Pereiras: Desfile das mordomas, moças solteiras exibindo os seus ouros de família ao peito: Festa do Traje: Procissão no mar: Fogo de artifício no rio Lima."
+        },
+        {
+            "Nome": "Romaria de São Bartolomeu",
+            "Data Início": "24-08-2024",
+            "Data Fim": "24-08-2024",
+            "Freguesia": "Bartolomeu do Mar",
+            "Concelho": "Esposende",
+            "Distrito": "Braga",
+            "Descrição": "do Mar: Banho santo: Procissão na praia: Oferendas de galinhas pretas."
+        },
+        {
+            "Nome": "Romaria de São Bartolomeu",
+            "Data Início": "24-08-2024",
+            "Data Fim": "24-08-2024",
+            "Freguesia": "Ponte da Barca",
+            "Concelho": "Ponte da Barca",
+            "Distrito": "Viana do Castelo",
+            "Descrição": "Bartolomeu: Rusgas e bailes populares durante a noitada: Cantares ao desafio: Cortejo etnográfico."
+        },
+        {
+            "Nome": "Romaria de São João",
+            "Data Início": "29-08-2024",
+            "Data Fim": "29-08-2024",
+            "Freguesia": "Arga de S. João",
+            "Concelho": "Caminha",
+            "Distrito": "Viana do Castelo",
+            "Descrição": "de Arga, comemorativa da morte do Santo Precursor: Rusgas populares, cantares ao desafio e bailes populares durante a noitada."
+        },
+        {
+            "Nome": "Senhora da Guia",
+            "Data Início": "18-08-2024",
+            "Data Fim": "18-08-2024",
+            "Freguesia": "Apúlia",
+            "Concelho": "Esposende",
+            "Distrito": "Braga",
+            "Descrição": ""
+        },
+        {
+            "Nome": "peregrinação estatutária à Senhora do Sameiro",
+            "Data Início": "25-08-2024",
+            "Data Fim": "25-08-2024",
+            "Freguesia": "Braga",
+            "Concelho": "Braga",
+            "Distrito": "Braga",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Santa Justa",
+            "Data Início": "25-08-2024",
+            "Data Fim": "25-08-2024",
+            "Freguesia": "Negreiros",
+            "Concelho": "Barcelos",
+            "Distrito": "Braga",
+            "Descrição": "Tradição pitoresca"
+        },
+        {
+            "Nome": "Romaria da Senhora da Peneda",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Gavieira",
+            "Concelho": "Arcos de Valdevez",
+            "Distrito": "Viana do Castelo",
+            "Descrição": "Noitada com bailes populares ao som das concertinas: Procissão desce o monumental escadório e regressa ao santuário."
+        },
+        {
+            "Nome": "Festa de Nossa Senhora da Bonança",
+            "Data Início": "segundo fim-de-semana de Setembro",
+            "Data Fim": "segundo fim-de-semana de Setembro",
+            "Freguesia": "Vila Praia de Âncora",
+            "Concelho": "Caminha",
+            "Distrito": "Viana do Castelo",
+            "Descrição": "Na quinta-feira de festa, procissão no mar até ao Forte da Ínsua: Domingo"
+        },
+        {
+            "Nome": "Feiras Novas",
+            "Data Início": "20 de Setembro (ultimamente segundo fim-de-semana de Setembro)",
+            "Data Fim": "20 de Setembro (ultimamente segundo fim-de-semana de Setembro)",
+            "Freguesia": "Ponte de Lima",
+            "Concelho": "Ponte de Lima",
+            "Distrito": "Viana do Castelo",
+            "Descrição": "Rusgas, concertinas e cantares ao desafio pelas ruas do casco histórico: Feira de gado: Cortejo etnográfico: Corrida de cavalos."
+        },
+        {
+            "Nome": "Festa de São Miguel",
+            "Data Início": "20-09-2024",
+            "Data Fim": "20-09-2024",
+            "Freguesia": "Cabeceiras de Basto",
+            "Concelho": "Cabeceiras de Basto",
+            "Distrito": "Braga",
+            "Descrição": "ou Festa das Colheitas: Desfile de gigantones e Zés-Pereiras."
+        },
+        {
+            "Nome": "Senhora da Saúde",
+            "Data Início": "01-09-2024",
+            "Data Fim": "01-09-2024",
+            "Freguesia": "Lanhelas",
+            "Concelho": "Caminha",
+            "Distrito": "Viana do Castelo",
+            "Descrição": "Procissão solene: Especialidade gastronómica"
+        },
+        {
+            "Nome": "Senhora da Graça",
+            "Data Início": "01-09-2024",
+            "Data Fim": "01-09-2024",
+            "Freguesia": "Mondim de Basto",
+            "Concelho": "Mondim de Basto",
+            "Distrito": "Vila Real",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria de Nossa Senhora do Porto de Ave",
+            "Data Início": "01-09-2024",
+            "Data Fim": "01-09-2024",
+            "Freguesia": "Porto de Ave",
+            "Concelho": "Póvoa de Lanhoso",
+            "Distrito": "Braga",
+            "Descrição": "Procissão das velas."
+        },
+        {
+            "Nome": "Feira Grande de São Miguel",
+            "Data Início": "29-09-2024",
+            "Data Fim": "29-09-2024",
+            "Freguesia": "Famalicão",
+            "Concelho": "Guarda",
+            "Distrito": "Guarda",
+            "Descrição": "Miguel: Origem medieval: Desfolhada tradicional com concertinas e cantares ao desafio: Garraiada: Concurso de atrelagens."
+        },
+        {
+            "Nome": "Festas Nicolinas",
+            "Data Início": "02-12-2024",
+            "Data Fim": "02-12-2024",
+            "Freguesia": "Guimarães",
+            "Concelho": "Guimarães",
+            "Distrito": "Braga",
+            "Descrição": "Nicolau, patrono dos estudantes: Cortejo do Pinheiro: Ceias nicolinas."
+        },
+        {
+            "Nome": "Festa de Santa Luzia",
+            "Data Início": "13-12-2024",
+            "Data Fim": "13-12-2024",
+            "Freguesia": "Guimarães",
+            "Concelho": "Guimarães",
+            "Distrito": "Braga",
+            "Descrição": "Venda de doces denominados sardões e passarinhas, com óbvias conotações eróticas, oferecidas reciprocamente pelos rapazes e pelas moças."
+        },
+        {
+            "Nome": "Festa de Santa Luzia e feira dos capões",
+            "Data Início": "13-12-2024",
+            "Data Fim": "13-12-2024",
+            "Freguesia": "Freamunde",
+            "Concelho": "Paços de Ferreira",
+            "Distrito": "Porto",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria de São Silvestre",
+            "Data Início": "31-12-2024",
+            "Data Fim": "31-12-2024",
+            "Freguesia": "Cardielos",
+            "Concelho": "Viana do Castelo",
+            "Distrito": "Viana do Castelo",
+            "Descrição": "Silvestre: Alvorada musical."
+        }
+    ],
+    "estremadura": [
+        {
+            "Nome": "Cantar e pintar dos Bons Reis Magos",
+            "Data Início": "Cadaval",
+            "Data Fim": "Cadaval",
+            "Freguesia": "Pereiro",
+            "Concelho": "Vilar",
+            "Distrito": "Cadaval",
+            "Descrição": "Com pequenas variantes, pinta-se e canta-se os Reis em todas as povoações do concelho do Cadaval e Alenquer que rodeiam a Serra do Montejunto"
+        },
+        {
+            "Nome": "Festa de Santo Amaro",
+            "Data Início": "15-01-2024",
+            "Data Fim": "15-01-2024",
+            "Freguesia": "Alfeizerão",
+            "Concelho": "Alcobaça",
+            "Distrito": "Leiria",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria de Santo Antão",
+            "Data Início": "17-01-2024",
+            "Data Fim": "17-01-2024",
+            "Freguesia": "Óbidos",
+            "Concelho": "Óbidos",
+            "Distrito": "Leiria",
+            "Descrição": "Arraial com cantares ao acordeão nas tendas de comes e bebes."
+        },
+        {
+            "Nome": "Festa de São Sebastião",
+            "Data Início": "20-01-2024",
+            "Data Fim": "20-01-2024",
+            "Freguesia": "Valado de Frades",
+            "Concelho": "Nazaré",
+            "Distrito": "Leiria",
+            "Descrição": "Sebastião, por vezes chamada festa da chouriça, pelo leilão das oferendas em chouriços."
+        },
+        {
+            "Nome": "grupos músico-coreográfico-teatrais (cègadas",
+            "Data Início": "Carnaval",
+            "Data Fim": "Carnaval",
+            "Freguesia": "Nazaré",
+            "Concelho": "Nazaré",
+            "Distrito": "Leiria",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Procissão da burrinha",
+            "Data Início": "10-03-2024",
+            "Data Fim": "10-03-2024",
+            "Freguesia": "Mafra",
+            "Concelho": "Mafra",
+            "Distrito": "Lisboa",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Enterro do bacalhau",
+            "Data Início": "30-03-2024",
+            "Data Fim": "30-03-2024",
+            "Freguesia": "Sesimbra",
+            "Concelho": "Sesimbra",
+            "Distrito": "Setúbal",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Procissão dos Passos",
+            "Data Início": "24-03-2024",
+            "Data Fim": "24-03-2024",
+            "Freguesia": "Óbidos",
+            "Concelho": "Óbidos",
+            "Distrito": "Leiria",
+            "Descrição": "que percorre as ruas do burgo medieval"
+        },
+        {
+            "Nome": "Procissão da Burrinha",
+            "Data Início": "24-03-2024",
+            "Data Fim": "24-03-2024",
+            "Freguesia": "Mafra",
+            "Concelho": "Mafra",
+            "Distrito": "Lisboa",
+            "Descrição": "é uma procissão dos Passos do Senhor, com várias figurações bíblicas, entre as quais a cena da “Fuga para o Egipto”, donde provém o nome da procissão"
+        },
+        {
+            "Nome": "círio dos marítimos à Senhora da Atalaia",
+            "Data Início": "31-03-2024",
+            "Data Fim": "31-03-2024",
+            "Freguesia": "Alcochete",
+            "Concelho": "Alcochete",
+            "Distrito": "Santarém",
+            "Descrição": "Gaiteiro, cortejo com carros de bois, carroças em direcção ao santuário: Leilão das bandeiras e fogaças."
+        },
+        {
+            "Nome": "Festa do Senhor Jesus das Chagas",
+            "Data Início": "03-05-2024",
+            "Data Fim": "03-05-2024",
+            "Freguesia": "Sesimbra",
+            "Concelho": "Sesimbra",
+            "Distrito": "Setúbal",
+            "Descrição": "Procissão dos pescadores com bênção do mar."
+        },
+        {
+            "Nome": "Festa da Senhora da Gaiola ou Festa do Bodo",
+            "Data Início": "03-05-2024",
+            "Data Fim": "03-05-2024",
+            "Freguesia": "Cortes",
+            "Concelho": "Leiria",
+            "Distrito": "Leiria",
+            "Descrição": "As moças transportam à cabeça tabuleiros de oferendas, doces chamados “fradinhos do Menino Jesus”: Procissão de imagens do Menino Jesus, pertencentes a todas as famílias da freguesia."
+        },
+        {
+            "Nome": "Festas da Cidade",
+            "Data Início": "15-05-2024",
+            "Data Fim": "15-05-2024",
+            "Freguesia": "Caldas da Rainha",
+            "Concelho": "Caldas da Rainha",
+            "Distrito": "Leiria",
+            "Descrição": "Missa na Igreja de Nossa senhora do Pópulo em honra da Rainha D: Leonor, fundadora e padroeira da cidade: Grande variedade de espectáculos e certames, como exposições de cerâmica, arte em que sempre se destacou a cidade de Caldas da Rainha."
+        },
+        {
+            "Nome": "círio do Carregal",
+            "Data Início": "09-05-2024",
+            "Data Fim": "09-05-2024",
+            "Freguesia": "Óbidos",
+            "Concelho": "Santuário do Senhor da Pedra",
+            "Distrito": "Leiria",
+            "Descrição": "Cavaleiro comanda a peregrinação transportando o guião: Loas cantadas pelo anjinho."
+        },
+        {
+            "Nome": "Romaria de Santa Quitéria de Meca",
+            "Data Início": "09-05-2024",
+            "Data Fim": "09-05-2024",
+            "Freguesia": "Meca",
+            "Concelho": "Alenquer",
+            "Distrito": "Lisboa",
+            "Descrição": "Bênção do gado em redor do cruzeiro."
+        },
+        {
+            "Nome": "Círio da Nazaré a Nossa Senhora da Vitória",
+            "Data Início": "09-05-2024",
+            "Data Fim": "09-05-2024",
+            "Freguesia": "Pataias",
+            "Concelho": "Alcobaça",
+            "Distrito": "Leiria",
+            "Descrição": ""
+        },
+        {
+            "Nome": "celebrações do dia da espiga com merenda no pinhal de Leiria",
+            "Data Início": "5ª. Feira da Ascensão",
+            "Data Fim": "5ª. Feira da Ascensão",
+            "Freguesia": "Marinha Grande",
+            "Concelho": "Marinha Grande",
+            "Distrito": "Leiria",
+            "Descrição": "Guarda-se a espiga em casa durante o ano, como é da tradição por todo o país: Carros enfeitados com verduras, como também faz parte da tradição geral."
+        },
+        {
+            "Nome": "Festa de Nossa Senhora dos Prazeres",
+            "Data Início": "19-05-2024",
+            "Data Fim": "19-05-2024",
+            "Freguesia": "Aldeiagalega da Merceana",
+            "Concelho": "Alenquer",
+            "Distrito": "Lisboa",
+            "Descrição": "Procissão com bênção das vinhas."
+        },
+        {
+            "Nome": "Festa da Santíssima Trindade",
+            "Data Início": "26-05-2024",
+            "Data Fim": "26-05-2024",
+            "Freguesia": "Batalha",
+            "Concelho": "Batalha",
+            "Distrito": "Leiria",
+            "Descrição": "Cortejo e bênção dos tabuleiros de oferendas: Distribuição, ou melhor, lançamento dos merendeirinhos ao fiéis."
+        },
+        {
+            "Nome": "Festas de Santo António",
+            "Data Início": "13-06-2024",
+            "Data Fim": "13-06-2024",
+            "Freguesia": "Lisboa",
+            "Concelho": "Lisboa",
+            "Distrito": "Lisboa",
+            "Descrição": "Marchas populares na Avenida da Liberdade: Tronos ao santo, sardinha assada e bailes nos bairros populares, sobretudo em Alfama, mas também no Bairro Alto, Bica, Mouraria, Graça e Costa do Castelo: Casamentos de Santo António"
+        },
+        {
+            "Nome": "Festa de Santo António",
+            "Data Início": "13-06-2024",
+            "Data Fim": "13-06-2024",
+            "Freguesia": "Rebolaria",
+            "Concelho": "Batalha",
+            "Distrito": "Leiria",
+            "Descrição": "O cortejo desce à vila e regressa ao adro da Rebolaria: Acompanhamento musical a cargo de uma pequena banda filarmónica."
+        },
+        {
+            "Nome": "Festa de Santo António",
+            "Data Início": "13-06-2024",
+            "Data Fim": "13-06-2024",
+            "Freguesia": "Cascais",
+            "Concelho": "Cascais",
+            "Distrito": "Lisboa",
+            "Descrição": "procissão da Capela da Cidadela, onde se guarda a imagem do taumaturgo."
+        },
+        {
+            "Nome": "Festa de S. João Baptista",
+            "Data Início": "24-06-2024",
+            "Data Fim": "24-06-2024",
+            "Freguesia": "Runa",
+            "Concelho": "Torres Vedras",
+            "Distrito": "Lisboa",
+            "Descrição": "arruadas, folclore, fogo de artifício."
+        },
+        {
+            "Nome": "Festas de São Pedro",
+            "Data Início": "29-06-2024",
+            "Data Fim": "29-06-2024",
+            "Freguesia": "Porto de Mós",
+            "Concelho": "Porto de Mós",
+            "Distrito": "Leiria",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Feira de São Pedro",
+            "Data Início": "29-06-2024",
+            "Data Fim": "29-06-2024",
+            "Freguesia": "Torres Vedras",
+            "Concelho": "Torres Vedras",
+            "Distrito": "Lisboa",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festas de São Pedro",
+            "Data Início": "29-06-2024",
+            "Data Fim": "29-06-2024",
+            "Freguesia": "Montijo",
+            "Concelho": "Montijo",
+            "Distrito": "Santarém",
+            "Descrição": "Pedro: Procissão com bênção dos barcos: Bodo da sardinha assada: Largada e corridas de touros: Queima do batel."
+        },
+        {
+            "Nome": "Feira Grande de São Pedro",
+            "Data Início": "29-06-2024",
+            "Data Fim": "29-06-2024",
+            "Freguesia": "Sintra",
+            "Concelho": "Sintra",
+            "Distrito": "Lisboa",
+            "Descrição": "Pedro."
+        },
+        {
+            "Nome": "Círio da Senhora da Arrábida",
+            "Data Início": "primeiro fim-de-semana de Julho",
+            "Data Fim": "primeiro fim-de-semana de Julho",
+            "Freguesia": "Setúbal",
+            "Concelho": "Setúbal",
+            "Distrito": "Setúbal",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Nossa Senhora do Cardal",
+            "Data Início": "28-07-2024",
+            "Data Fim": "28-07-2024",
+            "Freguesia": "Pombal",
+            "Concelho": "Carrazeda de Ansiães",
+            "Distrito": "Bragança",
+            "Descrição": "ou Festa do Bodo"
+        },
+        {
+            "Nome": "Festas da Rainha Santa",
+            "Data Início": "28-07-2024",
+            "Data Fim": "28-07-2024",
+            "Freguesia": "Monte Real",
+            "Concelho": "Leiria",
+            "Distrito": "Leiria",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Santa Maria Madalena",
+            "Data Início": "22-07-2024",
+            "Data Fim": "22-07-2024",
+            "Freguesia": "A dos Negros",
+            "Concelho": "Óbidos",
+            "Distrito": "Leiria",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festas do município",
+            "Data Início": "24-07-2024",
+            "Data Fim": "24-07-2024",
+            "Freguesia": "Pedrógão Grande",
+            "Concelho": "Pedrógão Grande",
+            "Distrito": "Leiria",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora das Neves",
+            "Data Início": "05-08-2024",
+            "Data Fim": "05-08-2024",
+            "Freguesia": "Pragança",
+            "Concelho": "Cadaval",
+            "Distrito": "Lisboa",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria da Senhora do Socorro",
+            "Data Início": "05-08-2024",
+            "Data Fim": "05-08-2024",
+            "Freguesia": "Enxara do Bispo",
+            "Concelho": "Mafra",
+            "Distrito": "Lisboa",
+            "Descrição": "na sua capelinha do alto da Serra do Socorro"
+        },
+        {
+            "Nome": "Festas de Nossa Senhora da Boa Viagem",
+            "Data Início": "04-08-2024",
+            "Data Fim": "04-08-2024",
+            "Freguesia": "Peniche",
+            "Concelho": "Peniche",
+            "Distrito": "Leiria",
+            "Descrição": "Procissão no mar com bênção dos barcos: Domingo à tarde, solene procissão da festa."
+        },
+        {
+            "Nome": "Festa de Nossa Senhora da Misericórdia",
+            "Data Início": "04-08-2024",
+            "Data Fim": "04-08-2024",
+            "Freguesia": "Belas",
+            "Concelho": "Sintra",
+            "Distrito": "Lisboa",
+            "Descrição": "missa e procissão pelas ruas da vila."
+        },
+        {
+            "Nome": "Senhora da Vitória",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Batalha",
+            "Concelho": "Batalha",
+            "Distrito": "Leiria",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Nossa Senhora da Assunção",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Cheleiros",
+            "Concelho": "Mafra",
+            "Distrito": "Lisboa",
+            "Descrição": "missa e procissão pelas ruas da aldeia"
+        },
+        {
+            "Nome": "Festa de Nossa Senhora da Encarnação",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Leiria",
+            "Concelho": "Leiria",
+            "Distrito": "Leiria",
+            "Descrição": "Procissão solene desde a Igreja de Santo Agostinho até ao santuário da Senhora da Encarnação, no alto de um monte fronteiro ao Castelo de Leiria."
+        },
+        {
+            "Nome": "Senhora da Boa Viagem",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Ericeira",
+            "Concelho": "Mafra",
+            "Distrito": "Lisboa",
+            "Descrição": "Procissão no mar no sábado à noite: Procissão pelas ruas da vila no domingo à tarde, com destaque para o andor transportado pelos pescadores."
+        },
+        {
+            "Nome": "Senhora do Bom Sucesso",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Lagoa de Óbidos",
+            "Concelho": "Óbidos",
+            "Distrito": "Leiria",
+            "Descrição": "Círio do Vau, com o canto das loas pelo anjinho montado num cavalo."
+        },
+        {
+            "Nome": "Romaria de S. Mamede",
+            "Data Início": "17-08-2024",
+            "Data Fim": "17-08-2024",
+            "Freguesia": "Janas",
+            "Concelho": "Sintra",
+            "Distrito": "Lisboa",
+            "Descrição": "bênção de gado com três voltas à capela, outrora rebanhos, hoje sobretudo cães de companhia e cavalos. Destaque para a arquitectura regional, em redondo, da capela."
+        },
+        {
+            "Nome": "Festa de Nossa Senhora dos Navegantes",
+            "Data Início": "08-06-2024",
+            "Data Fim": "08-06-2024",
+            "Freguesia": "Cascais",
+            "Concelho": "Cascais",
+            "Distrito": "Lisboa",
+            "Descrição": "Procissão dos pescadores que leva a imagem às traineiras engalanadas (que vão até à Guia e voltam) e bênção do mar: Artesanato, gastronomia, fogo-de-artifício."
+        },
+        {
+            "Nome": "Festas da São José:enhora da Nazaré",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Nazaré",
+            "Concelho": "Nazaré",
+            "Distrito": "Leiria",
+            "Descrição": "José: Durante a invasão muçulmana, teria sido escondida na Pederneira, onde mais tarde foi encontrada pelos pastores: O milagre protagonizado por D: Fuas Roupinho ficou consagrada na capelinha da Memória, no Sítio, no alto da falésia, perto da qual foi erigido o santuário: Durante todo o mês, é notável o concurso de muitoscírios, de variadas proveniências, de que se destacam o Círio da Prata Grande (giro que inclui povoações dos concelhos de Mafra, Sintra e Torres Vedras), o Círio de Penela e o Círio de Olhalvo, sucessivamente a cargo de vários lugares da freguesia"
+        },
+        {
+            "Nome": "Senhora da Ajuda",
+            "Data Início": "01-09-2024",
+            "Data Fim": "01-09-2024",
+            "Freguesia": "Gaeiras",
+            "Concelho": "Óbidos",
+            "Distrito": "Leiria",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Nossa Senhora da Saúde",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Vila Fresca de Azeitão",
+            "Concelho": "Setúbal",
+            "Distrito": "Setúbal",
+            "Descrição": "No sábado à tarde, cavalhadas à moda antiga, com competição para os cavaleiros acertarem numa roseta pendurada em fio que atravessa a rua: Procissão solene."
+        },
+        {
+            "Nome": "Festa das Vindimas",
+            "Data Início": "09-06-2024",
+            "Data Fim": "09-06-2024",
+            "Freguesia": "Palmela",
+            "Concelho": "Palmela",
+            "Distrito": "Setúbal",
+            "Descrição": "largadas de touros; provas do vinho; arruadas; cortejo alegórico."
+        },
+        {
+            "Nome": "Festa da Senhora do Fetal",
+            "Data Início": "06-10-2024",
+            "Data Fim": "06-10-2024",
+            "Freguesia": "Reguengo do Fetal",
+            "Concelho": "Batalha",
+            "Distrito": "Leiria",
+            "Descrição": "Procissão nocturna à luz de milhares de lamparinas em cascas de caracóis: Procissão das oferendas armadas em tabuleiros."
+        },
+        {
+            "Nome": "Romaria dos pescadores à Senhora do Cabo Espichel",
+            "Data Início": "29-09-2024",
+            "Data Fim": "29-09-2024",
+            "Freguesia": "Sesimbra",
+            "Concelho": "Sesimbra",
+            "Distrito": "Setúbal",
+            "Descrição": "Procissão com bênção do mar: Santuário barroco situado na imponente falésia do Espichel: Círios do giro à Senhora do Cabo."
+        },
+        {
+            "Nome": "Bom Jesus do Carvalhal",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Carvalhal",
+            "Concelho": "Bombarral",
+            "Distrito": "Setúbal",
+            "Descrição": "Visita de círios, com os anjinhos a cantarem as loas e os gaiteiros tocando à frente da procissão de cada localidade"
+        },
+        {
+            "Nome": "Feira das Mercês",
+            "Data Início": "10-06-2024",
+            "Data Fim": "10-06-2024",
+            "Freguesia": "Mercês",
+            "Concelho": "Sintra",
+            "Distrito": "Lisboa",
+            "Descrição": "missa solene e procissão. Feira característica da região saloia"
+        },
+        {
+            "Nome": "Círios a Nossa Senhora dos Remédios",
+            "Data Início": "20-10-2024",
+            "Data Fim": "20-10-2024",
+            "Freguesia": "Peniche",
+            "Concelho": "Peniche",
+            "Distrito": "Leiria",
+            "Descrição": "provenientes de várias localidades: com o canto das loas e seus gaiteiros"
+        },
+        {
+            "Nome": "Santo André",
+            "Data Início": "30-11-2024",
+            "Data Fim": "30-11-2024",
+            "Freguesia": "Arelho",
+            "Concelho": "Óbidos",
+            "Distrito": "Leiria",
+            "Descrição": ""
+        },
+        {
+            "Nome": "celebração de Todos os Santos",
+            "Data Início": "01-11-2024",
+            "Data Fim": "01-11-2024",
+            "Freguesia": "Alfarim",
+            "Concelho": "Sesimbra",
+            "Distrito": "Setúbal",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Feira dos Santos",
+            "Data Início": "01-11-2024",
+            "Data Fim": "01-11-2024",
+            "Freguesia": "Livramento",
+            "Concelho": "Mafra",
+            "Distrito": "Lisboa",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de São Martinho",
+            "Data Início": "11-11-2024",
+            "Data Fim": "11-11-2024",
+            "Freguesia": "São Martinho do Porto",
+            "Concelho": "Alcobaça",
+            "Distrito": "Leiria",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora da Conceição",
+            "Data Início": "08-12-2024",
+            "Data Fim": "08-12-2024",
+            "Freguesia": "Atouguia da Baleia",
+            "Concelho": "Peniche",
+            "Distrito": "Leiria",
+            "Descrição": ""
+        },
+        {
+            "Nome": "círio da Carrasqueira ao Bom Jesus do Carvalhal",
+            "Data Início": "01-12-2024",
+            "Data Fim": "01-12-2024",
+            "Freguesia": "Carvalhal",
+            "Concelho": "Bombarral",
+            "Distrito": "Setúbal",
+            "Descrição": ""
+        },
+        {
+            "Nome": "círio de Atouguia da Baleia ao Bom Jesus do Carvalhal",
+            "Data Início": "15-12-2024",
+            "Data Fim": "15-12-2024",
+            "Freguesia": "Carvalhal",
+            "Concelho": "Bombarral",
+            "Distrito": "Setúbal",
+            "Descrição": ""
+        }
+    ],
+    "douro_litoral": [
+        {
+            "Nome": "Festa de São Gonçalo",
+            "Data Início": "ou no domingo seguinte",
+            "Data Fim": "ou no domingo seguinte",
+            "Freguesia": "Vila Nova de Gaia",
+            "Concelho": "10 de Janeiro",
+            "Distrito": "Porto",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa da Candelária",
+            "Data Início": "02-02-2024",
+            "Data Fim": "02-02-2024",
+            "Freguesia": "Louredo",
+            "Concelho": "Santa Marta de Penaguião",
+            "Distrito": "Vila Real",
+            "Descrição": "Cenário da Serra do Marão, por onde ressoam os acordes da tuna, uma das melhores tunas rurais ainda em actividade."
+        },
+        {
+            "Nome": "Romaria de São Brás",
+            "Data Início": "03-02-2024",
+            "Data Fim": "03-02-2024",
+            "Freguesia": "Santa Cruz do Bispo",
+            "Concelho": "Matosinhos",
+            "Distrito": "Porto",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa das Fogaceiras",
+            "Data Início": "20-01-2024",
+            "Data Fim": "20-01-2024",
+            "Freguesia": "Santa Maria da Feira",
+            "Concelho": "Santa Maria da Feira",
+            "Distrito": "Aveiro",
+            "Descrição": "importantíssima romaria celebrando S. Sebastião. Na procissão, meninas de branco levam as fogaças à cabeça. Andores de S. Sebastião e de Nossa Senhora da Encarnação. As fogaças destinavam-se inicialmente a serem distribuídas pelos pobres. Desfile das fogaceiras."
+        },
+        {
+            "Nome": "Enterro do João",
+            "Data Início": "13-02-2024",
+            "Data Fim": "13-02-2024",
+            "Freguesia": "Ermesinde",
+            "Concelho": "Valongo",
+            "Distrito": "Porto",
+            "Descrição": ""
+        },
+        {
+            "Nome": "serração da velha e baile da pinhata",
+            "Data Início": "quarta-feira da terceira semana da Quaresma",
+            "Data Fim": "quarta-feira da terceira semana da Quaresma",
+            "Freguesia": "Lousada",
+            "Concelho": "Meinedo",
+            "Distrito": "Porto",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhor dos Passos",
+            "Data Início": "sábado e domingo de Lázaro",
+            "Data Fim": "sábado e domingo de Lázaro",
+            "Freguesia": "Melres",
+            "Concelho": "Gondomar",
+            "Distrito": "Porto",
+            "Descrição": "há procissão nocturna no sábado, que é mais vistosa que a de domingo, porque todas as casas se iluminam com velas e lanternas. No monte sobranceiro ao rio Douro, acendem-se fogueiras, o que torna o cenário mais impressivo."
+        },
+        {
+            "Nome": "procissão das lanternas (sábado à noite) e procissão dos Passos no domingo",
+            "Data Início": "sábado e domingo de Lázaro",
+            "Data Fim": "sábado e domingo de Lázaro",
+            "Freguesia": "Póvoa de Varzim",
+            "Concelho": "Póvoa de Varzim",
+            "Distrito": "Porto",
+            "Descrição": "Na procissão de sábado, que é nocturna, as crianças seguem empunhando lanternas: A matraca, aqui chamada campanha, ressoa no escuro: Incorporam-se muitos penitentes encapuçados: A procissão de domingo é imponente pelo grande número de figuras bíblicas e anjinhos que nela tomam parte: O povo da Póvoa de Varzim tem grande fervor religioso."
+        },
+        {
+            "Nome": "Procissão dos Passos",
+            "Data Início": "Felgueiras. domingo de Lázaro",
+            "Data Fim": "Felgueiras. domingo de Lázaro",
+            "Freguesia": "Caramos",
+            "Concelho": "Felgueiras",
+            "Distrito": "Porto",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Procissão dos Passos",
+            "Data Início": "24-03-2024",
+            "Data Fim": "24-03-2024",
+            "Freguesia": "Rates",
+            "Concelho": "Póvoa de Varzim",
+            "Distrito": "Porto",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Procissão das Endoenças",
+            "Data Início": "28-03-2024",
+            "Data Fim": "28-03-2024",
+            "Freguesia": "Entre-os-Rios",
+            "Concelho": "Penafiel",
+            "Distrito": "Porto",
+            "Descrição": "Ponte e trajecto iluminado com luminárias: Muito vistoso: Canto da Verónica em várias paragens e sermão do encontro: Procissão muito concorrida e com muita devoção: Atravessa o casario antigo até à beira do rio Douro, passando a subir o povo até ao alto, capela do Calvário, onde termina."
+        },
+        {
+            "Nome": "procissão do Terro-Terro (nocturna",
+            "Data Início": "Semana Santa",
+            "Data Fim": "Semana Santa",
+            "Freguesia": "Ovar",
+            "Concelho": "Ovar",
+            "Distrito": "Aveiro",
+            "Descrição": "à luz de archotes)"
+        },
+        {
+            "Nome": "Feira da Páscoa",
+            "Data Início": "29-03-2024",
+            "Data Fim": "29-03-2024",
+            "Freguesia": "Vila do Conde",
+            "Concelho": "Vila do Conde",
+            "Distrito": "Porto",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Procissão do Enterro",
+            "Data Início": "29-03-2024",
+            "Data Fim": "29-03-2024",
+            "Freguesia": "Póvoa de Varzim",
+            "Concelho": "Póvoa de Varzim",
+            "Distrito": "Porto",
+            "Descrição": "Canta a Verónica e as “Marias do Aú”, assim chamadas porque o seu cântico, que sucede ao da Verónica, começa pela interjeição latina “Ehu! Ehu, Domine!”"
+        },
+        {
+            "Nome": "Queima do Judas",
+            "Data Início": "30-03-2024",
+            "Data Fim": "30-03-2024",
+            "Freguesia": "Guilhabreu",
+            "Concelho": "Vila do Conde",
+            "Distrito": "Porto",
+            "Descrição": "Boneco de palha queimado na fogueira, perante a animação popular: Antes da queima, é lido o testamento do Judas, que contém habitualmente alusões e críticas locais."
+        },
+        {
+            "Nome": "Procissão da Ressurreição e à tarde compasso pascal pelas ruas",
+            "Data Início": "31-03-2024",
+            "Data Fim": "31-03-2024",
+            "Freguesia": "Póvoa de Varzim",
+            "Concelho": "Póvoa de Varzim",
+            "Distrito": "Porto",
+            "Descrição": "Nas ruas ainda se joga o tradicional jogo da pela: Na segunda-feira, Festa do Anjo."
+        },
+        {
+            "Nome": "romaria de Santa Luzia",
+            "Data Início": "01-04-2024",
+            "Data Fim": "01-04-2024",
+            "Freguesia": "Eja",
+            "Concelho": "Penafiel",
+            "Distrito": "Porto",
+            "Descrição": "no sopé do Monte Mozinho: conhecido sítio arqueológico"
+        },
+        {
+            "Nome": "feira de gado",
+            "Data Início": "quinta-feira de Páscoa: Festa de S. Jorge",
+            "Data Fim": "quinta-feira de Páscoa: Festa de S. Jorge",
+            "Freguesia": "Várzea",
+            "Concelho": "Felgueiras",
+            "Distrito": "Porto",
+            "Descrição": "Chamam-lhe também a “feira dos despiques” ou encontro dos namorados porque é a ocasião de as moças retribuirem o folar que os rapazes lhes ofereceram no domingo de Páscoa, retribuição que é feita com a oferta de um doce em forma de coração (antigamente com um lenço com um coração bordado)."
+        },
+        {
+            "Nome": "festa de Santa Mafalda",
+            "Data Início": "02-05-2024",
+            "Data Fim": "02-05-2024",
+            "Freguesia": "Arouca",
+            "Concelho": "Arouca",
+            "Distrito": "Aveiro",
+            "Descrição": "Era filha de D: Sancho I, neta do nosso primeiro rei: Feriado municipal dada a importância da santa: De manhã, missa solene e à tarde majestosa procissão: A gastronomia local poderá ser apreciada"
+        },
+        {
+            "Nome": "Romaria da Senhora da Laje ou das Cruzes",
+            "Data Início": "03-05-2024",
+            "Data Fim": "03-05-2024",
+            "Freguesia": "Urrô",
+            "Concelho": "Arouca",
+            "Distrito": "Aveiro",
+            "Descrição": "A procissão sai da capela da Senhora da Laje e percorre as onze cruzes de granito, onde a esperam os romeiros de cada freguesia para nela se incorporarem: Integra-se nas festividades da Divina Santa Cruz, celebradas a 3 de Maio um pouco por todo o país"
+        },
+        {
+            "Nome": "Romaria da Senhora do Salto",
+            "Data Início": "03-05-2024",
+            "Data Fim": "03-05-2024",
+            "Freguesia": "Aguiar do Sousa",
+            "Concelho": "Paredes",
+            "Distrito": "Porto",
+            "Descrição": "Local magnífico, em ermo sobre o rio Sousa, onde, segundo a lenda, um cavaleiro conseguiu saltar sobre o desfiladeiro evitando a morte para que o demónio, em forma de lebre, o atraíra: Foi esse cavaleiro que mandou erigir a capela."
+        },
+        {
+            "Nome": "Romaria da Senhora da Hora",
+            "Data Início": "5ª Feira da Ascensão (início no domingo anterior)",
+            "Data Fim": "5ª Feira da Ascensão (início no domingo anterior)",
+            "Freguesia": "Matosinhos",
+            "Concelho": "Matosinhos",
+            "Distrito": "Porto",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de São Gonçalo",
+            "Data Início": "19-05-2024",
+            "Data Fim": "19-05-2024",
+            "Freguesia": "Beiriz",
+            "Concelho": "Póvoa de Varzim",
+            "Distrito": "Porto",
+            "Descrição": "Gonçalo, santo casamenteiro e protector dos pescadores"
+        },
+        {
+            "Nome": "Festas do Senhor de Matosinhos",
+            "Data Início": "51 dias depois da Páscoa)",
+            "Data Fim": "51 dias depois da Páscoa)",
+            "Freguesia": "Matosinhos",
+            "Concelho": "fins de Maio / princípios de Junho (terça-feira",
+            "Distrito": "Porto",
+            "Descrição": "Majestosa procissão até ao Senhor do Padrão: Bombos, Zés-Pereiras, ranchos folclóricos: Feira da loicinha: Fogo de bonecos, curiosa forma pirotécnica, com bonecos a lançar faíscas em girândola."
+        },
+        {
+            "Nome": "Romaria de São Gonçalo",
+            "Data Início": "02-06-2024",
+            "Data Fim": "02-06-2024",
+            "Freguesia": "Amarante",
+            "Concelho": "Amarante",
+            "Distrito": "Porto",
+            "Descrição": "Gonçalo: Santo casamenteiro: Procissão solene: Despique de bombos."
+        },
+        {
+            "Nome": "Festa de São Sebastião",
+            "Data Início": "09-06-2024",
+            "Data Fim": "09-06-2024",
+            "Freguesia": "Freamunde",
+            "Concelho": "Paços de Ferreira",
+            "Distrito": "Porto",
+            "Descrição": "Sebastião: Santo protector contra a fome, a peste e a guerra: Festa a cargo dos homens casados: Missa de festa e procissão: Ranchos folclóricos, Zés-Pereiras, cabeçudos e gigantones: Tradição das “vacas de fogo”"
+        },
+        {
+            "Nome": "Romaria do Senhor da Pedra",
+            "Data Início": "02-06-2024",
+            "Data Fim": "02-06-2024",
+            "Freguesia": "Miramar",
+            "Concelho": "Gaia",
+            "Distrito": "Porto",
+            "Descrição": "Desde a madrugada acorrem rusgas populares, hoje sobretudo organizadas pelos ranchos folclóricos: Procissão junto ao rochedo: Muita afluência, com muita devoção."
+        },
+        {
+            "Nome": "Festividades do Corpus Christi",
+            "Data Início": "30-05-2024",
+            "Data Fim": "30-05-2024",
+            "Freguesia": "Penafiel",
+            "Concelho": "Penafiel",
+            "Distrito": "Porto",
+            "Descrição": "Na véspera, cavalhada nocturna, com exibição, em frente à Câmara Municipal, das danças tradicionais: Estas exibiam-se outrora durante a procissão religiosa, mas agora actuam apenas pelas ruas da cidade, na véspera e no dia da festa"
+        },
+        {
+            "Nome": "Festa do Corpus Christi",
+            "Data Início": "30-05-2024",
+            "Data Fim": "30-05-2024",
+            "Freguesia": "Santa Maria da Feira",
+            "Concelho": "Santa Maria da Feira",
+            "Distrito": "Aveiro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "festa de São João",
+            "Data Início": "24-06-2024",
+            "Data Fim": "24-06-2024",
+            "Freguesia": "Castelo de Paiva",
+            "Concelho": "Castelo de Paiva",
+            "Distrito": "Aveiro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festas de São João",
+            "Data Início": "24-06-2024",
+            "Data Fim": "24-06-2024",
+            "Freguesia": "Porto",
+            "Concelho": "Porto",
+            "Distrito": "Porto",
+            "Descrição": "João: Arraiais nos bairros populares, sobretudo nas Fontainhas: Cascatas, fogueiras, martelinhos e alho-porro: Arraiais nos bairros populares, mais típicos nas Fontainhas e Miragaia: Magnífico fogo de artifício sobre o rio Douro."
+        },
+        {
+            "Nome": "Cascatas em honra do santo",
+            "Data Início": "24-06-2024",
+            "Data Fim": "24-06-2024",
+            "Freguesia": "Vila do Conde",
+            "Concelho": "Vila do Conde",
+            "Distrito": "Porto",
+            "Descrição": "Marchas populares dos dois bairros, o Monte e a Praça, pela ruas à noite, seguidas de espectáculos e exibição das marchas em palco em cada um dos referidos bairros: Missa e procissão solene."
+        },
+        {
+            "Nome": "Festa de São João",
+            "Data Início": "24-06-2024",
+            "Data Fim": "24-06-2024",
+            "Freguesia": "Sobrado",
+            "Concelho": "Valongo",
+            "Distrito": "Porto",
+            "Descrição": "João, apresentando como principal ponto de interesse uma interessantíssima mouriscada, luta figurada entre mouriscos e bugios (cristãos)"
+        },
+        {
+            "Nome": "Festa de São Pedro",
+            "Data Início": "29-06-2024",
+            "Data Fim": "29-06-2024",
+            "Freguesia": "Póvoa de Varzim",
+            "Concelho": "Póvoa de Varzim",
+            "Distrito": "Porto",
+            "Descrição": "Pedro: Cada bairro organiza as suas cascatas e as suas rusgas ou marchas: Bailes pela noite fora: Sardinhadas pelos bairros populares."
+        },
+        {
+            "Nome": "Festa de São Pedro",
+            "Data Início": "29-06-2024",
+            "Data Fim": "29-06-2024",
+            "Freguesia": "Afurada",
+            "Concelho": "Gaia",
+            "Distrito": "Porto",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de São Pedro",
+            "Data Início": "29-06-2024",
+            "Data Fim": "29-06-2024",
+            "Freguesia": "Felgueiras",
+            "Concelho": "Felgueiras",
+            "Distrito": "Porto",
+            "Descrição": "Pedro: Marchas populares: Cortejo das flores."
+        },
+        {
+            "Nome": "Feira do vinho e do lavrador",
+            "Data Início": "primeiro fim-de-semana de Julho",
+            "Data Fim": "primeiro fim-de-semana de Julho",
+            "Freguesia": "Castelo de Paiva",
+            "Concelho": "Castelo de Paiva",
+            "Distrito": "Aveiro",
+            "Descrição": "Artesanato e gastronomia: Concurso de cantares ao desafio."
+        },
+        {
+            "Nome": "Festa de São Bento",
+            "Data Início": "11-07-2024",
+            "Data Fim": "11-07-2024",
+            "Freguesia": "Santo Tirso",
+            "Concelho": "Santo Tirso",
+            "Distrito": "Porto",
+            "Descrição": "Bento: Ofertas populares de cravos brancos, ovos e sal."
+        },
+        {
+            "Nome": "Romaria de São Bento",
+            "Data Início": "11-07-2024",
+            "Data Fim": "11-07-2024",
+            "Freguesia": "Rio Tinto",
+            "Concelho": "Gondomar",
+            "Distrito": "Porto",
+            "Descrição": "das Peras e de S: Cristóvão: No último domingo, procissão pela encosta do monte acima até à capela, onde se realiza a missa campal: Cantares ao desafio no arraial."
+        },
+        {
+            "Nome": "Senhora da Boa Viagem",
+            "Data Início": "28-07-2024",
+            "Data Fim": "28-07-2024",
+            "Freguesia": "Aguçadoura",
+            "Concelho": "Póvoa de Varzim",
+            "Distrito": "Porto",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Nossa Senhora das Neves",
+            "Data Início": "05-08-2024",
+            "Data Fim": "05-08-2024",
+            "Freguesia": "A-Ver-o-Mar",
+            "Concelho": "Póvoa de Varzim",
+            "Distrito": "Porto",
+            "Descrição": "Procissão imponente."
+        },
+        {
+            "Nome": "Festa de Nosso Senhor dos Navegantes",
+            "Data Início": "04-08-2024",
+            "Data Fim": "04-08-2024",
+            "Freguesia": "Vila do Conde",
+            "Concelho": "Vila do Conde",
+            "Distrito": "Porto",
+            "Descrição": "Grande devoção por parte das comunidades piscatórias do concelho, sobretudo de Caxinas."
+        },
+        {
+            "Nome": "Romaria da Senhora Aparecida",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Sanfins do Torno",
+            "Concelho": "Lousada",
+            "Distrito": "Porto",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Nossa Senhora da Assunção",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Monte Córdova",
+            "Concelho": "Santo Tirso",
+            "Distrito": "Porto",
+            "Descrição": "Concorrida romaria à basílica erigida no alto do monte."
+        },
+        {
+            "Nome": "Festa de Nossa Senhora da Assunção",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Póvoa de Varzim",
+            "Concelho": "Póvoa de Varzim",
+            "Distrito": "Porto",
+            "Descrição": "Barcos engalanados, com lenços das mulheres nos mastros."
+        },
+        {
+            "Nome": "Romaria de Santa Eufémia",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "São Pedro",
+            "Concelho": "Castelo de Paiva",
+            "Distrito": "Ilha de Santa Maria",
+            "Descrição": "Missa de festa e procissão solene: Leilão das promessas."
+        },
+        {
+            "Nome": "Festa de Nossa Senhora das Dores",
+            "Data Início": "18-08-2024",
+            "Data Fim": "18-08-2024",
+            "Freguesia": "Trofa",
+            "Concelho": "Trofa",
+            "Distrito": "Porto",
+            "Descrição": "Procissão com andores gigantescos."
+        },
+        {
+            "Nome": "São Bartolomeu",
+            "Data Início": "24-08-2024",
+            "Data Fim": "24-08-2024",
+            "Freguesia": "Barqueiros",
+            "Concelho": "Mesão Frio",
+            "Distrito": "Braga",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Feira de São Bartolomeu",
+            "Data Início": "24-08-2024",
+            "Data Fim": "24-08-2024",
+            "Freguesia": "Penafiel",
+            "Concelho": "Penafiel",
+            "Distrito": "Porto",
+            "Descrição": "Bartolomeu, também conhecida por Feira das Cebolas: Na noite da véspera, abre-se a porta da igreja para “libertar o diabo”, que sai pelas ruas."
+        },
+        {
+            "Nome": "São Gens",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Freixo de Cima",
+            "Concelho": "Amarante",
+            "Distrito": "Porto",
+            "Descrição": "Gens: Cantares ao desafio."
+        },
+        {
+            "Nome": "Senhora da Mó",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Monte da Mó",
+            "Concelho": "Arouca",
+            "Distrito": "Aveiro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria de Nossa Senhora de Valinhas",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Monte Córdova",
+            "Concelho": "Santo Tirso",
+            "Distrito": "Porto",
+            "Descrição": "Missa de festa e merendas no arraial."
+        },
+        {
+            "Nome": "Festa de Nossa Senhora do Ó (Senhora da Expectação)",
+            "Data Início": "15-09-2024",
+            "Data Fim": "15-09-2024",
+            "Freguesia": "Porto",
+            "Concelho": "Porto",
+            "Distrito": "Porto",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Feira das Colheitas",
+            "Data Início": "29-09-2024",
+            "Data Fim": "29-09-2024",
+            "Freguesia": "Arouca",
+            "Concelho": "Arouca",
+            "Distrito": "Aveiro",
+            "Descrição": "Tem como propósito fomentar a produção agrícola, promovendo concursos de melhor milho, melhor vinho, gado arouquês, etc: Ranchos folclóricos: Cortejo etnográfico: Desfile de açafates ornamentados com toalhas bordadas, cheios de produtos da terra."
+        },
+        {
+            "Nome": "Romaria de Nossa Senhora do Rosário",
+            "Data Início": "06-10-2024",
+            "Data Fim": "06-10-2024",
+            "Freguesia": "Gondomar",
+            "Concelho": "Gondomar",
+            "Distrito": "Porto",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Nossa Senhora do Rosário",
+            "Data Início": "06-10-2024",
+            "Data Fim": "06-10-2024",
+            "Freguesia": "Duas Igrejas",
+            "Concelho": "Penafiel",
+            "Distrito": "Porto",
+            "Descrição": "No sábado à noite, procissão das velas."
+        },
+        {
+            "Nome": "Santo André",
+            "Data Início": "30-11-2024",
+            "Data Fim": "30-11-2024",
+            "Freguesia": "Ancede",
+            "Concelho": "Baião",
+            "Distrito": "Porto",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Nossa Senhora da Conceição",
+            "Data Início": "08-12-2024",
+            "Data Fim": "08-12-2024",
+            "Freguesia": "Barqueiros",
+            "Concelho": "Mesão Frio",
+            "Distrito": "Braga",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Santa Luzia",
+            "Data Início": "13-12-2024",
+            "Data Fim": "13-12-2024",
+            "Freguesia": "Novais",
+            "Concelho": "Póvoa de Varzim",
+            "Distrito": "Porto",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Santa Luzia",
+            "Data Início": "13-12-2024",
+            "Data Fim": "13-12-2024",
+            "Freguesia": "Monte Córdova",
+            "Concelho": "Santo Tirso",
+            "Distrito": "Porto",
+            "Descrição": "Arraial popular."
+        }
+    ],
+    "alentejo": [
+        {
+            "Nome": "Festa de Nossa Senhora das Candeias",
+            "Data Início": "02-02-2024",
+            "Data Fim": "02-02-2024",
+            "Freguesia": "Mourão",
+            "Concelho": "Mourão",
+            "Distrito": "Évora",
+            "Descrição": "a parte profana inclui corrida de touros, um dos quais, o touro de Nossa Senhora, será morto depois de lidado e servirá para a refeição comunitária que tem lugar no arraial, montado no jardim. Feriado municipal."
+        },
+        {
+            "Nome": "actuação das “brincas”",
+            "Data Início": "Carnaval",
+            "Data Fim": "Carnaval",
+            "Freguesia": "Évora",
+            "Concelho": "Évora",
+            "Distrito": "Évora",
+            "Descrição": "grupos músico-teatrais que percorrem localidades ao redor: correspondentes às cègadas e às contradanças de entrudo"
+        },
+        {
+            "Nome": "entrudo",
+            "Data Início": "sem data",
+            "Data Fim": "sem data",
+            "Freguesia": "Castelo de Vide",
+            "Concelho": "Castelo de Vide",
+            "Distrito": "Portalegre",
+            "Descrição": ""
+        },
+        {
+            "Nome": "bênção do gado e cortejo da aleluia com campainhas e chocalhos pela ruas",
+            "Data Início": "30-03-2024",
+            "Data Fim": "30-03-2024",
+            "Freguesia": "Castelo de Vide",
+            "Concelho": "Castelo de Vide",
+            "Distrito": "Portalegre",
+            "Descrição": "após a missa"
+        },
+        {
+            "Nome": "Procissão de Ramos",
+            "Data Início": "24-03-2024",
+            "Data Fim": "24-03-2024",
+            "Freguesia": "Castelo de Vide",
+            "Concelho": "Castelo de Vide",
+            "Distrito": "Portalegre",
+            "Descrição": ""
+        },
+        {
+            "Nome": "após a missa de aleluia",
+            "Data Início": "30-03-2024",
+            "Data Fim": "30-03-2024",
+            "Freguesia": "Castelo de Vide",
+            "Concelho": "Castelo de Vide",
+            "Distrito": "Portalegre",
+            "Descrição": "à noite: o povo percorre as ruas tocando campainhas e chocalhos: com acompanhamento de banda filarmónica"
+        },
+        {
+            "Nome": "Romaria da Senhora de Guadalupe",
+            "Data Início": "31-03-2024",
+            "Data Fim": "31-03-2024",
+            "Freguesia": "Serpa",
+            "Concelho": "Serpa",
+            "Distrito": "Beja",
+            "Descrição": "procissão de S. Gens em direcção à vila. Cortejo etnográfico. 2ª feira: procissão de regresso à capela de S. Gens"
+        },
+        {
+            "Nome": "Romaria da Senhora dos Prazeres",
+            "Data Início": "07-04-2024",
+            "Data Fim": "07-04-2024",
+            "Freguesia": "Nisa",
+            "Concelho": "Nisa",
+            "Distrito": "Portalegre",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria da Senhora da Boa Nova",
+            "Data Início": "07-04-2024",
+            "Data Fim": "07-04-2024",
+            "Freguesia": "Terena",
+            "Concelho": "Alandroal",
+            "Distrito": "Évora",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria da Senhora de Aires",
+            "Data Início": "14-04-2024",
+            "Data Fim": "14-04-2024",
+            "Freguesia": "Viana do Alentejo",
+            "Concelho": "Viana do Alentejo",
+            "Distrito": "Évora",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa das Cruzes",
+            "Data Início": "03-05-2024",
+            "Data Fim": "03-05-2024",
+            "Freguesia": "Aldeia Nova de S. Bento",
+            "Concelho": "Serpa",
+            "Distrito": "Beja",
+            "Descrição": "Dentro de casa, na divisão que dá para a rua, é colocada a Santa Cruz e aí se reúnem as famílias rezando e entoando cânticos religiosos: Grupos corais percorrem as ruas cantando e “visitando as cruzes”."
+        },
+        {
+            "Nome": "Festa da Santa Cruz",
+            "Data Início": "03-05-2024",
+            "Data Fim": "03-05-2024",
+            "Freguesia": "Barrada",
+            "Concelho": "Reguengos de Monsaraz",
+            "Distrito": "Évora",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria do Senhor dos Aflitos",
+            "Data Início": "03-05-2024",
+            "Data Fim": "03-05-2024",
+            "Freguesia": "Fortios",
+            "Concelho": "Portalegre",
+            "Distrito": "Portalegre",
+            "Descrição": "Depois da procissão, leilão das fogaças de oferendas"
+        },
+        {
+            "Nome": "Festas de Santo António",
+            "Data Início": "13-06-2024",
+            "Data Fim": "13-06-2024",
+            "Freguesia": "Reguengos de Monsaraz",
+            "Concelho": "Reguengos de Monsaraz",
+            "Distrito": "Évora",
+            "Descrição": "Procissão e arraial: Baile em redor das fogueiras."
+        },
+        {
+            "Nome": "Festa de São João",
+            "Data Início": "24-06-2024",
+            "Data Fim": "24-06-2024",
+            "Freguesia": "Castelo de Vide",
+            "Concelho": "Castelo de Vide",
+            "Distrito": "Portalegre",
+            "Descrição": "João: Arraial em volta dos mastros floridos."
+        },
+        {
+            "Nome": "Feira-festa de São João",
+            "Data Início": "24-06-2024",
+            "Data Fim": "24-06-2024",
+            "Freguesia": "Évora",
+            "Concelho": "Évora",
+            "Distrito": "Évora",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festas da Rainha Santa Isabel",
+            "Data Início": "04-07-2024",
+            "Data Fim": "04-07-2024",
+            "Freguesia": "Estremoz",
+            "Concelho": "Estremoz",
+            "Distrito": "Évora",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Nossa Senhora do Rosário",
+            "Data Início": "04-08-2024",
+            "Data Fim": "04-08-2024",
+            "Freguesia": "Tróia",
+            "Concelho": "Grândola",
+            "Distrito": "Setúbal",
+            "Descrição": "missa na capela em honra dos pescadores e marítimos; procissão com os barcos engalanados atravessando o rio Sado desde Setúbal a Tróia;"
+        },
+        {
+            "Nome": "Senhora das Brotas",
+            "Data Início": "11-08-2024",
+            "Data Fim": "11-08-2024",
+            "Freguesia": "Brotas",
+            "Concelho": "Mora",
+            "Distrito": "Évora",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora da Neves",
+            "Data Início": "25-08-2024",
+            "Data Fim": "25-08-2024",
+            "Freguesia": "Flor da Rosa",
+            "Concelho": "Crato",
+            "Distrito": "Portalegre",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festas de campo Maior ou Festas do Povo",
+            "Data Início": "01-09-2024",
+            "Data Fim": "01-09-2024",
+            "Freguesia": "Campo Maior",
+            "Concelho": "Campo Maior",
+            "Distrito": "Portalegre",
+            "Descrição": "Ruas cobertas de flores de papel"
+        },
+        {
+            "Nome": "Romaria da Senhora da Cola",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Ourique",
+            "Concelho": "Ourique",
+            "Distrito": "Beja",
+            "Descrição": "Cantos ao baldão, acompanhados à viola campaniça"
+        },
+        {
+            "Nome": "Senhora dos Milagres",
+            "Data Início": "01-09-2024",
+            "Data Fim": "01-09-2024",
+            "Freguesia": "Assumar",
+            "Concelho": "Monforte",
+            "Distrito": "Portalegre",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria do Senhor Jesus da Piedade",
+            "Data Início": "20-09-2024",
+            "Data Fim": "20-09-2024",
+            "Freguesia": "Elvas",
+            "Concelho": "Elvas",
+            "Distrito": "Portalegre",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria da Senhora de Aires",
+            "Data Início": "29-09-2024",
+            "Data Fim": "29-09-2024",
+            "Freguesia": "Viana do Alentejo",
+            "Concelho": "Viana do Alentejo",
+            "Distrito": "Évora",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa e feira de São Pedro",
+            "Data Início": "01-11-2024",
+            "Data Fim": "01-11-2024",
+            "Freguesia": "Odemira",
+            "Concelho": "Odemira",
+            "Distrito": "Beja",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Feira dos Santos",
+            "Data Início": "01-11-2024",
+            "Data Fim": "01-11-2024",
+            "Freguesia": "Alvito",
+            "Concelho": "Alvito",
+            "Distrito": "Beja",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Santo André",
+            "Data Início": "17-11-2024",
+            "Data Fim": "17-11-2024",
+            "Freguesia": "Estremoz",
+            "Concelho": "Estremoz",
+            "Distrito": "Évora",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa da Imaculada Conceição",
+            "Data Início": "08-12-2024",
+            "Data Fim": "08-12-2024",
+            "Freguesia": "Vila Viçosa",
+            "Concelho": "Vila Viçosa",
+            "Distrito": "Évora",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Nossa Senhora da Conceição",
+            "Data Início": "08-12-2024",
+            "Data Fim": "08-12-2024",
+            "Freguesia": "Barrancos",
+            "Concelho": "Barrancos",
+            "Distrito": "Beja",
+            "Descrição": "Na procissão, cantares em louvor de Nossa Senhora"
+        },
+        {
+            "Nome": "Festa de Nossa Senhora da Conceição",
+            "Data Início": "08-12-2024",
+            "Data Fim": "08-12-2024",
+            "Freguesia": "Alandroal",
+            "Concelho": "Alandroal",
+            "Distrito": "Évora",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Fogueira de Natal",
+            "Data Início": "24-12-2024",
+            "Data Fim": "24-12-2024",
+            "Freguesia": "Barrancos",
+            "Concelho": "Barrancos",
+            "Distrito": "Beja",
+            "Descrição": ""
+        }
+    ],
+    "algarve": [
+        {
+            "Nome": "Procissão dos Ramos",
+            "Data Início": "24-03-2024",
+            "Data Fim": "24-03-2024",
+            "Freguesia": "Tavira",
+            "Concelho": "Tavira",
+            "Distrito": "Faro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa das tochas floridas",
+            "Data Início": "31-03-2024",
+            "Data Fim": "31-03-2024",
+            "Freguesia": "Brás de Alportel",
+            "Concelho": "São Brás de Alportel",
+            "Distrito": "Faro",
+            "Descrição": "cortejo que percorre alegremente as ruas até à igreja matriz"
+        },
+        {
+            "Nome": "Festa da Senhora da Graça ou dos Folares",
+            "Data Início": "2ª feira de Páscoa",
+            "Data Fim": "2ª feira de Páscoa",
+            "Freguesia": "Querença",
+            "Concelho": "Loulé",
+            "Distrito": "Faro",
+            "Descrição": "Depois das cerimónias religiosas, há lugar ao leilão das ofertas, constituída por folares, enchidos e “ramos”, tabuleiros das ofertas ornamentados de flores"
+        },
+        {
+            "Nome": "Romaria da Senhora da Piedade ou da Mãe Soberana",
+            "Data Início": "14-04-2024",
+            "Data Fim": "14-04-2024",
+            "Freguesia": "Loulé",
+            "Concelho": "Loulé",
+            "Distrito": "Faro",
+            "Descrição": "Regresso da imagem desde Loulé até ao santuário, sendo o andor transportado a correr pela ladeira acima"
+        },
+        {
+            "Nome": "Festa da Fonte Grande",
+            "Data Início": "01-05-2024",
+            "Data Fim": "01-05-2024",
+            "Freguesia": "Alte",
+            "Concelho": "Loulé",
+            "Distrito": "Faro",
+            "Descrição": "Cortejo de oferendas, designado por cavalhada."
+        },
+        {
+            "Nome": "Festa da Espiga",
+            "Data Início": "09-05-2024",
+            "Data Fim": "09-05-2024",
+            "Freguesia": "Salir",
+            "Concelho": "Loulé",
+            "Distrito": "Faro",
+            "Descrição": "Cortejo etnográfico."
+        },
+        {
+            "Nome": "Festa de Nossa Senhora do Carmo",
+            "Data Início": "16-07-2024",
+            "Data Fim": "16-07-2024",
+            "Freguesia": "Fuzeta",
+            "Concelho": "Olhão",
+            "Distrito": "Faro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora da Rocha",
+            "Data Início": "04-08-2024",
+            "Data Fim": "04-08-2024",
+            "Freguesia": "Porches",
+            "Concelho": "Lagoa",
+            "Distrito": "Faro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora da Orada",
+            "Data Início": "11-08-2024",
+            "Data Fim": "11-08-2024",
+            "Freguesia": "Albufeira",
+            "Concelho": "Albufeira",
+            "Distrito": "Faro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora dos Mártires",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Castro Marim",
+            "Concelho": "Castro Marim",
+            "Distrito": "Faro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Nossa Senhora de Alva",
+            "Data Início": "01-09-2024",
+            "Data Fim": "01-09-2024",
+            "Freguesia": "Algezur",
+            "Concelho": "",
+            "Distrito": "",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora dos Aflitos",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Armação de Pera",
+            "Concelho": "Silves",
+            "Distrito": "Faro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "São Gonçalo",
+            "Data Início": "27-10-2024",
+            "Data Fim": "27-10-2024",
+            "Freguesia": "Lagos",
+            "Concelho": "Lagos",
+            "Distrito": "Faro",
+            "Descrição": "de Lagos"
+        },
+        {
+            "Nome": "Festa de São Luís",
+            "Data Início": "01-11-2024",
+            "Data Fim": "01-11-2024",
+            "Freguesia": "Aljezur",
+            "Concelho": "Aljezur",
+            "Distrito": "Faro",
+            "Descrição": "Luís: Bênção de gado"
+        },
+        {
+            "Nome": "Festa de São Martinho",
+            "Data Início": "11-11-2024",
+            "Data Fim": "11-11-2024",
+            "Freguesia": "Portimão",
+            "Concelho": "Portimão",
+            "Distrito": "Faro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa da Senhora da Conceição",
+            "Data Início": "08-12-2024",
+            "Data Fim": "08-12-2024",
+            "Freguesia": "Monchique",
+            "Concelho": "Monchique",
+            "Distrito": "Faro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festas da Casa de Deus Menino",
+            "Data Início": "25-12-2024",
+            "Data Fim": "25-12-2024",
+            "Freguesia": "Brás de Alportel",
+            "Concelho": "São Brás de Alportel",
+            "Distrito": "Faro",
+            "Descrição": ""
+        },
+        {
+            "Nome": "idem",
+            "Data Início": "sem data",
+            "Data Fim": "sem data",
+            "Freguesia": "Olhão",
+            "Concelho": "Olhão",
+            "Distrito": "Faro",
+            "Descrição": ""
+        }
+    ],
+    "beira_alta": [
+        {
+            "Nome": "Festa do Menino Jesus",
+            "Data Início": "01-01-2024",
+            "Data Fim": "01-01-2024",
+            "Freguesia": "Lalim",
+            "Concelho": "Lamego",
+            "Distrito": "Viseu",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa dos Reis Magos",
+            "Data Início": "06-01-2024",
+            "Data Fim": "06-01-2024",
+            "Freguesia": "Palhaça",
+            "Concelho": "Oliveira de Frades",
+            "Distrito": "Viseu",
+            "Descrição": "com auto popular"
+        },
+        {
+            "Nome": "Entrudo com mascarados (máscaras artesanais feitas localmente) e testamento",
+            "Data Início": "Lamego",
+            "Data Fim": "Lamego",
+            "Freguesia": "Lazarim",
+            "Concelho": "Lamego",
+            "Distrito": "Viseu",
+            "Descrição": "Cortejo com grupos instrumentais de animação de rua, por vezes gaiteiros espanhóis: Domingo, mas sobretudo Terça-feira Gorda: Neste dia, testamento e queima da comadre e do compadre."
+        },
+        {
+            "Nome": "v",
+            "Data Início": "17-03-2024",
+            "Data Fim": "17-03-2024",
+            "Freguesia": "Lamego",
+            "Concelho": "Bairro da Ponte",
+            "Distrito": "Viseu",
+            "Descrição": "a rubrica “Engantchar” na Enciclopédia de Tradições Populares."
+        },
+        {
+            "Nome": "Queima do Judas",
+            "Data Início": "31-03-2024",
+            "Data Fim": "31-03-2024",
+            "Freguesia": "Lalim",
+            "Concelho": "Lamego",
+            "Distrito": "Viseu",
+            "Descrição": "antecedida pela leitura do testamento"
+        },
+        {
+            "Nome": "Romaria de São Cosme",
+            "Data Início": "2ª feira de Páscoa",
+            "Data Fim": "2ª feira de Páscoa",
+            "Freguesia": "Sandomil",
+            "Concelho": "Seia",
+            "Distrito": "Guarda",
+            "Descrição": "Cosme: No Domingo, bombos e pífaros pelas ruas: Na 2ª feira, romaria a caminho da capela, onde se merenda: À noitinha, regresso a Sandomil a pé, acabando na capela de S: Bento"
+        },
+        {
+            "Nome": "Festa religiosa da Santa Cruz",
+            "Data Início": "03-05-2024",
+            "Data Fim": "03-05-2024",
+            "Freguesia": "Meda",
+            "Concelho": "Meda",
+            "Distrito": "Guarda",
+            "Descrição": "Os pastores trazem os seus rebanhos e dão as três voltas rituais à capelinha"
+        },
+        {
+            "Nome": "Feira da Santa Cruz",
+            "Data Início": "03-05-2024",
+            "Data Fim": "03-05-2024",
+            "Freguesia": "Lamego",
+            "Concelho": "Lamego",
+            "Distrito": "Viseu",
+            "Descrição": "Inclui corrida de cavalos, designada por “passo-travadinho”"
+        },
+        {
+            "Nome": "Romaria da Santa Cruz",
+            "Data Início": "03-05-2024",
+            "Data Fim": "03-05-2024",
+            "Freguesia": "Sernancelhe",
+            "Concelho": "Sernancelhe",
+            "Distrito": "Viseu",
+            "Descrição": "Os pastores levam os seus rebanhos para a tradicional bênção do gado na altura da procissão"
+        },
+        {
+            "Nome": "Romaria do Senhor do Mundo",
+            "Data Início": "09-05-2024",
+            "Data Fim": "09-05-2024",
+            "Freguesia": "Mortágua",
+            "Concelho": "Mortágua",
+            "Distrito": "Viseu",
+            "Descrição": "Arraial popular."
+        },
+        {
+            "Nome": "Festa da Senhora da Saúde",
+            "Data Início": "09-05-2024",
+            "Data Fim": "09-05-2024",
+            "Freguesia": "Pedro do Sul (Termas)",
+            "Concelho": "",
+            "Distrito": "",
+            "Descrição": "A procissão dirige-se aos campos para a bênção dos campos e o povo apanha o raminho da espiga."
+        },
+        {
+            "Nome": "Festa das Cruzes ou do Abraço",
+            "Data Início": "Tondela",
+            "Data Fim": "Tondela",
+            "Freguesia": "Guardão",
+            "Concelho": "Caramulo",
+            "Distrito": "Viseu",
+            "Descrição": "Cortejo de cruzes ornamentadas de flores e cobertas de jóias: As cruzes tocam-se simulando um abraço, em repetição de um lendário abraço das freguesias ao redor, para combaterem os romanos, que intentavam destruir a capela cristã: As cruzes integram a procissão, que se dirige aos campos para ser realizada a bênção dos campos."
+        },
+        {
+            "Nome": "Festa do Divino Espírito Santo",
+            "Data Início": "19-05-2024",
+            "Data Fim": "19-05-2024",
+            "Freguesia": "Poço do Canto",
+            "Concelho": "Meda",
+            "Distrito": "Guarda",
+            "Descrição": "Da torre da igreja são lançados os “pãezinhos bentos” para o povo, que os recolhe."
+        },
+        {
+            "Nome": "Romaria da Senhora da Lapa",
+            "Data Início": "19-05-2024",
+            "Data Fim": "19-05-2024",
+            "Freguesia": "Quintela",
+            "Concelho": "Sernancelhe",
+            "Distrito": "Viseu",
+            "Descrição": "Um dos mais importantes santuários marianos: A passagem estreita do grande penedo é obrigatória para os romeiros no cumprimento das suas promessas."
+        },
+        {
+            "Nome": "Romaria de Santo António dos Cabaços",
+            "Data Início": "13-06-2024",
+            "Data Fim": "13-06-2024",
+            "Freguesia": "Serra dos Cabaços",
+            "Concelho": "Mangualde",
+            "Distrito": "Viseu",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Cavalhada de Vil de Moinhos que se dirige a Viseu e se exibe junto à capela de São João",
+            "Data Início": "24-06-2024",
+            "Data Fim": "24-06-2024",
+            "Freguesia": "Vil de Moinhos",
+            "Concelho": "Viseu",
+            "Distrito": "Viseu",
+            "Descrição": "da Ribeira: Comemoração de uma vitorio no diferendo entre os moleiros da povoação sobre os agricultores de Viseu no séc: XVII: Regresso a Vil de Moinhos, nova cavalhada e arraial, com a queima do pinheiro."
+        },
+        {
+            "Nome": "Feira de São João",
+            "Data Início": "24-06-2024",
+            "Data Fim": "24-06-2024",
+            "Freguesia": "Guarda",
+            "Concelho": "Guarda",
+            "Distrito": "Guarda",
+            "Descrição": "João: Bailes populares em redor do mastro e das fogueiras de S: João."
+        },
+        {
+            "Nome": "Romaria da Senhora das Preces",
+            "Data Início": "01-07-2024",
+            "Data Fim": "01-07-2024",
+            "Freguesia": "Aldeia das Dez",
+            "Concelho": "Oliveira do Hospital",
+            "Distrito": "Coimbra",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria de São Macário",
+            "Data Início": "25-07-2024",
+            "Data Fim": "25-07-2024",
+            "Freguesia": "Sul",
+            "Concelho": "S. Pedro do Sul",
+            "Distrito": "Viseu",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora do Castelo",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Vouzela",
+            "Concelho": "Vouzela",
+            "Distrito": "Viseu",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Nossa Senhora do Mileu",
+            "Data Início": "Guarda (arredores da cidade)",
+            "Data Fim": "Guarda (arredores da cidade)",
+            "Freguesia": "Póvoa do Mileu",
+            "Concelho": "Guarda",
+            "Distrito": "Guarda",
+            "Descrição": "Procissão das velas."
+        },
+        {
+            "Nome": "Festa de Nossa Senhora dos Milagres",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Laceiras",
+            "Concelho": "Carregal do Sal",
+            "Distrito": "Viseu",
+            "Descrição": "Missa e procissão: À tarde, feira anual."
+        },
+        {
+            "Nome": "Romaria de Santa Maria de Aguiar",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Figueira de Castelo Rodrigo",
+            "Concelho": "Figueira de Castelo Rodrigo",
+            "Distrito": "Guarda",
+            "Descrição": "Após a procissão, merendas pelo arraial."
+        },
+        {
+            "Nome": "Festa do Senhor do Calvário",
+            "Data Início": "11-08-2024",
+            "Data Fim": "11-08-2024",
+            "Freguesia": "Gouveia",
+            "Concelho": "Gouveia",
+            "Distrito": "Guarda",
+            "Descrição": "Festival de folclore."
+        },
+        {
+            "Nome": "Feira de São Mateus",
+            "Data Início": "08-06-2024",
+            "Data Fim": "08-06-2024",
+            "Freguesia": "Viseu",
+            "Concelho": "Viseu",
+            "Distrito": "Viseu",
+            "Descrição": "Mateus."
+        },
+        {
+            "Nome": "Festas de São Lourenço",
+            "Data Início": "11-08-2024",
+            "Data Fim": "11-08-2024",
+            "Freguesia": "Celorico da Beira",
+            "Concelho": "Celorico da Beira",
+            "Distrito": "Guarda",
+            "Descrição": "Lourenço."
+        },
+        {
+            "Nome": "Divino Senhor dos Aflitos",
+            "Data Início": "01-09-2024",
+            "Data Fim": "01-09-2024",
+            "Freguesia": "Vilar Maior",
+            "Concelho": "Sabugal",
+            "Distrito": "Guarda",
+            "Descrição": "Jogos populares, procissão das velas no sábado: No domingo, missa e procissão."
+        },
+        {
+            "Nome": "Romaria da Senhora dos Remédios",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Lamego",
+            "Concelho": "Lamego",
+            "Distrito": "Viseu",
+            "Descrição": "Procissão do Triunfo: Marcha Luminosa, outrora cortejo histórico e etnográfico (pena ter perdido importância a vertente etnográfica, de tão alto interesse como mostra das tradições populares locais): Noitada na avenida com concertinas, danças e cantares ao desafio."
+        },
+        {
+            "Nome": "Romaria da Senhora do Castelo",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Mangualde",
+            "Concelho": "Mangualde",
+            "Distrito": "Viseu",
+            "Descrição": "Tradição de hastear uma bandeira no alto da torre, que tem mais de trinta metros de altura."
+        },
+        {
+            "Nome": "Feira de São Bartolomeu",
+            "Data Início": "24-08-2024",
+            "Data Fim": "24-08-2024",
+            "Freguesia": "Trancoso",
+            "Concelho": "Trancoso",
+            "Distrito": "Guarda",
+            "Descrição": "Bartolomeu."
+        },
+        {
+            "Nome": "Festa de São Martinho",
+            "Data Início": "11-11-2024",
+            "Data Fim": "11-11-2024",
+            "Freguesia": "Vila Nova de Fozcoa",
+            "Concelho": "Vila Nova de Fozcoa",
+            "Distrito": "Guarda",
+            "Descrição": "Martinho: Cortejo com toque de latas e caldeiros: Rusga musical."
+        },
+        {
+            "Nome": "São Martinho",
+            "Data Início": "11-11-2024",
+            "Data Fim": "11-11-2024",
+            "Freguesia": "Pedro do Sul (termas)",
+            "Concelho": "",
+            "Distrito": "",
+            "Descrição": ""
+        },
+        {
+            "Nome": "São Martinho",
+            "Data Início": "11-11-2024",
+            "Data Fim": "11-11-2024",
+            "Freguesia": "Terrenho",
+            "Concelho": "Trancoso",
+            "Distrito": "Guarda",
+            "Descrição": ""
+        },
+        {
+            "Nome": "São Silvestre",
+            "Data Início": "31-12-2024",
+            "Data Fim": "31-12-2024",
+            "Freguesia": "Vasconha de Queirã",
+            "Concelho": "Vouzela",
+            "Distrito": "Viseu",
+            "Descrição": ""
+        }
+    ],
+    "beira_baixa": [
+        {
+            "Nome": "Festa de São Sebastião",
+            "Data Início": "03-01-2024",
+            "Data Fim": "03-01-2024",
+            "Freguesia": "Póvoa da Atalaia",
+            "Concelho": "Fundão",
+            "Distrito": "Castelo Branco",
+            "Descrição": "ou Festa das Papas: Na procissão integram-se duas filas de mulheres com açafates à cabeça levando as papas de carolo."
+        },
+        {
+            "Nome": "Festa de São Sebastião",
+            "Data Início": "20-01-2024",
+            "Data Fim": "20-01-2024",
+            "Freguesia": "Almaceda",
+            "Concelho": "Castelo Branco",
+            "Distrito": "Castelo Branco",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de São Sebastião",
+            "Data Início": "20-01-2024",
+            "Data Fim": "20-01-2024",
+            "Freguesia": "S. Jorge da Beira",
+            "Concelho": "Covilhã",
+            "Distrito": "Castelo Branco",
+            "Descrição": "Sebastião: Bodo oferecido pelos mordomos."
+        },
+        {
+            "Nome": "Festa de São Sebastião",
+            "Data Início": "20-01-2024",
+            "Data Fim": "20-01-2024",
+            "Freguesia": "Janeiro de Baixo",
+            "Concelho": "Pampilhosa da Serra",
+            "Distrito": "Coimbra",
+            "Descrição": "Sebastião, com bodo: Festa idêntica, também com bodo, noutras aldeias do concelho, como Cabril, Ponte de Fajão e Vidual."
+        },
+        {
+            "Nome": "Festa de São Brás",
+            "Data Início": "03-02-2024",
+            "Data Fim": "03-02-2024",
+            "Freguesia": "Forcalhos",
+            "Concelho": "Sabugal",
+            "Distrito": "Guarda",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Procissão dos Penitentes",
+            "Data Início": "16-03-2024",
+            "Data Fim": "16-03-2024",
+            "Freguesia": "Paúl",
+            "Concelho": "Covilhã",
+            "Distrito": "Castelo Branco",
+            "Descrição": "Com as luzes da povoação apagadas, grupos de homens descalços envoltos em panos brancos arrastam correntes pelas ruas, em forma de suplício pessoal que os irmana aos padecimentos de Cristo a caminho do Gólgota: Entoam um cântico soturno."
+        },
+        {
+            "Nome": "Quinta-Feira Santa",
+            "Data Início": "Semana Santa",
+            "Data Fim": "Semana Santa",
+            "Freguesia": "Fundão",
+            "Concelho": "Fundão",
+            "Distrito": "Castelo Branco",
+            "Descrição": "procissão com teatralização dos Mistérios da Paixão nas várias capelas do trajecto. Sexta-Feira Santa: procissão do Enterro do Senhor, à luz de archotes (as luzes da cidade estão apagadas) e ao som da fanfarra dos bombeiros e das matracas"
+        },
+        {
+            "Nome": "Romaria da Senhora da Serra",
+            "Data Início": "2ª feira de Páscoa",
+            "Data Fim": "2ª feira de Páscoa",
+            "Freguesia": "Castelo Novo",
+            "Concelho": "Fundão",
+            "Distrito": "Castelo Branco",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria de Nossa Senhora do Incenso",
+            "Data Início": "01-04-2024",
+            "Data Fim": "01-04-2024",
+            "Freguesia": "Penamacor",
+            "Concelho": "Penamacor",
+            "Distrito": "Castelo Branco",
+            "Descrição": "Missa seguida de procissão solene ao redor da capela: Merendas no arraial e convívio."
+        },
+        {
+            "Nome": "Festa da Senhora da Consolação ou Festa do Bodo",
+            "Data Início": "2ª feira de Páscoa",
+            "Data Fim": "2ª feira de Páscoa",
+            "Freguesia": "Salvaterra do Extremo",
+            "Concelho": "Idanha-a-Nova",
+            "Distrito": "Castelo Branco",
+            "Descrição": "banquete com ensopado de carne para todos os presentes."
+        },
+        {
+            "Nome": "Festa de Santa Catarina de Sena",
+            "Data Início": "01-04-2024",
+            "Data Fim": "01-04-2024",
+            "Freguesia": "Ladoeiro",
+            "Concelho": "Castelo Branco",
+            "Distrito": "Castelo Branco",
+            "Descrição": "Missa campal e procissão: Corrida de touros."
+        },
+        {
+            "Nome": "Romaria de Nossa Senhora da Granja",
+            "Data Início": "01-04-2024",
+            "Data Fim": "01-04-2024",
+            "Freguesia": "Proença-a-Velha",
+            "Concelho": "Idanha-a-Nova",
+            "Distrito": "Castelo Branco",
+            "Descrição": "ao longo da Quaresma acorrem muitos romeiros à ermida. Missa e procissão ao redor da ermida, seguida por refeição nos campos circundantes, e convívio com adufes, concertinas e ranchos folclóricos"
+        },
+        {
+            "Nome": "Romaria de Nossa Senhora da Esperança",
+            "Data Início": "26-04-2024",
+            "Data Fim": "26-04-2024",
+            "Freguesia": "Belmonte",
+            "Concelho": "Belmonte",
+            "Distrito": "Castelo Branco",
+            "Descrição": "Na véspera à noite, procissão das velas: No dia de festa, missa e procissão: Segundo a tradição, a imagem de Nossa Senhora da Esperança terá acompanhado Pedro Álvares Cabral, natural de Belmonte, na descoberta do Brasil."
+        },
+        {
+            "Nome": "Romaria de Nossa Senhora do Almortão",
+            "Data Início": "31-03-2024",
+            "Data Fim": "31-03-2024",
+            "Freguesia": "Idanha-a-Nova",
+            "Concelho": "Idanha-a-Nova",
+            "Distrito": "Castelo Branco",
+            "Descrição": "Os ranchos das várias aldeias, à chegada ao santuário, dão três voltas à capela e cumprimentam Nossa Senhora tocando adufes no alpendre, virados para o altar: Impressionante procissão e missa campal: Merendas pelo arraial: Ao fim da tarde, a banda filarmónica toca a conhecida melodia à Senhora do Almortão ao redor da capela, seguida de muito povo e muito entusiasmo."
+        },
+        {
+            "Nome": "feriado municipal na terça-feira)",
+            "Data Início": "31-03-2024",
+            "Data Fim": "31-03-2024",
+            "Freguesia": "Castelo Branco",
+            "Concelho": "Mogadouro",
+            "Distrito": "Bragança",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa da Santa Cruz ou do Castelo",
+            "Data Início": "03-05-2024",
+            "Data Fim": "03-05-2024",
+            "Freguesia": "Monsanto",
+            "Concelho": "Idanha-a-Nova",
+            "Distrito": "Santarém",
+            "Descrição": "Além das festividades religiosas, realiza-se a tradicional subida ao castelo, em cortejo popular, tocando adufe e transportando as marafonas (bonecas de trapos, usadas em dias de trovoadas para as esconjurar), cestos com flores e um pote cheio de flores que é lançado do alto das muralhas, em comemoração de um cerco lendário que terá terminado após a população sitiada ter lançado do mesmo local uma vitela com o bucho cheio de trigo, indicando ao exército inimigo que ainda tinham muitos víveres armazenados: Convívio musical na alcáçova do castelo, com o rancho folclórico local: Missa e procissão."
+        },
+        {
+            "Nome": "Romaria de S. Macário",
+            "Data Início": "21-04-2024",
+            "Data Fim": "21-04-2024",
+            "Freguesia": "Alcaide",
+            "Concelho": "Fundão",
+            "Distrito": "Castelo Branco",
+            "Descrição": "a procissão sobe à capelinha em honra do santo protector do ouvido"
+        },
+        {
+            "Nome": "Festa da Senhora dos Altos Céus. Interessantes danças rituais",
+            "Data Início": "03-05-2024",
+            "Data Fim": "03-05-2024",
+            "Freguesia": "Lousa",
+            "Concelho": "Castelo Branco",
+            "Distrito": "Bragança",
+            "Descrição": "dança da genebres, dança das tesouras, dança das virgens, resquícios das danças que outrora integravam as procissões religiosas, sobretudo a do Corpus Christi"
+        },
+        {
+            "Nome": "Festa de Nossa Senhora dos Remédios",
+            "Data Início": "40 dias depois da Páscoa",
+            "Data Fim": "40 dias depois da Páscoa",
+            "Freguesia": "Tortosendo",
+            "Concelho": "Covilhã",
+            "Distrito": "Castelo Branco",
+            "Descrição": "Na véspera, procissão das velas: No domingo, nova procissão."
+        },
+        {
+            "Nome": "Romaria de Santa Apolónia",
+            "Data Início": "05-05-2024",
+            "Data Fim": "05-05-2024",
+            "Freguesia": "Alcains",
+            "Concelho": "Castelo Branco",
+            "Distrito": "Castelo Branco",
+            "Descrição": "procissão desde a igreja matriz até à ermida, onde se integram mulheres levando tabuleiros  com as oferendas para a santa."
+        },
+        {
+            "Nome": "Romaria da Senhora da Póvoa",
+            "Data Início": "19-05-2024",
+            "Data Fim": "19-05-2024",
+            "Freguesia": "Vale da Senhora da Póvoa",
+            "Concelho": "Penamacor",
+            "Distrito": "Castelo Branco",
+            "Descrição": "outrora um grande centro difusor do adufe"
+        },
+        {
+            "Nome": "Feira de São Tiago",
+            "Data Início": "07-06-2024",
+            "Data Fim": "07-06-2024",
+            "Freguesia": "Covilhã",
+            "Concelho": "Covilhã",
+            "Distrito": "Castelo Branco",
+            "Descrição": "Gastronomia"
+        },
+        {
+            "Nome": "Festa de São Pedro",
+            "Data Início": "07-07-2024",
+            "Data Fim": "07-07-2024",
+            "Freguesia": "Alcains",
+            "Concelho": "Castelo Branco",
+            "Distrito": "Castelo Branco",
+            "Descrição": "Pedro: O aspecto mais característico desta festa é a confecção e ingestão das tradicionais papas de carolo, feitas ao ar livre em caldeiras de latão."
+        },
+        {
+            "Nome": "Romaria de Nossa Senhora das Preces",
+            "Data Início": "07-07-2024",
+            "Data Fim": "07-07-2024",
+            "Freguesia": "Aldeia das Dez",
+            "Concelho": "Oliveira do Hospital",
+            "Distrito": "Coimbra",
+            "Descrição": "Santuário no cimo do monte, em local d maravilha, onde, segundo a lenda, apareceu Nossa Senhora: Em redor do santuário, várias capinhas representando cenas  da via sacra, que os romeiros visitam nos dois dias da festa: Romaria muito concorrida: Missa campal."
+        },
+        {
+            "Nome": "Romaria de Nossa Senhora das Dores",
+            "Data Início": "07-07-2024",
+            "Data Fim": "07-07-2024",
+            "Freguesia": "Paúl",
+            "Concelho": "Covilhã",
+            "Distrito": "Castelo Branco",
+            "Descrição": "Procissão desde a igreja até ao santuário, onde é dita a missa: À tarde, cortejo alegórico."
+        },
+        {
+            "Nome": "capeia raiana",
+            "Data Início": "08-06-2024",
+            "Data Fim": "08-06-2024",
+            "Freguesia": "Sabugal",
+            "Concelho": "várias aldeias do concelho",
+            "Distrito": "Guarda",
+            "Descrição": "forma peculiar de lidar toiros"
+        },
+        {
+            "Nome": "Senhora do Carmo",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Teixoso",
+            "Concelho": "Covilhã",
+            "Distrito": "Castelo Branco",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Santa Margarida",
+            "Data Início": "15-08-2024",
+            "Data Fim": "15-08-2024",
+            "Freguesia": "Aldeia de Santa Margarida",
+            "Concelho": "Idanha-a-Nova",
+            "Distrito": "Castelo Branco",
+            "Descrição": "Missa e procissão com os andores da santa festejada, de S: Sebastião e de Santo António: Arruadas de bombos, garraiadas"
+        },
+        {
+            "Nome": "Senhor do Calvário",
+            "Data Início": "18-08-2024",
+            "Data Fim": "18-08-2024",
+            "Freguesia": "Proença-a-Velha",
+            "Concelho": "Idanha-a-Nova",
+            "Distrito": "Castelo Branco",
+            "Descrição": "procissão, fogo preso"
+        },
+        {
+            "Nome": "Festa de Nossa Senhora do Loreto",
+            "Data Início": "25-08-2024",
+            "Data Fim": "25-08-2024",
+            "Freguesia": "Alcafozes",
+            "Concelho": "Idanha-a-Nova",
+            "Distrito": "Castelo Branco",
+            "Descrição": "Garraiada à vara larga: Procissão das velas, missa campal."
+        },
+        {
+            "Nome": "Senhora da Confiança",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Pedrógão Pequeno",
+            "Concelho": "Sertã",
+            "Distrito": "Castelo Branco",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Senhora da Azenha",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Monsanto",
+            "Concelho": "Idanha-a-Nova",
+            "Distrito": "Santarém",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Romaria de Santa Luzia",
+            "Data Início": "15-09-2024",
+            "Data Fim": "15-09-2024",
+            "Freguesia": "Castelejo",
+            "Concelho": "Fundão",
+            "Distrito": "Castelo Branco",
+            "Descrição": "Na véspera, procissão de velas nocturna desde a Igreja do Castelejo até ao santuário, seguida de arraial, este animado por grupos de concertinas e de adufes: No dia da festa, o anúncio musical da alvorada tem lugar no Fundão, no largo da Câmara Municipal, com as entidades locais: Missa campal e procissão solene ao redor do arraial: Seguidamente, chegam os tractores das freguesias, cada um trazendo o seu grupo de romeiros, que irrompem pelo arraial cantando e recebendo os aplausos dos conterrâneos que os esperam junto à fonte, em delírio: Passando a fonte, chegam à capela e descem dos carros: Formam-se então os grupos de bombos que, à vez, irrompem pelo arraial: com estrondo e galhardia: O povo abre alas e aplaude, contagiado pelo frenesim percutivo: Merendas pelo arraial."
+        },
+        {
+            "Nome": "Santa Eufémia",
+            "Data Início": "08-09-2024",
+            "Data Fim": "08-09-2024",
+            "Freguesia": "Quadrazais",
+            "Concelho": "Sabugal",
+            "Distrito": "Guarda",
+            "Descrição": ""
+        },
+        {
+            "Nome": "Festa de Santa Bebiana",
+            "Data Início": "02-12-2024",
+            "Data Fim": "02-12-2024",
+            "Freguesia": "Caria",
+            "Concelho": "Belmonte",
+            "Distrito": "Castelo Branco",
+            "Descrição": "Cortejo pelas ruas anunciando a festa e celebrando a santa e o S: Martinho, com animação musical a cargo de acordeão e de pífaros: Sermão e eleição da mulher mais bêbeda da terra."
+        }
+    ]
+}

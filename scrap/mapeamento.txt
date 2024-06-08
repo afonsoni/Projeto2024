@@ -1,384 +1,3321 @@
-Vila Chã da Braciosa,Miranda do Douro,Bragança
-Tó,Mogadouro,Bragança
-Babe,Bragança,Bragança
-Rio de Onor,Bragança,Bragança
-Vale de Anta,Chaves,Vila Real
-Vale de Salgueiro,Mirandela,Bragança
-Alturas do Barroso,Boticas,Vila Real
-Dornelas,Boticas,Vila Real
-Gimonde,Bragança,Bragança
-Paradela,Miranda do Douro,Bragança
-Pinhão,Alijó,Vila Real
-Podence,Macedo de Cavaleiros,Bragança
-Freixo de Espada à Cinta,Freixo de Espada à Cinta,Bragança
-Vilar de Perdizes,Montalegre,Vila Real
-Vila Real,Vila Real,Vila Real
-Mateus,Vila Real,Vila Real
-Vila Verde,Alijó,Vila Real
-Coelhoso,Bragança,Bragança
-Covas do Barroso,Boticas,Vila Real
-Teixeira,Baião,Porto
-Mirandela,Mirandela,Bragança
-Campeã,Vila Real,Vila Real
-Montalegre,Montalegre,Vila Real
-Póvoa,Miranda do Douro,Bragança
-Vinhais,Vinhais,Bragança
-Torre de Moncorvo,Torre de Moncorvo,Bragança
-Vilas Boas,Vila Flor,Bragança
-Salto,Montalegre,Vila Real
-Algoso,Vimioso,Bragança
-Boticas,Boticas,Vila Real
-Montesinho,Bragança,Bragança
-Pegarinhos,Alijó,Vila Real
-Constantim,Miranda do Douro,Bragança
-Vilarelho,Alfândega da Fé,Bragança
-Mouçós,Vila Real,Vila Real
-Mogadouro,Mogadouro,Bragança
-Fetais,Sabrosa,Vila Real
-Maçores,Torre de Moncorvo,Bragança
-Martinho,Miranda do Douro,Bragança
-Vale de Porco,Mogadouro,Bragança
-Travanca,Vinhais,Bragança
-Bruçó,Mogadouro,Bragança
-Rio Frio,Bragança,Bragança
-Bemposta,Mogadouro,Bragança
-Ousilhão,Vinhais,Bragança
-Grijó de Parada,Bragança,Bragança
-Vila Meã,Bragança,Bragança
-Deilão,Bragança,Bragança
-Amiais de Baixo,Santarém,Santarém
-Almeirim,Almeirim,Santarém
-Benavente,Samora Correia,Santarém
-Alcanena,Espinheiro,Santarém
-Alpiarça,Alpiarça,Santarém
-Abrantes,Abrantes,Santarém
-Santarém,Santarém,Santarém
-Sardoal,Sardoal,Santarém
-Cem Soldos,Tomar,Santarém
-Constância,Constância,Santarém
-Mação,Mação,Santarém
-Alcochete,Alcochete,Santarém
-Pontével,Cartaxo,Santarém
-Dornes,Ferreira do Zêzere,Santarém
-Carregueiros,Tomar,Santarém
-Meia Via,Torres Novas,Santarém
-Azinhaga,Golegã,Santarém
-Chamusca,Chamusca,Santarém
-Montijo,Montijo,Santarém
-Vila Franca de Xira,Vila Franca de Xira,Santarém
-Coruche,Coruche,Santarém
-Atalaia,Montijo,Santarém
-Moita,Moita,Santarém
-Sabacheira,Tomar,Santarém
-Vila Nova de Gaia,Gaia,Porto
-Louredo,Santa Marta de Penaguião,Vila Real
-Santa Cruz do Bispo,Matosinhos,Porto
-Santa Maria da Feira,Santa Maria da Feira,Aveiro
-Ermesinde,Valongo,Porto
-Lousada,Meinedo,Porto
-Melres,Gondomar,Porto
-Póvoa de Varzim,Póvoa de Varzim,Porto
-Caramos,Felgueiras,Porto
-Rates,Póvoa de Varzim,Porto
-Entre-os-Rios,Penafiel,Porto
-Ovar,Ovar,Aveiro
-Vila do Conde,Vila do Conde,Porto
-Guilhabreu,Vila do Conde,Porto
-Eja,Penafiel,Porto
-Várzea,Felgueiras,Porto
-Arouca,Arouca,Aveiro
-Urrô,Arouca,Aveiro
-Aguiar do Sousa,Paredes,Porto
-Matosinhos,Matosinhos,Porto
-Beiriz,Póvoa de Varzim,Porto
-Amarante,Amarante,Porto
-Freamunde,Paços de Ferreira,Porto
-Miramar,Gaia,Porto
-Castelo de Paiva,Castelo de Paiva,Aveiro
-Porto,Porto,Porto
-Sobrado,Valongo,Porto
-Afurada,Gaia,Porto
-Santo Tirso,Santo Tirso,Porto
-Rio Tinto,Gondomar,Porto
-Aguçadoura,Póvoa de Varzim,Porto
-A-Ver-o-Mar,Póvoa de Varzim,Porto
-Sanfins do Torno,Lousada,Porto
-Monte Córdova,Santo Tirso,Porto
-São Pedro,Castelo de Paiva,Aveiro
-Trofa,Trofa,Porto
-Barqueiros,Mesão Frio,Vila Real
-Freixo de Cima,Amarante,Porto
-Monte da Mó,Arouca,Aveiro
-Monte Córdova,Santo Tirso,Porto
-Duas Igrejas,Penafiel,Porto
-Ancede,Baião,Porto
-Novais,Póvoa de Varzim,Porto
-Vila Nova de Gaia,Gaia,Porto
-Louredo,Santa Marta de Penaguião,Vila Real
-Santa Cruz do Bispo,Matosinhos,Porto
-Santa Maria da Feira,Santa Maria da Feira,Aveiro
-Ermesinde,Valongo,Porto
-Lousada,Meinedo,Porto
-Melres,Gondomar,Porto
-Póvoa de Varzim,Póvoa de Varzim,Porto
-Caramos,Felgueiras,Porto
-Rates,Póvoa de Varzim,Porto
-Entre-os-Rios,Penafiel,Porto
-Ovar,Ovar,Aveiro
-Vila do Conde,Vila do Conde,Porto
-Guilhabreu,Vila do Conde,Porto
-Eja,Penafiel,Porto
-Várzea,Felgueiras,Porto
-Arouca,Arouca,Aveiro
-Urrô,Arouca,Aveiro
-Aguiar do Sousa,Paredes,Porto
-Matosinhos,Matosinhos,Porto
-Beiriz,Póvoa de Varzim,Porto
-Amarante,Amarante,Porto
-Freamunde,Paços de Ferreira,Porto
-Miramar,Gaia,Porto
-Castelo de Paiva,Castelo de Paiva,Aveiro
-Porto,Porto,Porto
-Sobrado,Valongo,Porto
-Afurada,Gaia,Porto
-Santo Tirso,Santo Tirso,Porto
-Rio Tinto,Gondomar,Porto
-Aguçadoura,Póvoa de Varzim,Porto
-A-Ver-o-Mar,Póvoa de Varzim,Porto
-Sanfins do Torno,Lousada,Porto
-Monte Córdova,Santo Tirso,Porto
-São Pedro,Castelo de Paiva,Aveiro
-Trofa,Trofa,Porto
-Barqueiros,Mesão Frio,Vila Real
-Freixo de Cima,Amarante,Porto
-Monte da Mó,Arouca,Aveiro
-Monte Córdova,Santo Tirso,Porto
-Duas Igrejas,Penafiel,Porto
-Ancede,Baião,Porto
-Novais,Póvoa de Varzim,Porto
-Talhadas,Sever do Vouga,Aveiro
-Travassô,Águeda,Aveiro
-Avanca,Estarreja,Aveiro
-Vale de Ílhavo,Ílhavo,Aveiro
-Brasfemes,Coimbra,Coimbra
-Assequins,Águeda,Aveiro
-Aguada de Cima,Águeda,Aveiro
-Escapães,Cantanhede,Coimbra
-Sepins,Cantanhede,Coimbra
-Cernache,Coimbra,Coimbra
-Lousã,Lousã,Coimbra
-Espírito Santo,Soure,Coimbra
-Vagos,Vagos,Aveiro
-Vila Pouca,Cernache,Coimbra
-Praia da Tocha,Cantanhede,Coimbra
-Palhaça,Oliveira do Bairro,Aveiro
-Ançã,Cantanhede,Coimbra
-Pombal,Pombal,Leiria
-Oliveira de Azeméis,Oliveira de Azeméis,Aveiro
-Esmoriz,Esmoriz,Aveiro
-Semide,Miranda do Corvo,Coimbra
-Fermentelos,Águeda,Aveiro
-Furadouro,Ovar,Aveiro
-Macieira de Cambra,Vale de Cambra,Aveiro
-Torreira,Murtosa,Aveiro
-Montemor-o-Velho,Montemor-o-Velho,Coimbra
-Podentes,Penela,Coimbra
-Soure,Soure,Coimbra
-São Jacinto,Aveiro,Aveiro
-Mouquim,Albergaria-a-Velha,Aveiro
-Oiã,Oliveira do Bairro,Aveiro
-Veiros,Estarreja,Aveiro
-Fermelã,Estarreja,Aveiro
-Albufeira,Albufeira,Faro
-Quarteira,Loulé,Faro
-Loulé,Loulé,Faro
-Brás de Alportel,São Brás de Alportel,Faro
-Bartolomeu de Messines,Silves,Faro
-Tavira,Tavira,Faro
-Querença,Loulé,Faro
-Alte,Loulé,Faro
-Salir,Loulé,Faro
-Fuzeta,Olhão,Faro
-Porches,Lagoa,Faro
-Castro Marim,Castro Marim,Faro
-Aljezur,Aljezur,Faro
-Armação de Pera,Silves,Faro
-Lagos,Lagos,Faro
-Portimão,Portimão,Faro
-Monchique,Monchique,Faro
-Póvoa da Atalaia,Fundão,Castelo Branco
-Almaceda,Castelo Branco,Castelo Branco
-S. Jorge da Beira,Covilhã,Castelo Branco
-Janeiro de Baixo,Pampilhosa da Serra,Coimbra
-Cabril,Pampilhosa da Serra,Coimbra
-Ponte de Fajão,Pampilhosa da Serra,Coimbra
-Vidual,Pampilhosa da Serra,Coimbra
-Forcalhos,Sabugal,Guarda
-Paúl,Covilhã,Castelo Branco
-Fundão,Fundão,Castelo Branco
-Castelo Novo,Fundão,Castelo Branco
-Penamacor,Penamacor,Castelo Branco
-Salvaterra do Extremo,Idanha-a-Nova,Castelo Branco
-Ladoeiro,Castelo Branco,Castelo Branco
-Proença-a-Velha,Idanha-a-Nova,Castelo Branco
-Belmonte,Belmonte,Castelo Branco
-Idanha-a-Nova,Idanha-a-Nova,Castelo Branco
-Monsanto,Idanha-a-Nova,Castelo Branco
-Alcaide,Fundão,Castelo Branco
-Lousa,Castelo Branco,Castelo Branco
-Tortosendo,Covilhã,Castelo Branco
-Alcains,Castelo Branco,Castelo Branco
-Vale da Senhora da Póvoa,Penamacor,Castelo Branco
-Aldeia das Dez,Oliveira do Hospital,Coimbra
-Sabugal,Sabugal,Guarda
-Teixoso,Covilhã,Castelo Branco
-Aldeia de Santa Margarida,Idanha-a-Nova,Castelo Branco
-Alcafozes,Idanha-a-Nova,Castelo Branco
-Pedrógão Pequeno,Sertã,Castelo Branco
-Castelejo,Fundão,Castelo Branco
-Quadrazais,Sabugal,Guarda
-Caria,Belmonte,Castelo Branco
-Lalim,Lamego,Viseu
-Palhaça,Oliveira de Frades,Viseu
-Lazarim,Lamego,Viseu
-Cabanas de Viriato,Carregal do Sal,Viseu
-Lagares da Beira,Oliveira do Hospital,Coimbra
-Lamego,Lamego,Viseu
-Sandomil,Seia,Guarda
-Meda,Meda,Guarda
-Sernancelhe,Sernancelhe,Viseu
-Mortágua,Mortágua,Viseu
-Pedro do Sul,Oliveira do Hospital,Coimbra
-Guardão,Tondela,Viseu
-Poço do Canto,Meda,Guarda
-Quintela,Sernancelhe,Viseu
-Serra dos Cabaços,Mangualde,Viseu
-Vil de Moinhos,Viseu,Viseu
-Guarda,Guarda,Guarda
-Sul,S. Pedro do Sul,Viseu
-Vouzela,Vouzela,Viseu
-Póvoa do Mileu,Guarda,Guarda
-Laceiras,Carregal do Sal,Viseu
-Figueira de Castelo Rodrigo,Figueira de Castelo Rodrigo,Guarda
-Gouveia,Gouveia,Guarda
-Viseu,Viseu,Viseu
-Celorico da Beira,Celorico da Beira,Guarda
-Vilar Maior,Sabugal,Guarda
-Mangualde,Mangualde,Viseu
-Trancoso,Trancoso,Guarda
-Vila Nova de Fozcoa,Vila Nova de Fozcoa,Guarda
-Vasconha de Queirã,Vouzela,Viseu
-Pereiro,Vilar,Cadaval
-Alfeizerão,Alcobaça,Leiria
-Valado de Frades,Nazaré,Leiria
-Pederneira,Nazaré,Leiria
-Torres Vedras,Torres Vedras,Lisboa
-Sesimbra,Sesimbra,Setúbal
-Mafra,Mafra,Lisboa
-Cortes,Leiria,Leiria
-Caldas da Rainha,Caldas da Rainha,Leiria
+União das freguesias de Vale Formoso e Aldeia do Souto,Covilhã,Castelo Branco
+Enxames,Fundão,Castelo Branco
 Meca,Alenquer,Lisboa
-Pataias,Alcobaça,Leiria
-Marinha Grande,Marinha Grande,Leiria
-Aldeiagalega da Merceana,Alenquer,Lisboa
-Batalha,Batalha,Leiria
-Rebolaria,Batalha,Leiria
-Cascais,Cascais,Lisboa
-Runa,Torres Vedras,Lisboa
-Porto de Mós,Porto de Mós,Leiria
-Monte Real,Leiria,Leiria
-A dos Negros,Óbidos,Leiria
-Pragança,Cadaval,Lisboa
-Enxara do Bispo,Mafra,Lisboa
-Belas,Sintra,Lisboa
-Cheleiros,Mafra,Lisboa
-Ericeira,Mafra,Lisboa
-Lagoa de Óbidos,Óbidos,Leiria
-Janas,Sintra,Lisboa
-Gaeiras,Óbidos,Leiria
-Vila Fresca de Azeitão,Setúbal,Setúbal
-Palmela,Palmela,Setúbal
-Reguengo do Fetal,Batalha,Leiria
-Carvalhal,Bombarral,Leiria
-Mercês,Sintra,Lisboa
-Arelho,Óbidos,Leiria
-Alfarim,Sesimbra,Setúbal
-Livramento,Mafra,Lisboa
-São Martinho do Porto,Alcobaça,Leiria
-Atouguia da Baleia,Peniche,Leiria
-Gondiães,Cabeceiras de Basto,Braga
-Lindoso,Ponte da Barca,Viana do Castelo
-Taipas,Guimarães,Braga
-Tamel,Barcelos,Braga
-Fão,Esposende,Braga
-Louro,Famalicão,Braga
-Não,Esposende,Braga
-Cristelo Covo,Valença,Viana do Castelo
-Serzedelo,Guimarães,Braga
-Vila Franca do Lima,Viana do Castelo,Viana do Castelo
-Nespereira,Guimarães,Braga
-Cardielos,Viana do Castelo,Viana do Castelo
-Alvarães,Viana do Castelo,Viana do Castelo
-Barrosas,Felgueiras,Porto
-Vila Mou,Viana do Castelo,Viana do Castelo
-Nogueira,Viana do Castelo,Viana do Castelo
-Mixões,Vila Verde,Braga
-Amares,Amares,Braga
-Famalicão,Famalicão,Braga
-Calvos,Guimarães,Braga
-Torcato,Guimarães,Braga
-Vizela,Guimarães,Braga
-Cossourado,Paredes de Coura,Viana do Castelo
-Fafe,Fafe,Braga
-Vale de Bouro,Celorico de Basto,Braga
-Alto da Serra de Arga,Viana do Castelo,Viana do Castelo
-Lanheses,Viana do Castelo,Viana do Castelo
-Rio Caldo,Gerês,Braga
-Neves,Viana do Castelo,Viana do Castelo
-Guimarães,Guimarães,Braga
+União das freguesias de Aldeia da Ribeira,Vilar Maior e Badamalos,Sabugal
+Mosteiros,Arronches,Portalegre
+Ratoeira,Celorico da Beira,Guarda
+Valongo,Valongo,Porto
+Norte Grande (Neves),Velas,Ilha de São Jorge
+Granja do Ulmeiro,Soure,Coimbra
+Alvorninha,Caldas da Rainha,Leiria
+Vila Cã,Pombal,Leiria
+Quadrazais,Sabugal,Guarda
+Covas do Barroso,Boticas,Vila Real
+Póvoa de São Miguel,Moura,Beja
+Cacia,Aveiro,Aveiro
+São Martinho do Peso,Mogadouro,Bragança
+União das freguesias de Seide,Vila Nova de Famalicão,Braga
+Sistelo,Arcos de Valdevez,Viana do Castelo
+União das freguesias de Caçarelhos e Angueira,Vimioso,Bragança
+Veiga de Lila,Valpaços,Vila Real
+Cano,Sousel,Portalegre
+Pousaflores,Ansião,Leiria
+União das freguesias de Eiras e São Paulo de Frades,Coimbra,Coimbra
+Banho e Carvalhosa,Marco de Canaveses,Porto
+União das freguesias de Ferreirim e Macieira,Sernancelhe,Viseu
+União das freguesias de Ribafria e Pereiro de Palhacana,Alenquer,Lisboa
+Moreira do Castelo,Celorico de Basto,Braga
+Ribafeita,Viseu,Viseu
+Póvoa do Mileu,Guarda,Guarda
+Ribeira,Terras de Bouro,Braga
+Odiáxere,Lagos,Faro
+Selho (São Jorge),Guimarães,Braga
+Quintela de Lampaças,Bragança,Bragança
+União das freguesias de Coimbra (Sé Nova,Santa Cruz,Almedina e São Bartolomeu)
+Seixo da Beira,Oliveira do Hospital,Coimbra
+Paradela,Barcelos,Braga
+Corujas,Macedo de Cavaleiros,Bragança
+União das freguesias de Arca e Varzielas,Oliveira de Frades,Viseu
+Vila de Ala,Mogadouro,Bragança
+União das freguesias de Olaia e Paço,Torres Novas,Santarém
+Monsul,Póvoa de Lanhoso,Braga
+Vale de Estrela,Guarda,Guarda
+Souto,Terras de Bouro,Braga
+União das freguesias de Almargem do Bispo,Pêro Pinheiro e Montelavar,Sintra
+Amonde,Viana do Castelo,Viana do Castelo
+Caldelas,Guimarães,Braga
+União das freguesias de Monção e Troviscoso,Monção,Viana do Castelo
+União das freguesias de Vila Flor e Nabo,Vila Flor,Bragança
+Alcafache,Mangualde,Viseu
+Valado de Frades,Nazaré,Leiria
+Campolide,Lisboa,Lisboa
+União das freguesias de São Lourenço de Mamporcão e São Bento de Ana Loura,Estremoz,Évora
+Gave,Melgaço,Viana do Castelo
+Póvoa de Penela,Penedono,Viseu
+União das freguesias de Vila Franca das Naves e Feital,Trancoso,Guarda
+Cabanelas,Vila Verde,Braga
+Sanguinheira,Cantanhede,Coimbra
+Passos,Fafe,Braga
+Monção,Monção,Viana do Castelo
+Santa Maria,São Pedro e Sobral da Lagoa,Óbidos
+União das freguesias do Ameixial (Santa Vitória e São Bento),Estremoz,Évora
+Paderne,Melgaço,Viana do Castelo
+União das freguesias de Vila Cova de Alva e Anseriz,Arganil,Coimbra
+Amor,Leiria,Leiria
+Vilar,Cadaval,Lisboa
+Vagos,Vagos,Aveiro
+União das freguesias de Unhão e Lordelo,Felgueiras,Porto
+Gouvinhas,Sabrosa,Vila Real
+Valhelhas,Guarda,Guarda
 Caminha,Caminha,Viana do Castelo
-Santa Marta de Portuzelo,Viana do Castelo,Viana do Castelo
-Apúlia,Esposende,Braga
-Lagoa,Fafe,Braga
-Balugães,Barcelos,Braga
-Soajo,Arcos de Valdevez,Viana do Castelo
+União das freguesias de Santa Clara-a-Nova e Gomes Aires,Almodôvar,Beja
+União das freguesias de Coruche,Fajarda e Erra,Coruche
+União das freguesias de Campo e Tamel (São Pedro Fins),Barcelos,Braga
+Santa Maria Maior,Lisboa,Lisboa
+Montalvo,Constância,Santarém
+Estorãos,Ponte de Lima,Viana do Castelo
+Caires,Amares,Braga
+Ginetes,Ponta Delgada,Ilha de São Miguel
+São Pedro de Castelões,Vale de Cambra,Aveiro
+União das freguesias de Campos e Louredo,Póvoa de Lanhoso,Braga
+União das freguesias de Remondes e Soutelo,Mogadouro,Bragança
+Monte Real,Leiria,Leiria
+União das freguesias de Arnoso (Santa Maria e Santa Eulália) e Sezures,Vila Nova de Famalicão,Braga
+Aguiar de Sousa,Paredes,Porto
+Cortes do Meio,Covilhã,Castelo Branco
+União das freguesias de Barreiro de Besteiros e Tourigo,Tondela,Viseu
+Esmolfe,Penalva do Castelo,Viseu
+União das freguesias de Vilela,Seramil e Paredes Secas,Amares
+União das freguesias de Trigaches e São Brissos,Beja,Beja
+União das freguesias de Alfundão e Peroguarda,Ferreira do Alentejo,Beja
+Fermentões,Guimarães,Braga
+Cardielos,Viana do Castelo,Viana do Castelo
+Meirinhos,Mogadouro,Bragança
+Areias,Barcelos,Braga
+Vilar Seco,Nelas,Viseu
+União das freguesias de Moimenta e Montouto,Vinhais,Bragança
+Suçães,Mirandela,Bragança
+União das freguesias de Leitões,Oleiros e Figueiredo,Guimarães
+Santa Joana,Aveiro,Aveiro
+Sameiro,Manteigas,Guarda
+Água Retorta,Povoação,Ilha de São Miguel
+União das freguesias de Cedofeita,Santo Ildefonso,Sé
+Entre-os-Rios,Penafiel,Porto
+Sesimbra,Sesimbra,Setúbal
+Santa Luzia,São Roque do Pico,Ilha do Pico
+Serra dos Cabaços,Mangualde,Viseu
+União das freguesias de São João da Ribeira e Ribeira de São João,Rio Maior,Santarém
+União das freguesias de Troporiz e Lapela,Monção,Viana do Castelo
+União das freguesias de Vilar e Mosteiró,Vila do Conde,Porto
+Fenais da Luz,Ponta Delgada,Ilha de São Miguel
+Fontinhas,Vila da Praia da Vitória,Ilha Terceira
+União das freguesias de Cabreiros e Passos (São Julião),Braga,Braga
+Torno,Lousada,Porto
+Ermidas-Sado,Santiago do Cacém,Setúbal
+Monchique,Monchique,Faro
+União das freguesias de Marrancos e Arcozelo,Vila Verde,Braga
+União das freguesias de Tarouca e Dálvares,Tarouca,Viseu
+União das freguesias de Esposende,Marinhas e Gandra,Esposende
+Cambas,Oleiros,Castelo Branco
+Telões,Vila Pouca de Aguiar,Vila Real
+União das freguesias de São Bartolomeu dos Galegos e Moledo,Lourinhã,Lisboa
+Vilar de Mouros,Caminha,Viana do Castelo
+União das freguesias de Gulpilhares e Valadares,Vila Nova de Gaia,Porto
+União das freguesias de Gondemaria e Olival,Ourém,Santarém
+União das freguesias de Peva e Segões,Moimenta da Beira,Viseu
+Santarém,Santarém,Santarém
+União das freguesias do Cacém e São Marcos,Sintra,Lisboa
+Penafiel,Penafiel,Porto
+Castanheira,Paredes de Coura,Viana do Castelo
+Pegarinhos,Alijó,Vila Real
+Lapa do Lobo,Nelas,Viseu
+União das freguesias de Cumeada e Marmeleiro,Sertã,Castelo Branco
+Oliveira do Douro,Cinfães,Viseu
+Valoura,Vila Pouca de Aguiar,Vila Real
+Santa Comba,Vila Nova de Foz Côa,Guarda
+Sobreira,Paredes,Porto
+Câmara de Lobos,Câmara de Lobos,Ilha da Madeira
+Ferreiros de Avões,Lamego,Viseu
+Sátão,Sátão,Viseu
+Sul,São Pedro do Sul,Viseu
+Palhaça,Oliveira do Bairro,Aveiro
+Arcas,Macedo de Cavaleiros,Bragança
+União das freguesias de Santa Vitória e Mombeja,Beja,Beja
+União das freguesias de Cedrim e Paradela,Sever do Vouga,Aveiro
+Beiral do Lima,Ponte de Lima,Viana do Castelo
+Mina de Água,Amadora,Lisboa
+Mação,Mação,Santarém
+Freixieiro de Soutelo,Viana do Castelo,Viana do Castelo
+Santiago de Besteiros,Tondela,Viseu
+Albergaria-a-Velha e Valmaior,Albergaria-a-Velha,Aveiro
+União das freguesias de Espadanedo,Edroso,Murçós e Soutelo Mourisco
+Alguber,Cadaval,Lisboa
+Assunção,Arronches,Portalegre
+Samuel,Soure,Coimbra
+Carvalhal,Bombarral,Leiria
+Comporta,Alcácer do Sal,Setúbal
+União das freguesias de Gondomil e Sanfins,Valença,Viana do Castelo
+Verdelhos,Covilhã,Castelo Branco
+Lavos,Figueira da Foz,Coimbra
+Infias,Fornos de Algodres,Guarda
+Sanfins Lamoso Codessos,Paços de Ferreira,Porto
+União das freguesias de São Martinho das Moitas e Covas do Rio,São Pedro do Sul,Viseu
+Vila Nova da Telha,Maia,Porto
+Vila Chã,Esposende,Braga
+União das freguesias de Anta e Guetim,Espinho,Aveiro
+União das freguesias de Galafura e Covelinhas,Peso da Régua,Vila Real
+União das freguesias de Sezelhe e Covelães,Montalegre,Vila Real
+Quinta do Anjo,Palmela,Setúbal
+Arrifes,Ponta Delgada,Ilha de São Miguel
+Vilar Seco,Vimioso,Bragança
+Moita dos Ferreiros,Lourinhã,Lisboa
+Lousa,Loures,Lisboa
+Aveiras de Cima,Azambuja,Lisboa
+Sá,Ponte de Lima,Viana do Castelo
+Águeda,Águeda,Aveiro
+União das freguesias de Avidagos,Navalho e Pereira,Mirandela
+Vilela Seca,Chaves,Vila Real
+Campia,Vouzela,Viseu
+Inguias,Belmonte,Castelo Branco
+União das freguesias de Ermelo e Pardelhas,Mondim de Basto,Vila Real
+Vreia de Bornes,Vila Pouca de Aguiar,Vila Real
+Avelal,Sátão,Viseu
+União das freguesias de Anreade e São Romão de Aregos,Resende,Viseu
+Adães,Barcelos,Braga
+Colares,Sintra,Lisboa
+União das freguesias de Paredes de Coura e Resende,Paredes de Coura,Viana do Castelo
+União das freguesias de Merelim (São Paio),Panoias e Parada de Tibães,Braga
+Livramento,Mafra,Lisboa
+Rebolaria,Batalha,Leiria
+São Caetano,Madalena,Ilha do Pico
+Babe,Bragança,Bragança
+Tancos,Vila Nova da Barquinha,Santarém
+Lordelo,Vila Real,Vila Real
+Estorãos,Fafe,Braga
+Martim Longo,Alcoutim,Faro
+União das freguesias de Beja (Salvador e Santa Maria da Feira),Beja,Beja
+Lara,Monção,Viana do Castelo
+Giões,Alcoutim,Faro
+União das freguesias de Destriz e Reigoso,Oliveira de Frades,Viseu
+União das freguesias de Campelo e Ovil,Baião,Porto
+Topo (Nossa Senhora do Rosário),Calheta,Ilha de São Jorge
+São Jacinto,Aveiro,Aveiro
+Campanário,Ribeira Brava,Ilha da Madeira
+Guarda,Guarda,Guarda
+Carvoeira,Mafra,Lisboa
+Murça,Murça,Vila Real
+União das freguesias de Vila Chã (São João Baptista e Santiago),Ponte da Barca,Viana do Castelo
+Horta (Angústias),Horta,Ilha do Faial
+Santo Tirso,Santo Tirso,Porto
+São Pedro,Figueira da Foz,Coimbra
+Codeçoso,Celorico de Basto,Braga
+Achada,Nordeste,Ilha de São Miguel
+União das freguesias de Crespos e Pousada,Braga,Braga
+São Barnabé,Almodôvar,Beja
+Orada,Borba,Évora
+Olalhas,Tomar,Santarém
+Celorico da Beira,Celorico da Beira,Guarda
+Fregim,Amarante,Porto
+Planalto de Monforte (União das freguesias de Oucidres e Bobadela),Chaves,Vila Real
+Santulhão,Vimioso,Bragança
+Sete Cidades,Ponta Delgada,Ilha de São Miguel
+União das freguesias de Cadafaz e Colmeal,Góis,Coimbra
+Louredo,Vieira do Minho,Braga
+Pinheiro,Aguiar da Beira,Guarda
+União das freguesias de Távora (Santa Maria e São Vicente),Arcos de Valdevez,Viana do Castelo
+Galegos (São Martinho),Barcelos,Braga
+São Bartolomeu de Regatos,Angra do Heroísmo,Ilha Terceira
+União das freguesias de Algodres,Vale de Afonsinho e Vilar de Amargo,Figueira de Castelo Rodrigo
+Meia Via,Torres Novas,Santarém
+Ponte,Guimarães,Braga
+União das freguesias de Foz de Arouce e Casal de Ermio,Lousã,Coimbra
+União das freguesias de Mação,Penhascoso e Aboboreira,Mação
+Areeiro,Lisboa,Lisboa
+Póvoa,Miranda do Douro,Bragança
+Brasfemes,Coimbra,Coimbra
+Alvorge,Ansião,Leiria
+Amêndoa,Mação,Santarém
+Gralhas,Montalegre,Vila Real
+Sever do Vouga,Sever do Vouga,Aveiro
+São Pedro de Rio Seco,Almeida,Guarda
+Longa,Tabuaço,Viseu
+União das freguesias de Parceiros e Azoia,Leiria,Leiria
+Lavegadas,Vila Nova de Poiares,Coimbra
+Figueiró do Campo,Soure,Coimbra
+União das freguesias de Degracias e Pombalinho,Soure,Coimbra
+São Vicente Ferreira,Ponta Delgada,Ilha de São Miguel
+União das freguesias de São Gregório e Santa Justa,Arraiolos,Évora
+Santiago de Montalegre,Sardoal,Santarém
+Macedo do Mato,Bragança,Bragança
+Vouzela,Vouzela,Viseu
+Nogueira da Montanha,Chaves,Vila Real
+Arco da Calheta,Calheta,Ilha da Madeira
+Pico da Pedra,Ribeira Grande,Ilha de São Miguel
+Loureiro,Oliveira de Azeméis,Aveiro
+Árvore,Vila do Conde,Porto
+Cascais,Cascais,Lisboa
+União das freguesias de Freches e Torres,Trancoso,Guarda
+União das freguesias de Ázere e Covelo,Tábua,Coimbra
+Gondar,Amarante,Porto
+São Vicente e Ventosa,Elvas,Portalegre
+Ereira,Montemor-o-Velho,Coimbra
+União das freguesias de Barroselas e Carvoeiro,Viana do Castelo,Viana do Castelo
+Santo André de Vagos,Vagos,Aveiro
+União das freguesias de Penalva de Alva e São Sebastião da Feira,Oliveira do Hospital,Coimbra
+União das freguesias de Santa Cruz/Trindade e Sanjurge,Chaves,Vila Real
+Vaiamonte,Monforte,Portalegre
+Freixiosa,Mangualde,Viseu
+Águas Belas,Ferreira do Zêzere,Santarém
+Aldeia do Bispo,Guarda,Guarda
+Pereiro,Vilar,Cadaval
+União das freguesias de Pegões,Montijo,Setúbal
+Curalha,Chaves,Vila Real
+Mire de Tibães,Braga,Braga
+São Cosmado,Armamar,Viseu
+Faia,Sernancelhe,Viseu
+Arganil,Arganil,Coimbra
+Fonte Longa,Carrazeda de Ansiães,Bragança
+Igrejinha,Arraiolos,Évora
+Pinheiro,Guimarães,Braga
 Santa Maria de Bouro,Amares,Braga
-Bartolomeu do Mar,Esposende,Braga
-Ponte da Barca,Ponte da Barca,Viana do Castelo
-Arga de S. João,Caminha,Viana do Castelo
-Negreiros,Barcelos,Braga
-Gavieira,Arcos de Valdevez,Viana do Castelo
-Vila Praia de Âncora,Caminha,Viana do Castelo
-Ponte de Lima,Ponte de Lima,Viana do Castelo
-Cabeceiras de Basto,Cabeceiras de Basto,Braga
-Lanhelas,Caminha,Viana do Castelo
-Mondim de Basto,Mondim de Basto,Vila Real
-Porto de Ave,Póvoa de Lanhoso,Braga
-Freamunde,Paços de Ferreira,Porto
+Mões,Castro Daire,Viseu
+Tuizelo,Vinhais,Bragança
+Maçãs de Dona Maria,Alvaiázere,Leiria
+Donai,Bragança,Bragança
+Vascões,Paredes de Coura,Viana do Castelo
+União das freguesias de Gondomar (São Cosme),Valbom e Jovim,Gondomar
+Abrã,Santarém,Santarém
+Vinhais,Vinhais,Bragança
+Vinhas,Macedo de Cavaleiros,Bragança
+União das freguesias de Nogueira do Cravo e Pindelo,Oliveira de Azeméis,Aveiro
+Vila Franca do Deão,Guarda,Guarda
+Ramalde,Porto,Porto
+Moita,Moita,Setúbal
+Castelões,Vila Nova de Famalicão,Braga
+União das freguesias de Carvalhais e Candal,São Pedro do Sul,Viseu
+São Vicente,Chaves,Vila Real
 Mourão,Mourão,Évora
-Évora,Évora,Évora
-Amareleja,Moura,Beja
-Granja,Mourão,Évora
-Sines,Sines,Setúbal
-Castelo de Vide,Castelo de Vide,Portalegre
-Serpa,Serpa,Beja
-Nisa,Nisa,Portalegre
-Terena,Alandroal,Évora
-Viana do Alentejo,Viana do Alentejo,Évora
-Aldeia Nova de S. Bento,Serpa,Beja
-Barrada,Reguengos de Monsaraz,Évora
-Fortios,Portalegre,Portalegre
-Reguengos de Monsaraz,Reguengos de Monsaraz,Évora
-Estremoz,Estremoz,Évora
-Tróia,Grândola,Setúbal
-Brotas,Mora,Évora
-Flor da Rosa,Crato,Portalegre
-Campo Maior,Campo Maior,Portalegre
-Ourique,Ourique,Beja
-Assumar,Monforte,Portalegre
-Elvas,Elvas,Portalegre
-Odemira,Odemira,Beja
-Alvito,Alvito,Beja
-Vila Viçosa,Vila Viçosa,Évora
-Barrancos,Barrancos,Beja
+Cristelo,Paredes,Porto
+União das freguesias de Marmeleira e Assentiz,Rio Maior,Santarém
+União das freguesias de Sé,Santa Maria e Meixedo,Bragança
+União das freguesias de Águeda e Borralha,Águeda,Aveiro
+Beselga,Penedono,Viseu
+Gondufe,Ponte de Lima,Viana do Castelo
+Gâmbia-Pontes-Alto da Guerra,Setúbal,Setúbal
+Lalim,Lamego,Viseu
+Bunheiro,Murtosa,Aveiro
+União das freguesias de Castro Laboreiro e Lamas de Mouro,Melgaço,Viana do Castelo
+Vela,Guarda,Guarda
+Constance,Marco de Canaveses,Porto
+Fiscal,Amares,Braga
+Silves,Silves,Faro
+Urra,Portalegre,Portalegre
+Vila Fresca de Azeitão,Setúbal,Setúbal
+Lousã,Lousã,Coimbra
+Pombal,Pombal,Leiria
+Salreu,Estarreja,Aveiro
+São Domingos de Ana Loura,Estremoz,Évora
+Runa,Torres Vedras,Lisboa
+Cimo de Vila da Castanheira,Chaves,Vila Real
+União das freguesias de Freixeda e Vila Verde,Mirandela,Bragança
+Vila Verde da Raia,Chaves,Vila Real
+União das freguesias de Venda Nova e Pondras,Montalegre,Vila Real
+Caria,Moimenta da Beira,Viseu
+Cuide de Vila Verde,Ponte da Barca,Viana do Castelo
+União das freguesias de Távora e Pereiro,Tabuaço,Viseu
+União das freguesias de Gesteira e Brunhós,Soure,Coimbra
+Fiães,Trancoso,Guarda
+Montargil,Ponte de Sor,Portalegre
+Castelo Branco,Horta,Ilha do Faial
+União das freguesias de Santa Lucrécia de Algeriz e Navarra,Braga,Braga
+Regadas,Fafe,Braga
+São Gens,Fafe,Braga
+Nossa Senhora das Neves,Beja,Beja
+União das freguesias de Jolda (Madalena) e Rio Cabrão,Arcos de Valdevez,Viana do Castelo
+Castelo do Neiva,Viana do Castelo,Viana do Castelo
+União das freguesias de Covas e Vila Nova de Oliveirinha,Tábua,Coimbra
+Cujó,Castro Daire,Viseu
+Campeã,Vila Real,Vila Real
+União das freguesias de Candoso e Carvalho de Egas,Vila Flor,Bragança
+Roge,Vale de Cambra,Aveiro
+Alcanena,Espinheiro,Santarém
+Capelas,Ponta Delgada,Ilha de São Miguel
 Alandroal,Alandroal,Évora
+Alvoco das Várzeas,Oliveira do Hospital,Coimbra
+Paçó,Vinhais,Bragança
+Borba (São Bartolomeu),Borba,Évora
+Roliça,Bombarral,Leiria
+Camacha,Santa Cruz,Ilha da Madeira
+Cadima,Cantanhede,Coimbra
+Carvalhosa,Paços de Ferreira,Porto
+Odivelas,Ferreira do Alentejo,Beja
+União das freguesias de Moscavide e Portela,Loures,Lisboa
+Peniche,Peniche,Leiria
+Darque,Viana do Castelo,Viana do Castelo
+Sardoal,Sardoal,Santarém
+União das freguesias de Caniçada e Soengas,Vieira do Minho,Braga
+União das freguesias de Calvão e Soutelinho da Raia,Chaves,Vila Real
+Sobral da Serra,Guarda,Guarda
+Padim da Graça,Braga,Braga
+União das freguesias de Lustosa e Barrosas (Santo Estêvão),Lousada,Porto
+Vales,Valpaços,Vila Real
+União das freguesias de Póvoa de Santo Adrião e Olival Basto,Odivelas,Lisboa
+Tocha,Cantanhede,Coimbra
+Negreiros,Barcelos,Braga
+Rebordelo,Amarante,Porto
+Associação de freguesias do Vale do Neiva,Ponte de Lima,Viana do Castelo
+Seixo de Manhoses,Vila Flor,Bragança
+União das freguesias de Camarate,Unhos e Apelação,Loures
+Vimieiro,Arraiolos,Évora
+Bom Sucesso,Figueira da Foz,Coimbra
+Poiares,Freixo de Espada à Cinta,Bragança
+Santa Clara-a-Velha,Odemira,Beja
+União das freguesias de Caldas de Vizela (São Miguel e São João),Vizela,Braga
+Chacim,Macedo de Cavaleiros,Bragança
+Manhouce,São Pedro do Sul,Viseu
+União das freguesias de Belazaima do Chão,Castanheira do Vouga e Agadão,Águeda
+Pinhanços,Seia,Guarda
+Abrantes,Abrantes,Santarém
+Santa Maria Maior,Chaves,Vila Real
+Santa Maria,São Pedro e Matacães,Torres Vedras
+Ançã,Cantanhede,Coimbra
+Meios,Guarda,Guarda
+União das freguesias de Carreiras (São Miguel) e Carreiras (Santiago),Vila Verde,Braga
+Pinheiros,Monção,Viana do Castelo
+União das freguesias de Mazarefes e Vila Fria,Viana do Castelo,Viana do Castelo
+União das freguesias de Real,Dume e Semelhe,Braga
+Figueiró da Granja,Fornos de Algodres,Guarda
+Maçainhas,Belmonte,Castelo Branco
+União das freguesias de Custóias,Leça do Balio e Guifões,Matosinhos
+Carreço,Viana do Castelo,Viana do Castelo
+São Mamede,Batalha,Leiria
+Vila Pouca de Aguiar,Vila Pouca de Aguiar,Vila Real
+Vilar Maior,Sabugal,Guarda
+Rio Douro,Cabeceiras de Basto,Braga
+Vila Cortês da Serra,Gouveia,Guarda
+Pussos São Pedro,Alvaiázere,Leiria
+Bartolomeu de Messines,Silves,Faro
+Valadares,Baião,Porto
+Alcaravela,Sardoal,Santarém
+Armação de Pêra,Silves,Faro
+Sobretâmega,Marco de Canaveses,Porto
+Gestaçô,Baião,Porto
+União das freguesias de Nossa Senhora da Vila,Nossa Senhora do Bispo e Silveiras,Montemor-o-Novo
+Margem,Gavião,Portalegre
+Alvadia,Ribeira de Pena,Vila Real
+Roriz,Barcelos,Braga
+Samões,Vila Flor,Bragança
+Cambeses,Monção,Viana do Castelo
+União das freguesias de Calvos e Frades,Póvoa de Lanhoso,Braga
+São Pedro de Sarracenos,Bragança,Bragança
+União das freguesias de Ereira e Lapa,Cartaxo,Santarém
+Vila Franca do Campo (São Miguel),Vila Franca do Campo,Ilha de São Miguel
+Vale da Pedra,Cartaxo,Santarém
+União das freguesias de Cebolais de Cima e Retaxo,Castelo Branco,Castelo Branco
+Lamas,Braga,Braga
+União das freguesias de Tagilde e Vizela (São Paio),Vizela,Braga
+Pinhão,Alijó,Vila Real
+Guilhabreu,Vila do Conde,Porto
+Benespera,Guarda,Guarda
+União das freguesias de Brogueira,Parceiros de Igreja e Alcorochel,Torres Novas
+Carapinha,Tábua,Coimbra
+Arcozelos,Moimenta da Beira,Viseu
+Cortegaça,Ovar,Aveiro
+União das freguesias de Caminha (Matriz) e Vilarelho,Caminha,Viana do Castelo
+Santa Marta de Portuzelo,Viana do Castelo,Viana do Castelo
+Silvã de Cima,Sátão,Viseu
+São Tiago dos Velhos,Arruda dos Vinhos,Lisboa
+Pala,Mortágua,Viseu
+Fanhões,Loures,Lisboa
+Fonte Arcada,Penafiel,Porto
+União das freguesias de Ruivães e Campos,Vieira do Minho,Braga
+Estrela,Lisboa,Lisboa
+Vale,Arcos de Valdevez,Viana do Castelo
+Labruge,Vila do Conde,Porto
+Infesta,Paredes de Coura,Viana do Castelo
+União das freguesias de Cossourado e Linhares,Paredes de Coura,Viana do Castelo
+Pombalinho,Golegã,Santarém
+Loulé (São Sebastião),Loulé,Faro
+Sanfins do Torno,Lousada,Porto
+Pelariga,Pombal,Leiria
+Montaria,Viana do Castelo,Viana do Castelo
+União das freguesias de Barcel,Marmelos e Valverde da Gestosa,Mirandela
+Montalegre,Montalegre,Vila Real
+Saldanha,Mogadouro,Bragança
+Monforte,Monforte,Portalegre
+Dominguizo,Covilhã,Castelo Branco
+Sazes do Lorvão,Penacova,Coimbra
+Barrancos,Barrancos,Beja
+Queirã,Vouzela,Viseu
+Rio de Moinhos,Borba,Évora
+Ferreiros de Tendais,Cinfães,Viseu
+Ruilhe,Braga,Braga
+Rabal,Bragança,Bragança
+Quintanilha,Bragança,Bragança
+União de freguesias de Cepães e Fareja,Fafe,Braga
+Marmeleiro,Guarda,Guarda
+Arranhó,Arruda dos Vinhos,Lisboa
+União das freguesias de São Mamede de Infesta e Senhora da Hora,Matosinhos,Porto
+Silva,Barcelos,Braga
+Outeiro,Viana do Castelo,Viana do Castelo
+Vilar de Pinheiro,Vila do Conde,Porto
+Ervedosa,Pinhel,Guarda
+Fonte do Bastardo,Vila da Praia da Vitória,Ilha Terceira
+São Salvador da Aramenha,Marvão,Portalegre
+São Martinho das Chãs,Armamar,Viseu
+Lajes das Flores,Lajes das Flores,Ilha das Flores
+União das freguesias de Oliveira de Azeméis,Santiago de Riba-Ul,Ul
+União das freguesias de Penso e Freixinho,Sernancelhe,Viseu
+Lodares,Lousada,Porto
+Nordeste,Nordeste,Ilha de São Miguel
+Figueira de Lorvão,Penacova,Coimbra
+São Lourenço do Bairro,Anadia,Aveiro
+Santo António,Ponta Delgada,Ilha de São Miguel
+Fajão-Vidual,Pampilhosa da Serra,Coimbra
+Penso,Melgaço,Viana do Castelo
+União das freguesias de Anissó e Soutelo,Vieira do Minho,Braga
+União das freguesias de Ervedal e Vila Franca da Beira,Oliveira do Hospital,Coimbra
+Pousada de Saramagos,Vila Nova de Famalicão,Braga
+Ferreirim,Lamego,Viseu
+Galegos,Póvoa de Lanhoso,Braga
+Facha,Ponte de Lima,Viana do Castelo
+Angra (Nossa Senhora da Conceição),Angra do Heroísmo,Ilha Terceira
+União das freguesias de Crato e Mártires,Flor da Rosa e Vale do Peso,Crato
+Mata de Lobos,Figueira de Castelo Rodrigo,Guarda
+Paço de Sousa,Penafiel,Porto
+Lindoso,Ponte da Barca,Viana do Castelo
+Santo António dos Olivais,Coimbra,Coimbra
+Azurém,Guimarães,Braga
+Luz,Lagos,Faro
+União das freguesias de Águas Boas e Forles,Sátão,Viseu
+Bragado,Vila Pouca de Aguiar,Vila Real
+Gondesende,Bragança,Bragança
+Palhaça,Oliveira de Frades,Viseu
+União das freguesias de Santa Marinha e São Pedro da Afurada,Vila Nova de Gaia,Porto
+Espadanedo,Cinfães,Viseu
+Tentúgal,Montemor-o-Velho,Coimbra
+Real,Castelo de Paiva,Aveiro
+Ervidel,Aljustrel,Beja
+Reguenga,Santo Tirso,Porto
+Nadadouro,Caldas da Rainha,Leiria
+Cambres,Lamego,Viseu
+São João de Negrilhos,Aljustrel,Beja
+Fradelos,Vila Nova de Famalicão,Braga
+União das freguesias de Sago,Lordelo e Parada,Monção
+União das freguesias de Ancede e Ribadouro,Baião,Porto
+Monte da Pedra,Crato,Portalegre
+União das freguesias de Outeiro da Cortiçada e Arruda dos Pisões,Rio Maior,Santarém
+Alte,Loulé,Faro
+Solveira,Montalegre,Vila Real
+São João do Campo,Coimbra,Coimbra
+Calvos,Guimarães,Braga
+União das freguesias de Beja (Santiago Maior e São João Baptista),Beja,Beja
+Cercosa,Mortágua,Viseu
+Granjal,Sernancelhe,Viseu
+São João de Lourosa,Viseu,Viseu
+Aboim da Nóbrega e Gondomar,Vila Verde,Braga
+Vale de Santarém,Santarém,Santarém
+Granja do Tedo,Tabuaço,Viseu
+Mós,Torre de Moncorvo,Bragança
+União das freguesias de Lordelo do Ouro e Massarelos,Porto,Porto
+União das freguesias de Negreiros e Chavão,Barcelos,Braga
+Ponte de Fajão,Pampilhosa da Serra,Coimbra
+Cabril,Montalegre,Vila Real
+Malhadas,Miranda do Douro,Bragança
+Mentrestido,Vila Nova de Cerveira,Viana do Castelo
+Ferragudo,Lagoa,Faro
+União das freguesias de Torre e Vila Mou,Viana do Castelo,Viana do Castelo
+Soalhães,Marco de Canaveses,Porto
+Santa Cruz da Graciosa,Santa Cruz da Graciosa,Ilha Graciosa
+Albufeira e Olhos de Água,Albufeira,Faro
+Alvites,Mirandela,Bragança
+Rubiães,Paredes de Coura,Viana do Castelo
+Estremoz,Estremoz,Évora
+União das freguesias de Felgar e Souto da Velha,Torre de Moncorvo,Bragança
+Valdosende,Terras de Bouro,Braga
+Ossela,Oliveira de Azeméis,Aveiro
+União das freguesias de Leiria,Pousos,Barreira e Cortes
+São Sebastião,Rio Maior,Santarém
+Padroso,Arcos de Valdevez,Viana do Castelo
+Creixomil,Guimarães,Braga
+São Pedro de Veiga de Lila,Valpaços,Vila Real
+Algeriz,Valpaços,Vila Real
+Veiros,Estremoz,Évora
+Oliveira,Mesão Frio,Vila Real
+Aldeia Viçosa,Guarda,Guarda
+Prova e Casteição,Mêda,Guarda
+Agrochão,Vinhais,Bragança
+Mangualde,Mangualde,Viseu
+Cristelo Covo,Valença,Viana do Castelo
+Reguengos de Monsaraz,Reguengos de Monsaraz,Évora
+Meimoa,Penamacor,Castelo Branco
+Santo André,Montalegre,Vila Real
+Vila do Conde,Vila do Conde,Porto
+Martim,Barcelos,Braga
+Sande,Lamego,Viseu
+Montesinho,Bragança,Bragança
+Lousada,Meinedo,Porto
+Fornelos,Fafe,Braga
+Pinho,Boticas,Vila Real
+Ronfe,Guimarães,Braga
+Tábua,Tábua,Coimbra
+Vieira de Leiria,Marinha Grande,Leiria
+Aldeia Velha,Avis,Portalegre
+Santa Bárbara,Angra do Heroísmo,Ilha Terceira
+Cunha,Paredes de Coura,Viana do Castelo
+São Cristóvão,Montemor-o-Novo,Évora
+Moimenta da Beira,Moimenta da Beira,Viseu
+São Bento,Angra do Heroísmo,Ilha Terceira
+União das freguesias de Taveiro,Ameal e Arzila,Coimbra
+Famalicão,Nazaré,Leiria
+Benavente,Samora Correia,Santarém
+Outeiro,Bragança,Bragança
+Janas,Sintra,Lisboa
+Mascarenhas,Mirandela,Bragança
+Podame,Monção,Viana do Castelo
+Penamacor,Penamacor,Castelo Branco
+Cendufe,Arcos de Valdevez,Viana do Castelo
+União das freguesias de Souto Santa Maria,Souto São Salvador e Gondomar,Guimarães
+Cinco Ribeiras,Angra do Heroísmo,Ilha Terceira
+São Martinho das Amoreiras,Odemira,Beja
+União das freguesias de Bacelo e Senhora da Saúde,Évora,Évora
+Minhocal,Celorico da Beira,Guarda
+União das freguesias de São Martinho de Antas e Paradela de Guiães,Sabrosa,Vila Real
+Ponta Garça,Vila Franca do Campo,Ilha de São Miguel
+Cativelos,Gouveia,Guarda
+Assentiz,Torres Novas,Santarém
+Santo António da Serra,Santa Cruz,Ilha da Madeira
+Seixo de Gatões,Montemor-o-Velho,Coimbra
+União das freguesias de Ifanes e Paradela,Miranda do Douro,Bragança
+Gafanha do Carmo,Ílhavo,Aveiro
+Aião,Felgueiras,Porto
+União das freguesias de Loivos da Ribeira e Tresouras,Baião,Porto
+Sarzedo,Moimenta da Beira,Viseu
+União das freguesias de Boa Aldeia,Farminhão e Torredeita,Viseu
+Caxarias,Ourém,Santarém
+Gafanha da Boa Hora,Vagos,Aveiro
+Baltar,Paredes,Porto
+Vila Nova da Rainha,Azambuja,Lisboa
+Amora,Seixal,Setúbal
+Remelhe,Barcelos,Braga
+São Bartolomeu de Messines,Silves,Faro
+Cunheira,Alter do Chão,Portalegre
+União das freguesias de Mezio e Moura Morta,Castro Daire,Viseu
+Serra de Água,Ribeira Brava,Ilha da Madeira
+Ribeira Seca,Ribeira Grande,Ilha de São Miguel
+Vila Verde e Barbudo,Vila Verde,Braga
+Ganfei,Valença,Viana do Castelo
+Angra (São Pedro),Angra do Heroísmo,Ilha Terceira
+Marmelete,Monchique,Faro
+Chavães,Tabuaço,Viseu
+Seda,Alter do Chão,Portalegre
+Sobral de Monte Agraço,Sobral de Monte Agraço,Lisboa
+Carapelhos,Mira,Coimbra
+Rio de Moinhos,Abrantes,Santarém
+Ventosa,Vouzela,Viseu
+União das freguesias de Fonte Arcada e Escurquela,Sernancelhe,Viseu
+União das freguesias de Gaio-Rosário e Sarilhos Pequenos,Moita,Setúbal
+Vilarinho dos Freires,Peso da Régua,Vila Real
+Parada de Bouro,Vieira do Minho,Braga
+Vila do Porto,Vila do Porto,Ilha de Santa Maria
+Rosto do Cão (Livramento),Ponta Delgada,Ilha de São Miguel
+Tabuado,Marco de Canaveses,Porto
+União das freguesias de Serra e Junceira,Tomar,Santarém
+União das freguesias de Junça e Naves,Almeida,Guarda
+Cardosas,Arruda dos Vinhos,Lisboa
+União das freguesias de Carragozela e Várzea de Meruge,Seia,Guarda
+Murtosa,Murtosa,Aveiro
+Sopo,Vila Nova de Cerveira,Viana do Castelo
+União das freguesias de Arcos de Valdevez (Salvador),Vila Fonche e Parada,Arcos de Valdevez
+Vila Nova de Tazem,Gouveia,Guarda
+Água de Alto,Vila Franca do Campo,Ilha de São Miguel
+Alijó,Alijó,Vila Real
+União das freguesias de Adoufe e Vilarinho de Samardã,Vila Real,Vila Real
+Figueiredo,Braga,Braga
+Guilhufe e Urrô,Penafiel,Porto
+Moimenta,Cinfães,Viseu
+Macieira de Sarnes,Oliveira de Azeméis,Aveiro
+Louredo,Paredes,Porto
+Azinheira dos Barros e São Mamede do Sádão,Grândola,Setúbal
+União das freguesias de Sande Vila Nova e Sande São Clemente,Guimarães,Braga
+Almeirim,Almeirim,Santarém
+França,Bragança,Bragança
+União das freguesias de Aldeia Galega da Merceana e Aldeia Gavinha,Alenquer,Lisboa
+União das freguesias de Faíl e Vila Chã de Sá,Viseu,Viseu
+União das freguesias de Almada,Cova da Piedade,Pragal e Cacilhas
+União das freguesias de Vila Garcia,Aboim e Chapa,Amarante
+Horta (Matriz),Horta,Ilha do Faial
+Forjães,Esposende,Braga
+União das freguesias de Cortiçô da Serra,Vide entre Vinhas e Salgueirais,Celorico da Beira
+São Jorge da Beira,Covilhã,Castelo Branco
+União das freguesias de Terrugem e Vila Boim,Elvas,Portalegre
+Santa Maria de Lamas,Santa Maria da Feira,Aveiro
+Chosendo,Sernancelhe,Viseu
+Passos,Mirandela,Bragança
+Numão,Vila Nova de Foz Côa,Guarda
+Possacos,Valpaços,Vila Real
+União das freguesias de Sameice e Santa Eulália,Seia,Guarda
+União das freguesias de Braga (São José de São Lázaro e São João do Souto),Braga,Braga
+Parada de Pinhão,Sabrosa,Vila Real
+Correlhã,Ponte de Lima,Viana do Castelo
+Ponta Delgada (São Pedro),Ponta Delgada,Ilha de São Miguel
+Miramar,Gaia,Porto
+Rio de Mel,Trancoso,Guarda
+Esgueira,Aveiro,Aveiro
+Pontével,Cartaxo,Santarém
+Fratel,Vila Velha de Ródão,Castelo Branco
+Alvelos,Barcelos,Braga
+Carapinheira,Montemor-o-Velho,Coimbra
+Ribeiradio,Oliveira de Frades,Viseu
+União das freguesias de Caldas de São Jorge e Pigeiros,Santa Maria da Feira,Aveiro
+União das freguesias de Amoreira da Gândara,Paredes do Bairro e Ancas,Anadia
+Rans,Penafiel,Porto
+União das freguesias de São João do Monte e Mosteirinho,Tondela,Viseu
+Gançaria,Santarém,Santarém
+Cedovim,Vila Nova de Foz Côa,Guarda
+Cabreiro,Arcos de Valdevez,Viana do Castelo
+Andrães,Vila Real,Vila Real
+Gonçalo Bocas,Guarda,Guarda
+União das freguesias de Padreiro (Salvador e Santa Cristina),Arcos de Valdevez,Viana do Castelo
+União das freguesias de Beduído e Veiros,Estarreja,Aveiro
+União das freguesias de Carreira e Bente,Vila Nova de Famalicão,Braga
+Lourosa,Oliveira do Hospital,Coimbra
+União das freguesias de São Pedro de Alva e São Paio de Mondego,Penacova,Coimbra
+Vendas Novas,Vendas Novas,Évora
+Arões (São Romão),Fafe,Braga
+União das freguesias de Sande São Lourenço e Balazar,Guimarães,Braga
+Chafé,Viana do Castelo,Viana do Castelo
+Parada,Carregal do Sal,Viseu
+Arco de São Jorge,Santana,Ilha da Madeira
+União das freguesias de Alvito (São Pedro e São Martinho) e Couto,Barcelos,Braga
+Beco,Ferreira do Zêzere,Santarém
+Casa Branca,Sousel,Portalegre
+Valpaços e Sanfins,Valpaços,Vila Real
+Machico,Machico,Ilha da Madeira
+Jardim do Mar,Calheta,Ilha da Madeira
+Vermoim,Vila Nova de Famalicão,Braga
+União das freguesias de Oliveira de Frades,Souto de Lafões e Sejães,Oliveira de Frades
+Sado,Setúbal,Setúbal
+Mozelos,Paredes de Coura,Viana do Castelo
+União das freguesias de Penedono e Granja,Penedono,Viseu
+Bajouca,Leiria,Leiria
+Silveira,Torres Vedras,Lisboa
+União das freguesias de Madalena e Beselga,Tomar,Santarém
+São Pedro de France,Viseu,Viseu
+União das freguesias de Águas Santas e Moure,Póvoa de Lanhoso,Braga
+Almalaguês,Coimbra,Coimbra
+Louriçal do Campo,Castelo Branco,Castelo Branco
+Rosto do Cão (São Roque),Ponta Delgada,Ilha de São Miguel
+Fermentelos,Águeda,Aveiro
+União das freguesias de São Bartolomeu do Outeiro e Oriola,Portel,Évora
+Carregosa,Oliveira de Azeméis,Aveiro
+Rabo de Peixe,Ribeira Grande,Ilha de São Miguel
+União das freguesias de Fânzeres e São Pedro da Cova,Gondomar,Porto
+Feteira,Angra do Heroísmo,Ilha Terceira
+Covelas,Póvoa de Lanhoso,Braga
+Seroa,Paços de Ferreira,Porto
+Pardais,Vila Viçosa,Évora
+Santa Maria de Emeres,Valpaços,Vila Real
+Moledo,Castro Daire,Viseu
+Arca e Ponte de Lima,Ponte de Lima,Viana do Castelo
+Vila Viçosa,Vila Viçosa,Évora
+Orvalho,Oleiros,Castelo Branco
+Souro Pires,Pinhel,Guarda
+União das freguesias de Salvada e Quintos,Beja,Beja
+Santa Bárbara,Ribeira Grande,Ilha de São Miguel
+Glória,Estremoz,Évora
+Talhas,Macedo de Cavaleiros,Bragança
+Lamego (Almacave e Sé),Lamego,Viseu
+União das freguesias de Ovadas e Panchorra,Resende,Viseu
+União das freguesias de Campos e Vila Meã,Vila Nova de Cerveira,Viana do Castelo
+Famalicão,Famalicão,Braga
+Bordeira,Aljezur,Faro
+Gême,Vila Verde,Braga
+Alfaiates,Sabugal,Guarda
+Freixiel,Vila Flor,Bragança
+União das freguesias de Arcos e Mogofores,Anadia,Aveiro
+Foz do Arelho,Caldas da Rainha,Leiria
+União das freguesias de Pinheiros e Vale de Figueira,Tabuaço,Viseu
+Rendufe,Amares,Braga
+União das freguesias de Avantos e Romeu,Mirandela,Bragança
+Fundada,Vila de Rei,Castelo Branco
+Castelo,Moimenta da Beira,Viseu
+Gemeses,Esposende,Braga
+Souto,Penedono,Viseu
+Abade de Neiva,Barcelos,Braga
+Sendim,Felgueiras,Porto
+Luso,Mealhada,Aveiro
+Mujães,Viana do Castelo,Viana do Castelo
+Arga de S. João,Caminha,Viana do Castelo
+Gafanha da Nazaré,Ílhavo,Aveiro
+União das freguesias de Antas e Matela,Penalva do Castelo,Viseu
+Atei,Mondim de Basto,Vila Real
+União das freguesias de Felgueiras e Feirão,Resende,Viseu
+Belmonte,Belmonte,Castelo Branco
+Alcântara,Lisboa,Lisboa
+Faial,Santana,Ilha da Madeira
+Bidoeira de Cima,Leiria,Leiria
+União das freguesias de Alvite e Passos,Cabeceiras de Basto,Braga
+Martinchel,Abrantes,Santarém
+Avelar,Ansião,Leiria
+Vade (São Pedro),Ponte da Barca,Viana do Castelo
+São Martinho da Cortiça,Arganil,Coimbra
+União das freguesias de Pêra Velha,Aldeia de Nacomba e Ariz,Moimenta da Beira
+Alcobertas,Rio Maior,Santarém
+São Pedro d'Arcos,Ponte de Lima,Viana do Castelo
+Rebordões (Souto),Ponte de Lima,Viana do Castelo
+União das freguesias de Enxara do Bispo,Gradil e Vila Franca do Rosário,Mafra
+União das freguesias de Sintra (Santa Maria e São Miguel,São Martinho e São Pedro de Penaferrim),Sintra
+São Roque,Oliveira de Azeméis,Aveiro
+União das freguesias de Sacavém e Prior Velho,Loures,Lisboa
+Morais,Macedo de Cavaleiros,Bragança
+Lardosa,Castelo Branco,Castelo Branco
+Sernancelhe,Sernancelhe,Viseu
+Montenegro,Faro,Faro
+Castro de Avelãs,Bragança,Bragança
+União das freguesias de Coz,Alpedriz e Montes,Alcobaça
+Golães,Fafe,Braga
+Caramos,Felgueiras,Porto
+Santa Bárbara de Padrões,Castro Verde,Beja
+Povolide,Viseu,Viseu
+Castelo Branco,Castelo Branco,Castelo Branco
+Boidobra,Covilhã,Castelo Branco
+Lavacolhos,Fundão,Castelo Branco
+União das freguesias de Vila Cova e Feitos,Barcelos,Braga
+Ferrel,Peniche,Leiria
+Pindo,Penalva do Castelo,Viseu
+Mogege,Vila Nova de Famalicão,Braga
+Torgueda,Vila Real,Vila Real
+Bouro (Santa Marta),Amares,Braga
+União das freguesias de Benavila e Valongo,Avis,Portalegre
+Caria,Belmonte,Castelo Branco
+Louredo,Amarante,Porto
+União das freguesias de São Miguel do Souto e Mosteirô,Santa Maria da Feira,Aveiro
+Unhais-o-Velho,Pampilhosa da Serra,Coimbra
+Freixedas,Pinhel,Guarda
+Boivão,Valença,Viana do Castelo
+Valezim,Seia,Guarda
+Carviçais,Torre de Moncorvo,Bragança
+União das freguesias de Briteiros Santo Estêvão e Donim,Guimarães,Braga
+Macieira de Cambra,Vale de Cambra,Aveiro
+Salir de Matos,Caldas da Rainha,Leiria
+União das freguesias de Prazins Santo Tirso e Corvite,Guimarães,Braga
+Ribas,Celorico de Basto,Braga
+Pinelo,Vimioso,Bragança
+União das freguesias de Tavira (Santa Maria e Santiago),Tavira,Faro
+Vila Alva,Cuba,Beja
+União das freguesias de Póvoa de Atalaia e Atalaia do Campo,Fundão,Castelo Branco
+Alfândega da Fé,Alfândega da Fé,Bragança
+Alto do Palurdo,Pinhel,Guarda
+Quarteira,Loulé,Faro
+Figueira de Castelo Rodrigo,Figueira de Castelo Rodrigo,Guarda
+Benlhevai,Vila Flor,Bragança
+Vade (São Tomé),Ponte da Barca,Viana do Castelo
+Achadas da Cruz,Porto Moniz,Ilha da Madeira
+Campo de Ourique,Lisboa,Lisboa
+Rio Meão,Santa Maria da Feira,Aveiro
+Vilarinho do Bairro,Anadia,Aveiro
+Odeceixe,Aljezur,Faro
+Amareleja,Moura,Beja
+Pó,Bombarral,Leiria
+União das freguesias de Carcavelos e Parede,Cascais,Lisboa
+Paços da Serra,Gouveia,Guarda
+São Mateus da Calheta,Angra do Heroísmo,Ilha Terceira
+Requeixo,Nossa Senhora de Fátima e Nariz,Aveiro
+Bairro,Vila Nova de Famalicão,Braga
+Trancoso,Trancoso,Guarda
+Vilarinho de São Romão,Sabrosa,Vila Real
+Segude,Monção,Viana do Castelo
+Tebosa,Braga,Braga
+Arruda dos Vinhos,Arruda dos Vinhos,Lisboa
+União das freguesias de Rio Frio e Milhão,Bragança,Bragança
+Vale da Senhora da Póvoa,Penamacor,Castelo Branco
+União das freguesias de Travancas e Roriz,Chaves,Vila Real
+Alqueidão,Figueira da Foz,Coimbra
+São Domingos de Rana,Cascais,Lisboa
+União das freguesias de Morreira e Trandeiras,Braga,Braga
+Fiães,Melgaço,Viana do Castelo
+Tinhela e Alvarelhos,Valpaços,Vila Real
+União das freguesias de Bigorne,Magueija e Pretarouca,Lamego
+União das freguesias de Talhinhas e Bagueixe,Macedo de Cavaleiros,Bragança
+Argela,Caminha,Viana do Castelo
+Sarilhos Grandes,Montijo,Setúbal
+Vale de Espinho,Sabugal,Guarda
+União das freguesias de Loivos e Póvoa de Agrações,Chaves,Vila Real
+São Matias,Beja,Beja
+União das freguesias de São Domingos e Vale de Água,Santiago do Cacém,Setúbal
+Idanha-a-Nova,Idanha-a-Nova,Castelo Branco
+Remédios,Ponta Delgada,Ilha de São Miguel
+União das freguesias de Mortágua,Vale de Remígio,Cortegaça e Almaça
+São Bernardo,Aveiro,Aveiro
+Tavarede,Figueira da Foz,Coimbra
+Aranhas,Penamacor,Castelo Branco
+Beça,Boticas,Vila Real
+São Roque do Pico,São Roque do Pico,Ilha do Pico
+Loivo,Vila Nova de Cerveira,Viana do Castelo
+União das freguesias de Pico de Regalados,Gondiães e Mós,Vila Verde
+União das freguesias de Aveleda e Rio de Onor,Bragança,Bragança
+União das freguesias de Vale de Frades e Avelanoso,Vimioso,Bragança
+União das freguesias de Tavares (Chãs,Várzea e Travanca),Mangualde
+Sandomil,Seia,Guarda
+Alturas do Barroso,Boticas,Vila Real
+Sarnadas de Ródão,Vila Velha de Ródão,Castelo Branco
+Escapães,Santa Maria da Feira,Aveiro
+Moreira,Monção,Viana do Castelo
+Vila Cova à Coelheira,Vila Nova de Paiva,Viseu
+Oleiros,Ponte da Barca,Viana do Castelo
+Espírito Santo,Mértola,Beja
+Odemira,Odemira,Beja
+Nossa Senhora da Graça dos Degolados,Campo Maior,Portalegre
+Sobreposta,Braga,Braga
+Lajeosa do Mondego,Celorico da Beira,Guarda
+União das freguesias de Belinho e Mar,Esposende,Braga
+Celas,Vinhais,Bragança
+Campanhã,Porto,Porto
+União das freguesias de Palhais e Coina,Barreiro,Setúbal
+Abedim,Monção,Viana do Castelo
+Penha de França,Lisboa,Lisboa
+Espinho,Braga,Braga
+União das freguesias de Vila Nova de Paiva,Alhais e Fráguas,Vila Nova de Paiva
+União das freguesias de Alenquer (Santo Estêvão e Triana),Alenquer,Lisboa
+União das freguesias de Matas e Cercal,Ourém,Santarém
+Gilmonde,Barcelos,Braga
+Aguieiras,Mirandela,Bragança
+Gondar,Guimarães,Braga
+União das freguesias de Macieira da Lixa e Caramos,Felgueiras,Porto
+Cheleiros,Mafra,Lisboa
+Encarnação,Mafra,Lisboa
+Arcozelo,Gouveia,Guarda
+Carregueiros,Tomar,Santarém
+A dos Francos,Caldas da Rainha,Leiria
+Faia,Guarda,Guarda
+Medelim,Idanha-a-Nova,Castelo Branco
+União das freguesias de Figueiró (Santiago e Santa Cristina),Amarante,Porto
+Santa Leocádia,Chaves,Vila Real
+Matança,Fornos de Algodres,Guarda
+Castro Marim,Castro Marim,Faro
+Querença,Loulé,Faro
+Golpilheira,Batalha,Leiria
+União das freguesias de Condeixa-a-Velha e Condeixa-a-Nova,Condeixa-a-Nova,Coimbra
+Bravães,Ponte da Barca,Viana do Castelo
+União das freguesias de Idanha-a-Nova e Alcafozes,Idanha-a-Nova,Castelo Branco
+Asseiceira,Tomar,Santarém
+Prado (São Miguel),Vila Verde,Braga
+Pombeiro de Ribavizela,Felgueiras,Porto
+Figueira dos Cavaleiros,Ferreira do Alentejo,Beja
+Caveira,Santa Cruz das Flores,Ilha das Flores
+São Gonçalo,Funchal,Ilha da Madeira
+Boa Ventura,São Vicente,Ilha da Madeira
+Montoito,Redondo,Évora
+Vale do Paraíso,Azambuja,Lisboa
+Castanheira,Trancoso,Guarda
+União das freguesias de Sobreiro de Baixo e Alvaredos,Vinhais,Bragança
+União das freguesias de Torrozelo e Folhadosa,Seia,Guarda
+Sintra,Sintra,Lisboa
+Arcozelo,Barcelos,Braga
+Sande e São Lourenço do Douro,Marco de Canaveses,Porto
+União das freguesias de Escalos de Baixo e Mata,Castelo Branco,Castelo Branco
+Perais,Vila Velha de Ródão,Castelo Branco
+Aldeia da Ponte,Sabugal,Guarda
+Calhetas,Ribeira Grande,Ilha de São Miguel
+Tonda,Tondela,Viseu
+Real,Penalva do Castelo,Viseu
+Monsanto,Idanha-a-Nova,Castelo Branco
+União das freguesias de Trofa,Segadães e Lamas do Vouga,Águeda
+União de freguesias de Corujeira e Trinta,Guarda,Guarda
+Goães,Amares,Braga
+Beringel,Beja,Beja
+Grijó de Parada,Bragança,Bragança
+Ferreira,Macedo de Cavaleiros,Bragança
+Sesimbra (Castelo),Sesimbra,Setúbal
+Ajuda da Bretanha,Ponta Delgada,Ilha de São Miguel
+Leiria,Leiria,Leiria
+União das freguesias de Aver-o-Mar,Amorim e Terroso,Póvoa de Varzim
+União das freguesias de Alhões,Bustelo,Gralheira e Ramires
+Pataias,Alcobaça,Leiria
+União das freguesias de Santa Catarina da Serra e Chainça,Leiria,Leiria
+Vilarinho da Castanheira,Carrazeda de Ansiães,Bragança
+Lamegal,Pinhel,Guarda
+União das freguesias de Pensalvos e Parada de Monteiros,Vila Pouca de Aguiar,Vila Real
+União das freguesias de Castedo e Cotas,Alijó,Vila Real
+Monforte da Beira,Castelo Branco,Castelo Branco
+Povoação,Povoação,Ilha de São Miguel
+Vilar de Maçada,Alijó,Vila Real
+União das freguesias de Aldoar,Foz do Douro e Nevogilde,Porto
+Trofa,Trofa,Porto
+São Cipriano,Resende,Viseu
+Jugueiros,Felgueiras,Porto
+Sarraquinhos,Montalegre,Vila Real
+Calde,Viseu,Viseu
+Polvoreira,Guimarães,Braga
+Álvaro,Oleiros,Castelo Branco
+São Brás de Alportel,São Brás de Alportel,Faro
+Arões (Santa Cristina),Fafe,Braga
+União das freguesias de Trancoso (São Pedro e Santa Maria) e Souto Maior,Trancoso,Guarda
+Meinedo,Lousada,Porto
+Gandra,Ponte de Lima,Viana do Castelo
+Riba de Âncora,Caminha,Viana do Castelo
+Pampilhosa,Mealhada,Aveiro
+União das freguesias de Monte Real e Carvide,Leiria,Leiria
+Chãos,Ferreira do Zêzere,Santarém
+União das freguesias de Parada de Ester e Ester,Castro Daire,Viseu
+São Matias,Nisa,Portalegre
+Riodades,São João da Pesqueira,Viseu
+Apúlia,Esposende,Braga
+Mondim de Basto,Mondim de Basto,Vila Real
+Vilarinho das Cambas,Vila Nova de Famalicão,Braga
+Vera Cruz,Portel,Évora
+Vassal,Valpaços,Vila Real
+Vila Cova à Coelheira,Seia,Guarda
+Cruz,Vila Nova de Famalicão,Braga
+Agrela,Santo Tirso,Porto
+Vinhós,Fafe,Braga
+Água Revés e Crasto,Valpaços,Vila Real
+Vale de Azares,Celorico da Beira,Guarda
+União das freguesias de Sequeade e Bastuço (São João e Santo Estevão),Barcelos,Braga
+Mouronho,Tábua,Coimbra
+Arroios,Lisboa,Lisboa
+Caniço,Santa Cruz,Ilha da Madeira
+Alto da Serra de Arga,Viana do Castelo,Viana do Castelo
+Sarzedas,Castelo Branco,Castelo Branco
+Fátima,Ourém,Santarém
+Vale de Cavalos,Chamusca,Santarém
+Pedro Miguel,Horta,Ilha do Faial
+Paranhos,Porto,Porto
+Cavez,Cabeceiras de Basto,Braga
+Carvoeiro,Mação,Santarém
+União das freguesias de Silveiros e Rio Covo (Santa Eulália),Barcelos,Braga
+Buarcos e São Julião,Figueira da Foz,Coimbra
+Valdreu,Vila Verde,Braga
+Bemposta,Abrantes,Santarém
+Sabacheira,Tomar,Santarém
+Paramos,Espinho,Aveiro
+Rebordosa,Paredes,Porto
+União das freguesias de Carreira e Refojos de Riba de Ave,Santo Tirso,Porto
+Tapéus,Soure,Coimbra
+Aldeia Velha,Sabugal,Guarda
+Ribeirão,Vila Nova de Famalicão,Braga
+Moure,Vila Verde,Braga
+Espinhal,Penela,Coimbra
+Barroças e Taias,Monção,Viana do Castelo
+Portel,Portel,Évora
+União das freguesias de Vilarinho dos Galegos e Ventozelo,Mogadouro,Bragança
+Oliveira do Bairro,Oliveira do Bairro,Aveiro
+União das freguesias de Gavião e Atalaia,Gavião,Portalegre
+Souto,Sabugal,Guarda
+União das freguesias de Mamouros,Alva e Ribolhos,Castro Daire
+Figueira e Barros,Avis,Portalegre
+União das freguesias de Nogueiró e Tenões,Braga,Braga
+Barrosa,Benavente,Santarém
+Escapães,Cantanhede,Coimbra
+São Cipriano e Vil de Souto,Viseu,Viseu
+São João Baptista,Castelo de Vide,Portalegre
+Cachopo,Tavira,Faro
+João Antão,Guarda,Guarda
+União das freguesias de Alcórrego e Maranhão,Avis,Portalegre
+Selmes,Vidigueira,Beja
+União das freguesias de Atalaia e Alto Estanqueiro-Jardia,Montijo,Setúbal
+Lagoa (Santa Cruz),Lagoa,Ilha de São Miguel
+Alcochete,Alcochete,Setúbal
+Alfarelos,Soure,Coimbra
+Cota,Viseu,Viseu
+União das freguesias de Gafanhoeira (São Pedro) e Sabugueiro,Arraiolos,Évora
+Amarante,Amarante,Porto
+União das freguesias de Seia,São Romão e Lapa dos Dinheiros,Seia
+Vila Maior,São Pedro do Sul,Viseu
+Fetais,Sabrosa,Vila Real
+Beiriz,Póvoa de Varzim,Porto
+Ribamar,Lourinhã,Lisboa
+Vale (São Martinho),Vila Nova de Famalicão,Braga
+Vila Boa,Sabugal,Guarda
+Santa Eulália,Elvas,Portalegre
+Amiais de Baixo,Santarém,Santarém
+Baçal,Bragança,Bragança
+Jazente,Amarante,Porto
+União das freguesias de Tamengos,Aguim e Óis do Bairro,Anadia
+Capelo,Horta,Ilha do Faial
+Belas,Sintra,Lisboa
+Pragança,Cadaval,Lisboa
+Vila Verde dos Francos,Alenquer,Lisboa
+Travanca,Amarante,Porto
+União das freguesias de Arcos de Valdevez (São Paio) e Giela,Arcos de Valdevez,Viana do Castelo
+Mortágua,Mortágua,Viseu
+União das freguesias de Oliveira do Hospital e São Paio de Gramaços,Oliveira do Hospital,Coimbra
+União das freguesias de Barco e Coutada,Covilhã,Castelo Branco
+União das freguesias de Pedreira,Rande e Sernande,Felgueiras
+Campelo,Figueiró dos Vinhos,Leiria
+Sosa,Vagos,Aveiro
+Dornelas,Boticas,Vila Real
+União das freguesias de Souto de Aguiar da Beira e Valverde,Aguiar da Beira,Guarda
+Paul do Mar,Calheta,Ilha da Madeira
+Bouro (Santa Maria),Amares,Braga
+Horta,Vila Nova de Foz Côa,Guarda
+Várzea,Aliviada e Folhada,Marco de Canaveses
+União das freguesias de Arouca e Burgo,Arouca,Aveiro
+Parada de Todeia,Paredes,Porto
+Mêda,Outeiro de Gatos e Fonte Longa,Mêda
+Ribeiros,Fafe,Braga
+União das freguesias de Curopos e Vale de Janeiro,Vinhais,Bragança
+Castelo Rodrigo,Figueira de Castelo Rodrigo,Guarda
+A-Ver-o-Mar,Póvoa de Varzim,Porto
+Lago,Amares,Braga
+Padornelo,Paredes de Coura,Viana do Castelo
+Santiago Maior,Alandroal,Évora
+União das freguesias de Casais e Alviobeira,Tomar,Santarém
+Boelhe,Penafiel,Porto
+Belver,Gavião,Portalegre
+Curral das Freiras,Câmara de Lobos,Ilha da Madeira
+Marinha Grande,Marinha Grande,Leiria
+Arcozelo,Ponte de Lima,Viana do Castelo
+Fridão,Amarante,Porto
+Merufe,Monção,Viana do Castelo
+Telões,Amarante,Porto
+União das freguesias de Travanca e Santa Cruz,Vinhais,Bragança
+Prainha,São Roque do Pico,Ilha do Pico
+Alter do Chão,Alter do Chão,Portalegre
+Ervedosa do Douro,São João da Pesqueira,Viseu
+Vila Ruiva,Cuba,Beja
+Vilar de Ossos,Vinhais,Bragança
+Cabeço de Vide,Fronteira,Portalegre
+Madalena do Mar,Ponta do Sol,Ilha da Madeira
+União das freguesias de Areias,Sequeiró,Lama e Palmeira
+São Brás,Vila da Praia da Vitória,Ilha Terceira
+Foros de Arrão,Ponte de Sor,Portalegre
+Vila Nova de Monsarros,Anadia,Aveiro
+União das freguesias de Vide e Cabeça,Seia,Guarda
+Vilarinho,Santo Tirso,Porto
+Oliveira,Barcelos,Braga
+Minde,Alcanena,Santarém
+Carragosa,Bragança,Bragança
+União das freguesias de Vagos e Santo António,Vagos,Aveiro
+Negrões,Montalegre,Vila Real
+São Martinho de Sardoura,Castelo de Paiva,Aveiro
+Marvila,Lisboa,Lisboa
+União das freguesias de Dois Portos e Runa,Torres Vedras,Lisboa
+União das freguesias de Colmeias e Memória,Leiria,Leiria
+Alcongosta,Fundão,Castelo Branco
+União das freguesias de Luz de Tavira e Santo Estêvão,Tavira,Faro
+União das freguesias de Santa Iria de Azoia,São João da Talha e Bobadela,Loures
+União das freguesias de Friúmes e Paradela,Penacova,Coimbra
+União das freguesias de Escudeiros e Penso (Santo Estêvão e São Vicente),Braga,Braga
+Vile,Caminha,Viana do Castelo
+Escariz,Arouca,Aveiro
+São Martinho de Angueira,Miranda do Douro,Bragança
+Monteiras,Castro Daire,Viseu
+Ribeira Chã,Lagoa,Ilha de São Miguel
+Salto,Montalegre,Vila Real
+Airães,Felgueiras,Porto
+Calheta de Nesquim,Lajes do Pico,Ilha do Pico
+Nespereira,Cinfães,Viseu
+Pinhal do Norte,Carrazeda de Ansiães,Bragança
+Salgueiro do Campo,Castelo Branco,Castelo Branco
+Ourentã,Cantanhede,Coimbra
+Santa Eulália,Arouca,Aveiro
+Paradela,Chaves,Vila Real
+União das freguesias de Aldeia do Mato e Souto,Abrantes,Santarém
+União das freguesias de Serzedo e Perosinho,Vila Nova de Gaia,Porto
+A dos Negros,Óbidos,Leiria
+Branca,Albergaria-a-Velha,Aveiro
+Erada,Covilhã,Castelo Branco
+Chãs,Vila Nova de Foz Côa,Guarda
+Vale de Prados,Macedo de Cavaleiros,Bragança
+São Marcos da Serra,Silves,Faro
+União das freguesias de Soutelo e Seara Velha,Chaves,Vila Real
+União das freguesias de Vilas Boas e Vilarinho das Azenhas,Vila Flor,Bragança
+União das freguesias de Vila Nova de Cerveira e Lovelhe,Vila Nova de Cerveira,Viana do Castelo
+Edrosa,Vinhais,Bragança
+Pendilhe,Vila Nova de Paiva,Viseu
+Redondo,Redondo,Évora
+Palhais,Trancoso,Guarda
+Gostei,Bragança,Bragança
+Reigoso,Montalegre,Vila Real
+Peredo,Macedo de Cavaleiros,Bragança
+Telhado,Fundão,Castelo Branco
+Guardizela,Guimarães,Braga
+Perelhal,Barcelos,Braga
+Paião,Figueira da Foz,Coimbra
+Torres do Mondego,Coimbra,Coimbra
+União das freguesias de Lobão,Gião,Louredo e Guisande
+União das freguesias de Gondifelos,Cavalões e Outiz,Vila Nova de Famalicão
+União das freguesias de Vale de Mendiz,Casal de Loivos e Vilarinho de Cotas,Alijó
+Fontes,Abrantes,Santarém
+Ouca,Vagos,Aveiro
+União das freguesias de São Facundo e Vale das Mós,Abrantes,Santarém
+Serzedelo,Guimarães,Braga
+São Pedro,Castelo de Paiva,Aveiro
+Feteira,Horta,Ilha do Faial
+Mateus,Vila Real,Vila Real
+Vale de Porco,Mogadouro,Bragança
+Santa Comba,Seia,Guarda
+Santa Maria de Sardoura,Castelo de Paiva,Aveiro
+Arcozelo,Vila Nova de Gaia,Porto
+São Miguel do Mato,Arouca,Aveiro
+Luzianes-Gare,Odemira,Beja
+Nagozelo do Douro,São João da Pesqueira,Viseu
+Mansores,Arouca,Aveiro
+Coelhoso,Bragança,Bragança
+Porto Formoso,Ribeira Grande,Ilha de São Miguel
+Eixo e Eirol,Aveiro,Aveiro
+Aldeias,Armamar,Viseu
+Sedielos,Peso da Régua,Vila Real
+Aldeia do Bispo,Sabugal,Guarda
+União das freguesias de Santa Cruz do Douro e São Tomé de Covelas,Baião,Porto
+União das freguesias de Manique do Intendente,Vila Nova de São Pedro e Maçussa,Azambuja
+Coriscada,Mêda,Guarda
+União das freguesias de Retorta e Tougues,Vila do Conde,Porto
+Milheirós de Poiares,Santa Maria da Feira,Aveiro
+União das freguesias de Vila Fria e Vizela (São Jorge),Felgueiras,Porto
+União das freguesias de Pinheiro de Coja e Meda de Mouros,Tábua,Coimbra
+Eja,Penafiel,Porto
+Vermiosa,Figueira de Castelo Rodrigo,Guarda
+Lordosa,Viseu,Viseu
+Valadares,São Pedro do Sul,Viseu
+Candelária,Ponta Delgada,Ilha de São Miguel
+Lebução,Fiães e Nozelos,Valpaços
+Valado dos Frades,Nazaré,Leiria
+Famalicão,Guarda,Guarda
+União das freguesias de Reboreda e Nogueira,Vila Nova de Cerveira,Viana do Castelo
+Vermelha,Cadaval,Lisboa
+Carção,Vimioso,Bragança
+Duas Igrejas,Miranda do Douro,Bragança
+União das freguesias de Agualva e Mira-Sintra,Sintra,Lisboa
+União das freguesias de Formariz e Ferreira,Paredes de Coura,Viana do Castelo
+Ribeira Brava,Ribeira Brava,Ilha da Madeira
+Pêro Viseu,Fundão,Castelo Branco
+Pego,Abrantes,Santarém
+Carvalhais,Mirandela,Bragança
+Vila Cortês do Mondego,Guarda,Guarda
+Vale de Anta,Chaves,Vila Real
+União das freguesias de Grândola e Santa Margarida da Serra,Grândola,Setúbal
+Lamego,Lamego,Viseu
+União das freguesias de Cardielos e Serreleis,Viana do Castelo,Viana do Castelo
+Gavião,Vila Nova de Famalicão,Braga
+Vila Chã,Alijó,Vila Real
+Silvares (São Martinho),Fafe,Braga
+Secarias,Arganil,Coimbra
+Santa Marinha,Ribeira de Pena,Vila Real
+Odeleite,Castro Marim,Faro
+Peral,Cadaval,Lisboa
+União das freguesias de Agrobom,Saldonha e Vale Pereiro,Alfândega da Fé
+Aldeiagalega da Merceana,Alenquer,Lisboa
+Piódão,Arganil,Coimbra
+Castelo Melhor,Vila Nova de Foz Côa,Guarda
+União das freguesias de Alcantarilha e Pêra,Silves,Faro
+Vieira do Minho,Vieira do Minho,Braga
+Ferreira-a-Nova,Figueira da Foz,Coimbra
+Quatro Ribeiras,Vila da Praia da Vitória,Ilha Terceira
+Cavernães,Viseu,Viseu
+Lazarim,Lamego,Viseu
+Guilhofrei,Vieira do Minho,Braga
+Argoncilhe,Santa Maria da Feira,Aveiro
+União das freguesias de Oriz (Santa Marinha) e Oriz (São Miguel),Vila Verde,Braga
+São João do Peso,Vila de Rei,Castelo Branco
+Assequins,Águeda,Aveiro
+Horta (Conceição),Horta,Ilha do Faial
+Praia do Almoxarife,Horta,Ilha do Faial
+Videmonte,Guarda,Guarda
+Oledo,Idanha-a-Nova,Castelo Branco
+União das freguesias de Selho São Lourenço e Gominhães,Guimarães,Braga
+União das freguesias de Alverca do Ribatejo e Sobralinho,Vila Franca de Xira,Lisboa
+Cabeção,Mora,Évora
+Alqueidão da Serra,Porto de Mós,Leiria
+Sarnadas de São Simão,Oleiros,Castelo Branco
+União das freguesias de Vilarouco e Pereiros,São João da Pesqueira,Viseu
+Caniçal,Machico,Ilha da Madeira
+Argozelo,Vimioso,Bragança
+União das freguesias de Charneca de Caparica e Sobreda,Almada,Setúbal
+Longomel,Ponte de Sor,Portalegre
+Carrazedo de Montenegro e Curros,Valpaços,Vila Real
+União das freguesias de Castelo Mendo,Ade,Monteperobolso e Mesquitela
+União das freguesias de Rebordainhos e Pombares,Bragança,Bragança
+União das freguesias de Guisande e Oliveira (São Pedro),Braga,Braga
+Lajes,Vila da Praia da Vitória,Ilha Terceira
+Monte Córdova,Santo Tirso,Porto
+Vila Verde de Ficalho,Serpa,Beja
+Porto Martins,Vila da Praia da Vitória,Ilha Terceira
+Quiaios,Figueira da Foz,Coimbra
+União das freguesias de Santar e Moreira,Nelas,Viseu
+Silvalde,Espinho,Aveiro
+União das freguesias de Lamas e Cercal,Cadaval,Lisboa
+Vila Meã,Amarante,Porto
+Louro,Famalicão,Braga
+Ota,Alenquer,Lisboa
+União das freguesias de Arrimal e Mendiga,Porto de Mós,Leiria
+União das freguesias de Nespereira e Casais,Lousada,Porto
+Cedros,Horta,Ilha do Faial
+Vilar,Moimenta da Beira,Viseu
+União das freguesias de Urros e Peredo dos Castelhanos,Torre de Moncorvo,Bragança
+Vila Marim,Vila Real,Vila Real
+Manhente,Barcelos,Braga
+Ardegão,Freixo e Mato,Ponte de Lima
+Urrós,Mogadouro,Bragança
+Paços de Brandão,Santa Maria da Feira,Aveiro
+União das freguesias de Carnaxide e Queijas,Oeiras,Lisboa
+Junqueira,Vila do Conde,Porto
+Bárrio e Cepões,Ponte de Lima,Viana do Castelo
+Feteiras,Ponta Delgada,Ilha de São Miguel
+União das freguesias de Cortiçô e Vila Chã,Fornos de Algodres,Guarda
+São Saturnino,Fronteira,Portalegre
+Batalha,Batalha,Leiria
+Mesão Frio,Guimarães,Braga
+Santo António,Lisboa,Lisboa
+São Pedro da Cadeira,Torres Vedras,Lisboa
+Cabril,Castro Daire,Viseu
+Sande (São Martinho),Guimarães,Braga
+União das freguesias de Candoso São Tiago e Mascotelos,Guimarães,Braga
+União das freguesias de Gouviães e Ucanha,Tarouca,Viseu
+União das freguesias de Ala e Vilarinho do Monte,Macedo de Cavaleiros,Bragança
+União das freguesias de Achete,Azoia de Baixo e Póvoa de Santarém,Santarém
+Arcozelo das Maias,Oliveira de Frades,Viseu
+Codesseiro,Guarda,Guarda
+Balazar,Póvoa de Varzim,Porto
+Miranda do Corvo,Miranda do Corvo,Coimbra
+União das freguesias de Conceição e Estoi,Faro,Faro
+Lomba,Amarante,Porto
+Rio Maior,Rio Maior,Santarém
+Pedrógão,Torres Novas,Santarém
+Vila Mou,Viana do Castelo,Viana do Castelo
+Azinhaga,Golegã,Santarém
+Vila Nova de Gaia,Gaia,Porto
+União das freguesias de Antas e Abade de Vermoim,Vila Nova de Famalicão,Braga
+Chancelaria,Torres Novas,Santarém
+Touro,Vila Nova de Paiva,Viseu
+União das freguesias de Serpa (Salvador e Santa Maria),Serpa,Beja
+Oleiros-Amieira,Oleiros,Castelo Branco
+Água de Pau,Lagoa,Ilha de São Miguel
+União das freguesias de Venade e Azevedo,Caminha,Viana do Castelo
+Vila da Rua,Moimenta da Beira,Viseu
+Salzedas,Tarouca,Viseu
+Santana da Azinha,Guarda,Guarda
+Vilares de Vilariça,Alfândega da Fé,Bragança
+União das freguesias de Escariz (São Mamede) e Escariz (São Martinho),Vila Verde,Braga
+Gáfete,Crato,Portalegre
+Capelins (Santo António),Alandroal,Évora
+União das freguesias do Cartaxo e Vale da Pinta,Cartaxo,Santarém
+Aldão,Guimarães,Braga
+União de freguesias de Querença,Tôr e Benafim,Loulé
+Cerdeira,Sabugal,Guarda
+Veiros,Estarreja,Aveiro
+Barcelinhos,Barcelos,Braga
+Carapito,Aguiar da Beira,Guarda
+União das freguesias de Peso e Vales do Rio,Covilhã,Castelo Branco
+Ribeira da Janela,Porto Moniz,Ilha da Madeira
+Janeiro de Baixo,Pampilhosa da Serra,Coimbra
+Sobrosa,Paredes,Porto
+Queimadela,Armamar,Viseu
+Vila Nova de Milfontes,Odemira,Beja
+Pinheiro,Felgueiras,Porto
+Castêlo da Maia,Maia,Porto
+União das freguesias de Poceirão e Marateca,Palmela,Setúbal
+Castelo,Sertã,Castelo Branco
+Agilde,Celorico de Basto,Braga
+União das freguesias de Queluz e Belas,Sintra,Lisboa
+União de freguesias de Rochoso e Monte Margarida,Guarda,Guarda
+Ortiga,Mação,Santarém
+Arrifana,Santa Maria da Feira,Aveiro
+Celeirós,Sabrosa,Vila Real
+Vila Marim,Mesão Frio,Vila Real
+Medrões,Santa Marta de Penaguião,Vila Real
+Rabaçal,Mêda,Guarda
+Penha Longa e Paços de Gaiolo,Marco de Canaveses,Porto
+Fortios,Portalegre,Portalegre
+Favaios,Alijó,Vila Real
+Posto Santo,Angra do Heroísmo,Ilha Terceira
+Rio de Moinhos,Sátão,Viseu
+Vila Velha de Ródão,Vila Velha de Ródão,Castelo Branco
+Vila Franca da Serra,Gouveia,Guarda
+Paranhos,Seia,Guarda
+Senhorim,Nelas,Viseu
+Loureira,Vila Verde,Braga
+Tadim,Braga,Braga
+União das freguesias da Ribeira do Neiva,Vila Verde,Braga
+União das freguesias de Mogadouro,Valverde,Vale de Porco e Vilar de Rei
+Freixo de Cima,Amarante,Porto
+Ventosa,Alenquer,Lisboa
+Riba de Ave,Vila Nova de Famalicão,Braga
+Troviscal,Sertã,Castelo Branco
+Flamengos,Horta,Ilha do Faial
+Macieira de Rates,Barcelos,Braga
+Revelhe,Fafe,Braga
+Cervães,Vila Verde,Braga
+União das freguesias de Caldas da Rainha - Nossa Senhora do Pópulo,Coto e São Gregório,Caldas da Rainha
+Rio de Mouro,Sintra,Lisboa
+Talhadas,Sever do Vouga,Aveiro
+Pencelo,Guimarães,Braga
+São Pedro,Vila do Porto,Ilha de Santa Maria
+São Paio,Gouveia,Guarda
+Alcoentre,Azambuja,Lisboa
+Pias,Monção,Viana do Castelo
+Santa Bárbara,Lourinhã,Lisboa
+Campo do Gerês,Terras de Bouro,Braga
+União das freguesias de Leomil,Mido,Senouras e Aldeia Nova
+Santa Clara,Lisboa,Lisboa
+Alvito,Alvito,Beja
+Vermoil,Pombal,Leiria
+Loivos do Monte,Baião,Porto
+Aradas,Aveiro,Aveiro
+Alvendre,Guarda,Guarda
+Gonçalo,Guarda,Guarda
+Britelo,Ponte da Barca,Viana do Castelo
+Casteleiro,Sabugal,Guarda
+Sobrado,Valongo,Porto
+União das freguesias de Painho e Figueiros,Cadaval,Lisboa
+Abragão,Penafiel,Porto
+Longos Vales,Monção,Viana do Castelo
+União das freguesias de Serzedo e Calvos,Guimarães,Braga
+Avelãs da Ribeira,Guarda,Guarda
+Évora de Alcobaça,Alcobaça,Leiria
+Roriz,Santo Tirso,Porto
+Romarigães,Paredes de Coura,Viana do Castelo
+Lagares da Beira,Oliveira do Hospital,Coimbra
+União das freguesias de Constantim e Cicouro,Miranda do Douro,Bragança
+Basto (São Clemente),Celorico de Basto,Braga
+São João de Tarouca,Tarouca,Viseu
+União das freguesias de Espariz e Sinde,Tábua,Coimbra
+Cabeça Santa,Penafiel,Porto
+Fernão Ferro,Seixal,Setúbal
+Casal de Cinza,Guarda,Guarda
+Valongo de Milhais,Murça,Vila Real
+Malcata,Sabugal,Guarda
+Porto da Carne,Guarda,Guarda
+São Bento,Porto de Mós,Leiria
+Cabanas de Viriato,Carregal do Sal,Viseu
+Soutelo do Douro,São João da Pesqueira,Viseu
+Vilela,Póvoa de Lanhoso,Braga
+Sagres,Vila do Bispo,Faro
+Seixo de Ansiães,Carrazeda de Ansiães,Bragança
+Cesar,Oliveira de Azeméis,Aveiro
+São Salvador e Santa Maria,Odemira,Beja
+União das freguesias de Baixa da Banheira e Vale da Amoreira,Moita,Setúbal
+Vilar de Andorinho,Vila Nova de Gaia,Porto
+Santa Marinha do Zêzere,Baião,Porto
+Envendos,Mação,Santarém
+Folhadela,Vila Real,Vila Real
+São João da Corveira,Valpaços,Vila Real
+União das freguesias de Campelos e Outeiro da Cabeça,Torres Vedras,Lisboa
+Cossourado,Paredes de Coura,Viana do Castelo
+Lavradas,Ponte da Barca,Viana do Castelo
+Cela,Alcobaça,Leiria
+Bemposta,Mogadouro,Bragança
+União das freguesias de Pópulo e Ribalonga,Alijó,Vila Real
+União das freguesias de Avidos e Lagoa,Vila Nova de Famalicão,Braga
+União das freguesias de Parada e Faílde,Bragança,Bragança
+Redondelo,Chaves,Vila Real
+Funchal (Santa Luzia),Funchal,Ilha da Madeira
+Junqueira,Vale de Cambra,Aveiro
+União das freguesias de Travassô e Óis da Ribeira,Águeda,Aveiro
+Trute,Monção,Viana do Castelo
+União das freguesias de Vilaça e Fradelos,Braga,Braga
+União das freguesias de Viade de Baixo e Fervidelas,Montalegre,Vila Real
+União das freguesias de Oeiras e São Julião da Barra,Paço de Arcos e Caxias,Oeiras
+Torcato,Guimarães,Braga
+Santiago Maior,Castelo de Vide,Portalegre
+Vale de Asnes,Mirandela,Bragança
+Piedade,Lajes do Pico,Ilha do Pico
+Maceira,Fornos de Algodres,Guarda
+Capinha,Fundão,Castelo Branco
+Braga (São Vicente),Braga,Braga
+Âncora,Caminha,Viana do Castelo
+Louro,Vila Nova de Famalicão,Braga
+Imaculado Coração de Maria,Funchal,Ilha da Madeira
+Abadim,Cabeceiras de Basto,Braga
+União das freguesias de Podence e Santa Combinha,Macedo de Cavaleiros,Bragança
+Vale de Telhas,Mirandela,Bragança
+Azinhal,Castro Marim,Faro
+Oleiros,Vila Verde,Braga
+União das freguesias de Monfortinho e Salvaterra do Extremo,Idanha-a-Nova,Castelo Branco
+Carnide,Pombal,Leiria
+Coruche,Coruche,Santarém
+Ponte de Lima,Ponte de Lima,Viana do Castelo
+Chamusca,Chamusca,Santarém
+União das freguesias de Barrô e Aguada de Baixo,Águeda,Aveiro
+União das freguesias de São Sebastião da Giesteira e Nossa Senhora da Boa Fé,Évora,Évora
+União das freguesias do Bombarral e Vale Covo,Bombarral,Leiria
+Picote,Miranda do Douro,Bragança
+Longueira/Almograve,Odemira,Beja
+Salsas,Bragança,Bragança
+Belém,Lisboa,Lisboa
+Ovar,Ovar,Aveiro
+Santiago da Ribeira de Alhariz,Valpaços,Vila Real
+União das freguesias de Gebelim e Soeima,Alfândega da Fé,Bragança
+União das freguesias de Chaviães e Paços,Melgaço,Viana do Castelo
+União das freguesias de Izeda,Calvelhe e Paradinha Nova,Bragança
+União das freguesias de Bensafrim e Barão de São João,Lagos,Faro
+Benfica do Ribatejo,Almeirim,Santarém
+Labrujó,Rendufe e Vilar do Monte,Ponte de Lima
+União das freguesias de Arga (Baixo,Cima e São João),Caminha
+Dardavaz,Tondela,Viseu
+União das freguesias de Setúbal (São Julião,Nossa Senhora da Anunciada e Santa Maria da Graça),Setúbal
+Fornelos,Cinfães,Viseu
+Larinho,Torre de Moncorvo,Bragança
+Vilar Seco de Lomba,Vinhais,Bragança
+Ponte da Barca,Ponte da Barca,Viana do Castelo
+União das freguesias de Janeiro de Cima e Bogas de Baixo,Fundão,Castelo Branco
+Azambuja,Azambuja,Lisboa
+Salir,Loulé,Faro
+Vila Nova do Campo,Santo Tirso,Porto
+Comenda,Gavião,Portalegre
+União das freguesias de Silvares,Pias,Nogueira e Alvarenga
+Águas Santas,Maia,Porto
+Folgosa,Maia,Porto
+Covelo do Gerês,Montalegre,Vila Real
+Adão,Guarda,Guarda
+União das freguesias de Alvados e Alcaria,Porto de Mós,Leiria
+Porto de Mós - São João Baptista e São Pedro,Porto de Mós,Leiria
+União das freguesias de Ponte de Sor,Tramaga e Vale de Açor,Ponte de Sor
+Sanfins,Chaves,Vila Real
+Armamar,Armamar,Viseu
+Vila Chã do Marão,Amarante,Porto
+Arrifana,Vila Nova de Poiares,Coimbra
+União das freguesias de Ferreiros e Gondizalves,Braga,Braga
+Loulé (São Clemente),Loulé,Faro
+Codessoso,Curros e Fiães do Tâmega,Boticas
+Vila Nova de Anços,Soure,Coimbra
+Santo António de Monforte,Chaves,Vila Real
+Atouguia,Ourém,Santarém
+Frechas,Mirandela,Bragança
+Ucha,Barcelos,Braga
+União das freguesias de Cascais e Estoril,Cascais,Lisboa
+União das freguesias de Ferreira do Alentejo e Canhestros,Ferreira do Alentejo,Beja
+União das freguesias de Miuzela e Porto de Ovelha,Almeida,Guarda
+União das freguesias de Faro (Sé e São Pedro),Faro,Faro
+Torres Vedras,Torres Vedras,Lisboa
+Castelões,Penafiel,Porto
+Azurara,Vila do Conde,Porto
+Marialva,Mêda,Guarda
+Carnide,Lisboa,Lisboa
+Sabadim,Arcos de Valdevez,Viana do Castelo
+Carrazeda de Ansiães,Carrazeda de Ansiães,Bragança
+Azinhoso,Mogadouro,Bragança
+União das freguesias de Areias de Vilar e Encourados,Barcelos,Braga
+União das freguesias de Paradinha e Nagosa,Moimenta da Beira,Viseu
+Aborim,Barcelos,Braga
+São Martinho do Porto,Alcobaça,Leiria
+Santa Comba,Ponte de Lima,Viana do Castelo
+Sangalhos,Anadia,Aveiro
+União das freguesias do Vade,Vila Verde,Braga
+Vitorino das Donas,Ponte de Lima,Viana do Castelo
+Perre,Viana do Castelo,Viana do Castelo
+Nelas,Nelas,Viseu
+Santos Evos,Viseu,Viseu
+São Lourenço de Ribapinhão,Sabrosa,Vila Real
+Balugães,Barcelos,Braga
+União das freguesias de Sobral Pichorro e Fuinhas,Fornos de Algodres,Guarda
+Alcaria,Fundão,Castelo Branco
+Olivais,Lisboa,Lisboa
+Vila Boa do Bispo,Marco de Canaveses,Porto
+União das freguesias de Rio de Couros e Casal dos Bernardos,Ourém,Santarém
+Seixo,Mira,Coimbra
+União das freguesias de Nogueira,Meixedo e Vilar de Murteda,Viana do Castelo
+Santa Clara de Louredo,Beja,Beja
+Joane,Vila Nova de Famalicão,Braga
+Várzea de Abrunhais,Lamego,Viseu
+Castro Daire,Castro Daire,Viseu
+Silgueiros,Viseu,Viseu
+Carnota,Alenquer,Lisboa
+Lameiras,Pinhel,Guarda
+Maçainhas,Guarda,Guarda
+União das freguesias de Cristelos,Boim e Ordem,Lousada
+Armil,Fafe,Braga
+União das freguesias de Este (São Pedro e São Mamede),Braga,Braga
+Santo António das Areias,Marvão,Portalegre
+Santa Clara,Ponta Delgada,Ilha de São Miguel
+Marmeleira,Mortágua,Viseu
+Almagreira,Pombal,Leiria
+União das freguesias de Moura Morta e Vinhós,Peso da Régua,Vila Real
+Mondrões,Vila Real,Vila Real
+Baldos,Moimenta da Beira,Viseu
+Estreito-Vilar Barroco,Oleiros,Castelo Branco
+Cercal,Santiago do Cacém,Setúbal
+União das freguesias de Aboadela,Sanche e Várzea,Amarante
+União das freguesias de Castro Verde e Casével,Castro Verde,Beja
+União das freguesias de Franco e Vila Boa,Mirandela,Bragança
+Constância,Constância,Santarém
+Fontelas,Peso da Régua,Vila Real
+União das freguesias de Alcoutim e Pereiro,Alcoutim,Faro
+Cabeçudo,Sertã,Castelo Branco
+Vale do Côa,Pinhel,Guarda
+Nossa Senhora de Fátima,Entroncamento,Santarém
+União das freguesias de Panoias e Conceição,Ourique,Beja
+Verdoejo,Valença,Viana do Castelo
+Senharei,Arcos de Valdevez,Viana do Castelo
+Casal de Cambra,Sintra,Lisboa
+Santo António da Serra,Machico,Ilha da Madeira
+Loulé,Loulé,Faro
+União das freguesias de Sobrado e Bairros,Castelo de Paiva,Aveiro
+Astromil,Paredes,Porto
+União das freguesias de Oliveira do Mondego e Travanca do Mondego,Penacova,Coimbra
+Gove,Baião,Porto
+Mirandela,Mirandela,Bragança
+Aldreu,Barcelos,Braga
+União das freguesias de Vila Seca e Bem da Fé,Condeixa-a-Nova,Coimbra
+Tangil,Monção,Viana do Castelo
+Marzagão,Carrazeda de Ansiães,Bragança
+Orjais,Covilhã,Castelo Branco
+São Vicente de Lafões,Oliveira de Frades,Viseu
+União das freguesias de Milhazes,Vilar de Figos e Faria,Barcelos
+Fuzeta,Olhão,Faro
+União das freguesias de Viatodos,Grimancelos,Minhotães e Monte de Fralães
+Garfe,Póvoa de Lanhoso,Braga
+Estreito da Calheta,Calheta,Ilha da Madeira
+União das freguesias de São Miguel do Outeiro e Sabugosa,Tondela,Viseu
+Lanhelas,Caminha,Viana do Castelo
+Queiriz,Fornos de Algodres,Guarda
+Lombo,Macedo de Cavaleiros,Bragança
+Assunção,Ajuda,Salvador e Santo Ildefonso
+União das freguesias de Freixianda,Ribeira do Fárrio e Formigais,Ourém
+União das freguesias de Pedroso e Seixezelo,Vila Nova de Gaia,Porto
+Lama de Arcos,Chaves,Vila Real
+Odivelas,Odivelas,Lisboa
+Coura,Paredes de Coura,Viana do Castelo
+Sapiãos,Boticas,Vila Real
+Sapardos,Vila Nova de Cerveira,Viana do Castelo
+Almaceda,Castelo Branco,Castelo Branco
+Fragosela,Viseu,Viseu
+São Brás,Ribeira Grande,Ilha de São Miguel
+União das freguesias de Veade,Gagos e Molares,Celorico de Basto
+Setúbal (São Sebastião),Setúbal,Setúbal
+Vimioso,Vimioso,Bragança
+Calheiros,Ponte de Lima,Viana do Castelo
+União das freguesias de Canedo de Basto e Corgo,Celorico de Basto,Braga
+Ribeiras,Lajes do Pico,Ilha do Pico
+Duas Igrejas,Penafiel,Porto
+Fafe,Fafe,Braga
+União das freguesias de Azambujeira e Malaqueijo,Rio Maior,Santarém
+União das freguesias de Arentim e Cunha,Braga,Braga
+Moreira de Cónegos,Guimarães,Braga
+Alegrete,Portalegre,Portalegre
+Quintela,Sernancelhe,Viseu
+União das freguesias de Coronado (São Romão e São Mamede),Trofa,Porto
+Cabana Maior,Arcos de Valdevez,Viana do Castelo
+Santa Comba de Rossas,Bragança,Bragança
+Canas de Santa Maria,Tondela,Viseu
+Avelãs de Cima,Anadia,Aveiro
+Coucieiro,Vila Verde,Braga
+Penhas Juntas,Vinhais,Bragança
+Vila Franca,Viana do Castelo,Viana do Castelo
+Lanhas,Vila Verde,Braga
+Doze Ribeiras,Angra do Heroísmo,Ilha Terceira
+Canelas,Penafiel,Porto
+Cunha,Sernancelhe,Viseu
+Gouveia (São Simão),Amarante,Porto
+São Teotónio,Odemira,Beja
+Canaveses,Valpaços,Vila Real
+União das freguesias de Bougado (São Martinho e Santiago),Trofa,Porto
+Parada de Gonta,Tondela,Viseu
+Ponta do Pargo,Calheta,Ilha da Madeira
+Pederneira,Nazaré,Leiria
+Castelo de Vide,Castelo de Vide,Portalegre
+Ervedosa,Vinhais,Bragança
+Chave,Arouca,Aveiro
+União das freguesias de Ovar,São João,Arada e São Vicente de Pereira Jusã
+Paúl,Covilhã,Castelo Branco
+Almeida,Almeida,Guarda
+União das freguesias da Madalena e Samaiões,Chaves,Vila Real
+Santo Espírito,Vila do Porto,Ilha de Santa Maria
+Pedrógão,Vidigueira,Beja
+Pindelo dos Milagres,São Pedro do Sul,Viseu
+Melres,Gondomar,Porto
+Vila Franca de Xira,Vila Franca de Xira,Santarém
+Fundão,Fundão,Castelo Branco
+Penha Garcia,Idanha-a-Nova,Castelo Branco
+União das freguesias de Portela e Extremo,Arcos de Valdevez,Viana do Castelo
+Vale do Massueime,Pinhel,Guarda
+Vidigueira,Vidigueira,Beja
+Alvalade,Santiago do Cacém,Setúbal
+Alfaião,Bragança,Bragança
+Vila Real de Santo António,Vila Real de Santo António,Faro
+Nespereira,Guimarães,Braga
+Unhais da Serra,Covilhã,Castelo Branco
+União das freguesias de Crasto,Ruivos e Grovelas,Ponte da Barca
+Bornes de Aguiar,Vila Pouca de Aguiar,Vila Real
+Gavieira,Arcos de Valdevez,Viana do Castelo
+União das freguesias de Bico e Cristelo,Paredes de Coura,Viana do Castelo
+Macieira da Maia,Vila do Conde,Porto
+São Gião,Oliveira do Hospital,Coimbra
+União das freguesias de Picão e Ermida,Castro Daire,Viseu
+União das freguesias de Carvoeira e Carmões,Torres Vedras,Lisboa
+União das freguesias de Mouraz e Vila Nova da Rainha,Tondela,Viseu
+Pedralva,Braga,Braga
+União das freguesias de Noura e Palheiros,Murça,Vila Real
+São Domingos de Benfica,Lisboa,Lisboa
+Cardigos,Mação,Santarém
+Mesão Frio (Santo André),Mesão Frio,Vila Real
+Bordonhos,São Pedro do Sul,Viseu
+Brinches,Serpa,Beja
+União das freguesias de Pedrógão de São Pedro e Bemposta,Penamacor,Castelo Branco
+Vacalar,Armamar,Viseu
+Poiares (Santo André),Vila Nova de Poiares,Coimbra
+Porches,Lagoa,Faro
+União das freguesias de Monsanto e Idanha-a-Velha,Idanha-a-Nova,Castelo Branco
+Fráguas,Rio Maior,Santarém
+Santo Quintino,Sobral de Monte Agraço,Lisboa
+União das freguesias de Subportela,Deocriste e Portela Susã,Viana do Castelo
+Porto Covo,Sines,Setúbal
+Corval,Reguengos de Monsaraz,Évora
+Paradela,Miranda do Douro,Bragança
+Paços de Ferreira,Paços de Ferreira,Porto
+Lobão da Beira,Tondela,Viseu
+Lagoa (Nossa Senhora do Rosário),Lagoa,Ilha de São Miguel
+Olhalvo,Alenquer,Lisboa
+União das freguesias de Alcácer do Sal (Santa Maria do Castelo e Santiago) e Santa Susana,Alcácer do Sal,Setúbal
+Gaeiras,Óbidos,Leiria
+União das freguesias de Cabreiros e Albergaria da Serra,Arouca,Aveiro
+Ponte do Rol,Torres Vedras,Lisboa
+Vinha da Rainha,Soure,Coimbra
+Estreito de Câmara de Lobos,Câmara de Lobos,Ilha da Madeira
+Mosteiros,Ponta Delgada,Ilha de São Miguel
+Terena (São Pedro),Alandroal,Évora
+Salga,Nordeste,Ilha de São Miguel
+União das freguesias de Caçarilhe e Infesta,Celorico de Basto,Braga
+Lanhoso,Póvoa de Lanhoso,Braga
+Santa Maria da Feira,Santa Maria da Feira,Aveiro
+Porto Judeu,Angra do Heroísmo,Ilha Terceira
+Cernache,Coimbra,Coimbra
+Torrão,Alcácer do Sal,Setúbal
+União das freguesias de Malveira e São Miguel de Alcainça,Mafra,Lisboa
+Vreia de Jales,Vila Pouca de Aguiar,Vila Real
+São Paio,Melgaço,Viana do Castelo
+Galegos,Penafiel,Porto
+São Pedro da Torre,Valença,Viana do Castelo
+São João da Madeira,São João da Madeira,Aveiro
+Granja,Mourão,Évora
+Raimonda,Paços de Ferreira,Porto
+Valada,Cartaxo,Santarém
+União das freguesias de Lagos da Beira e Lajeosa,Oliveira do Hospital,Coimbra
+Monte do Trigo,Portel,Évora
+União das freguesias de Santo Estêvão e Moita,Sabugal,Guarda
+Turquel,Alcobaça,Leiria
+Torre do Pinhão,Sabrosa,Vila Real
+São Romão de Neiva,Viana do Castelo,Viana do Castelo
+Urrô,Arouca,Aveiro
+Dornelas,Aguiar da Beira,Guarda
+Galveias,Ponte de Sor,Portalegre
+Pereiros,Carrazeda de Ansiães,Bragança
+Carvalhal,Abrantes,Santarém
+União das freguesias de Canedo,Vale e Vila Maior,Santa Maria da Feira
+Praia do Norte,Horta,Ilha do Faial
+Castelo Novo,Fundão,Castelo Branco
+União das freguesias de Cambra e Carvalhal de Vermilhas,Vouzela,Viseu
+Sabugueiro,Seia,Guarda
+União das freguesias de São Jorge e Ermelo,Arcos de Valdevez,Viana do Castelo
+Vila de Rei,Vila de Rei,Castelo Branco
+União das freguesias de Felgueiras e Maçores,Torre de Moncorvo,Bragança
+União das freguesias de Tornada e Salir do Porto,Caldas da Rainha,Leiria
+Souto Maior,Sabrosa,Vila Real
+Deilão,Bragança,Bragança
+União das freguesias de Aguçadoura e Navais,Póvoa de Varzim,Porto
+Cabaços,Moimenta da Beira,Viseu
+Budens,Vila do Bispo,Faro
+Vialonga,Vila Franca de Xira,Lisboa
+Paus,Resende,Viseu
+Ranhados,Viseu,Viseu
+União das freguesias de Souselas e Botão,Coimbra,Coimbra
+São João da Fresta,Mangualde,Viseu
+Santo Emilião,Póvoa de Lanhoso,Braga
+Podentes,Penela,Coimbra
+S. Jorge da Beira,Covilhã,Castelo Branco
+São Salvador,Mirandela,Bragança
+União das freguesias de Paradela e Granjinha,Tabuaço,Viseu
+Mindelo,Vila do Conde,Porto
+Penajóia,Lamego,Viseu
+União das freguesias de Lousã e Vilarinho,Lousã,Coimbra
+Beirã,Marvão,Portalegre
+Gouveia,Gouveia,Guarda
+Paialvo,Tomar,Santarém
+Santo Estêvão,Chaves,Vila Real
+Faial da Terra,Povoação,Ilha de São Miguel
+Santa Bárbara de Nexe,Faro,Faro
+Sampriz,Ponte da Barca,Viana do Castelo
+Zambujal,Condeixa-a-Nova,Coimbra
+União das freguesias de Ramada e Caneças,Odivelas,Lisboa
+Benquerenças,Castelo Branco,Castelo Branco
+Algueirão-Mem Martins,Sintra,Lisboa
+Moure,Barcelos,Braga
+Oldrões,Penafiel,Porto
+Ervedal,Avis,Portalegre
+União das freguesias de Marrazes e Barosa,Leiria,Leiria
+Alpedrinha,Fundão,Castelo Branco
+União das freguesias de Pousafoles do Bispo,Pena Lobo e Lomba,Sabugal
+Vila Verde,Vinhais,Bragança
+Cerdal,Valença,Viana do Castelo
+União das freguesias de Amares e Figueiredo,Amares,Braga
+União das freguesias de Fonte Boa e Rio Tinto,Esposende,Braga
+Rio Frio,Arcos de Valdevez,Viana do Castelo
+União das freguesias de Algoz e Tunes,Silves,Faro
+Candedo,Murça,Vila Real
+São Martinho,Funchal,Ilha da Madeira
+Fajã Grande,Lajes das Flores,Ilha das Flores
+Lomba,Lajes das Flores,Ilha das Flores
+Ribeira Seca,Calheta,Ilha de São Jorge
+Barroca,Fundão,Castelo Branco
+União das freguesias de Lomar e Arcos,Braga,Braga
+Jarmelo São Pedro,Guarda,Guarda
+Tó,Mogadouro,Bragança
+União das freguesias de São João das Lampas e Terrugem,Sintra,Lisboa
+União das freguesias de Brunhozinho,Castanheira e Sanhoane,Mogadouro
+Vilar Formoso,Almeida,Guarda
+Faro do Alentejo,Cuba,Beja
+Trancozelos,Penalva do Castelo,Viseu
+Adaúfe,Braga,Braga
+Sezures,Penalva do Castelo,Viseu
+Pechão,Olhão,Faro
+Milagres,Leiria,Leiria
+São Roque,Funchal,Ilha da Madeira
+Novais,Póvoa de Varzim,Porto
+Fão,Esposende,Braga
+Queiriga,Vila Nova de Paiva,Viseu
+Porto de Mós,Porto de Mós,Leiria
+Fornos do Pinhal,Valpaços,Vila Real
+São Marcos da Ataboeira,Castro Verde,Beja
+Ega,Condeixa-a-Nova,Coimbra
+União das freguesias de Casével e Vaqueiros,Santarém,Santarém
+Lagoa,Fafe,Braga
+União das freguesias de Poiares e Canelas,Peso da Régua,Vila Real
+União das freguesias de Bagunte,Ferreiró,Outeiro Maior e Parada
+Gondiães,Cabeceiras de Basto,Braga
+Paradela,Mogadouro,Bragança
+Vale Benfeito,Macedo de Cavaleiros,Bragança
+Monte,Murtosa,Aveiro
+União das freguesias de São Romão e Santiago,Armamar,Viseu
+Vale da Mula,Almeida,Guarda
+Póvoa da Isenta,Santarém,Santarém
+Croca,Penafiel,Porto
+União das freguesias de Barcos e Santa Leocádia,Tabuaço,Viseu
+Ribeira,Ponte de Lima,Viana do Castelo
+Agualva,Vila da Praia da Vitória,Ilha Terceira
+Souselo,Cinfães,Viseu
+Alcaria Ruiva,Mértola,Beja
+União das freguesias de Parada do Bispo e Valdigem,Lamego,Viseu
+Alfarim,Sesimbra,Setúbal
+Nogueira,Ponte da Barca,Viana do Castelo
+Frende,Baião,Porto
+Laundos,Póvoa de Varzim,Porto
+Fajã de Baixo,Ponta Delgada,Ilha de São Miguel
+Travancinha,Seia,Guarda
+Gondoriz,Arcos de Valdevez,Viana do Castelo
+Vaqueiros,Alcoutim,Faro
+União das freguesias de Lourinhã e Atalaia,Lourinhã,Lisboa
+Moitas Venda,Alcanena,Santarém
+Ribeira Quente,Povoação,Ilha de São Miguel
+Paderne,Albufeira,Faro
+Santo Isidoro,Mafra,Lisboa
+Guimarães,Guimarães,Braga
+Moita,Marinha Grande,Leiria
+Fajões,Oliveira de Azeméis,Aveiro
+União das freguesias de Celorico (São Pedro e Santa Maria) e Vila Boa do Mondego,Celorico da Beira,Guarda
+União das freguesias de Parada do Monte e Cubalhão,Melgaço,Viana do Castelo
+Santo António de Nordestinho,Nordeste,Ilha de São Miguel
+Zoio,Bragança,Bragança
+São Bento do Mato,Évora,Évora
+São Francisco,Alcochete,Setúbal
+Alturas do Barroso e Cerdedo,Boticas,Vila Real
+Bruçó,Mogadouro,Bragança
+União das freguesias de Caldelas,Sequeiros e Paranhos,Amares
+Algoso,Vimioso,Bragança
+Aldeia Nova,Trancoso,Guarda
+Aguiã,Arcos de Valdevez,Viana do Castelo
+União das freguesias de Garvão e Santa Luzia,Ourique,Beja
+União das freguesias de Caparrosa e Silvares,Tondela,Viseu
+Paredes,Paredes,Porto
+Freixo,Almeida,Guarda
+Cantelães,Vieira do Minho,Braga
+Cedros,Santa Cruz das Flores,Ilha das Flores
+Britiande,Lamego,Viseu
+União das freguesias de Póvoa de Santa Iria e Forte da Casa,Vila Franca de Xira,Lisboa
+União das freguesias de Miragaia e Marteleira,Lourinhã,Lisboa
+Carrazedo,Amares,Braga
+Aldeia de Santa Margarida,Idanha-a-Nova,Castelo Branco
+União das freguesias de Refojos de Basto,Outeiro e Painzela,Cabeceiras de Basto
+Revinhade,Felgueiras,Porto
+Santo Varão,Montemor-o-Velho,Coimbra
+São Cristóvão de Mondim de Basto,Mondim de Basto,Vila Real
+Mosteiro,Lajes das Flores,Ilha das Flores
+Viana do Alentejo,Viana do Alentejo,Évora
+União de freguesias de Antime e Silvares (São Clemente),Fafe,Braga
+União das freguesias de Açores e Velosa,Celorico da Beira,Guarda
+Marinhais,Salvaterra de Magos,Santarém
+União das freguesias de Santa Marinha e São Martinho,Seia,Guarda
+Barcarena,Oeiras,Lisboa
+União das freguesias de Torre do Terrenho,Sebadelhe da Serra e Terrenho,Trancoso
+Fiolhoso,Murça,Vila Real
+Refóios do Lima,Ponte de Lima,Viana do Castelo
+Braga,Braga,Braga
+Anha,Viana do Castelo,Viana do Castelo
+Lamosa,Sernancelhe,Viseu
+União das freguesias de Canelas e Fermelã,Estarreja,Aveiro
+Recezinhos (São Martinho),Penafiel,Porto
+Melides,Grândola,Setúbal
+União das freguesias do Sabugal e Aldeia de Santo António,Sabugal,Guarda
+Anais,Ponte de Lima,Viana do Castelo
+São Gonçalo de Lagos,Lagos,Faro
+União das freguesias de Casegas e Ourondo,Covilhã,Castelo Branco
+Sanfins do Douro,Alijó,Vila Real
+Maiorca,Figueira da Foz,Coimbra
+Vilar de Perdizes,Montalegre,Vila Real
+Sobradelo da Goma,Póvoa de Lanhoso,Braga
+União das freguesias de Sernancelhe e Sarzeda,Sernancelhe,Viseu
+Espinho,Espinho,Aveiro
+União das freguesias de Gandra e Taião,Valença,Viana do Castelo
+Fiães,Santa Maria da Feira,Aveiro
+União das freguesias de Torrados e Sousa,Felgueiras,Porto
+Espírito Santo,Soure,Coimbra
+Landim,Vila Nova de Famalicão,Braga
+Cepelos,Vale de Cambra,Aveiro
+União das freguesias de Margaride (Santa Eulália),Várzea,Lagares
+Penacova,Felgueiras,Porto
+Ramela,Guarda,Guarda
+Eira Vedra,Vieira do Minho,Braga
+Lama,Barcelos,Braga
+União das freguesias de Vila Verde e Santão,Felgueiras,Porto
+Caíde de Rei,Lousada,Porto
+Pinhal Novo,Palmela,Setúbal
+União das freguesias de Geraz do Lima (Santa Maria,Santa Leocádia e Moreira) e Deão,Viana do Castelo
+Tourém,Montalegre,Vila Real
+Relíquias,Odemira,Beja
+Vila Nova de Foz Côa,Vila Nova de Foz Côa,Guarda
+São Roque do Faial,Santana,Ilha da Madeira
+Tamel,Barcelos,Braga
+União das freguesias de Moimenta de Maceira Dão e Lobelhe do Mato,Mangualde,Viseu
+Águas Frias,Chaves,Vila Real
+Parada,Paredes de Coura,Viana do Castelo
+União das freguesias de Gondiães e Vilar de Cunhas,Cabeceiras de Basto,Braga
+União das freguesias de Teixeira e Teixeiró,Baião,Porto
+Dornelas do Zêzere,Pampilhosa da Serra,Coimbra
+União das freguesias de Alhandra,São João dos Montes e Calhandriz,Vila Franca de Xira
+União das freguesias de Verim,Friande e Ajude,Póvoa de Lanhoso
+Santa Comba de Vilariça,Vila Flor,Bragança
+Friestas,Valença,Viana do Castelo
+Maceira,Leiria,Leiria
+Tolosa,Nisa,Portalegre
+Avelãs de Caminho,Anadia,Aveiro
+União das freguesias de Freixo de Cima e de Baixo,Amarante,Porto
+União das freguesias de Conceição e Cabanas de Tavira,Tavira,Faro
+Lisboa,Lisboa,Lisboa
+Porto Salvo,Oeiras,Lisboa
+Vila Franca de Xira,Vila Franca de Xira,Lisboa
+Ínsua,Penalva do Castelo,Viseu
+Rendo,Sabugal,Guarda
+Penela da Beira,Penedono,Viseu
+Alpendorada,Várzea e Torrão,Marco de Canaveses
+Bodiosa,Viseu,Viseu
+Ferreira do Zêzere,Ferreira do Zêzere,Santarém
+Covas do Douro,Sabrosa,Vila Real
+São Paio de Oleiros,Santa Maria da Feira,Aveiro
+Alcaide,Fundão,Castelo Branco
+União das freguesias de Valbom (São Pedro),Passô e Valbom (São Martinho),Vila Verde
+Orca,Fundão,Castelo Branco
+Santa Bárbara,Vila do Porto,Ilha de Santa Maria
+Tortosendo,Covilhã,Castelo Branco
+Folques,Arganil,Coimbra
+Ervededo,Chaves,Vila Real
+Parâmio,Bragança,Bragança
+União das freguesias de Santo Antão e São Julião do Tojal,Loures,Lisboa
+Soajo,Arcos de Valdevez,Viana do Castelo
+União das freguesias de Arez e Amieira do Tejo,Nisa,Portalegre
+Oliveira (Santa Maria),Vila Nova de Famalicão,Braga
+Azias,Ponte da Barca,Viana do Castelo
+Santa Eugénia,Alijó,Vila Real
+Santa Maria da Devesa,Castelo de Vide,Portalegre
+Nogueira do Cravo,Oliveira do Hospital,Coimbra
+Cervos,Montalegre,Vila Real
+União das freguesias de Ruivães e Novais,Vila Nova de Famalicão,Braga
+União das freguesias de Freixeda do Torrão,Quintã de Pêro Martins e Penha de Águia,Figueira de Castelo Rodrigo
+União das freguesias de Louredo e Fornelos,Santa Marta de Penaguião,Vila Real
+União das freguesias de Ceivães e Badim,Monção,Viana do Castelo
+União das freguesias de Caparica e Trafaria,Almada,Setúbal
+Vila Chã de Ourique,Cartaxo,Santarém
+União das freguesias de Romãs,Decermilo e Vila Longa,Sátão
+São João Baptista,Entroncamento,Santarém
+Évora Monte (Santa Maria),Estremoz,Évora
+União das freguesias de Santo António dos Cavaleiros e Frielas,Loures,Lisboa
+União das freguesias de Évora (São Mamede,Sé,São Pedro e Santo Antão)
+Nossa Senhora da Graça do Divor,Évora,Évora
+Isna,Oleiros,Castelo Branco
+União das freguesias de Mangualde,Mesquitela e Cunha Alta,Mangualde
+Porto de Ave,Póvoa de Lanhoso,Braga
+Braga (São Vítor),Braga,Braga
+Monte Redondo,Arcos de Valdevez,Viana do Castelo
+Vila do Bispo e Raposeira,Vila do Bispo,Faro
+União das freguesias de Vila Cova do Covelo/Mareco,Penalva do Castelo,Viseu
+Maceda,Ovar,Aveiro
+Covelas,Trofa,Porto
+Longroiva,Mêda,Guarda
+Cousso,Melgaço,Viana do Castelo
+Pedrouços,Maia,Porto
+Canedo,Ribeira de Pena,Vila Real
+Sortes,Bragança,Bragança
+União das freguesias de Santa Maria da Feira,Travanca,Sanfins e Espargo
+Montalvão,Nisa,Portalegre
+Arega,Figueiró dos Vinhos,Leiria
+União das freguesias de São Pedro do Sul,Várzea e Baiões,São Pedro do Sul
+Santana de Cambas,Mértola,Beja
+Redinha,Pombal,Leiria
+Ardãos e Bobadela,Boticas,Vila Real
+Gaula,Santa Cruz,Ilha da Madeira
+Travanca de Lagos,Oliveira do Hospital,Coimbra
+Estela,Póvoa de Varzim,Porto
+União das freguesias de Abrigada e Cabanas de Torres,Alenquer,Lisboa
+Sebolido,Penafiel,Porto
+Vilas Boas,Chaves,Vila Real
+Vila de Prado,Vila Verde,Braga
+Flor da Rosa,Crato,Portalegre
+Lousa,Castelo Branco,Castelo Branco
+Antas,Esposende,Braga
+Gondoriz,Terras de Bouro,Braga
+Samil,Bragança,Bragança
+Murtede,Cantanhede,Coimbra
+Boticas,Boticas,Vila Real
+Vilar da Veiga,Terras de Bouro,Braga
+Angra (Sé),Angra do Heroísmo,Ilha Terceira
+Avessadas e Rosém,Marco de Canaveses,Porto
+Avões,Lamego,Viseu
+Vila Franca do Campo (São Pedro),Vila Franca do Campo,Ilha de São Miguel
+União das freguesias de Alandroal (Nossa Senhora da Conceição),São Brás dos Matos (Mina do Bugalho) e Juromenha (Nossa Senhora do Loreto),Alandroal
+União das freguesias de Estômbar e Parchal,Lagoa,Faro
+União das freguesias das Eiras,São Julião de Montenegro e Cela,Chaves
+Gafanha da Encarnação,Ílhavo,Aveiro
+Tamel (São Veríssimo),Barcelos,Braga
+Pedraça,Cabeceiras de Basto,Braga
+Geraz do Minho,Póvoa de Lanhoso,Braga
+Benfeita,Arganil,Coimbra
+União das freguesias de São Martinho de Árvore e Lamarosa,Coimbra,Coimbra
+Arões,Vale de Cambra,Aveiro
+Moreira,Maia,Porto
+União das freguesias de Reriz e Gafanhão,Castro Daire,Viseu
+Carvalho,Penacova,Coimbra
+Tabuaço,Tabuaço,Viseu
+Várzea da Serra,Tarouca,Viseu
+Gosende,Castro Daire,Viseu
+União das freguesias de Côja e Barril de Alva,Arganil,Coimbra
+União das freguesias de Pena,Quintã e Vila Cova,Vila Real
+Pedrógão Grande,Pedrógão Grande,Leiria
+Moreira de Rei,Trancoso,Guarda
+Reguengo do Fetal,Batalha,Leiria
+Santa Cruz das Flores,Santa Cruz das Flores,Ilha das Flores
+Bouçoães,Valpaços,Vila Real
+Serpins,Lousã,Coimbra
+Cabeça Boa,Torre de Moncorvo,Bragança
+Fontes,Santa Marta de Penaguião,Vila Real
+Turiz,Vila Verde,Braga
+União das freguesias de Pombal e Vales,Alfândega da Fé,Bragança
+Alvares,Góis,Coimbra
+Vilela,Paredes,Porto
+Rio Torto,Valpaços,Vila Real
+Sabóia,Odemira,Beja
+União das freguesias de Azoia de Cima e Tremês,Santarém,Santarém
+Vizela (Santo Adrião),Vizela,Braga
+Monsaraz,Reguengos de Monsaraz,Évora
+Fornelos,Barcelos,Braga
+Aldeia de São Francisco de Assis,Covilhã,Castelo Branco
+Raminho,Angra do Heroísmo,Ilha Terceira
+União das freguesias de Figueiras e Covas,Lousada,Porto
+Santa Cruz do Lima,Ponte de Lima,Viana do Castelo
+União das freguesias de Freixo de Espada à Cinta e Mazouco,Freixo de Espada à Cinta,Bragança
+Castro Vicente,Mogadouro,Bragança
+Forcalhos,Sabugal,Guarda
+Ventosa,Torres Vedras,Lisboa
+Tróia,Grândola,Setúbal
+Santiago do Escoural,Montemor-o-Novo,Évora
+Repeses e São Salvador,Viseu,Viseu
+Chancelaria,Alter do Chão,Portalegre
+União das freguesias de Cepões,Meijinhos e Melcões,Lamego
+São Francisco da Serra,Santiago do Cacém,Setúbal
+Freiria,Torres Vedras,Lisboa
+Paços,Sabrosa,Vila Real
+Boticas e Granja,Boticas,Vila Real
+Oliveira do Douro,Vila Nova de Gaia,Porto
+Ousilhão,Vinhais,Bragança
+Balança,Terras de Bouro,Braga
+Peraboa,Covilhã,Castelo Branco
+Olhão,Olhão,Faro
+Muxagata,Vila Nova de Foz Côa,Guarda
+Lufrei,Amarante,Porto
+União das freguesias de Silva e Águas Vivas,Miranda do Douro,Bragança
+União de freguesias de Avelãs de Ambom e Rocamondo,Guarda,Guarda
+Rebolosa,Sabugal,Guarda
+Vacariça,Mealhada,Aveiro
+Barrosas,Felgueiras,Porto
+Palmela,Palmela,Setúbal
+Arrabal,Leiria,Leiria
+Arraiolos,Arraiolos,Évora
+Torreira,Murtosa,Aveiro
+União das freguesias de Espírito Santo,Nossa Senhora da Graça e São Simão,Nisa
+Lagoa,Macedo de Cavaleiros,Bragança
+União das freguesias de Lobrigos (São Miguel e São João Baptista) e Sanhoane,Santa Marta de Penaguião,Vila Real
+Criação Velha,Madalena,Ilha do Pico
+Custóias,Vila Nova de Foz Côa,Guarda
+Castelo de Penalva,Penalva do Castelo,Viseu
+Barreiros,Amares,Braga
+Castedo,Torre de Moncorvo,Bragança
+Carvalhal Benfeito,Caldas da Rainha,Leiria
+São Pedro de Agostém,Chaves,Vila Real
+Palaçoulo,Miranda do Douro,Bragança
+União das freguesias de Arosa e Castelões,Guimarães,Braga
+Amoreira,Óbidos,Leiria
+Furadouro,Ovar,Aveiro
+São Pedro do Esteval,Proença-a-Nova,Castelo Branco
+Perozelo,Penafiel,Porto
+Tronco,Chaves,Vila Real
+Louriçal,Pombal,Leiria
+Fermedo,Arouca,Aveiro
+União de freguesias de Agrela e Serafão,Fafe,Braga
+Alvor,Portimão,Faro
+Aves,Santo Tirso,Porto
+Cossourado,Barcelos,Braga
+Campo,Viseu,Viseu
+Benquerença,Penamacor,Castelo Branco
+Couto,Arcos de Valdevez,Viana do Castelo
+União das freguesias de Arco de Baúlhe e Vila Nune,Cabeceiras de Basto,Braga
+Rebordões (Santa Maria),Ponte de Lima,Viana do Castelo
+São Pedro Fins,Maia,Porto
+Ribeira Grande (Matriz),Ribeira Grande,Ilha de São Miguel
+Bem Viver,Marco de Canaveses,Porto
+União das freguesias de Santo Tirso,Couto (Santa Cristina e São Miguel) e Burgães,Santo Tirso
+Caravelas,Mirandela,Bragança
+Vil de Moinhos,Viseu,Viseu
+Vilar de Peregrinos,Vinhais,Bragança
+Monte da Mó,Arouca,Aveiro
+Beijós,Carregal do Sal,Viseu
+Lage,Vila Verde,Braga
+União das freguesias de Santa Clara e Castelo Viegas,Coimbra,Coimbra
+Aldeia das Dez,Oliveira do Hospital,Coimbra
+São Torcato,Guimarães,Braga
+Pedreiras,Porto de Mós,Leiria
+Caia,São Pedro e Alcáçova,Elvas
+Bertiandos,Ponte de Lima,Viana do Castelo
+Covoada,Ponta Delgada,Ilha de São Miguel
+Seixas,Caminha,Viana do Castelo
+Madeirã,Oleiros,Castelo Branco
+União das freguesias de Vila Cova da Lixa e Borba de Godim,Felgueiras,Porto
+Gimonde,Bragança,Bragança
+União das freguesias de Cambeses do Rio,Donões e Mourilhe,Montalegre
+Alferce,Monchique,Faro
+União das freguesias de Lemenhe,Mouquim e Jesufrei,Vila Nova de Famalicão
+Outeiro,Montalegre,Vila Real
+Brás de Alportel,São Brás de Alportel,Faro
+União das freguesias da Sé e São Lourenço,Portalegre,Portalegre
+União das freguesias de Guia,Ilha e Mata Mourisca,Pombal
+União das freguesias de Campo e Campinho,Reguengos de Monsaraz,Évora
+Corroios,Seixal,Setúbal
+Arrifana,Guarda,Guarda
+União das freguesias de São Miguel do Rio Torto e Rossio ao Sul do Tejo,Abrantes,Santarém
+União das freguesias de Parreira e Chouto,Chamusca,Santarém
+Fornos de Maceira Dão,Mangualde,Viseu
+Póvoa de Midões,Tábua,Coimbra
+Alburitel,Ourém,Santarém
+Nossa Senhora dos Remédios,Povoação,Ilha de São Miguel
+Seara,Ponte de Lima,Viana do Castelo
+União das freguesias de Borbela e Lamas de Olo,Vila Real,Vila Real
+Olmos,Macedo de Cavaleiros,Bragança
+Sul,S. Pedro do Sul,Viseu
+Castanheira,Guarda,Guarda
+Fornos,Castelo de Paiva,Aveiro
+Borba (Matriz),Borba,Évora
+Loriga,Seia,Guarda
+Caranguejeira,Leiria,Leiria
+Encosta do Sol,Amadora,Lisboa
+Rocas do Vouga,Sever do Vouga,Aveiro
+União das freguesias de Barcelos,Vila Boa e Vila Frescainha (São Martinho e São Pedro),Barcelos
+Santiago da Guarda,Ansião,Leiria
+União das freguesias de Moledo e Cristelo,Caminha,Viana do Castelo
+Silvares,Fundão,Castelo Branco
+Vila Fernando,Guarda,Guarda
+Romariz,Santa Maria da Feira,Aveiro
+União das freguesias de Vilar de Perdizes e Meixide,Montalegre,Vila Real
+Constantim,Miranda do Douro,Bragança
+Igreja Nova do Sobral,Ferreira do Zêzere,Santarém
+Landal,Caldas da Rainha,Leiria
+Padronelo,Amarante,Porto
+Funchal (Sé),Funchal,Ilha da Madeira
+União das freguesias de Celeirós,Aveleda e Vimieiro,Braga
+Silvares,Guimarães,Braga
+Caldas da Rainha,Caldas da Rainha,Leiria
+União das freguesias de Teixoso e Sarzedo,Covilhã,Castelo Branco
+União das freguesias de Algés,Linda-a-Velha e Cruz Quebrada-Dafundo,Oeiras
+Mogadouro,Mogadouro,Bragança
+Ribeira de Fráguas,Albergaria-a-Velha,Aveiro
+União de freguesias de Monte e Queimadela,Fafe,Braga
+União de freguesias de Pousade e Albardo,Guarda,Guarda
+Fradizela,Mirandela,Bragança
+Santana,Nordeste,Ilha de São Miguel
+São João,Lajes do Pico,Ilha do Pico
+Faia,Cabeceiras de Basto,Braga
+União das freguesias de Bornes e Burga,Macedo de Cavaleiros,Bragança
+São Pedro de Nordestinho,Nordeste,Ilha de São Miguel
+Cem Soldos,Tomar,Santarém
+Branca,Coruche,Santarém
+Labruja,Ponte de Lima,Viana do Castelo
+Pomares,Arganil,Coimbra
+Serpa,Serpa,Beja
+Mancelos,Amarante,Porto
+Nisa,Nisa,Portalegre
+Canaviais,Évora,Évora
+União das freguesias de Sequeiros e Gradiz,Aguiar da Beira,Guarda
+Barrada,Reguengos de Monsaraz,Évora
+Guardão,Tondela,Viseu
+União das freguesias de Conde e Gandarela,Guimarães,Braga
+Couço,Coruche,Santarém
+Salamonde,Vieira do Minho,Braga
+Forninhos,Aguiar da Beira,Guarda
+União das freguesias de Silva Escura e Dornelas,Sever do Vouga,Aveiro
+União das freguesias de Ferradosa e Sendim da Serra,Alfândega da Fé,Bragança
+Vale de Salgueiro,Mirandela,Bragança
+Moita,Anadia,Aveiro
+Leomil,Moimenta da Beira,Viseu
+União das freguesias de Baião (Santa Leocádia) e Mesquinhata,Baião,Porto
+Marco,Marco de Canaveses,Porto
+Cambeses,Barcelos,Braga
+União das freguesias de Touguinha e Touguinhó,Vila do Conde,Porto
+Ciladas,Vila Viçosa,Évora
+Carrapichana,Celorico da Beira,Guarda
+União das freguesias de Algoso,Campo de Víboras e Uva,Vimioso
+Muge,Salvaterra de Magos,Santarém
+Termas de São Vicente,Penafiel,Porto
+União das freguesias de Mafamude e Vilar do Paraíso,Vila Nova de Gaia,Porto
+Gonça,Guimarães,Braga
+Fermelã,Estarreja,Aveiro
+União das freguesias de Vila Seca e Santo Adrião,Armamar,Viseu
+Vila do Touro,Sabugal,Guarda
+Serro Ventoso,Porto de Mós,Leiria
+União das freguesias de Juncais,Vila Ruiva e Vila Soeiro do Chão,Fornos de Algodres
+Montijo,Montijo,Santarém
+União das freguesias de São João da Pesqueira e Várzea de Trevões,São João da Pesqueira,Viseu
+União das freguesias de Grijó e Sermonde,Vila Nova de Gaia,Porto
+Orgens,Viseu,Viseu
+Bendada,Sabugal,Guarda
+Torre de Coelheiros,Évora,Évora
+Manadas (Santa Bárbara),Velas,Ilha de São Jorge
+Valhascos,Sardoal,Santarém
+União das freguesias de Amoreira,Parada e Cabreira,Almeida
+Nine,Vila Nova de Famalicão,Braga
+União das freguesias de Igreja Nova e Cheleiros,Mafra,Lisboa
+Nogueira,Viana do Castelo,Viana do Castelo
+União das freguesias de Nogueira,Fraião e Lamaçães,Braga
+União das freguesias de Foz do Sousa e Covelo,Gondomar,Porto
+Penacova,Penacova,Coimbra
+União das freguesias de Montemor-o-Velho e Gatões,Montemor-o-Velho,Coimbra
+União das freguesias do Cadaval e Pêro Moniz,Cadaval,Lisboa
+Alcanhões,Santarém,Santarém
+Serapicos,Valpaços,Vila Real
+União das freguesias de Almofala e Escarigo,Figueira de Castelo Rodrigo,Guarda
+Vimeiro,Alcobaça,Leiria
+Sampaio,Vila Flor,Bragança
+Muxagata,Fornos de Algodres,Guarda
+Lomba de São Pedro,Ribeira Grande,Ilha de São Miguel
+União das freguesias de Guilhadeses e Santar,Arcos de Valdevez,Viana do Castelo
+União das freguesias de Vale (São Cosme),Telhado e Portela,Vila Nova de Famalicão
+Teixoso,Covilhã,Castelo Branco
+Pilar da Bretanha,Ponta Delgada,Ilha de São Miguel
+São Miguel de Acha,Idanha-a-Nova,Castelo Branco
+União das freguesias de Vila e Roussas,Melgaço,Viana do Castelo
+União das freguesias de Venda do Pinheiro e Santo Estêvão das Galés,Mafra,Lisboa
+Santo Estêvão,Benavente,Santarém
+Friastelas,Ponte de Lima,Viana do Castelo
+União das freguesias de Azueira e Sobral da Abelheira,Mafra,Lisboa
+União das freguesias de Safara e Santo Aleixo da Restauração,Moura,Beja
+Ramalhal,Torres Vedras,Lisboa
+Messejana,Aljustrel,Beja
+São Vicente,Lisboa,Lisboa
+Fajã da Ovelha,Calheta,Ilha da Madeira
+Outeiro Seco,Chaves,Vila Real
+Bárrio,Alcobaça,Leiria
+Norte Pequeno,Calheta,Ilha de São Jorge
+Figueiredo de Alva,São Pedro do Sul,Viseu
+Rio Tinto,Gondomar,Porto
+Terra Chã,Angra do Heroísmo,Ilha Terceira
+São João de Loure e Frossos,Albergaria-a-Velha,Aveiro
+Entradas,Castro Verde,Beja
+Cabeça Gorda,Beja,Beja
+Praia do Ribatejo,Vila Nova da Barquinha,Santarém
+Parada de Cunhos,Vila Real,Vila Real
+Ribeira Seca,Vila Franca do Campo,Ilha de São Miguel
+União das freguesias de Freixial e Juncal do Campo,Castelo Branco,Castelo Branco
+Molelos,Tondela,Viseu
+Falagueira-Venda Nova,Amadora,Lisboa
+Ceira,Coimbra,Coimbra
+Riba de Mouro,Monção,Viana do Castelo
+União das freguesias de São Tomé do Castelo e Justes,Vila Real,Vila Real
+Santa Eulália,Vizela,Braga
+Fornos,Santa Maria da Feira,Aveiro
+Vale Frechoso,Vila Flor,Bragança
+Nogueira e Silva Escura,Maia,Porto
+Castelões,Tondela,Viseu
+Aguda,Figueiró dos Vinhos,Leiria
+Teixeira,Baião,Porto
+União das freguesias de Rio Mau e Arcos,Vila do Conde,Porto
+Gandra,Paredes,Porto
+União das freguesias de Abrunheira,Verride e Vila Nova da Barca,Montemor-o-Velho
+União das freguesias de Apúlia e Fão,Esposende,Braga
+Lordelo,Paredes,Porto
+Vila Nova da Barquinha,Vila Nova da Barquinha,Santarém
+Barcouço,Mealhada,Aveiro
+Santa Catarina,Caldas da Rainha,Leiria
+União das freguesias de Abação e Gémeos,Guimarães,Braga
+Pala,Pinhel,Guarda
+Nave de Haver,Almeida,Guarda
+Aldeia dos Fernandes,Almodôvar,Beja
+Água de Pena,Machico,Ilha da Madeira
+Sanguedo,Santa Maria da Feira,Aveiro
+Mundão,Viseu,Viseu
+Vale de Cambra,Vale de Cambra,Aveiro
+Porto,Porto,Porto
+Cimbres,Armamar,Viseu
+Rossas,Arouca,Aveiro
+Urzelina (São Mateus),Velas,Ilha de São Jorge
+União das freguesias de Torres Novas (Santa Maria,Salvador e Santiago),Torres Novas
+Vimeiro,Lourinhã,Lisboa
+Lomba da Maia,Ribeira Grande,Ilha de São Miguel
+Aldeia da Mata,Crato,Portalegre
+União das freguesias de Aljustrel e Rio de Moinhos,Aljustrel,Beja
+Ligares,Freixo de Espada à Cinta,Bragança
+Gondarém,Vila Nova de Cerveira,Viana do Castelo
+Várzea,Arouca,Aveiro
+Montemor-o-Velho,Montemor-o-Velho,Coimbra
+Parada de Gatim,Vila Verde,Braga
+União das freguesias de Carregado e Cadafais,Alenquer,Lisboa
+Freixo de Espada à Cinta,Freixo de Espada à Cinta,Bragança
+União das freguesias de Almodôvar e Graça dos Padrões,Almodôvar,Beja
+Castainço,Penedono,Viseu
+União das freguesias de Amedo e Zedes,Carrazeda de Ansiães,Bragança
+Armação de Pera,Silves,Faro
+Alpalhão,Nisa,Portalegre
+Proença-a-Velha,Idanha-a-Nova,Castelo Branco
+Ansião,Ansião,Leiria
+União das freguesias de Souto da Carpalhosa e Ortigosa,Leiria,Leiria
+Almendra,Vila Nova de Foz Côa,Guarda
+Água Longa,Santo Tirso,Porto
+Várzea,Barcelos,Braga
+Carriço,Pombal,Leiria
+Porto Santo,Porto Santo,Ilha de Porto Santo
+Lorvão,Penacova,Coimbra
+Vilarelho da Raia,Chaves,Vila Real
+Rio de Onor,Bragança,Bragança
+União das freguesias de Chorente,Góios,Courel
+Fernão Joanes,Guarda,Guarda
+Costa,Guimarães,Braga
+Barreira,Mêda,Guarda
+Pêra do Moço,Guarda,Guarda
+Seixas,Vila Nova de Foz Côa,Guarda
+União das freguesias de Torre e Portela,Amares,Braga
+Vila Chã,Vila do Conde,Porto
+União das freguesias de Seixo do Côa e Vale Longo,Sabugal,Guarda
+União das freguesias de Azeitão (São Lourenço e São Simão),Setúbal,Setúbal
+Praia de Mira,Mira,Coimbra
+Monsanto,Alcanena,Santarém
+Olho Marinho,Óbidos,Leiria
+Cristelo,Barcelos,Braga
+Modivas,Vila do Conde,Porto
+União das freguesias de Cantar-Galo e Vila do Carvalho,Covilhã,Castelo Branco
+Girabolhos,Seia,Guarda
+São Luís,Odemira,Beja
+Vau,Óbidos,Leiria
+União das freguesias de Tomar (São João Baptista) e Santa Maria dos Olivais,Tomar,Santarém
+Linhares,Carrazeda de Ansiães,Bragança
+Bilhó,Mondim de Basto,Vila Real
+Almancil,Loulé,Faro
+Linhares,Celorico da Beira,Guarda
+Carrapatas,Macedo de Cavaleiros,Bragança
+Escalhão,Figueira de Castelo Rodrigo,Guarda
+Folgosinho,Gouveia,Guarda
+Refontoura,Felgueiras,Porto
+União das freguesias de Melres e Medas,Gondomar,Porto
+Madalena,Vila Nova de Gaia,Porto
+Atalaia,Vila Nova da Barquinha,Santarém
+Nogueira,Bragança,Bragança
+Cortes,Leiria,Leiria
+Sabrosa,Sabrosa,Vila Real
+Santo Isidoro e Livração,Marco de Canaveses,Porto
+Lamas,Miranda do Corvo,Coimbra
+Pampilhosa da Serra,Pampilhosa da Serra,Coimbra
+Ervões,Valpaços,Vila Real
+Bencatel,Vila Viçosa,Évora
+União das freguesias de Pontinha e Famões,Odivelas,Lisboa
+Travanca,Vinhais,Bragança
+Urqueira,Ourém,Santarém
+Ericeira,Mafra,Lisboa
+União das freguesias de Além da Ribeira e Pedreira,Tomar,Santarém
+Vila Boa de Quires e Maureles,Marco de Canaveses,Porto
+Santo António,São Roque do Pico,Ilha do Pico
+Alvoco da Serra,Seia,Guarda
+Amendoeira,Macedo de Cavaleiros,Bragança
+Misericórdia,Lisboa,Lisboa
+Carvalhas,Barcelos,Braga
+Poiares,Ponte de Lima,Viana do Castelo
+São João dos Caldeireiros,Mértola,Beja
+Vila Pouca,Cernache,Coimbra
+Lomba,Gondomar,Porto
+União das freguesias da Mealhada,Ventosa do Bairro e Antes,Mealhada
+Raposa,Almeirim,Santarém
+Mira de Aire,Porto de Mós,Leiria
+Costa da Caparica,Almada,Setúbal
+Maia,Ribeira Grande,Ilha de São Miguel
+Santa Cruz,Almodôvar,Beja
+Rapoula do Côa,Sabugal,Guarda
+União das freguesias de Aldeia do Bispo,Águas e Aldeia de João Pires,Penamacor
+Brufe,Vila Nova de Famalicão,Braga
+Cinfães,Cinfães,Viseu
+Castelejo,Fundão,Castelo Branco
+Recezinhos (São Mamede),Penafiel,Porto
+Priscos,Braga,Braga
+Rossas,Vieira do Minho,Braga
+União das freguesias de Carva e Vilares,Murça,Vila Real
+Dem,Caminha,Viana do Castelo
+Vila Praia de Âncora,Caminha,Viana do Castelo
+Foros de Vale de Figueira,Montemor-o-Novo,Évora
+Santa Cruz,Santa Cruz,Ilha da Madeira
+Rates,Póvoa de Varzim,Porto
+União das freguesias de Olo e Canadelo,Amarante,Porto
+Matela,Vimioso,Bragança
+Gião,Vila do Conde,Porto
+Jolda (São Paio),Arcos de Valdevez,Viana do Castelo
+Recarei,Paredes,Porto
+Soutelo,Vila Verde,Braga
+Biscoitos,Vila da Praia da Vitória,Ilha Terceira
+Panque,Barcelos,Braga
+Arneiro das Milhariças,Santarém,Santarém
+União das freguesias de Briteiros São Salvador e Briteiros Santa Leocádia,Guimarães,Braga
+Maçores,Torre de Moncorvo,Bragança
+Baraçal,Sabugal,Guarda
+União das freguesias de Antuzede e Vil de Matos,Coimbra,Coimbra
+Beato,Lisboa,Lisboa
+Riachos,Torres Novas,Santarém
+Ribeirinha,Lajes do Pico,Ilha do Pico
+Oliveira do Conde,Carregal do Sal,Viseu
+Golegã,Golegã,Santarém
+Vila Chã de Braciosa,Miranda do Douro,Bragança
+Barrô,Resende,Viseu
+Cogula,Trancoso,Guarda
+Madalena,Madalena,Ilha do Pico
+União das freguesias de Treixedo e Nagozela,Santa Comba Dão,Viseu
+Óbidos,Óbidos,Leiria
+Irivo,Penafiel,Porto
+Pinheiro de Ázere,Santa Comba Dão,Viseu
+Manteigas (Santa Maria),Manteigas,Guarda
+União das freguesias de Eucisia,Gouveia e Valverde,Alfândega da Fé
+Corte do Pinto,Mértola,Beja
+Cabrela,Montemor-o-Novo,Évora
+União das freguesias de Fonte Arcada e Oliveira,Póvoa de Lanhoso,Braga
+União das freguesias de São Vicente do Paul e Vale de Figueira,Santarém,Santarém
+Luz,Mourão,Évora
+Basto,Cabeceiras de Basto,Braga
+União das freguesias de Castanheira de Pêra e Coentral,Castanheira de Pêra,Leiria
+Funchal (São Pedro),Funchal,Ilha da Madeira
+Fornelos e Queijada,Ponte de Lima,Viana do Castelo
+Freineda,Almeida,Guarda
+Baleizão,Beja,Beja
+São João Baptista,Campo Maior,Portalegre
+Figueira,Lamego,Viseu
+Cárquere,Resende,Viseu
+Porto da Cruz,Machico,Ilha da Madeira
+Bobadela,Oliveira do Hospital,Coimbra
+União das freguesias de Santiago e São Simão de Litém e Albergaria dos Doze,Pombal,Leiria
+Ferreirós do Dão,Tondela,Viseu
+Lajes do Pico,Lajes do Pico,Ilha do Pico
+Vilar de Nantes,Chaves,Vila Real
+São Mamede de Ribatua,Alijó,Vila Real
+União das freguesias de Sendim e Atenor,Miranda do Douro,Bragança
+Válega,Ovar,Aveiro
+Calheta,Calheta,Ilha de São Jorge
+Brunhoso,Mogadouro,Bragança
+Pínzio,Pinhel,Guarda
+Cristoval,Melgaço,Viana do Castelo
+União das freguesias de Amarante (São Gonçalo),Madalena,Cepelos e Gatão
+Santiago de Piães,Cinfães,Viseu
+Relva,Ponta Delgada,Ilha de São Miguel
+Lagares e Figueira,Penafiel,Porto
+União das freguesias de Sandim,Olival,Lever e Crestuma
+União das freguesias de Escalos de Cima e Lousa,Castelo Branco,Castelo Branco
+Feitosa,Ponte de Lima,Viana do Castelo
+São Joaninho,Castro Daire,Viseu
+Espite,Ourém,Santarém
+São Miguel de Vila Boa,Sátão,Viseu
+Bucelas,Loures,Lisboa
+Jardim da Serra,Câmara de Lobos,Ilha da Madeira
+Pinheiro,Vieira do Minho,Braga
+Miranda do Douro,Miranda do Douro,Bragança
+União das freguesias de Touvedo (São Lourenço e Salvador),Ponte da Barca,Viana do Castelo
+União das freguesias de Vouzela e Paços de Vilharigues,Vouzela,Viseu
+Alquerubim,Albergaria-a-Velha,Aveiro
+Fontoura,Valença,Viana do Castelo
+Carregueira,Chamusca,Santarém
+Salvador do Monte,Amarante,Porto
+Santiago,Seia,Guarda
+União das freguesias de Candemil e Gondar,Vila Nova de Cerveira,Viana do Castelo
+Estarreja,Estarreja,Aveiro
+Alvaredo,Melgaço,Viana do Castelo
+Travassos,Póvoa de Lanhoso,Braga
+Vandoma,Paredes,Porto
+União das freguesias de Gamil e Midões,Barcelos,Braga
+União das freguesias de Moncarapacho e Fuseta,Olhão,Faro
+Pinhel,Pinhel,Guarda
+Frazão Arreigada,Paços de Ferreira,Porto
+Fontão,Ponte de Lima,Viana do Castelo
+União das freguesias de Chamoim e Vilar,Terras de Bouro,Braga
+Poço do Canto,Mêda,Guarda
+Algodres,Fornos de Algodres,Guarda
+Monte Gordo,Vila Real de Santo António,Faro
+Toulões,Idanha-a-Nova,Castelo Branco
+União das freguesias de Vilela,São Cosme e São Damião e Sá,Arcos de Valdevez
+Alvarenga,Arouca,Aveiro
+Morgade,Montalegre,Vila Real
+São João de Areias,Santa Comba Dão,Viseu
+Milharado,Mafra,Lisboa
+Pinheiro,Oliveira de Frades,Viseu
+São Vicente da Beira,Castelo Branco,Castelo Branco
+Sobral,Mortágua,Viseu
+União das freguesias de Gondar e Orbacém,Caminha,Viana do Castelo
+União das freguesias de São Julião de Palácios e Deilão,Bragança,Bragança
+União das freguesias de Trouxemil e Torre de Vilela,Coimbra,Coimbra
+Ribeirinha,Horta,Ilha do Faial
+Elvas,Elvas,Portalegre
+União das freguesias de Barreiro e Lavradio,Barreiro,Setúbal
+Tábua,Ribeira Brava,Ilha da Madeira
+Alcanede,Santarém,Santarém
+Carvalhal,Sertã,Castelo Branco
+Guadalupe,Santa Cruz da Graciosa,Ilha Graciosa
+Rebordelo,Vinhais,Bragança
+Guiães,Vila Real,Vila Real
+Nossa Senhora da Piedade,Ourém,Santarém
+Pega,Guarda,Guarda
+Regueira de Pontes,Leiria,Leiria
+Meirinhas,Pombal,Leiria
+Meãs do Campo,Montemor-o-Velho,Coimbra
+Valpedre,Penafiel,Porto
+Anelhe,Chaves,Vila Real
+União das freguesias de Sebal e Belide,Condeixa-a-Nova,Coimbra
+União das freguesias do Seixal,Arrentela e Aldeia de Paio Pires,Seixal
+Maiorga,Alcobaça,Leiria
+Soalheira,Fundão,Castelo Branco
+Tabuaças,Vieira do Minho,Braga
+União das freguesias de Romeira e Várzea,Santarém,Santarém
+Seiça,Ourém,Santarém
+Miranda,Arcos de Valdevez,Viana do Castelo
+Sabugal,Sabugal,Guarda
+Serra de Santo António,Alcanena,Santarém
+Airó,Barcelos,Braga
+Grijó,Macedo de Cavaleiros,Bragança
+Múrias,Mirandela,Bragança
+Fajãzinha,Lajes das Flores,Ilha das Flores
+São José da Lamarosa,Coruche,Santarém
+Vizela,Guimarães,Braga
+Santana,Nisa,Portalegre
+Alvite,Moimenta da Beira,Viseu
+Abiul,Pombal,Leiria
+Mosteiro,Vieira do Minho,Braga
+Quinta Grande,Câmara de Lobos,Ilha da Madeira
+São Joaninho,Santa Comba Dão,Viseu
+União das freguesias de Valtorno e Mourão,Vila Flor,Bragança
+União das freguesias de Nossa Senhora da Tourega e Nossa Senhora de Guadalupe,Évora,Évora
+Altares,Angra do Heroísmo,Ilha Terceira
+Alpiarça,Alpiarça,Santarém
+Esperança,Arronches,Portalegre
+Parque das Nações,Lisboa,Lisboa
+Ameixial,Loulé,Faro
+São Vicente,São Vicente,Ilha da Madeira
+Lamalonga,Macedo de Cavaleiros,Bragança
+Alcafozes,Idanha-a-Nova,Castelo Branco
+Santo Antão,Calheta,Ilha de São Jorge
+Brito,Guimarães,Braga
+Paçô,Arcos de Valdevez,Viana do Castelo
+Santo Amaro,Sousel,Portalegre
+Aboim das Choças,Arcos de Valdevez,Viana do Castelo
+União das freguesias de Castelãos e Vilar do Monte,Macedo de Cavaleiros,Bragança
+União das freguesias de Tourais e Lajes,Seia,Guarda
+Ferro,Covilhã,Castelo Branco
+Oiã,Oliveira do Bairro,Aveiro
+Medelo,Fafe,Braga
+Tamanhos,Trancoso,Guarda
+Vila Nova de Souto d'El-Rei,Lamego,Viseu
+Cunha Baixa,Mangualde,Viseu
+Mondim da Beira,Tarouca,Viseu
+Samouco,Alcochete,Setúbal
+União das freguesias de Torres Novas (São Pedro),Lapas e Ribeira Branca,Torres Novas
+União das freguesias de Ponte da Barca,Vila Nova de Muía e Paço Vedro de Magalhães,Ponte da Barca
+União das freguesias de Laranjeiro e Feijó,Almada,Setúbal
+Luzim e Vila Cova,Penafiel,Porto
+União das freguesias de Montijo e Afonsoeiro,Montijo,Setúbal
+Porto Moniz,Porto Moniz,Ilha da Madeira
+Avanca,Estarreja,Aveiro
+União das freguesias de Barbacena e Vila Fernando,Elvas,Portalegre
+Lusinde,Penalva do Castelo,Viseu
+Nave,Sabugal,Guarda
+Viariz,Baião,Porto
+Alvão,Vila Pouca de Aguiar,Vila Real
+Meimão,Penamacor,Castelo Branco
+Rio Caldo,Gerês,Braga
+Évora,Évora,Évora
+Barão de São Miguel,Vila do Bispo,Faro
+Alcains,Castelo Branco,Castelo Branco
+Vilarinho de Agrochão,Macedo de Cavaleiros,Bragança
+Ílhavo (São Salvador),Ílhavo,Aveiro
+União das freguesias de Cernadelo e Lousada (São Miguel e Santa Margarida),Lousada,Porto
+União das freguesias de Vale Flor,Carvalhal e Pai Penela,Mêda
+União das freguesias de Freigil e Miomães,Resende,Viseu
+Jarmelo São Miguel,Guarda,Guarda
+União das freguesias de Britelo,Gémeos e Ourilhe,Celorico de Basto
+Vila Boa de Ousilhão,Vinhais,Bragança
+União das freguesias de Esperança e Brunhais,Póvoa de Lanhoso,Braga
+Usseira,Óbidos,Leiria
+Canhas,Ponta do Sol,Ilha da Madeira
+Moita,Moita,Santarém
+União das freguesias de Vila Chã,Codal e Vila Cova de Perrinho,Vale de Cambra
+Cobro,Mirandela,Bragança
+Abrunhosa-a-Velha,Mangualde,Viseu
+União de freguesias de Freitas e Vila Cova,Fafe,Braga
+União das freguesias de Anjos e Vilar do Chão,Vieira do Minho,Braga
+União das freguesias de Carvalho e Basto (Santa Tecla),Celorico de Basto,Braga
+Cabeceiras de Basto,Cabeceiras de Basto,Braga
+Candosa,Tábua,Coimbra
+Freixo de Numão,Vila Nova de Foz Côa,Guarda
+Barqueiros,Mesão Frio,Vila Real
+Ponta Delgada,Santa Cruz das Flores,Ilha das Flores
+Sousel,Sousel,Portalegre
+Regilde,Felgueiras,Porto
+Covas,Vila Nova de Cerveira,Viana do Castelo
+União das freguesias de Cepos e Teixeira,Arganil,Coimbra
+Valbom/Bogalhal,Pinhel,Guarda
+Zibreira,Torres Novas,Santarém
+Sousela,Lousada,Porto
+Rosais,Velas,Ilha de São Jorge
+Carapeços,Barcelos,Braga
+União das freguesias de Cinco Vilas e Reigada,Figueira de Castelo Rodrigo,Guarda
+União das freguesias de Cantanhede e Pocariça,Cantanhede,Coimbra
+União das freguesias de Provesende,Gouvães do Douro e São Cristóvão do Douro,Sabrosa
+Sobral,Oleiros,Castelo Branco
+União das freguesias de Ruvina,Ruivós e Vale das Éguas,Sabugal
+Rio Frio,Bragança,Bragança
+Pernes,Santarém,Santarém
+União das freguesias de Granja Nova e Vila Chã da Beira,Tarouca,Viseu
+Candedo,Vinhais,Bragança
+Fervença,Celorico de Basto,Braga
+Anobra,Condeixa-a-Nova,Coimbra
+Alfena,Valongo,Porto
+Carregal,Sernancelhe,Viseu
+Padrela e Tazem,Valpaços,Vila Real
+União das freguesias de Zebreira e Segura,Idanha-a-Nova,Castelo Branco
+Cabril,Pampilhosa da Serra,Coimbra
+Mértola,Mértola,Beja
+Rio Covo (Santa Eugénia),Barcelos,Braga
+Gândaras,Lousã,Coimbra
+União das freguesias de Rapa e Cadafaz,Celorico da Beira,Guarda
+Vilar de Ferreiros,Mondim de Basto,Vila Real
+Viana do Castelo,Viana do Castelo,Viana do Castelo
+Pico,Vila Verde,Braga
+Moreiras,Chaves,Vila Real
+Ribamondego,Gouveia,Guarda
+Sabroso de Aguiar,Vila Pouca de Aguiar,Vila Real
+União das freguesias de Lagoa e Carvoeiro,Lagoa,Faro
+Guia,Albufeira,Faro
+Vasconha de Queirã,Vouzela,Viseu
+União das freguesias de Alto do Seixalinho,Santo André e Verderena,Barreiro
+União das freguesias de Raiva,Pedorido e Paraíso,Castelo de Paiva
+Vila de São Sebastião,Angra do Heroísmo,Ilha Terceira
+Avô,Oliveira do Hospital,Coimbra
+União das freguesias de Areias e Pias,Ferreira do Zêzere,Santarém
+Vale de Ílhavo,Ílhavo,Aveiro
+União das freguesias de Belmonte e Colmeal da Torre,Belmonte,Castelo Branco
+Vila Verde,Alijó,Vila Real
+Pedro do Sul,Oliveira do Hospital,Coimbra
+Mercês,Sintra,Lisboa
+Matosinhos,Matosinhos,Porto
+Macinhata do Vouga,Águeda,Aveiro
+União das freguesias de Abrantes (São Vicente e São João) e Alferrarede,Abrantes,Santarém
+Espinho,Mangualde,Viseu
+Candoso (São Martinho),Guimarães,Braga
+Bogas de Cima,Fundão,Castelo Branco
+Coimbrão,Leiria,Leiria
+Poço do Canto,Meda,Guarda
+União das freguesias de Alvega e Concavada,Abrantes,Santarém
+Dossãos,Vila Verde,Braga
+Vilela do Tâmega,Chaves,Vila Real
+União das freguesias de Mouçós e Lamares,Vila Real,Vila Real
+Calvelo,Ponte de Lima,Viana do Castelo
+União das freguesias de Pataias e Martingança,Alcobaça,Leiria
+União das freguesias de Ermida e Figueiredo,Sertã,Castelo Branco
+Bugalhos,Alcanena,Santarém
+Funchal (Santa Maria Maior),Funchal,Ilha da Madeira
+Corvo,Corvo,Ilha do Corvo
+Barbeita,Monção,Viana do Castelo
+União das freguesias de Parada e Sendim da Ribeira,Alfândega da Fé,Bragança
+Cerejais,Alfândega da Fé,Bragança
+Edral,Vinhais,Bragança
+Midões,Tábua,Coimbra
+São João da Serra,Oliveira de Frades,Viseu
+Quelfes,Olhão,Faro
+Duas Igrejas,Paredes,Porto
+Loures,Loures,Lisboa
+União das freguesias de Malta e Canidelo,Vila do Conde,Porto
+União das freguesias de Cerva e Limões,Ribeira de Pena,Vila Real
+Carvalhal,Barcelos,Braga
+União das freguesias de Nogueira e Ermida,Vila Real,Vila Real
+Fazendas de Almeirim,Almeirim,Santarém
+Esmoriz,Esmoriz,Aveiro
+Bandeiras,Madalena,Ilha do Pico
+Paredes da Beira,São João da Pesqueira,Viseu
+Várzea dos Cavaleiros,Sertã,Castelo Branco
+União das freguesias de Figueiró da Serra e Freixo da Serra,Gouveia,Guarda
+Alvações do Corgo,Santa Marta de Penaguião,Vila Real
+Cidadelhe,Mesão Frio,Vila Real
+Aguçadoura,Póvoa de Varzim,Porto
+Assumar,Monforte,Portalegre
+Monte,Funchal,Ilha da Madeira
+Faiões,Chaves,Vila Real
+Ciborro,Montemor-o-Novo,Évora
+Prazeres,Calheta,Ilha da Madeira
+União das freguesias de Castanheira do Ribatejo e Cachoeiras,Vila Franca de Xira,Lisboa
+União das freguesias de A dos Cunhados e Maceira,Torres Vedras,Lisboa
+União das freguesias de Vila Nova de Famalicão e Calendário,Vila Nova de Famalicão,Braga
+Capela,Penafiel,Porto
+Queimada,Armamar,Viseu
+União das freguesias de Azinhal,Peva e Valverde,Almeida
+Ulme,Chamusca,Santarém
+Pardilhó,Estarreja,Aveiro
+Cartaxo,Cartaxo,Santarém
+Tramagal,Abrantes,Santarém
+Soure,Soure,Coimbra
+Aldeia Nova de S. Bento,Serpa,Beja
+Lamas de Orelhão,Mirandela,Bragança
+Portela,Monção,Viana do Castelo
+Sambade,Alfândega da Fé,Bragança
+Pombeiro da Beira,Arganil,Coimbra
+Vilarelhos,Alfândega da Fé,Bragança
+Almofala,Castro Daire,Viseu
+Macedo de Cavaleiros,Macedo de Cavaleiros,Bragança
+Pinela,Bragança,Bragança
+União das freguesias de São Julião e Silva,Valença,Viana do Castelo
+União das freguesias de Esmeriz e Cabeçudos,Vila Nova de Famalicão,Braga
+Canidelo,Vila Nova de Gaia,Porto
+Afurada,Gaia,Porto
+Águas Livres,Amadora,Lisboa
+Santo André das Tojeiras,Castelo Branco,Castelo Branco
+Cabração e Moreira do Lima,Ponte de Lima,Viana do Castelo
+União das freguesias de Alvora e Loureda,Arcos de Valdevez,Viana do Castelo
+Castelo Branco,Mogadouro,Bragança
+União de freguesias de Mizarela,Pêro Soares e Vila Soeiro,Guarda
+Mioma,Sátão,Viseu
+Santa Catarina da Fonte do Bispo,Tavira,Faro
+União das freguesias de Fonte de Angeão e Covão do Lobo,Vagos,Aveiro
+Vila Seca,Barcelos,Braga
+Manigoto,Pinhel,Guarda
+São Miguel de Poiares,Vila Nova de Poiares,Coimbra
+Serrazes,São Pedro do Sul,Viseu
+Tomar,Tomar,Santarém
+União das freguesias de Peso da Régua e Godim,Peso da Régua,Vila Real
+Selho (São Cristóvão),Guimarães,Braga
+Mexilhoeira Grande,Portimão,Faro
+Salvador,Penamacor,Castelo Branco
+União das freguesias de Glória e Vera Cruz,Aveiro,Aveiro
+Santa Luzia,Tavira,Faro
+Serra d'El-Rei,Peniche,Leiria
+União das freguesias de Creixomil e Mariz,Barcelos,Braga
+Tarouquela,Cinfães,Viseu
+União das freguesias de Soeira,Fresulfe e Mofreita,Vinhais
+Vila Nova da Baronia,Alvito,Beja
+Alcofra,Vouzela,Viseu
+Terrenho,Trancoso,Guarda
+União das freguesias de Oliveira,São Paio e São Sebastião,Guimarães
+Felgueiras,Felgueiras,Porto
+Rendufinho,Póvoa de Lanhoso,Braga
+Vilar do Torno e Alentém,Lousada,Porto
+União das freguesias de Ovoa e Vimieiro,Santa Comba Dão,Viseu
+União das freguesias de Messegães,Valadares e Sá,Monção
+Nossa Senhora da Graça de Póvoa e Meadas,Castelo de Vide,Portalegre
+União das freguesias de Aguiar da Beira e Coruche,Aguiar da Beira,Guarda
+Alagoa,Portalegre,Portalegre
+União das freguesias de Belver e Mogo de Malta,Carrazeda de Ansiães,Bragança
+Praia da Vitória (Santa Cruz),Vila da Praia da Vitória,Ilha Terceira
+Mora,Mora,Évora
+Oura,Chaves,Vila Real
+União das freguesias de São Miguel do Pinheiro,São Pedro de Solis e São Sebastião dos Carros,Mértola
+Alhadas,Figueira da Foz,Coimbra
+Alfragide,Amadora,Lisboa
+Cortiços,Macedo de Cavaleiros,Bragança
+Nespereira,Gouveia,Guarda
+Pombal,Carrazeda de Ansiães,Bragança
+União das freguesias de Ninho do Açor e Sobral do Campo,Castelo Branco,Castelo Branco
+Santana,Santana,Ilha da Madeira
+Arnóia,Celorico de Basto,Braga
+Rosário,Almodôvar,Beja
+Algarvia,Nordeste,Ilha de São Miguel
+União das freguesias de Trevões e Espinhosa,São João da Pesqueira,Viseu
+Reguengo Grande,Lourinhã,Lisboa
+Figueiró,Paços de Ferreira,Porto
+Sazes da Beira,Seia,Guarda
+Almoster,Santarém,Santarém
+Candelária,Madalena,Ilha do Pico
+Terras de Massueime,Pinhel,Guarda
+Parambos,Carrazeda de Ansiães,Bragança
+Cabo da Praia,Vila da Praia da Vitória,Ilha Terceira
+Vale da Madre,Mogadouro,Bragança
+União das freguesias de Pinheiro da Bemposta,Travanca e Palmaz,Oliveira de Azeméis
+Sezulfe,Macedo de Cavaleiros,Bragança
+Vila Nova de Cacela,Vila Real de Santo António,Faro
+União das freguesias de Palmeira de Faro e Curvos,Esposende,Braga
+Juncal,Porto de Mós,Leiria
+União das freguesias de Alvarelhos e Guidões,Trofa,Porto
+Serzedelo,Póvoa de Lanhoso,Braga
+União das freguesias de Grade e Carralcova,Arcos de Valdevez,Viana do Castelo
+Soutelo de Aguiar,Vila Pouca de Aguiar,Vila Real
+Marinha das Ondas,Figueira da Foz,Coimbra
+Santa Valha,Valpaços,Vila Real
+Águas Belas,Sabugal,Guarda
+Nossa Senhora das Misericórdias,Ourém,Santarém
+Sendas,Bragança,Bragança
+Mira,Mira,Coimbra
+Aguiar do Sousa,Paredes,Porto
+Rebordões,Santo Tirso,Porto
+Canha,Montijo,Setúbal
+Idães,Felgueiras,Porto
+Desejosa,Tabuaço,Viseu
+União das freguesias de Cibões e Brufe,Terras de Bouro,Braga
+Cabaços e Fojo Lobal,Ponte de Lima,Viana do Castelo
+Vila Meã,Bragança,Bragança
+Alvalade,Lisboa,Lisboa
+Cabanelas,Mirandela,Bragança
+Ribeirinha,Angra do Heroísmo,Ilha Terceira
+Fronteira,Fronteira,Portalegre
+Sendim,Tabuaço,Viseu
+Freamunde,Paços de Ferreira,Porto
+Vila Chã da Braciosa,Miranda do Douro,Bragança
+Trezói,Mortágua,Viseu
+Ferreira,Paços de Ferreira,Porto
+União das freguesias de Aricera e Goujoim,Armamar,Viseu
+Galegos (Santa Maria),Barcelos,Braga
+União das freguesias de Caldas da Rainha - Santo Onofre e Serra do Bouro,Caldas da Rainha,Leiria
+União das freguesias de Nunes e Ousilhão,Vinhais,Bragança
+Celavisa,Arganil,Coimbra
+Santo André,Santiago do Cacém,Setúbal
+Sonim e Barreiros,Valpaços,Vila Real
+Não,Esposende,Braga
+Enxara do Bispo,Mafra,Lisboa
+Torre de Moncorvo,Torre de Moncorvo,Bragança
+União das freguesias de Merelim (São Pedro) e Frossos,Braga,Braga
+Lousado,Vila Nova de Famalicão,Braga
+São Martinho,Alcácer do Sal,Setúbal
+Vale de Santiago,Odemira,Beja
+União das freguesias de Quirás e Pinheiro Novo,Vinhais,Bragança
+Pereira,Montemor-o-Velho,Coimbra
+Cavadoude,Guarda,Guarda
+União das freguesias de Prado e Remoães,Melgaço,Viana do Castelo
+Vale de Amoreira,Manteigas,Guarda
+Ponta Delgada,São Vicente,Ilha da Madeira
+União das freguesias de Massamá e Monte Abraão,Sintra,Lisboa
+Dornelas,Amares,Braga
+Aljezur,Aljezur,Faro
+União das freguesias de Atães e Rendufe,Guimarães,Braga
+Mesquitela,Celorico da Beira,Guarda
+União das freguesias de Souto e Tabaçô,Arcos de Valdevez,Viana do Castelo
+Meda,Meda,Guarda
+São Silvestre,Coimbra,Coimbra
+Samora Correia,Benavente,Santarém
+Atiães,Vila Verde,Braga
+Viseu,Viseu,Viseu
+Boliqueime,Loulé,Faro
+Esporões,Braga,Braga
+União das freguesias de Vilar de Besteiros e Mosteiro de Fráguas,Tondela,Viseu
+Agregação das freguesias Sul de Pinhel,Pinhel,Guarda
+União das freguesias de Fataunços e Figueiredo das Donas,Vouzela,Viseu
+Santa Margarida da Coutada,Constância,Santarém
+Termas de São Pedro do Sul,São Pedro do Sul,Viseu
+Palmeira,Braga,Braga
+Gualtar,Braga,Braga
+Palme,Barcelos,Braga
+Prados,Celorico da Beira,Guarda
+Abraveses,Viseu,Viseu
+União das freguesias de Ferreiros,Prozelo e Besteiros,Amares
+Casal Vasco,Fornos de Algodres,Guarda
+União das freguesias de Viana do Castelo (Santa Maria Maior e Monserrate) e Meadela,Viana do Castelo,Viana do Castelo
+Oliveira de Azeméis,Oliveira de Azeméis,Aveiro
+União das freguesias de São Miguel,Santa Eufémia e Rabaçal,Penela
+Germil,Penalva do Castelo,Viseu
+União das freguesias de Carlão e Amieiro,Alijó,Vila Real
+União das freguesias de Recardães e Espinhel,Águeda,Aveiro
+União das freguesias de Durrães e Tregosa,Barcelos,Braga
+Nossa Senhora do Pranto,Ferreira do Zêzere,Santarém
+Aguada de Cima,Águeda,Aveiro
+Vila Franca do Lima,Viana do Castelo,Viana do Castelo
+Cuba,Cuba,Beja
+Areosa,Viana do Castelo,Viana do Castelo
+Luz,Santa Cruz da Graciosa,Ilha Graciosa
+União das freguesias de São Martinho do Bispo e Ribeira de Frades,Coimbra,Coimbra
+Macieira,Lousada,Porto
+Moimentinha,Trancoso,Guarda
+Sobral da Adiça,Moura,Beja
+União das freguesias de Semide e Rio Vide,Miranda do Corvo,Coimbra
+Angra (Santa Luzia),Angra do Heroísmo,Ilha Terceira
+Casal Comba,Mealhada,Aveiro
+Baguim do Monte (Rio Tinto),Gondomar,Porto
+Carregal do Sal,Carregal do Sal,Viseu
+Lamas,Macedo de Cavaleiros,Bragança
+Alcáçovas,Viana do Alentejo,Évora
+União das freguesias de Lavandeira,Beira Grande e Selores,Carrazeda de Ansiães
+União das freguesias de Ribeira de Nisa e Carreiras,Portalegre,Portalegre
+Aguiar,Viana do Alentejo,Évora
+Terena,Alandroal,Évora
+Barco,Guimarães,Braga
+Aljubarrota,Alcobaça,Leiria
+Fontelo,Armamar,Viseu
+Ferreiros,Póvoa de Lanhoso,Braga
+Vila Facaia,Pedrógão Grande,Leiria
+Vila Verde,Figueira da Foz,Coimbra
+Ilha,Santana,Ilha da Madeira
+Amares,Amares,Braga
+União das freguesias de Carreira e Fonte Coberta,Barcelos,Braga
+União das freguesias de Póvoa de Rio de Moinhos e Cafede,Castelo Branco,Castelo Branco
+União das freguesias do Préstimo e Macieira de Alcoba,Águeda,Aveiro
+União das freguesias de Malagueira e Horta das Figueiras,Évora,Évora
+União das freguesias de Insalde e Porreiras,Paredes de Coura,Viana do Castelo
+Sever,Moimenta da Beira,Viseu
+Póvoa da Atalaia,Fundão,Castelo Branco
+Sepins,Cantanhede,Coimbra
+Brotas,Mora,Évora
+Vilar e Viveiro,Boticas,Vila Real
+Ajuda,Lisboa,Lisboa
+Benavente,Benavente,Santarém
+Salão,Horta,Ilha do Faial
+Fazenda,Lajes das Flores,Ilha das Flores
+Sebadelhe,Vila Nova de Foz Côa,Guarda
+Benfica,Lisboa,Lisboa
+São João da Boa Vista,Tábua,Coimbra
+Touça,Vila Nova de Foz Côa,Guarda
+Infantas,Guimarães,Braga
+Portimão,Portimão,Faro
+Vila de Frades,Vidigueira,Beja
+Vilas Boas,Vila Flor,Bragança
+Passô,Moimenta da Beira,Viseu
+Serapicos,Bragança,Bragança
+Bouça,Mirandela,Bragança
+Sobral de São Miguel,Covilhã,Castelo Branco
+Nossa Senhora da Conceição e São Bartolomeu,Vila Viçosa,Évora
+União das freguesias de Campo e Sobrado,Valongo,Porto
+Canas de Senhorim,Nelas,Viseu
+Vila da Ponte,Sernancelhe,Viseu
+Bico,Amares,Braga
+Candemil,Amarante,Porto
+Cidade da Maia,Maia,Porto
+Guilheiro,Trancoso,Guarda
+Santo António,Funchal,Ilha da Madeira
+Fajozes,Vila do Conde,Porto
+Meixomil,Paços de Ferreira,Porto
+União das freguesias de Covilhã e Canhoso,Covilhã,Castelo Branco
+União das freguesias de Amieira e Alqueva,Portel,Évora
+União das freguesias de Santa Comba Dão e Couto do Mosteiro,Santa Comba Dão,Viseu
+Calheta,Calheta,Ilha da Madeira
+Mosteiro,Oleiros,Castelo Branco
+União das freguesias de Canelas e Espiunca,Arouca,Aveiro
+Milheirós,Maia,Porto
+União das freguesias de Esqueiros,Nevogilde e Travassós,Vila Verde
+Moldes,Arouca,Aveiro
+São Pedro Velho,Mirandela,Bragança
+Vidais,Caldas da Rainha,Leiria
+União das freguesias de Santa Eufémia e Boa Vista,Leiria,Leiria
+Vale de Figueira,São João da Pesqueira,Viseu
+Lagoa de Óbidos,Óbidos,Leiria
+Arrouquelas,Rio Maior,Santarém
+Arroios,Vila Real,Vila Real
+Lourosa,Santa Maria da Feira,Aveiro
+Calvaria de Cima,Porto de Mós,Leiria
+Mouriscas,Abrantes,Santarém
+Achadinha,Nordeste,Ilha de São Miguel
+Bartolomeu do Mar,Esposende,Braga
+São João de Rei,Póvoa de Lanhoso,Braga
+Abreiro,Mirandela,Bragança
+Cumieira,Santa Marta de Penaguião,Vila Real
+Brandara,Ponte de Lima,Viana do Castelo
+Couto de Esteves,Sever do Vouga,Aveiro
+União das freguesias de Vila Nova de São Bento e Vale de Vargo,Serpa,Beja
+Abela,Santiago do Cacém,Setúbal
+Reboleiro,Trancoso,Guarda
+Campo de Besteiros,Tondela,Viseu
+Carvalheira,Terras de Bouro,Braga
+União das freguesias de Santiago de Cassurrães e Póvoa de Cervães,Mangualde,Viseu
+União das freguesias de Ponte de Vagos e Santa Catarina,Vagos,Aveiro
+Navió e Vitorino dos Piães,Ponte de Lima,Viana do Castelo
+Calvão,Vagos,Aveiro
+União das freguesias de Mazedo e Cortes,Monção,Viana do Castelo
+Bustelo,Chaves,Vila Real
+Pinho,São Pedro do Sul,Viseu
+Afife,Viana do Castelo,Viana do Castelo
+Fóios,Sabugal,Guarda
+Vidual,Pampilhosa da Serra,Coimbra
+Boalhosa,Ponte de Lima,Viana do Castelo
+Casas do Soeiro,Celorico da Beira,Guarda
+União das freguesias de Matosinhos e Leça da Palmeira,Matosinhos,Porto
+União das freguesias de Proença-a-Nova e Peral,Proença-a-Nova,Castelo Branco
+Oliveira (São Mateus),Vila Nova de Famalicão,Braga
+Moinhos da Gândara,Figueira da Foz,Coimbra
+Rio de Moinhos,Penafiel,Porto
+Penude,Lamego,Viseu
+Vila de Cucujães,Oliveira de Azeméis,Aveiro
+Aveleda,Lousada,Porto
+Várzea,Felgueiras,Porto
+Santo António da Charneca,Barreiro,Setúbal
+União das freguesias de Vilamar e Corticeiro de Cima,Cantanhede,Coimbra
+Seixal,Porto Moniz,Ilha da Madeira
+Cornes,Vila Nova de Cerveira,Viana do Castelo
+Mairos,Chaves,Vila Real
+Malhada Sorda,Almeida,Guarda
+Mós,Bragança,Bragança
+Paul,Covilhã,Castelo Branco
+Rebordãos,Bragança,Bragança
+Fornelo do Monte,Vouzela,Viseu
+Ancede,Baião,Porto
+Paredes de Viadores e Manhuncelos,Marco de Canaveses,Porto
+Santalha,Vinhais,Bragança
+Lumiar,Lisboa,Lisboa
+União das freguesias de Constantim e Vale de Nogueiras,Vila Real,Vila Real
+Adorigo,Tabuaço,Viseu
+Póvoa do Concelho,Trancoso,Guarda
+Friões,Valpaços,Vila Real
+União das freguesias de Cortiçadas de Lavre e Lavre,Montemor-o-Novo,Évora
+Muro,Trofa,Porto
+Neves,Viana do Castelo,Viana do Castelo
+Espinhosela,Bragança,Bragança
+Colos,Odemira,Beja
+São Brás e São Lourenço,Elvas,Portalegre
+União das freguesias de Fornelo e Vairão,Vila do Conde,Porto
+União das freguesias de Malhou,Louriceira e Espinheiro,Alcanena
+União das freguesias de Lamelas e Guimarei,Santo Tirso,Porto
+Portela do Fojo-Machio,Pampilhosa da Serra,Coimbra
+Eiriz,Paços de Ferreira,Porto
+Prozelo,Arcos de Valdevez,Viana do Castelo
+Pessegueiro,Pampilhosa da Serra,Coimbra
+São Félix da Marinha,Vila Nova de Gaia,Porto
+Turcifal,Torres Vedras,Lisboa
+Sever,Santa Marta de Penaguião,Vila Real
+Vilarelho,Alfândega da Fé,Bragança
+Quintela de Azurara,Mangualde,Viseu
+Grilo,Baião,Porto
+Urgezes,Guimarães,Braga
+Coimbra,Coimbra,Coimbra
+Laceiras,Carregal do Sal,Viseu
+Arcos,Tabuaço,Viseu
+Valongo dos Azeites,São João da Pesqueira,Viseu
+Castelo de Paiva,Castelo de Paiva,Aveiro
+Fatela,Fundão,Castelo Branco
+Alhos Vedros,Moita,Setúbal
+Vila Nova do Ceira,Góis,Coimbra
+Lordelo,Guimarães,Braga
+Rio de Loba,Viseu,Viseu
+Pelmá,Alvaiázere,Leiria
+Aveleda,Vila do Conde,Porto
+Mozelos,Santa Maria da Feira,Aveiro
+Forno Telheiro,Celorico da Beira,Guarda
+Góis,Góis,Coimbra
+Velas (São Jorge),Velas,Ilha de São Jorge
+Vilarandelo,Valpaços,Vila Real
+Teixeira,Seia,Guarda
+Trindade,Vila Flor,Bragança
+Santana,Portel,Évora
+União das freguesias de Covões e Camarneira,Cantanhede,Coimbra
+Febres,Cantanhede,Coimbra
+Meruge,Oliveira do Hospital,Coimbra
+Arcos,Estremoz,Évora
+Pitões das Junias,Montalegre,Vila Real
+Santa Cruz,Armamar,Viseu
+União das freguesias de Ribeira de Pena (Salvador) e Santo Aleixo de Além-Tâmega,Ribeira de Pena,Vila Real
+Espinho,Mortágua,Viseu
+Póvoa de Lanhoso (Nossa Senhora do Amparo),Póvoa de Lanhoso,Braga
+Aveloso,Mêda,Guarda
+Alfarela de Jales,Vila Pouca de Aguiar,Vila Real
+Borba de Montanha,Celorico de Basto,Braga
+Santa Bárbara,Ponta Delgada,Ilha de São Miguel
+Rego,Celorico de Basto,Braga
+Esmoriz,Ovar,Aveiro
+Vale da Porca,Macedo de Cavaleiros,Bragança
+União das freguesias de Tabuadelo e São Faustino,Guimarães,Braga
+União das freguesias de Chorense e Monte,Terras de Bouro,Braga
+Atouguia da Baleia,Peniche,Leiria
+Alvarães,Viana do Castelo,Viana do Castelo
+Carvalhal,Grândola,Setúbal
+União das freguesias de Alcanena e Vila Moreira,Alcanena,Santarém
+União das freguesias de Glória do Ribatejo e Granho,Salvaterra de Magos,Santarém
+União das freguesias de Moimenta da Serra e Vinhó,Gouveia,Guarda
+Alvaiázere,Alvaiázere,Leiria
+Santana do Mato,Coruche,Santarém
+Coutos de Viseu,Viseu,Viseu
+União das freguesias de Valença,Cristelo Covo e Arão,Valença
+Vila Garcia,Guarda,Guarda
+União das freguesias de Santiago do Cacém,Santa Cruz e São Bartolomeu da Serra,Santiago do Cacém
+União das freguesias de Aldeias e Mangualde da Serra,Gouveia,Guarda
+União das freguesias de Salvaterra de Magos e Foros de Salvaterra,Salvaterra de Magos,Santarém
+Almoster,Alvaiázere,Leiria
+União das freguesias de Santa Cruz da Trapa e São Cristóvão de Lafões,São Pedro do Sul,Viseu
+Sertã,Sertã,Castelo Branco
+Freiriz,Vila Verde,Braga
+União das freguesias de Cerdeira e Moura da Serra,Arganil,Coimbra
+Penas Roias,Mogadouro,Bragança
+Requião,Vila Nova de Famalicão,Braga
+Salvaterra do Extremo,Idanha-a-Nova,Castelo Branco
+União das freguesias de Cernache do Bonjardim,Nesperal e Palhais,Sertã
+São João de Fontoura,Resende,Viseu
+União das freguesias de Assares e Lodões,Vila Flor,Bragança
+Semide,Miranda do Corvo,Coimbra
+Prazins (Santa Eufémia),Guimarães,Braga
+Asseiceira,Rio Maior,Santarém
+Fenais da Ajuda,Ribeira Grande,Ilha de São Miguel
+São Mateus,Santa Cruz da Graciosa,Ilha Graciosa
+União das freguesias de Castrelos e Carrazedo,Bragança,Bragança
+Cete,Paredes,Porto
+Campo Maior,Campo Maior,Portalegre
+União das freguesias de São Bento do Cortiço e Santo Estêvão,Estremoz,Évora
+Furadouro,Condeixa-a-Nova,Coimbra
+União das freguesias de Adeganha e Cardanha,Torre de Moncorvo,Bragança
+Barqueiros,Barcelos,Braga
+Ourique,Ourique,Beja
+Mouçós,Vila Real,Vila Real
+Praia da Tocha,Cantanhede,Coimbra
+União das freguesias da Póvoa de Varzim,Beiriz e Argivai,Póvoa de Varzim
+Nazaré,Nazaré,Leiria
+Vascoveiro,Pinhel,Guarda
+Atalaia,Montijo,Santarém
+Lomba da Fazenda,Nordeste,Ilha de São Miguel
+Lajedo,Lajes das Flores,Ilha das Flores
+Arelho,Óbidos,Leiria
+Oliveira,Arcos de Valdevez,Viana do Castelo
+União das freguesias de Lajeosa e Forcalhos,Sabugal,Guarda
+Cumeeira,Penela,Coimbra
+União das freguesias do Colmeal e Vilar Torpim,Figueira de Castelo Rodrigo,Guarda
+Negrelos (São Tomé),Santo Tirso,Porto
+Vila Caiz,Amarante,Porto
+Vila de Punhe,Viana do Castelo,Viana do Castelo
+Rosmaninhal,Idanha-a-Nova,Castelo Branco
+Ponte,Vila Verde,Braga
+Moimenta,Terras de Bouro,Braga
+Valença do Douro,Tabuaço,Viseu
+Albufeira,Albufeira,Faro
+Serdedelo,Ponte de Lima,Viana do Castelo
+Vilar Chão,Alfândega da Fé,Bragança
+Abambres,Mirandela,Bragança
+Açoreira,Torre de Moncorvo,Bragança
+Infias,Vizela,Braga
+Panoias de Cima,Guarda,Guarda
+Alverca da Beira/Bouça Cova,Pinhel,Guarda
+Cordinhã,Cantanhede,Coimbra
+União de freguesias de Aboim,Felgueiras,Gontim e Pedraído
+Pedome,Vila Nova de Famalicão,Braga
+Beire,Paredes,Porto
+Quinchães,Fafe,Braga
+União das freguesias de Malpartida e Vale de Coelha,Almeida,Guarda
+Horta da Vilariça,Torre de Moncorvo,Bragança
+União das freguesias de Sande,Vilarinho,Barros e Gomide
+União das freguesias de Atalaia e Safurdão,Pinhel,Guarda
+Boivães,Ponte da Barca,Viana do Castelo
+Nogueira da Regedoura,Santa Maria da Feira,Aveiro
+Louredo,Santa Marta de Penaguião,Vila Real
+Pavia,Mora,Évora
+União das freguesias de Paradela,Contim e Fiães,Montalegre
+Granja,Trancoso,Guarda
+Três Povos,Fundão,Castelo Branco
+Pepim,Castro Daire,Viseu
+Capeludos,Vila Pouca de Aguiar,Vila Real
+União das freguesias de Castanheiro do Norte e Ribalonga,Carrazeda de Ansiães,Bragança
+Sequeira,Braga,Braga
+Sines,Sines,Setúbal
+Furnas,Povoação,Ilha de São Miguel
+Santo Amaro,São Roque do Pico,Ilha do Pico
+União das freguesias da Chamusca e Pinheiro Grande,Chamusca,Santarém
+União das freguesias de São Manços e São Vicente do Pigeiro,Évora,Évora
+Sortelha,Sabugal,Guarda
+Delães,Vila Nova de Famalicão,Braga
+Chã,Montalegre,Vila Real
+Vila Nova,Vila da Praia da Vitória,Ilha Terceira
+Mafra,Mafra,Lisboa
+Avis,Avis,Portalegre
+São Miguel do Mato,Vouzela,Viseu
+Peredo da Bemposta,Mogadouro,Bragança
+Vidago (União das freguesias de Vidago,Arcossó,Selhariz e Vilarinho das Paranheiras)
+Mixões,Vila Verde,Braga
+Tendais,Cinfães,Viseu
+Figueira da Foz,Figueira da Foz,Coimbra
+Maçal do Chão,Celorico da Beira,Guarda
+Loureiro,Peso da Régua,Vila Real
+Cótimos,Trancoso,Guarda
+Ladoeiro,Castelo Branco,Castelo Branco
+União das freguesias de Quintiães e Aguiar,Barcelos,Braga
+Taíde,Póvoa de Lanhoso,Braga
+Pinheiro,Castro Daire,Viseu
+Avintes,Vila Nova de Gaia,Porto
+Bismula,Sabugal,Guarda
+Manteigas (São Pedro),Manteigas,Guarda
+Aveiras de Baixo,Azambuja,Lisboa
+Salselas,Macedo de Cavaleiros,Bragança
+Quintas de São Bartolomeu,Sabugal,Guarda
+Benedita,Alcobaça,Leiria
+Sapataria,Sobral de Monte Agraço,Lisboa
+Penamaior,Paços de Ferreira,Porto
+Rio Mau,Penafiel,Porto
+Quinta do Conde,Sesimbra,Setúbal
+Graça,Pedrógão Grande,Leiria
+Travanca,Cinfães,Viseu
+União das freguesias de Bustelo,Carneiro e Carvalho de Rei,Amarante
+Covide,Terras de Bouro,Braga
+Ansiães,Amarante,Porto
+Martinho,Miranda do Douro,Bragança
+Alfeizerão,Alcobaça,Leiria
+Canelas,Vila Nova de Gaia,Porto
+Montes da Senhora,Proença-a-Nova,Castelo Branco
+Folgosa,Armamar,Viseu
+Vale de Gouvinhas,Mirandela,Bragança
+Podence,Macedo de Cavaleiros,Bragança
+São Pedro de Tomar,Tomar,Santarém
+União das freguesias de Meixedo e Padornelos,Montalegre,Vila Real
+União de freguesias de Ardegão,Arnozela e Seidões,Fafe
+União das freguesias de Tondela e Nandufe,Tondela,Viseu
+Nossa Senhora de Machede,Évora,Évora
+Arouca,Arouca,Aveiro
+Almagreira,Vila do Porto,Ilha de Santa Maria
+Vila Nova,Miranda do Corvo,Coimbra
+Lanheses,Viana do Castelo,Viana do Castelo
+União das freguesias de Tamel (Santa Leocádia) e Vilar do Monte,Barcelos,Braga
+União das freguesias de Montalegre e Padroso,Montalegre,Vila Real
+Pereira,Barcelos,Braga
+Pedrógão Pequeno,Sertã,Castelo Branco
+Samodães,Lamego,Viseu
+Ponta Delgada (São Sebastião),Ponta Delgada,Ilha de São Miguel
+Tropeço,Arouca,Aveiro
+Roios,Vila Flor,Bragança
+União das freguesias de Sobreira Formosa e Alvito da Beira,Proença-a-Nova,Castelo Branco
+União das freguesias de Antas e Ourozinho,Penedono,Viseu
+Santa Cruz do Bispo,Matosinhos,Porto
+Bela,Monção,Viana do Castelo
+Malpica do Tejo,Castelo Branco,Castelo Branco
+Barcelos,Barcelos,Braga
+Covilhã,Covilhã,Castelo Branco
+Ribeira Grande (Conceição),Ribeira Grande,Ilha de São Miguel
+Setúbal,Setúbal,Setúbal
+Oliveirinha,Aveiro,Aveiro
+União das freguesias de Vilar de Lomba e São Jomil,Vinhais,Bragança
+Tavira,Tavira,Faro
+União das freguesias de Anhões e Luzio,Monção,Viana do Castelo
+Lagos,Lagos,Faro
+Pousa,Barcelos,Braga
+Venteira,Amadora,Lisboa
+Dornes,Ferreira do Zêzere,Santarém
+Abitureiras,Santarém,Santarém
+União das freguesias de Vale de Prazeres e Mata da Rainha,Fundão,Castelo Branco
+Ázere,Arcos de Valdevez,Viana do Castelo
+Ribeira das Tainhas,Vila Franca do Campo,Ilha de São Miguel
+Fornos de Algodres,Fornos de Algodres,Guarda
+Mouquim,Albergaria-a-Velha,Aveiro
+União das freguesias de Entre Ambos-os-Rios,Ermida e Germil,Ponte da Barca
+São Martinho da Gândara,Oliveira de Azeméis,Aveiro
+Landeira,Vendas Novas,Évora
+União das freguesias de Alcobaça e Vestiaria,Alcobaça,Leiria
+São Caetano,Cantanhede,Coimbra
+União das freguesias de Reguengo e São Julião,Portalegre,Portalegre
+Avenidas Novas,Lisboa,Lisboa
+Altura,Castro Marim,Faro
+Travanca,Mogadouro,Bragança
+Tresminas,Vila Pouca de Aguiar,Vila Real
+Ponta Delgada (São José),Ponta Delgada,Ilha de São Miguel
+São Miguel de Machede,Évora,Évora
+Valdujo,Trancoso,Guarda
+Gemieira,Ponte de Lima,Viana do Castelo
+Cortiçada,Aguiar da Beira,Guarda
+União das freguesias de Maxial e Monte Redondo,Torres Vedras,Lisboa
+Vila da Ponte,Montalegre,Vila Real
+União das freguesias de Assafarge e Antanhol,Coimbra,Coimbra
+São Cristóvão de Nogueira,Cinfães,Viseu
+União das freguesias de Barreiros e Cepões,Viseu,Viseu
+Alcochete,Alcochete,Santarém
+Longos,Guimarães,Braga
+Sabariz,Vila Verde,Braga
+Souto da Casa,Fundão,Castelo Branco
+Santa Maria de Marvão,Marvão,Portalegre
+Sarzedo,Arganil,Coimbra
+Ladoeiro,Idanha-a-Nova,Castelo Branco
+União de freguesias de Moreira do Rei e Várzea Cova,Fafe,Braga
+Chão de Couce,Ansião,Leiria
+Póvoa de Varzim,Póvoa de Varzim,Porto
+Boavista dos Pinheiros,Odemira,Beja
+Abaças,Vila Real,Vila Real
+Resende,Resende,Viseu
+União das freguesias de Lagoaça e Fornos,Freixo de Espada à Cinta,Bragança
+Santana da Serra,Ourique,Beja
+Castelo Bom,Almeida,Guarda
+Taipas,Guimarães,Braga
+União das freguesias de Fundão,Valverde,Donas
+Arazede,Montemor-o-Velho,Coimbra
+União das freguesias de Perafita,Lavra e Santa Cruz do Bispo,Matosinhos
+Vale de Bouro,Celorico de Basto,Braga
+Arnas,Sernancelhe,Viseu
+São João de Ver,Santa Maria da Feira,Aveiro
+Travassós,Fafe,Braga
+Ferreiras,Albufeira,Faro
+São Mateus,Madalena,Ilha do Pico
+Pena Verde,Aguiar da Beira,Guarda
+Eirado,Aguiar da Beira,Guarda
+Baraçal,Celorico da Beira,Guarda
+Fragoso,Barcelos,Braga
+Serreta,Angra do Heroísmo,Ilha Terceira
+Rio de Moinhos,Arcos de Valdevez,Viana do Castelo
+Biscainho,Coruche,Santarém
+União das freguesias de Albernoa e Trindade,Beja,Beja
+União das freguesias de Ventosa e Cova,Vieira do Minho,Braga
+Lijó,Barcelos,Braga
+Nossa Senhora da Expectação,Campo Maior,Portalegre
+Ferreira de Aves,Sátão,Viseu
+União das freguesias de Bustos,Troviscal e Mamarrosa,Oliveira do Bairro
+União das freguesias de Vilares e Carnicães,Trancoso,Guarda
+União das freguesias de Campanhó e Paradança,Mondim de Basto,Vila Real
+Torre de Dona Chama,Mirandela,Bragança
+União das freguesias de Portunhos e Outil,Cantanhede,Coimbra
+União das freguesias de Eiras e Mei,Arcos de Valdevez,Viana do Castelo
+União das freguesias de Melo e Nabais,Gouveia,Guarda
+Gondomar,Gondomar,Porto
+Vila Real,Vila Real,Vila Real
+Tinalhas,Castelo Branco,Castelo Branco
+União das freguesias de Airão Santa Maria,Airão São João e Vermil,Guimarães
+Genísio,Miranda do Douro,Bragança
+União das freguesias de Moura (Santo Agostinho e São João Baptista) e Santo Amador,Moura,Beja
+Lousa,Torre de Moncorvo,Bragança
+Vila Nova de Fozcoa,Vila Nova de Fozcoa,Guarda
+Vale das Fontes,Vinhais,Bragança
+Angeja,Albergaria-a-Velha,Aveiro
+Ribeirinha,Ribeira Grande,Ilha de São Miguel
+Travassô,Águeda,Aveiro
+Bustelo,Penafiel,Porto
+Nevogilde,Lousada,Porto
+Santo Aleixo,Monforte,Portalegre
+Bonfim,Porto,Porto
+São Jorge,Santana,Ilha da Madeira
+Fajã de Cima,Ponta Delgada,Ilha de São Miguel
+Ermesinde,Valongo,Porto
+Valongo do Vouga,Águeda,Aveiro
+Pias,Serpa,Beja
+União das freguesias de Santa Ovaia e Vila Pouca da Beira,Oliveira do Hospital,Coimbra
+Lajeosa do Dão,Tondela,Viseu
+Moçarria,Santarém,Santarém
+São Félix,São Pedro do Sul,Viseu
+União das freguesias de Covelo de Paivó e Janarde,Arouca,Aveiro
+União das freguesias de Figueiró dos Vinhos e Bairradas,Figueiró dos Vinhos,Leiria
+União das freguesias de Monte Redondo e Carreira,Leiria,Leiria
+Pessegueiro do Vouga,Sever do Vouga,Aveiro
+Rio Caldo,Terras de Bouro,Braga
+Liceia,Montemor-o-Velho,Coimbra
+União das freguesias de Rio Torto e Lagarinhos,Gouveia,Guarda
+São Martinho de Mouros,Resende,Viseu
+Cedães,Mirandela,Bragança
+Sesimbra (Santiago),Sesimbra,Setúbal
+União das freguesias de Sepins e Bolho,Cantanhede,Coimbra
+Friande,Felgueiras,Porto
+Ponta do Sol,Ponta do Sol,Ilha da Madeira
+União das freguesias de Carvalhal Redondo e Aguieira,Nelas,Viseu
+Agualonga,Paredes de Coura,Viana do Castelo
+Castanheiro do Sul,São João da Pesqueira,Viseu
+União das freguesias de Braga (Maximinos,Sé e Cividade),Braga
+Ranhados,Mêda,Guarda
+Ferral,Montalegre,Vila Real
+União das freguesias de Alheira e Igreja Nova,Barcelos,Braga
+União das freguesias de Estremoz (Santa Maria e Santo André),Estremoz,Évora
+Jou,Murça,Vila Real
+União das freguesias de Vale do Seixo e Vila Garcia,Trancoso,Guarda
+Rogil,Aljezur,Faro
+Alcabideche,Cascais,Lisboa
+Lagares,Oliveira do Hospital,Coimbra
+Santo Amaro,Velas,Ilha de São Jorge
+Bucos,Cabeceiras de Basto,Braga
+União de freguesias da cidade de Santarém,Santarém,Santarém
+Cabouco,Lagoa,Ilha de São Miguel

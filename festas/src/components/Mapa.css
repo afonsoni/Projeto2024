@@ -11,6 +11,6 @@ path:hover {
     @apply fill-yellow-400; /* Tailwind class for #ffcc00 */
 }
 
-.highlighted {
+.selected {
     @apply fill-yellow-400; /* Tailwind class for #ffcc00 */
 }

@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+
+/* Customizing the datepicker buttons */
+.react-datepicker__day--selected,
+.react-datepicker__day--in-range,
+.react-datepicker__day--keyboard-selected {
+    background-color: #4a2e2a !important;
+    color: #f2e3c6 !important;
+}
+
+.react-datepicker__header {
+    background-color: #4a2e2a !important;
+}
+
+.react-datepicker__current-month,
+.react-datepicker__day-name {
+    color: #f2e3c6 !important;
+}
+
+.react-datepicker__day--today {
+    font-weight: bold;
+    color: #4a2e2a !important;
+}
+
+.react-datepicker__navigation--previous,
+.react-datepicker__navigation--next {
+    border-color: #f2e3c6 !important;
+}
+
+.react-datepicker__today-button {
+    background-color: #4a2e2a !important;
+    color: #f2e3c6 !important;
+}
+
+.react-datepicker__close-icon::after {
+    background-color: #4a2e2a !important;
+    color: #f2e3c6 !important;
+}

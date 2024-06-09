@@ -6,10 +6,13 @@ import Festas from '../components/Festas';
 import Mapa from '../components/Mapa';
 import Criar from '../pages/Criar';
 import Footer from '../components/Footer';
+import Festas_Mapa from '../components/Festas_Mapa';
 
 export default function Home() {
     const location = useLocation();
     const [showScrollButton, setShowScrollButton] = useState(false);
+    const [festas, setFestas] = useState([]);
+
 
     useEffect(() => {
         if (location.state && location.state.scrollTo) {
@@ -53,11 +56,8 @@ export default function Home() {
             <Header />
             <main className="flex-grow flex flex-col mt-20">
                 <div className="bg-white p-4 w-full"> <Descricao /> </div>
-                <div id="festas-section" className="p-4 w-full bg-brown-800" style={{ marginTop: '20px', paddingTop: '20px' }}>
-                    <div className="flex justify-center my-8 px-32">
-                        <div className="md:w-1/2 p-4"> <Festas /> </div>
-                        <div className="md:w-1/2 p-4"> <Mapa /> </div>
-                    </div>
+                <div id="festas-section" className=" p-4 w-full bg-brown-800" style={{ marginTop: '20px', paddingTop: '20px' }}>
+                <Festas_Mapa />
                 </div>  
             </main>
             <Footer />

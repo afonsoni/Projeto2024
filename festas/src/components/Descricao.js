@@ -14,7 +14,6 @@ const Descricao = () => {
           <img src={imagemDescricao} alt="Descrição Imagem" />
         </div>
         <div className="md:w-1/2 md:ml-8 mt-4 md:mt-0 p-4 bg-white rounded-lg shadow-lg">
-          <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Uncial+Antiqua&display=swap"></link>
           <h1 className="text-4xl font-bold mb-10" style={{ fontFamily: 'serif', color: '#4a2e2a' }}>Conceito deste site e sua importância</h1>
           <p className="text-lg" style={{ fontFamily: 'serif', color: '#4a2e2a' }}>{description}</p>
         </div>

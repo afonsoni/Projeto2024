@@ -41,8 +41,8 @@ const Header = () => {
       <div className="container mx-auto flex justify-between items-center">
         <img src={logo} alt="Logo" className="h-16" />
         <link href="https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap" rel="stylesheet"></link>
-        <h1 className="text-4xl font-bold" style={{ fontFamily: 'MedievalSharp', color: '#4a2e2a' }}>Festas e Romarias</h1>
-        <div>
+        <h1 className="text-4xl font-bold flex-grow text-center" style={{ fontFamily: 'MedievalSharp', color: '#4a2e2a' }}>Festas e Romarias</h1>
+        <div >
           <button
             onClick={handleHomeClick}
             className="bg-white text-[#4a2e2a] rounded px-4 py-2 mr-2 ml-2 transition-colors duration-300 hover:bg-[#4a2e2a] hover:text-white"

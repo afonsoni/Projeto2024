@@ -38,14 +38,14 @@ mapeamento = carregar_mapeamento(mapa_txt)
 def obter_concelho_distrito(localidade):
     return mapeamento.get(localidade, ("", ""))
 
-# Função para corrigir nomes de festas incompletos e remover da descrição
+# Função para corrigir nomes de festas incompletos e remover o nome do santo da descrição
 def corrigir_nome_festa(nome, descricao):
     if re.search(r'\bS\.?$', nome):
         palavras = descricao.split()
         if palavras:
             santo_nome = palavras[0]
             nome = re.sub(r'S\.?', f'São {santo_nome}', nome)
-            descricao = re.sub(r'\b' + santo_nome + r'\b', '', descricao, 1).strip()
+            descricao = re.sub(r'\b' + re.escape(santo_nome) + r'\b', '', descricao).strip()
     return nome, descricao
 
 # Função para corrigir nomes específicos
@@ -127,8 +127,6 @@ def calcular_eventos_moveis(ano):
         "terça-feira de pascoela": terca_pascoela,
         "domingo de pascoela (nos anos ímpares)": domingo_pascoela_impares,
         "num dos domingos da quaresma": num_domingos_quaresma,
-        "quinta-feira santa": quinta_feira_santa,
-        "domingo de lázaro (domingo anterior ao de ramos)": domingo_lazaro,
         "quinta-feira anterior a domingo gordo": quinta_antes_domingo_gordo
     }
 
@@ -255,6 +253,10 @@ def extrair_periodo(descricao):
         data_inicio = data_fim = ''
     return data_inicio, data_fim
 
+# Função para substituir todos os dois pontos por pontos finais na descrição
+def corrigir_pontuacao_descricao(descricao):
+    return descricao.replace(':', '.')
+
 # Função para separar as informações de cada festa
 def parse_festa(festa_text, trimester):
     for sep in ['–', ':']:
@@ -290,14 +292,13 @@ def parse_festa(festa_text, trimester):
     nome_descricao = partes[1].split(':') if ':' in festa_text else partes[1].split('–')
     if len(nome_descricao) < 2:
         nome_descricao = partes[1].split('.') if '.' in partes[1] else partes[1].split(',')
-    
+
     nome_festa = nome_descricao[0].strip() if len(nome_descricao) > 0 else ''
     descricao = ':'.join(nome_descricao[1:]).strip() if len(nome_descricao) > 1 else ''
     
     nome_festa, descricao = corrigir_nome_especifico(nome_festa, descricao)
     
-    if descricao.endswith(':'):
-        descricao = descricao[:-1] + '.'
+    descricao = corrigir_pontuacao_descricao(descricao)
 
     freguesia, distrito = obter_concelho_distrito(localidade)
 
@@ -332,8 +333,6 @@ def parse_festa(festa_text, trimester):
         "terça-feira de pascoela": "terça-feira de pascoela",
         "domingo de pascoela (nos anos ímpares)": "domingo de pascoela (nos anos ímpares)",
         "num dos domingos da quaresma": "num dos domingos da quaresma",
-        "quinta-feira santa": "quinta-feira santa",
-        "domingo de lázaro (domingo anterior ao de ramos)": "domingo de lázaro (domingo anterior ao de ramos)",
         "quinta-feira anterior a domingo gordo": "quinta-feira anterior a domingo gordo",
     }
     
@@ -412,14 +411,14 @@ with open(output_json, 'w', encoding='utf-8') as f:
     json.dump(all_festas, f, ensure_ascii=False, indent=4)
 
 # Reestruturar o JSON para que "Distrito" seja a classe e a "Região" esteja junto das outras propriedades
-new_data = {}
+new_data = {"festas": []}
+festa_id = 1
 for region, events in all_festas.items():
     for event in events:
-        district = event.pop('Distrito')
-        if district not in new_data:
-            new_data[district] = []
         event['Região'] = region
-        new_data[district].append(event)
+        event['festa_id'] = festa_id
+        festa_id += 1
+        new_data["festas"].append(event)
 
 # Salvar o novo JSON modificado
 modified_json_path = os.path.join(output_dir, 'festas_para_ontologia.json')

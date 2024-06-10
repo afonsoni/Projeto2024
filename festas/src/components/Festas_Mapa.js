@@ -55,9 +55,9 @@ const Festas_Mapa = () => {
                 let response;
                 if (selectedDistrict != null) {
                     if (selectedCounty != null) {
-                        response = await fetch(`api/festas?district=${selectedDistrict}&county=${selectedCounty}`);
+                        response = await fetch(`/api/festas?district=${selectedDistrict}&county=${selectedCounty}`);
                     } else {
-                        response = await fetch(`api/festas?district=${selectedDistrict}`);
+                        response = await fetch(`/api/festas?district=${selectedDistrict}`);
                     }
                 } else {
                     response = await fetch('api/festas');

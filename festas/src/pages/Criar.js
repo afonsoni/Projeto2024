@@ -21,32 +21,59 @@ export default function Criar() {
     const [parishes, setParishes] = useState([]);
 
     useEffect(() => {
-        fetch('api/distritos')
-            .then(response => response.json())
-            .then(data => setDistricts(data));
+        const fetchData = async () => {
+            try {
+                const response = await fetch('/api/distritos');
+                const data = await response.json();
+                setDistricts(data);
+            } catch (error) {
+                console.error('Error fetching districts:', error);
+            }
+        };
+    
+        fetchData();
     }, []);
+    
 
     useEffect(() => {
-        if (district) {
-            fetch(`api/concelhos?distrito=${district}`)
-                .then(response => response.json())
-                .then(data => setCounties(data));
-        } else {
-            setCounties([]);
-            setCounty('');
-        }
+        const fetchData = async () => {
+            if (district) {
+                try {
+                    const response = await fetch(`/api/concelhos?distrito=${district}`);
+                    const data = await response.json();
+                    setCounties(data);
+                } catch (error) {
+                    console.error('Error fetching counties:', error);
+                }
+            } else {
+                setCounties([]);
+                setCounty('');
+            }
+        };
+    
+        fetchData();
     }, [district]);
+    
 
     useEffect(() => {
-        if (county) {
-            fetch(`api/freguesias?concelho=${county}`)
-                .then(response => response.json())
-                .then(data => setParishes(data));
-        } else {
-            setParishes([]);
-            setParish('');
-        }
+        const fetchData = async () => {
+            if (county) {
+                try {
+                    const response = await fetch(`/api/freguesias?concelho=${county}`);
+                    const data = await response.json();
+                    setParishes(data);
+                } catch (error) {
+                    console.error('Error fetching parishes:', error);
+                }
+            } else {
+                setParishes([]);
+                setParish('');
+            }
+        };
+    
+        fetchData();
     }, [county]);
+    
 
     const handleStartDateChange = (date) => {
         setStartDate(date);
@@ -57,21 +84,27 @@ export default function Criar() {
     };
 
     const handleCreateEvent = async () => {
+
+        console.log("Handle Create Event Called");
+
+
         if (!eventName || !startDate || !endDate || !district || !county) {
             alert('Por favor, preencha todos os campos obrigatórios.');
             return;
-        }
+        }   
+
+        console.log(eventName, startDate, endDate, district, county, parish, description)
 
         try {
-            const response = await fetch('api/criar_festa', {
+            const response = await fetch('/api/criar_festa', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
                 },
                 body: JSON.stringify({
                     nome: eventName,
-                    dataInicio: startDate.toLocaleDateString('pt-PT'),
-                    dataFim: endDate.toLocaleDateString('pt-PT'),
+                    dataInicio: startDate.toISOString().split('T')[0].split('-').reverse().join('-'),
+                    dataFim: endDate.toISOString().split('T')[0].split('-').reverse().join('-'),
                     distrito: district,
                     concelho: county,
                     freguesia: parish,
@@ -79,12 +112,14 @@ export default function Criar() {
                 })
             });
 
+            console.log("Resposta da criação:", response); // Log da resposta
+
             if (!response.ok) {
                 throw new Error(`Network response was not ok: ${response.statusText}`);
             }
 
             const data = await response.json();
-            console.log(data); // Exibe a resposta do servidor (opcional)
+            console.log(data);
 
             // Lógica para lidar com o sucesso da criação da festa (opcional)
         } catch (error) {

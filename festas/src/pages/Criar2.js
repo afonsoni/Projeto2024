@@ -1,4 +1,4 @@
-import React, { useState, useEffect, forwardRef } from 'react';
+import React, { useState, forwardRef } from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import DatePicker from 'react-datepicker';
@@ -16,37 +16,6 @@ export default function Criar() {
     const [county, setCounty] = useState('');
     const [parish, setParish] = useState('');
     const [description, setDescription] = useState('');
-    const [districts, setDistricts] = useState([]);
-    const [counties, setCounties] = useState([]);
-    const [parishes, setParishes] = useState([]);
-
-    useEffect(() => {
-        fetch('api/distritos')
-            .then(response => response.json())
-            .then(data => setDistricts(data));
-    }, []);
-
-    useEffect(() => {
-        if (district) {
-            fetch(`api/concelhos?distrito=${district}`)
-                .then(response => response.json())
-                .then(data => setCounties(data));
-        } else {
-            setCounties([]);
-            setCounty('');
-        }
-    }, [district]);
-
-    useEffect(() => {
-        if (county) {
-            fetch(`api/freguesias?concelho=${county}`)
-                .then(response => response.json())
-                .then(data => setParishes(data));
-        } else {
-            setParishes([]);
-            setParish('');
-        }
-    }, [county]);
 
     const handleStartDateChange = (date) => {
         setStartDate(date);
@@ -57,17 +26,13 @@ export default function Criar() {
     };
 
     const handleCreateEvent = async () => {
-        if (!eventName || !startDate || !endDate || !district || !county) {
-            alert('Por favor, preencha todos os campos obrigatórios.');
-            return;
-        }
-
         try {
-            const response = await fetch('api/criar_festa', {
+            const response = await fetch('http://localhost:5000/criar_festa', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
                 },
+
                 body: JSON.stringify({
                     nome: eventName,
                     dataInicio: startDate.toLocaleDateString('pt-PT'),
@@ -77,6 +42,7 @@ export default function Criar() {
                     freguesia: parish,
                     descricao: description
                 })
+
             });
 
             if (!response.ok) {
@@ -154,57 +120,19 @@ export default function Criar() {
                             <label className="block uppercase tracking-wide text-[#4a2e2a] text-xs font-bold mb-2" htmlFor="grid-district">
                                 Distrito
                             </label>
-                            <select
-                                className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a]"
-                                id="grid-district"
-                                value={district}
-                                onChange={(e) => setDistrict(e.target.value)}
-                            >
-                                <option value="">Selecione um distrito</option>
-                                {districts.map((dist) => (
-                                    <option key={dist} value={dist}>
-                                        {dist}
-                                    </option>
-                                ))}
-                            </select>
+                            <input className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a]" id="grid-district" type="text" placeholder="Distrito" value={district} onChange={(e) => setDistrict(e.target.value)} />
                         </div>
                         <div className="w-full md:w-1/3 px-3 mb-6 md:mb-0">
                             <label className="block uppercase tracking-wide text-[#4a2e2a] text-xs font-bold mb-2" htmlFor="grid-county">
                                 Concelho
                             </label>
-                            <select
-                                className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a]"
-                                id="grid-county"
-                                value={county}
-                                onChange={(e) => setCounty(e.target.value)}
-                                disabled={!district}
-                            >
-                                <option value="">Selecione um concelho</option>
-                                {counties.map((cnt) => (
-                                    <option key={cnt} value={cnt}>
-                                        {cnt}
-                                    </option>
-                                ))}
-                            </select>
+                            <input className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a]" id="grid-county" type="text" placeholder="Concelho" value={county} onChange={(e) => setCounty(e.target.value)} />
                         </div>
                         <div className="w-full md:w-1/3 px-3 mb-6 md:mb-0">
                             <label className="block uppercase tracking-wide text-[#4a2e2a] text-xs font-bold mb-2" htmlFor="grid-parish">
                                 Freguesia
                             </label>
-                            <select
-                                className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a]"
-                                id="grid-parish"
-                                value={parish}
-                                onChange={(e) => setParish(e.target.value)}
-                                disabled={!county}
-                            >
-                                <option value="">Selecione uma freguesia</option>
-                                {parishes.map((par) => (
-                                    <option key={par} value={par}>
-                                        {par}
-                                    </option>
-                                ))}
-                            </select>
+                            <input className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a]" id="grid-parish" type="text" placeholder="Freguesia" value={parish} onChange={(e) => setParish(e.target.value)} />
                         </div>
                     </div>
                     <div className="mb-6">
@@ -222,3 +150,4 @@ export default function Criar() {
         </div>
     );
 }
+

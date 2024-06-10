@@ -3,7 +3,6 @@ import { FaChevronDown, FaChevronUp } from 'react-icons/fa';
 
 const Festa = ({ festa }) => {
     const [showMore, setShowMore] = useState(false);
-    console.log("Festa: ", festa);
 
     const location = [festa["Freguesia"], festa["Concelho"], festa["Distrito"]]
         .filter(Boolean)

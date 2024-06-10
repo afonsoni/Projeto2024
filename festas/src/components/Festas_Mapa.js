@@ -31,6 +31,7 @@ const Festas_Mapa = () => {
     const [showFilters, setShowFilters] = useState(false);
     const [containerHeight, setContainerHeight] = useState(0);
     const [festas, setFestas] = useState([]);
+    const [hovered, setHovered] = useState(false);
     const [selectedDistrict, setSelectedDistrict] = useState(null);
     const [selectedCounty, setSelectedCounty] = useState(null);
     const headerRef = useRef(null);
@@ -55,12 +56,12 @@ const Festas_Mapa = () => {
                 let response;
                 if (selectedDistrict != null) {
                     if (selectedCounty != null) {
-                        response = await fetch(`http://localhost:5000/festas?district=${selectedDistrict}&county=${selectedCounty}`);
+                        response = await fetch(`api/festas?district=${selectedDistrict}&county=${selectedCounty}`);
                     } else {
-                        response = await fetch(`http://localhost:5000/festas?district=${selectedDistrict}`);
+                        response = await fetch(`api/festas?district=${selectedDistrict}`);
                     }
                 } else {
-                    response = await fetch('http://localhost:5000/festas');
+                    response = await fetch('api/festas');
                 }
 
                 if (!response.ok) {
@@ -112,6 +113,18 @@ const Festas_Mapa = () => {
             return String.fromCharCode('0x' + p1);
         });
     }
+
+    const handleMouseEnter = (event) => {
+        if (event.target.tagName === 'path') {
+            let districtEncoded = event.target.getAttribute('class');
+            let district = decodeURIComponent(districtEncoded);
+            setHovered(district);
+        }
+    };
+
+    const handleMouseLeave = () => {
+        setHovered(null);
+    };
 
     const handleClick = (event) => {
         if (event.target.tagName === 'path') {
@@ -251,7 +264,7 @@ const Festas_Mapa = () => {
                     <h2 className="text-2xl font-bold mb-4 px-4">Mapa de Festas</h2>
                     <div onClick={handleClick}>
                         {selectedDistrict ? (
-                            <div className="text-center width:300px height:300px">
+                            <div className="text-center" style={{width: '50%', height: '50%'}}>
                                 {districtMap[selectedDistrict]}
                                 <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" onClick={close}>Fechar</button>
                             </div>

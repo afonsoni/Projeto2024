@@ -56,12 +56,12 @@ const Festas_Mapa = () => {
                 let response;
                 if (selectedDistrict != null) {
                     if (selectedCounty != null) {
-                        response = await fetch(`/api/festas?district=${selectedDistrict}&county=${selectedCounty}`);
+                        response = await fetch(`http://localhost:5000/festas?district=${selectedDistrict}&county=${selectedCounty}`);
                     } else {
-                        response = await fetch(`/api/festas?district=${selectedDistrict}`);
+                        response = await fetch(`http://localhost:5000/festas?district=${selectedDistrict}`);
                     }
                 } else {
-                    response = await fetch('api/festas');
+                    response = await fetch('http://localhost:5000/festas');
                 }
 
                 if (!response.ok) {
@@ -91,11 +91,13 @@ const Festas_Mapa = () => {
 
     const currentDate = new Date();
     currentDate.setHours(0, 0, 0, 0);
+
+
     const filteredFestas = festas.filter(festa =>
         festa["Nome da Festa"].toLowerCase().includes(searchTerm.toLowerCase()) &&
-        (convertDate(festa['Data Inicio']) >= (startDate || currentDate)) &&
-        (!endDate || convertDate(festa['Data Fim']) <= endDate)
-    );
+        (convertDate(festa['Data Fim']) >= (startDate || currentDate)) &&
+        (!endDate || convertDate(festa['Data Inicio']) <= endDate)
+    )
 
     const CustomInput = forwardRef(({ value, onClick }, ref) => (
         <button

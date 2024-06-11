@@ -14,3 +14,9 @@ path:hover {
 .selected {
     @apply fill-yellow-400; /* Tailwind class for #ffcc00 */
 }
+
+.selected-county {
+    fill: yellow; /* Ou qualquer cor que deseje */
+}
+
+

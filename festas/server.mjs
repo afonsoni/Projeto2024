@@ -1,22 +1,19 @@
+
 import express from 'express';
 import fetch from 'node-fetch';
 import cors from 'cors';
-import path from 'path';
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = 5000;
 
 app.use(cors());
+
 app.use(express.json());
 
-// Servir os arquivos estáticos do React
-const __dirname = path.resolve();
-app.use(express.static(path.join(__dirname, 'build')));
-
-// API endpoints
-app.get('/api/festas', async (req, res) => {
+app.get('/festas', async (req, res) => {
     const district = req.query.district || '';
     const county = req.query.county || '';
+
 
     const query = `
         PREFIX : <http://rpcw.di.uminho.pt/festas&romarias/>
@@ -72,14 +69,13 @@ app.get('/api/festas', async (req, res) => {
     }
 });
 
-// Endpoint para obter distritos
-app.get('/api/distritos', async (req, res) => {
+app.get('/distritos', async (req, res) => {
     const query = `
-        PREFIX : <http://rpcw.di.uminho.pt/festas&romarias/>
-        SELECT DISTINCT ?district WHERE {
-            ?s a :Distrito;
-               :nome ?district
-        } ORDER BY ?district
+    PREFIX : <http://rpcw.di.uminho.pt/festas&romarias/>
+    SELECT DISTINCT ?district WHERE {
+        ?s a :Distrito;
+            :nome ?district
+    } ORDER BY ?district
     `;
 
     try {
@@ -97,6 +93,7 @@ app.get('/api/distritos', async (req, res) => {
         }
 
         const data = await response.json();
+
         const districts = data.results.bindings.map(b => b.district.value);
         res.status(200).json(districts);
     } catch (error) {
@@ -105,19 +102,18 @@ app.get('/api/distritos', async (req, res) => {
     }
 });
 
-// Endpoint para obter concelhos por distrito
-// http://localhost:3000/api/concelhos?distrito=Porto
-app.get('/api/concelhos', async (req, res) => {
-    const { distrito } = req.query;
+
+app.get('/concelhos', async (req, res) => {
+    const { distrito} = req.query;
 
     const query = `
-        PREFIX : <http://rpcw.di.uminho.pt/festas&romarias/>
-        SELECT DISTINCT ?concelho WHERE {
-            ?s a :Distrito;
-               :nome '${distrito}' ;
+    PREFIX : <http://rpcw.di.uminho.pt/festas&romarias/>
+    SELECT DISTINCT ?concelho WHERE {
+        ?s a :Distrito;
+            :nome '${distrito}' ;
                :temConcelho ?c.
-            ?c :nome ?concelho .
-        } ORDER BY ?concelho
+        ?c :nome ?concelho .
+    } ORDER BY ?concelho
     `;
 
     try {
@@ -135,6 +131,7 @@ app.get('/api/concelhos', async (req, res) => {
         }
 
         const data = await response.json();
+
         const concelhos = data.results.bindings.map(b => b.concelho.value);
         res.status(200).json(concelhos);
     } catch (error) {
@@ -143,18 +140,20 @@ app.get('/api/concelhos', async (req, res) => {
     }
 });
 
-// Endpoint para obter freguesias por concelho
-// http://localhost:3000/api/freguesias?concelho=Porto
-app.get('/api/freguesias', async (req, res) => {
-    const { concelho } = req.query;
+
+
+
+app.get('/freguesias', async (req, res) => {
+    const { concelho} = req.query;
 
     const query = `
-        PREFIX : <http://rpcw.di.uminho.pt/festas&romarias/>
+    PREFIX : <http://rpcw.di.uminho.pt/festas&romarias/>
         SELECT DISTINCT ?freguesia WHERE {
             ?s a :Concelho;
-               :nome '${concelho}' ;
-               :temFreguesia ?freg.
+                :nome '${concelho}' ;
+                   :temFreguesia ?freg.
             ?freg :nome ?freguesia .
+            
         } ORDER BY ?freguesia
     `;
 
@@ -173,6 +172,7 @@ app.get('/api/freguesias', async (req, res) => {
         }
 
         const data = await response.json();
+
         const freguesias = data.results.bindings.map(b => b.freguesia.value);
         res.status(200).json(freguesias);
     } catch (error) {
@@ -181,18 +181,15 @@ app.get('/api/freguesias', async (req, res) => {
     }
 });
 
-// Endpoint para obter a região por distrito
-// http://localhost:3000/api/regiao?distrito=Porto
-app.get('/api/regiao', async (req, res) => {
+app.get('/regiao', async (req, res) => {
     const { distrito } = req.query;
-
 
     const query = `
         PREFIX : <http://rpcw.di.uminho.pt/festas&romarias/>
         SELECT DISTINCT ?regiao WHERE {
             ?s rdf:type :Distrito ;
-               :nome '${distrito}' ;
-               :pertenceRegiao ?r .
+                :nome '${distrito}' ;
+                :pertenceRegiao ?r .
             ?r :nome ?regiao .
         } ORDER BY ?regiao
     `;
@@ -225,8 +222,8 @@ app.get('/api/regiao', async (req, res) => {
     }
 });
 
-// Endpoint para obter o próximo ID disponível
-app.get('/api/next_id', async (req, res) => {
+
+app.get('/next_id', async (req, res) => {
     const query = `
         PREFIX : <http://rpcw.di.uminho.pt/festas&romarias/>
         SELECT (COUNT(?s) AS ?n_festas) WHERE {
@@ -259,20 +256,19 @@ app.get('/api/next_id', async (req, res) => {
     }
 });
 
-// Endpoint para criar uma nova festa
 
-app.post('/api/criar_festa', async (req, res) => {
+app.post('/criar_festa', async (req, res) => {
     try {
         const { nome, dataInicio, dataFim, distrito, concelho, freguesia, descricao } = req.body;
 
 
         // Obter o próximo ID disponível
-        const idResponse = await fetch('http://localhost:3000/api/next_id');
+        const idResponse = await fetch('http://localhost:5000/next_id');
         const idData = await idResponse.json();
         const id = idData.next_id;
 
         // Obter a região correspondente ao distrito
-        const regiaoResponse = await fetch(`http://localhost:3000/api/regiao?distrito=${distrito}`);
+        const regiaoResponse = await fetch(`http://localhost:5000/regiao?distrito=${distrito}`);
         const regiaoData = await regiaoResponse.json();
         const regiao = regiaoData.regiao;
 
@@ -323,7 +319,6 @@ app.post('/api/criar_festa', async (req, res) => {
         }
 
         // Se a inserção for bem-sucedida, envie uma resposta de sucesso
-        // print cpdigo status
         res.status(201).json({ message: 'Festa criada com sucesso!' });
     } catch (error) {
         console.error('Error creating festa:', error);
@@ -331,11 +326,8 @@ app.post('/api/criar_festa', async (req, res) => {
     }
 });
 
-// Catch-all handler for any request that doesn't match an API route
-app.get('*', (req, res) => {
-    res.sendFile(path.join(__dirname, 'build', 'index.html'));
-});
+
 
 app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}`);
+    console.log(`Server is running on http://localhost:${PORT}`);
 });

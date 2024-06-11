@@ -35,6 +35,8 @@ const Festas_Mapa = () => {
     const [selectedDistrict, setSelectedDistrict] = useState(null);
     const [selectedCounty, setSelectedCounty] = useState(null);
     const headerRef = useRef(null);
+    const [selectedCounties, setSelectedCounties] = useState([]);
+
 
     useEffect(() => {
         const handleResize = () => {
@@ -138,11 +140,23 @@ const Festas_Mapa = () => {
             } else {
                 let countyEncoded = event.target.getAttribute('class');
                 let county = decodeURIComponent(countyEncoded);
+                
+                setSelectedCounties((prevSelectedCounties) => {
+                    if (prevSelectedCounties.includes(county)) {
+                        // Remove o concelho da lista
+                        return prevSelectedCounties.filter(item => item !== county);
+                    } else {
+                        // Adiciona o concelho à lista
+                        return [...prevSelectedCounties, county];
+                    }
+                });
+                
                 setSelectedCounty(county);
                 console.log(county);
             }
         }
     };
+    
 
     const close = () => {
         setSelectedDistrict(null);
@@ -150,14 +164,18 @@ const Festas_Mapa = () => {
     }
 
     const generateDistrict = (district, SvgComponent) => {
+        const highlightedSvg = React.cloneElement(<SvgComponent />, {
+            className: (countyClass) => selectedCounties.includes(countyClass) ? 'selected-county' : ''
+        });
+    
         return (
             <div>
                 <h2 className="text-2xl font-bold mb-4 px-4">{district}</h2>
                 {selectedCounty}
-                <SvgComponent className={selectedCounty ? "selected-county" : ""} />
+                {highlightedSvg}
             </div>
         );
-    }
+    };
 
     const districtMap = {
         Aveiro: generateDistrict('Aveiro', AveiroSvg),

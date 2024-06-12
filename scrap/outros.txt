@@ -1,67 +1,390 @@
-Região: beira_litoral
-Trimestre: 1º trimestre
-Região: beira_litoral
-Trimestre: 1º trimestre
-Região: beira_litoral
-Trimestre: 1º trimestre
-Região: beira_litoral
-Trimestre: 1º trimestre
-Região: beira_litoral
-Trimestre: 1º trimestre
 Góis, Carnaval
 Aveiro – carnaval
 Estarreja – carnaval
 Mealhada – carnaval
-Região: beira_litoral
-Trimestre: 2º trimestre
 Escapães, Sepins, Cantanhede, Domingo de Pascoela – Romaria de S. Jorge
 Santo António dos Olivais, Coimbra, Romaria do Espírito Santo. Importante romaria das Beiras, provavelmente proveniente dos antigos Impérios do Espírito Santo, ainda hoje pertinentes no arquipélago açoreano. Grande parque de diversões.
-Região: beira_litoral
-Trimestre: 3º trimestre
-Região: beira_litoral
-Trimestre: 4º trimestre
-Região: tras_os_montes
-Trimestre: 1º trimestre
-Região: tras_os_montes
-Trimestre: 2º trimestre
 Vila Verde, Alijó, Festa do Corpo de Deus. Passadeiras de flores. Procissão integrando as cruzes e estandartes de todas as paróquias do concelho.
-Região: tras_os_montes
-Trimestre: 3º trimestre
-Região: tras_os_montes
-Trimestre: 4º trimestre
-Região: ribatejo
-Trimestre: 1º trimestre
 Amiais de Baixo, Santarém, 20 de Janeiro, agora em sábado magro – festa de S. Sebastião. Na noite de sábado, procissão dos archotes que se diz ser a maior do mundo.
 Almeirim – carnaval, corso
 Alpiarça – carnaval
-Região: ribatejo
-Trimestre: 2º trimestre
-Região: ribatejo
-Trimestre: 3º trimestre
-Região: ribatejo
-Trimestre: 4º trimestre
-Região: minho
-Trimestre: 1º trimestre
 Taipas, Guimarães, terça-feira gorda, à noite: enterro do Arturinho
-Região: minho
-Trimestre: 2º trimestre
-Região: minho
-Trimestre: 3º trimestre
-Região: minho
-Trimestre: 4º trimestre
-Região: estremadura
-Trimestre: 1º trimestre
 Pereiro, Vilar, Cadaval, 6 de Janeiro – Cantar e pintar dos Bons Reis Magos, de porta em porta, parando em todas as adegas, desde o fundo ao cimo do povo, onde, já de madrugada, as moças têm refeição quente para todos. Com pequenas variantes, pinta-se e canta-se os Reis em todas as povoações do concelho do Cadaval e Alenquer que rodeiam a Serra do Montejunto
 Torres Vedras –Carnaval de Torres, o mais português de Portugal. Na sexta-feira, no largo da Estação, chegada dos bombos e desfile dos cabeçudos até ao centro da avenida principal (ultimamente junto ao Mercado), onde se realiza a solene abertura. Sábado à noite, corso nocturno e concurso de máscaras. Domingo Gordo, à tarde, corso pelas ruas principais da cidade, com carros alegóricos satirizando a política local, nacional e internacional, bem como figuras do desporto e do espectáculo. Segunda-feira à noite, corso nocturno. Terça-Feira de entrudo, à tarde, corso com as mesmas características de Domingo Gordo. Destaque para as matrafonas, homens travestidos de mulheres, na linha da tradição de mascarados por todo o país. Quarta-Feira à noite, enterro do entrudo, com cortejo, julgamento, leitura do testamento, morte pelo fogo do boneco simbolizando o entrudo, tudo terminando com fogo de artifício.
 Sesimbra – Carnaval com actuação de cègadas
-Região: estremadura
+Ermesinde, Valongo, terça-feira gorda, à noite – Enterro do João
+Góis, Carnaval
+Mealhada – carnaval
+Escapães, Sepins, Cantanhede, Domingo de Pascoela – Romaria de S. Jorge
+Região: beira_litoral
 Trimestre: 2º trimestre
+Santo António dos Olivais, Coimbra, Romaria do Espírito Santo. Importante romaria das Beiras, provavelmente proveniente dos antigos Impérios do Espírito Santo, ainda hoje pertinentes no arquipélago açoreano. Grande parque de diversões.
+Região: tras_os_montes
+Trimestre: 2º trimestre
+Vila Verde, Alijó, Festa do Corpo de Deus. Passadeiras de flores. Procissão integrando as cruzes e estandartes de todas as paróquias do concelho.
+Região: ribatejo
+Trimestre: 1º trimestre
+Amiais de Baixo, Santarém, 20 de Janeiro, agora em sábado magro – festa de S. Sebastião. Na noite de sábado, procissão dos archotes que se diz ser a maior do mundo.
+Região: ribatejo
+Trimestre: 1º trimestre
+Almeirim – carnaval, corso
+Região: ribatejo
+Trimestre: 1º trimestre
+Alpiarça – carnaval
+Região: minho
+Trimestre: 1º trimestre
+Taipas, Guimarães, terça-feira gorda, à noite: enterro do Arturinho
 Região: estremadura
-Trimestre: 3º trimestre
+Trimestre: 1º trimestre
+Pereiro, Vilar, Cadaval, 6 de Janeiro – Cantar e pintar dos Bons Reis Magos, de porta em porta, parando em todas as adegas, desde o fundo ao cimo do povo, onde, já de madrugada, as moças têm refeição quente para todos. Com pequenas variantes, pinta-se e canta-se os Reis em todas as povoações do concelho do Cadaval e Alenquer que rodeiam a Serra do Montejunto
 Região: estremadura
-Trimestre: 4º trimestre
+Trimestre: 1º trimestre
+Torres Vedras –Carnaval de Torres, o mais português de Portugal. Na sexta-feira, no largo da Estação, chegada dos bombos e desfile dos cabeçudos até ao centro da avenida principal (ultimamente junto ao Mercado), onde se realiza a solene abertura. Sábado à noite, corso nocturno e concurso de máscaras. Domingo Gordo, à tarde, corso pelas ruas principais da cidade, com carros alegóricos satirizando a política local, nacional e internacional, bem como figuras do desporto e do espectáculo. Segunda-feira à noite, corso nocturno. Terça-Feira de entrudo, à tarde, corso com as mesmas características de Domingo Gordo. Destaque para as matrafonas, homens travestidos de mulheres, na linha da tradição de mascarados por todo o país. Quarta-Feira à noite, enterro do entrudo, com cortejo, julgamento, leitura do testamento, morte pelo fogo do boneco simbolizando o entrudo, tudo terminando com fogo de artifício.
+Região: estremadura
+Trimestre: 1º trimestre
+Sesimbra – Carnaval com actuação de cègadas
 Região: douro_litoral
 Trimestre: 1º trimestre
 Ermesinde, Valongo, terça-feira gorda, à noite – Enterro do João
-Região: douro_litoral
+Região: beira_litoral
+Trimestre: 1º trimestre
+Góis, Carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Aveiro – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Estarreja – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Mealhada – carnaval
+Região: beira_litoral
 Trimestre: 2º trimestre
+Escapães, Sepins, Cantanhede, Domingo de Pascoela – Romaria de S. Jorge
+Região: beira_litoral
+Trimestre: 2º trimestre
+Santo António dos Olivais, Coimbra, Romaria do Espírito Santo. Importante romaria das Beiras, provavelmente proveniente dos antigos Impérios do Espírito Santo, ainda hoje pertinentes no arquipélago açoreano. Grande parque de diversões.
+Região: tras_os_montes
+Trimestre: 2º trimestre
+Vila Verde, Alijó, Festa do Corpo de Deus. Passadeiras de flores. Procissão integrando as cruzes e estandartes de todas as paróquias do concelho.
+Região: ribatejo
+Trimestre: 1º trimestre
+Amiais de Baixo, Santarém, 20 de Janeiro, agora em sábado magro – festa de S. Sebastião. Na noite de sábado, procissão dos archotes que se diz ser a maior do mundo.
+Região: ribatejo
+Trimestre: 1º trimestre
+Almeirim – carnaval, corso
+Região: ribatejo
+Trimestre: 1º trimestre
+Alpiarça – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Góis, Carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Aveiro – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Estarreja – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Mealhada – carnaval
+Região: beira_litoral
+Trimestre: 2º trimestre
+Escapães, Sepins, Cantanhede, Domingo de Pascoela – Romaria de S. Jorge
+Região: beira_litoral
+Trimestre: 2º trimestre
+Santo António dos Olivais, Coimbra, Romaria do Espírito Santo. Importante romaria das Beiras, provavelmente proveniente dos antigos Impérios do Espírito Santo, ainda hoje pertinentes no arquipélago açoreano. Grande parque de diversões.
+Região: tras_os_montes
+Trimestre: 2º trimestre
+Vila Verde, Alijó, Festa do Corpo de Deus. Passadeiras de flores. Procissão integrando as cruzes e estandartes de todas as paróquias do concelho.
+Região: beira_litoral
+Trimestre: 1º trimestre
+Góis, Carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Aveiro – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Estarreja – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Mealhada – carnaval
+Região: beira_litoral
+Trimestre: 2º trimestre
+Escapães, Sepins, Cantanhede, Domingo de Pascoela – Romaria de S. Jorge
+Região: beira_litoral
+Trimestre: 2º trimestre
+Santo António dos Olivais, Coimbra, Romaria do Espírito Santo. Importante romaria das Beiras, provavelmente proveniente dos antigos Impérios do Espírito Santo, ainda hoje pertinentes no arquipélago açoreano. Grande parque de diversões.
+Região: tras_os_montes
+Trimestre: 2º trimestre
+Vila Verde, Alijó, Festa do Corpo de Deus. Passadeiras de flores. Procissão integrando as cruzes e estandartes de todas as paróquias do concelho.
+Região: beira_litoral
+Trimestre: 1º trimestre
+Góis, Carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Aveiro – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Estarreja – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Mealhada – carnaval
+Região: beira_litoral
+Trimestre: 2º trimestre
+Escapães, Sepins, Cantanhede, Domingo de Pascoela – Romaria de S. Jorge
+Região: beira_litoral
+Trimestre: 2º trimestre
+Santo António dos Olivais, Coimbra, Romaria do Espírito Santo. Importante romaria das Beiras, provavelmente proveniente dos antigos Impérios do Espírito Santo, ainda hoje pertinentes no arquipélago açoreano. Grande parque de diversões.
+Região: tras_os_montes
+Trimestre: 2º trimestre
+Vila Verde, Alijó, Festa do Corpo de Deus. Passadeiras de flores. Procissão integrando as cruzes e estandartes de todas as paróquias do concelho.
+Região: beira_litoral
+Trimestre: 1º trimestre
+Góis, Carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Aveiro – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Estarreja – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Mealhada – carnaval
+Região: beira_litoral
+Trimestre: 2º trimestre
+Escapães, Sepins, Cantanhede, Domingo de Pascoela – Romaria de S. Jorge
+Região: beira_litoral
+Trimestre: 2º trimestre
+Santo António dos Olivais, Coimbra, Romaria do Espírito Santo. Importante romaria das Beiras, provavelmente proveniente dos antigos Impérios do Espírito Santo, ainda hoje pertinentes no arquipélago açoreano. Grande parque de diversões.
+Região: beira_litoral
+Trimestre: 1º trimestre
+Góis, Carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Aveiro – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Estarreja – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Mealhada – carnaval
+Região: beira_litoral
+Trimestre: 2º trimestre
+Escapães, Sepins, Cantanhede, Domingo de Pascoela – Romaria de S. Jorge
+Região: beira_litoral
+Trimestre: 2º trimestre
+Santo António dos Olivais, Coimbra, Romaria do Espírito Santo. Importante romaria das Beiras, provavelmente proveniente dos antigos Impérios do Espírito Santo, ainda hoje pertinentes no arquipélago açoreano. Grande parque de diversões.
+Região: tras_os_montes
+Trimestre: 2º trimestre
+Vila Verde, Alijó, Festa do Corpo de Deus. Passadeiras de flores. Procissão integrando as cruzes e estandartes de todas as paróquias do concelho.
+Região: ribatejo
+Trimestre: 1º trimestre
+Amiais de Baixo, Santarém, 20 de Janeiro, agora em sábado magro – festa de S. Sebastião. Na noite de sábado, procissão dos archotes que se diz ser a maior do mundo.
+Região: ribatejo
+Trimestre: 1º trimestre
+Almeirim – carnaval, corso
+Região: ribatejo
+Trimestre: 1º trimestre
+Alpiarça – carnaval
+Região: minho
+Trimestre: 1º trimestre
+Taipas, Guimarães, terça-feira gorda, à noite: enterro do Arturinho
+Região: estremadura
+Trimestre: 1º trimestre
+Pereiro, Vilar, Cadaval, 6 de Janeiro – Cantar e pintar dos Bons Reis Magos, de porta em porta, parando em todas as adegas, desde o fundo ao cimo do povo, onde, já de madrugada, as moças têm refeição quente para todos. Com pequenas variantes, pinta-se e canta-se os Reis em todas as povoações do concelho do Cadaval e Alenquer que rodeiam a Serra do Montejunto
+Região: estremadura
+Trimestre: 1º trimestre
+Torres Vedras –Carnaval de Torres, o mais português de Portugal. Na sexta-feira, no largo da Estação, chegada dos bombos e desfile dos cabeçudos até ao centro da avenida principal (ultimamente junto ao Mercado), onde se realiza a solene abertura. Sábado à noite, corso nocturno e concurso de máscaras. Domingo Gordo, à tarde, corso pelas ruas principais da cidade, com carros alegóricos satirizando a política local, nacional e internacional, bem como figuras do desporto e do espectáculo. Segunda-feira à noite, corso nocturno. Terça-Feira de entrudo, à tarde, corso com as mesmas características de Domingo Gordo. Destaque para as matrafonas, homens travestidos de mulheres, na linha da tradição de mascarados por todo o país. Quarta-Feira à noite, enterro do entrudo, com cortejo, julgamento, leitura do testamento, morte pelo fogo do boneco simbolizando o entrudo, tudo terminando com fogo de artifício.
+Região: estremadura
+Trimestre: 1º trimestre
+Sesimbra – Carnaval com actuação de cègadas
+Região: douro_litoral
+Trimestre: 1º trimestre
+Ermesinde, Valongo, terça-feira gorda, à noite – Enterro do João
+Região: beira_litoral
+Trimestre: 1º trimestre
+Góis, Carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Aveiro – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Estarreja – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Mealhada – carnaval
+Região: beira_litoral
+Trimestre: 2º trimestre
+Escapães, Sepins, Cantanhede, Domingo de Pascoela – Romaria de S. Jorge
+Região: beira_litoral
+Trimestre: 2º trimestre
+Santo António dos Olivais, Coimbra, Romaria do Espírito Santo. Importante romaria das Beiras, provavelmente proveniente dos antigos Impérios do Espírito Santo, ainda hoje pertinentes no arquipélago açoreano. Grande parque de diversões.
+Região: tras_os_montes
+Trimestre: 2º trimestre
+Vila Verde, Alijó, Festa do Corpo de Deus. Passadeiras de flores. Procissão integrando as cruzes e estandartes de todas as paróquias do concelho.
+Região: ribatejo
+Trimestre: 1º trimestre
+Amiais de Baixo, Santarém, 20 de Janeiro, agora em sábado magro – festa de S. Sebastião. Na noite de sábado, procissão dos archotes que se diz ser a maior do mundo.
+Região: ribatejo
+Trimestre: 1º trimestre
+Almeirim – carnaval, corso
+Região: ribatejo
+Trimestre: 1º trimestre
+Alpiarça – carnaval
+Região: minho
+Trimestre: 1º trimestre
+Taipas, Guimarães, terça-feira gorda, à noite: enterro do Arturinho
+Região: estremadura
+Trimestre: 1º trimestre
+Pereiro, Vilar, Cadaval, 6 de Janeiro – Cantar e pintar dos Bons Reis Magos, de porta em porta, parando em todas as adegas, desde o fundo ao cimo do povo, onde, já de madrugada, as moças têm refeição quente para todos. Com pequenas variantes, pinta-se e canta-se os Reis em todas as povoações do concelho do Cadaval e Alenquer que rodeiam a Serra do Montejunto
+Região: estremadura
+Trimestre: 1º trimestre
+Torres Vedras –Carnaval de Torres, o mais português de Portugal. Na sexta-feira, no largo da Estação, chegada dos bombos e desfile dos cabeçudos até ao centro da avenida principal (ultimamente junto ao Mercado), onde se realiza a solene abertura. Sábado à noite, corso nocturno e concurso de máscaras. Domingo Gordo, à tarde, corso pelas ruas principais da cidade, com carros alegóricos satirizando a política local, nacional e internacional, bem como figuras do desporto e do espectáculo. Segunda-feira à noite, corso nocturno. Terça-Feira de entrudo, à tarde, corso com as mesmas características de Domingo Gordo. Destaque para as matrafonas, homens travestidos de mulheres, na linha da tradição de mascarados por todo o país. Quarta-Feira à noite, enterro do entrudo, com cortejo, julgamento, leitura do testamento, morte pelo fogo do boneco simbolizando o entrudo, tudo terminando com fogo de artifício.
+Região: estremadura
+Trimestre: 1º trimestre
+Sesimbra – Carnaval com actuação de cègadas
+Região: douro_litoral
+Trimestre: 1º trimestre
+Ermesinde, Valongo, terça-feira gorda, à noite – Enterro do João
+Região: beira_litoral
+Trimestre: 1º trimestre
+Góis, Carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Aveiro – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Estarreja – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Mealhada – carnaval
+Região: beira_litoral
+Trimestre: 2º trimestre
+Escapães, Sepins, Cantanhede, Domingo de Pascoela – Romaria de S. Jorge
+Região: beira_litoral
+Trimestre: 2º trimestre
+Santo António dos Olivais, Coimbra, Romaria do Espírito Santo. Importante romaria das Beiras, provavelmente proveniente dos antigos Impérios do Espírito Santo, ainda hoje pertinentes no arquipélago açoreano. Grande parque de diversões.
+Região: tras_os_montes
+Trimestre: 2º trimestre
+Vila Verde, Alijó, Festa do Corpo de Deus. Passadeiras de flores. Procissão integrando as cruzes e estandartes de todas as paróquias do concelho.
+Região: ribatejo
+Trimestre: 1º trimestre
+Amiais de Baixo, Santarém, 20 de Janeiro, agora em sábado magro – festa de S. Sebastião. Na noite de sábado, procissão dos archotes que se diz ser a maior do mundo.
+Região: ribatejo
+Trimestre: 1º trimestre
+Almeirim – carnaval, corso
+Região: ribatejo
+Trimestre: 1º trimestre
+Alpiarça – carnaval
+Região: minho
+Trimestre: 1º trimestre
+Taipas, Guimarães, terça-feira gorda, à noite: enterro do Arturinho
+Região: estremadura
+Trimestre: 1º trimestre
+Pereiro, Vilar, Cadaval, 6 de Janeiro – Cantar e pintar dos Bons Reis Magos, de porta em porta, parando em todas as adegas, desde o fundo ao cimo do povo, onde, já de madrugada, as moças têm refeição quente para todos. Com pequenas variantes, pinta-se e canta-se os Reis em todas as povoações do concelho do Cadaval e Alenquer que rodeiam a Serra do Montejunto
+Região: estremadura
+Trimestre: 1º trimestre
+Torres Vedras –Carnaval de Torres, o mais português de Portugal. Na sexta-feira, no largo da Estação, chegada dos bombos e desfile dos cabeçudos até ao centro da avenida principal (ultimamente junto ao Mercado), onde se realiza a solene abertura. Sábado à noite, corso nocturno e concurso de máscaras. Domingo Gordo, à tarde, corso pelas ruas principais da cidade, com carros alegóricos satirizando a política local, nacional e internacional, bem como figuras do desporto e do espectáculo. Segunda-feira à noite, corso nocturno. Terça-Feira de entrudo, à tarde, corso com as mesmas características de Domingo Gordo. Destaque para as matrafonas, homens travestidos de mulheres, na linha da tradição de mascarados por todo o país. Quarta-Feira à noite, enterro do entrudo, com cortejo, julgamento, leitura do testamento, morte pelo fogo do boneco simbolizando o entrudo, tudo terminando com fogo de artifício.
+Região: estremadura
+Trimestre: 1º trimestre
+Sesimbra – Carnaval com actuação de cègadas
+Região: douro_litoral
+Trimestre: 1º trimestre
+Ermesinde, Valongo, terça-feira gorda, à noite – Enterro do João
+Região: beira_litoral
+Trimestre: 1º trimestre
+Góis, Carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Aveiro – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Estarreja – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Mealhada – carnaval
+Região: beira_litoral
+Trimestre: 2º trimestre
+Escapães, Sepins, Cantanhede, Domingo de Pascoela – Romaria de S. Jorge
+Região: beira_litoral
+Trimestre: 2º trimestre
+Santo António dos Olivais, Coimbra, Romaria do Espírito Santo. Importante romaria das Beiras, provavelmente proveniente dos antigos Impérios do Espírito Santo, ainda hoje pertinentes no arquipélago açoreano. Grande parque de diversões.
+Região: tras_os_montes
+Trimestre: 2º trimestre
+Vila Verde, Alijó, Festa do Corpo de Deus. Passadeiras de flores. Procissão integrando as cruzes e estandartes de todas as paróquias do concelho.
+Região: beira_litoral
+Trimestre: 1º trimestre
+Góis, Carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Aveiro – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Estarreja – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Mealhada – carnaval
+Região: beira_litoral
+Trimestre: 2º trimestre
+Escapães, Sepins, Cantanhede, Domingo de Pascoela – Romaria de S. Jorge
+Região: beira_litoral
+Trimestre: 2º trimestre
+Santo António dos Olivais, Coimbra, Romaria do Espírito Santo. Importante romaria das Beiras, provavelmente proveniente dos antigos Impérios do Espírito Santo, ainda hoje pertinentes no arquipélago açoreano. Grande parque de diversões.
+Região: tras_os_montes
+Trimestre: 2º trimestre
+Vila Verde, Alijó, Festa do Corpo de Deus. Passadeiras de flores. Procissão integrando as cruzes e estandartes de todas as paróquias do concelho.
+Região: ribatejo
+Trimestre: 1º trimestre
+Amiais de Baixo, Santarém, 20 de Janeiro, agora em sábado magro – festa de S. Sebastião. Na noite de sábado, procissão dos archotes que se diz ser a maior do mundo.
+Região: ribatejo
+Trimestre: 1º trimestre
+Almeirim – carnaval, corso
+Região: ribatejo
+Trimestre: 1º trimestre
+Alpiarça – carnaval
+Região: minho
+Trimestre: 1º trimestre
+Taipas, Guimarães, terça-feira gorda, à noite: enterro do Arturinho
+Região: beira_litoral
+Trimestre: 1º trimestre
+Góis, Carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Aveiro – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Estarreja – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Mealhada – carnaval
+Região: beira_litoral
+Trimestre: 2º trimestre
+Escapães, Sepins, Cantanhede, Domingo de Pascoela – Romaria de S. Jorge
+Região: beira_litoral
+Trimestre: 2º trimestre
+Santo António dos Olivais, Coimbra, Romaria do Espírito Santo. Importante romaria das Beiras, provavelmente proveniente dos antigos Impérios do Espírito Santo, ainda hoje pertinentes no arquipélago açoreano. Grande parque de diversões.
+Região: tras_os_montes
+Trimestre: 2º trimestre
+Vila Verde, Alijó, Festa do Corpo de Deus. Passadeiras de flores. Procissão integrando as cruzes e estandartes de todas as paróquias do concelho.
+Região: beira_litoral
+Trimestre: 1º trimestre
+Góis, Carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Aveiro – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Estarreja – carnaval
+Região: beira_litoral
+Trimestre: 1º trimestre
+Mealhada – carnaval
+Região: beira_litoral
+Trimestre: 2º trimestre
+Escapães, Sepins, Cantanhede, Domingo de Pascoela – Romaria de S. Jorge
+Região: beira_litoral
+Trimestre: 2º trimestre
+Santo António dos Olivais, Coimbra, Romaria do Espírito Santo. Importante romaria das Beiras, provavelmente proveniente dos antigos Impérios do Espírito Santo, ainda hoje pertinentes no arquipélago açoreano. Grande parque de diversões.
+Região: tras_os_montes
+Trimestre: 2º trimestre
+Vila Verde, Alijó, Festa do Corpo de Deus. Passadeiras de flores. Procissão integrando as cruzes e estandartes de todas as paróquias do concelho.

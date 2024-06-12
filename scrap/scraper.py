@@ -44,14 +44,19 @@ Nos restantes casos, o nome é o primeiro elemento e a descrição é o segundo
 '''
 
 def concelho_exists_in_regiao(concelho,regiao):
+    print("Concelho_exists_in_regiao", concelho, regiao)
+    # remover espaços no início e fim da string
+    concelho = concelho.strip()
+    regiao = regiao.strip()
     # filtrar pela região e concelho. O concelho não precisa de estar acentuado, nem em maiúsculas, nem tem de estar completo
     filtered_df = df[(df['provincia'] == regiao) & (df['concelho'].str.contains(concelho, case=False))]
+    print("Filtered_df", filtered_df)
     if filtered_df.empty:
         return None, None
     else:
     # ir buscar o primeiro concelho e distrito
-        concelho = filtered_df['concelho'].iloc[0]
-        distrito = filtered_df['distrito'].iloc[0]
+        concelho = filtered_df['concelho'].iloc[0].strip()
+        distrito = filtered_df['distrito'].iloc[0].strip()
         return concelho, distrito
 
 def freguesia_exists_in_regiao(freguesia, concelho, regiao):
@@ -61,24 +66,30 @@ def freguesia_exists_in_regiao(freguesia, concelho, regiao):
         return None, None, None
     else:
     # ir buscar o primeiro concelho e distrito
-        freguesia = filtered_df['freguesia'].iloc[0]
-        concelho = filtered_df['concelho'].iloc[0]
-        distrito = filtered_df['distrito'].iloc[0]
+        freguesia = filtered_df['freguesia'].iloc[0].strip()
+        concelho = filtered_df['concelho'].iloc[0].strip()
+        distrito = filtered_df['distrito'].iloc[0].strip()
         return freguesia, concelho, distrito
     
 
 def two_elements(part, regiao):
     # Em princípio o primeiro elemento é concelho, o segundo é a data.
     # Tem de se ver primeiro se o segundo elemento é um concelho através do mapeamento.
+    print("Part, regiao", part, regiao)
     locais = concelho_exists_in_regiao(part[1],regiao)
+    print("Two elements")
+    print ("LOCAIS: ", locais)
+
     # Se o segundo elemento estiver nos concelhos, é porque o segundo elemento é um concelho e o primeiro é freguesia, senão é data
-    if locais != 0:
+    if locais != (None, None):
         freguesia, concelho, distrito = freguesia_exists_in_regiao(part[0],part[1],regiao)
+        print("locais != 0", freguesia, concelho, distrito)
         data = None
     else:
         freguesia = None
         concelho, distrito = concelho_exists_in_regiao(part[0],regiao)
         data = part[1]
+        print("locais == 0", freguesia, concelho, distrito)
     return freguesia, concelho, distrito, data
 
 def three_elements(part, regiao):
@@ -130,7 +141,8 @@ def parse_festa(festa, trimester, regiao):
     if len(first_part) == 2:
         freguesia, concelho, distrito, data = two_elements(first_part, regiao)
     elif len(first_part) == 3:
-        freguesia, concelho, distrito, data = three_elements(first_part,regiao)
+        
+        freguesia, concelho, distrito, data = three_elements(first_part, regiao)
     else:
         return None
 
@@ -150,20 +162,11 @@ def parse_festa(festa, trimester, regiao):
         "concelho": concelho,
         "distrito": distrito,
         "descricao": descricao,
-        "regiao": trimester
+        "regiao": regiao
     }
 
 # Função para extrair os dados de cada trimestre
 def extract_festas_by_trimester(soup, trimester, regiao):
-    # Abrir ficheiro para inserir festa
-    with open('festas.txt', 'a') as festas_file:
-        festas_file.write(f"Região: {regiao}\n")
-        festas_file.write(f"Trimestre: {trimester}\n")
-
-    with open('outros.txt', 'a') as outros_files:
-        outros_files.write(f"Região: {regiao}\n")
-        outros_files.write(f"Trimestre: {trimester}\n")
-
     festas = []
     others = []
     header = soup.find(string=re.compile(f'{trimester}', re.IGNORECASE))
@@ -182,9 +185,13 @@ def extract_festas_by_trimester(soup, trimester, regiao):
                         festas.append(festa)
                         with open('festas.txt', 'a') as festas_file:
                             festas_file.write(f"{festa}\n")
+                            festas_file.write(f"Região: {regiao}\n")
+                            festas_file.write(f"Trimestre: {trimester}\n")
                     else:
                         others.append(item.get_text(strip=True))
                         with open('outros.txt', 'a') as outros_files:
+                            outros_files.write(f"Região: {regiao}\n")
+                            outros_files.write(f"Trimestre: {trimester}\n")
                             outros_files.write(f"{item.get_text(strip=True)}\n")
                 
     else:

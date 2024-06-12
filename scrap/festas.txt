@@ -1,0 +1,320 @@
+Região: beira_litoral
+Trimestre: 1º trimestre
+Região: beira_litoral
+Trimestre: 1º trimestre
+Região: beira_litoral
+Trimestre: 1º trimestre
+{'nome': 'nome', 'data_inicio': ' 6 de Janeiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': ' primeiro domingo de Fevereiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': ' primeiro domingo após 16 de Janeiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 20 de Janeiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Carnaval', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+Região: beira_litoral
+Trimestre: 2º trimestre
+{'nome': 'nome', 'data_inicio': ' Sábado da Aleluia', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 2ª feira de Páscoa', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Domingo de Pascoela', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Domingo de Pascoela', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Domingo do Espírito Santo', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 13 de Junho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 24 de Junho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 29 de Junho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+Região: beira_litoral
+Trimestre: 3º trimestre
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 25 de Julho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 15 de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 15 de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 15 de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' primeiro domingo de Setembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' primeiro domingo de Setembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 8 de Setembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' terceiro domingo de Setembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' primeiro domingo de Outubro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+Região: beira_litoral
+Trimestre: 4º trimestre
+{'nome': 'nome', 'data_inicio': ' primeiro domingo de Outubro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 11 de Novembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 8 de Dezembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 13 de Dezembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': ' quarto domingo de Dezembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+Região: tras_os_montes
+Trimestre: 1º trimestre
+{'nome': 'nome', 'data_inicio': ' 1 de Janeiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 1 de Janeiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 6 de Janeiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 6 de Janeiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 6 de Janeiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 6 de Janeiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 20 de Janeiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 20 de janeiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 20 de Janeiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 20 de Janeiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': ' quinta-feira anterior a domingo gordo', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+Região: tras_os_montes
+Trimestre: 2º trimestre
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Domingo de Pascoela', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 13 de Junho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 13 de Junho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+Região: tras_os_montes
+Trimestre: 3º trimestre
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' segundo Domingo de Julho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' segundo Domingo de Julho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' primeiro domingo de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' segundo Domingo de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 15 de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 15 de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 15 de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' terceiro domingo de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' último domingo de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 8 de Setembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 12 de Setembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' segundo domingo de Setembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+Região: tras_os_montes
+Trimestre: 4º trimestre
+Região: ribatejo
+Trimestre: 1º trimestre
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+Região: ribatejo
+Trimestre: 2º trimestre
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Domingo de Páscoa', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Domingo de Pascoela (nos anos ímpares)', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Domingo do Espírito Santo', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Domingo do Espírito Santo', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Domingo do Espírito Santo', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' em Junho (de quatro em quatro anos)', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+Região: ribatejo
+Trimestre: 3º trimestre
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' último Domingo de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+Região: ribatejo
+Trimestre: 4º trimestre
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 8 de Dezembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+Região: minho
+Trimestre: 1º trimestre
+{'nome': 'nome', 'data_inicio': ' 20 de Janeiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+Região: minho
+Trimestre: 2º trimestre
+{'nome': 'nome', 'data_inicio': ' Domingo de Ramos', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Domingo de Ramos', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Domingo de Ramos', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Domingo de Pascoela', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Domingo de Pascoela', 'data_fim': None, 'freguesia': 'Louro', 'concelho': 'Vila Nova de Famalicão', 'distrito': 'Braga', 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' segunda-feira de Pascoela', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' terça-feira de Pascoela', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 3 de Maio', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 2º domingo de Maio', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 3º domingo de Maio', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 3º domingo de Maio', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' domingo de Maio subsequente à 5º feira da Ascensão', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Domingo do Espírito Santo', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Domingo do Espírito Santo', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Domingo da Santíssima Trindade', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 13 de Junho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 3º domingo de Junho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+Região: minho
+Trimestre: 3º trimestre
+{'nome': 'nome', 'data_inicio': ' primeiro Domingo de Julho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' segundo Domingo de Julho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' primeiro fim-de-semana de Julho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' terceiro Domingo de Julho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' terceiro Domingo de Julho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 4º Domingo de Julho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 12 de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 5 de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' segundo fim-de-semana de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' segundo fim-de-semana de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' última sexta-feira de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 15 de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 15 de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 15 de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 24 de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 29 de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' terceiro Domingo de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' último Domingo de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 8 de Setembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' segundo fim-de-semana de Setembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' primeiro domingo de Setembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' primeiro domingo de Setembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+Região: minho
+Trimestre: 4º trimestre
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 13 de Dezembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 31 de Dezembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+Região: estremadura
+Trimestre: 1º trimestre
+{'nome': 'nome', 'data_inicio': ' 15 de Janeiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 20 de Janeiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 3 de Fevereiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+Região: estremadura
+Trimestre: 2º trimestre
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' domingo seguinte ao 3 de Maio', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 5ª Feira da Ascensão', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 5ª Feira da Ascensão (40 dias após a Páscoa)', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 5ª Feira da Ascensão', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Domingo do Espírito Santo', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 13 de Junho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 24 de Junho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+Região: estremadura
+Trimestre: 3º trimestre
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' último domingo de Julho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 22 de Julho', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 5 de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 5 de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' primeiro Domingo de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 15 de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 15 de Agosto/Domingo seguinte', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 15 de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 17 de Agosto', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' primeiro domingo de Setembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' primeiro domingo de Outubro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+{'nome': 'nome', 'data_inicio': ' segundo domingo de Setembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '3º trimestre'}
+Região: estremadura
+Trimestre: 4º trimestre
+{'nome': 'nome', 'data_inicio': ' segunda quinzena de Outubro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 30 de Novembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 1 de Novembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 1 de Novembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 8 de Dezembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': ' primeiro domingo de Dezembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+{'nome': 'nome', 'data_inicio': ' terceiro domingo de Dezembro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '4º trimestre'}
+Região: douro_litoral
+Trimestre: 1º trimestre
+{'nome': 'nome', 'data_inicio': ' ou no domingo seguinte', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 2 de Fevereiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 3 de Fevereiro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+{'nome': 'nome', 'data_inicio': ' quarta-feira da terceira semana da Quaresma', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '1º trimestre'}
+Região: douro_litoral
+Trimestre: 2º trimestre
+{'nome': 'nome', 'data_inicio': ' sábado e domingo de Lázaro', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' domingo de Ramos', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Quinta-feira Santa', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' sábado de Aleluia', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' segunda-feira de Páscoa', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' quinta-feira de Páscoa: Festa de S. Jorge', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 3 de Maio', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' 3 de Maio', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': 'nome', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}
+{'nome': 'nome', 'data_inicio': ' Domingo do Espírito Santo', 'data_fim': None, 'freguesia': None, 'concelho': None, 'distrito': None, 'descricao': 'descricao', 'regiao': '2º trimestre'}

@@ -87,19 +87,21 @@ const Festas_Mapa = () => {
     }, [selectedDistrict, selectedCounty]);
 
     const convertDate = str => {
-        const [day, month, year] = str.split("-");
-        return new Date(`${month}-${day}-${year}`);
+        const [day, month, year] = str.split("/");
+        return new Date(`${year}-${month}-${day}`);
     }
 
     const currentDate = new Date();
     currentDate.setHours(0, 0, 0, 0);
 
 
-    const filteredFestas = festas.filter(festa =>
+    const filteredFestas = festas
+    .filter(festa =>
         festa["Nome da Festa"].toLowerCase().includes(searchTerm.toLowerCase()) &&
         (convertDate(festa['Data Fim']) >= (startDate || currentDate)) &&
         (!endDate || convertDate(festa['Data Inicio']) <= endDate)
     )
+    .sort((a, b) => convertDate(a['Data Inicio']) - convertDate(b['Data Inicio']));
 
     const CustomInput = forwardRef(({ value, onClick }, ref) => (
         <button
@@ -136,7 +138,6 @@ const Festas_Mapa = () => {
                 let districtEncoded = event.target.getAttribute('class');
                 let district = decodeURIComponent(districtEncoded);
                 setSelectedDistrict(district);
-                console.log(district);
             } else {
                 let countyEncoded = event.target.getAttribute('class');
                 let county = decodeURIComponent(countyEncoded);
@@ -152,7 +153,6 @@ const Festas_Mapa = () => {
                 });
                 
                 setSelectedCounty(county);
-                console.log(county);
             }
         }
     };

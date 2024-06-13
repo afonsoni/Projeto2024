@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { FaChevronDown, FaChevronUp } from 'react-icons/fa';
 
 const Festa = ({ festa }) => {
+
     const [showMore, setShowMore] = useState(false);
 
     const location = [festa["Freguesia"], festa["Concelho"], festa["Distrito"]]
@@ -13,7 +14,7 @@ const Festa = ({ festa }) => {
             <h2 className="text-xl font-semibold">{festa["Nome da Festa"]}</h2>
             <p>
                 {festa["Data Inicio"]}
-                {festa["Data Inicio"] !== festa["Data Fim"] && ` - ${festa["Data Fim"]}`}
+                {festa["Data Inicio"] != festa["Data Fim"] && ` - ${festa["Data Fim"]}`}
             </p>            
             {location && <p>{location}, {festa["Região"]}</p>}
             {showMore && <p className="mt-2">{festa["Descrição"]}</p>}

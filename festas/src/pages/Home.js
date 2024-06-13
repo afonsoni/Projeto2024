@@ -50,6 +50,7 @@ export default function Home() {
             behavior: 'smooth',
         });
     };
+    
 
     return (
         <div className="bg-cover bg-center min-h-screen" style={{ backgroundColor: '#f2e3c6' }}>

@@ -15,7 +15,7 @@ from dateutil.relativedelta import relativedelta, SU, MO, TU, WE, TH, FR, SA
 ua = UserAgent()
 headers = {'User-Agent': ua.random}
 
-df = pd.read_excel('FreguesiasPortugalMetadata.xlsx')
+df = pd.read_excel('dados/FreguesiasPortugalMetadata.xlsx')
 
 # Inicializa o contador de IDs
 global festa_id_counter
@@ -64,6 +64,7 @@ def concelho_exists_in_regiao(concelho, regiao, threshold=80):
     # filtrar pela região e concelho. O concelho não precisa de estar acentuado, nem em maiúsculas, nem tem de estar completo
     filtered_df = df[(df['provincia'].str.contains(regiao)) & (df['concelho'].str.contains(concelho_pattern, case=False, regex=True, na=False))]
     if filtered_df.empty:
+        filtered_df = df[(df['provincia'].str.contains(regiao))]
         # Usar fuzzywuzzy para encontrar o concelho mais próximo
         matches = process.extract(concelho, filtered_df['concelho'], scorer=fuzz.token_set_ratio)
         best_match = matches[0] if matches and matches[0][1] >= threshold else None
@@ -94,6 +95,10 @@ def freguesia_exists_in_regiao(freguesia, concelho, regiao, threshold=80):
         filtered_df = df[(df['provincia'].str.contains(regiao)) & 
                         (df['freguesia'].str.contains(freguesia_pattern, case=False, regex=True, na=False))]
     if filtered_df.empty:
+        if concelho:
+            filtered_df = df[(df['provincia'].str.contains(regiao)) & (df['concelho'].str.contains(concelho_escaped, case=False, regex=True, na=False))]
+        else:
+            filtered_df = df[(df['provincia'].str.contains(regiao))]
         # Usar fuzzywuzzy para encontrar a freguesia mais próxima
         matches = process.extract(freguesia, filtered_df['freguesia'], scorer=fuzz.token_set_ratio)
         best_match = matches[0] if matches and matches[0][1] >= threshold else None
@@ -489,7 +494,7 @@ urls_file = 'urls.txt'
 with open(urls_file, 'r') as file:
     lines = file.readlines()
 
-output_dir = 'csv&json'
+output_dir = 'dados'
 os.makedirs(output_dir, exist_ok=True)
 
 all_festas = []

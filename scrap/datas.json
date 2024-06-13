@@ -262,9 +262,19 @@
     {
         "nome": "Festa de Nossa Senhora do Mileu",
         "descricao": "Procissão das velas.",
-        "data_inicio": "Guarda (arredores da cidade)",
+        "data_inicio": "Festa de Nossa Senhora do Mileu",
         "data_fim": null,
         "regiao": "beira_alta",
+        "distrito": null,
+        "concelho": null,
+        "freguesia": null
+    },
+    {
+        "nome": "grupos músico-coreográfico-teatrais (cègadas– vide) percorrem a vila e actuam nas sociedades recreativas",
+        "descricao": "Maxime no Casino.",
+        "data_inicio": "grupos músico-coreográfico-teatrais (cègadas– vide) percorrem a vila e actuam nas sociedades recreativas",
+        "data_fim": null,
+        "regiao": "estremadura",
         "distrito": null,
         "concelho": null,
         "freguesia": null
@@ -372,12 +382,12 @@
     {
         "nome": "Procissão dos Passos",
         "descricao": "Que percorre as capelinhas da Via Sacra, de feição barroca, conhecidas pelo Calvário de Caramos.",
-        "data_inicio": "Felgueiras. domingo de Lázaro",
+        "data_inicio": "Procissão dos Passos",
         "data_fim": null,
         "regiao": "douro_litoral",
-        "distrito": "Porto",
-        "concelho": "Felgueiras",
-        "freguesia": "União das freguesias de Macieira da Lixa e Caramos"
+        "distrito": null,
+        "concelho": null,
+        "freguesia": null
     },
     {
         "nome": "procissão do Terro-Terro (nocturna",

@@ -30,26 +30,32 @@
 # print(teste(second_part))
 
 
-import pandas as pd
-
-
+import re
 import pandas as pd
 
 df = pd.read_excel('FreguesiasPortugalMetadata.xlsx')
 
 
-def concelho_exists_in_regiao(concelho,regiao):
-    print("Concelho_exists_in_regiao", concelho, regiao)
-    # filtrar pela região e concelho. O concelho não precisa de estar acentuado, nem em maiúsculas, nem tem de estar completo
-    filtered_df = df[(df['provincia'] == regiao) & (df['concelho'].str.contains(concelho, case=False))]
-    print("Filtered_df", filtered_df)
+def freguesia_exists_in_regiao(freguesia, concelho, regiao):
+    # Substituir "da" e "de" por um padrão opcional na expressão regular
+    freguesia_pattern = re.sub(r'\b(de|da|do)\b', r'(de|da|do)?', freguesia, flags=re.IGNORECASE)
+    # filtrar pela região e freguesia. A freguesia não precisa de estar acentuado, nem em maiúsculas, nem tem de estar completo
+    if concelho:
+        filtered_df = df[(df['provincia'] == regiao) & 
+                        (df['concelho'].str.contains(concelho, case=False)) & 
+                        (df['freguesia'].str.contains(freguesia_pattern, case=False, regex=True))]
+        print(filtered_df)
+    else:
+        filtered_df = df[(df['provincia'] == regiao) & 
+                        (df['freguesia'].str.contains(freguesia_pattern, case=False, regex=True))]
     if filtered_df.empty:
-        return None, None
+        return None, None, None
     else:
     # ir buscar o primeiro concelho e distrito
-        concelho = filtered_df['concelho'].iloc[0]
-        distrito = filtered_df['distrito'].iloc[0]
-        return concelho, distrito
+        freguesia = filtered_df['freguesia'].iloc[0].strip()
+        concelho = filtered_df['concelho'].iloc[0].strip()
+        distrito = filtered_df['distrito'].iloc[0].strip()
+        return freguesia, concelho, distrito
     
-concelho, distrito = concelho_exists_in_regiao("Vilar de Perdizes", "tras_os_montes")
+freguesia, concelho, distrito = freguesia_exists_in_regiao('Vila Chã da Braciosa', 'Miranda do Douro', 'tras_os_montes')
 print(concelho, distrito)

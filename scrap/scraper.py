@@ -51,6 +51,46 @@ No caso de haver uma vírgula, o nome é o primeiro elemento e a descrição é 
 Nos restantes casos, o nome é o primeiro elemento e a descrição é o segundo
 '''
 
+# Função para armazenar os dados das regiões, distritos, concelhos e freguesias num ficheiro JSON
+def store_regioes():
+    # Estrutura para armazenar os dados
+    data = {}
+
+    # Preencher a estrutura
+    for _, row in df.iterrows():
+        regiao = row['provincia']
+        distrito = row['distrito']
+        concelho = row['concelho']
+        freguesia = row['freguesia']
+        
+        if regiao not in data:
+            data[regiao] = {}
+        if distrito not in data[regiao]:
+            data[regiao][distrito] = {}
+        if concelho not in data[regiao][distrito]:
+            data[regiao][distrito][concelho] = []
+        if freguesia not in data[regiao][distrito][concelho]:
+            data[regiao][distrito][concelho].append(freguesia)
+
+    # Converter para o formato desejado
+    output = []
+    for regiao, distritos in data.items():
+        regiao_obj = {"regiao": regiao, "distritos": []}
+        for distrito, concelhos in distritos.items():
+            distrito_obj = {"distrito": distrito, "concelhos": []}
+            for concelho, freguesias in concelhos.items():
+                concelho_obj = {"concelho": concelho, "freguesias": freguesias}
+                distrito_obj["concelhos"].append(concelho_obj)
+            regiao_obj["distritos"].append(distrito_obj)
+        output.append(regiao_obj)
+
+    # Converter para JSON
+    json_output = json.dumps(output, ensure_ascii=False, indent=4)
+
+    # Salvar num ficheiro JSON
+    with open('dados/regioes.json', 'w', encoding='utf-8') as f:
+        f.write(json_output)
+
 def incrementar_id():
     global festa_id_counter
     festa_id_counter += 1
@@ -489,6 +529,8 @@ def process_url(url, regiao):
 
     return rows, rows2
 
+store_regioes()
+
 # URLs são os links para as páginas de cada região
 urls_file = 'urls.txt'
 with open(urls_file, 'r') as file:
@@ -526,3 +568,177 @@ df.to_csv(output_csv, index=False)
 output_json = os.path.join(output_dir, 'todas_festas.json')
 with open(output_json, 'w', encoding='utf-8') as f:
     json.dump(all_festas, f, ensure_ascii=False, indent=4)
+
+# Juntar as regioes com as festas
+regioes = json.load(open('dados/regioes.json'))
+festas = json.load(open('dados/todas_festas.json'))
+
+# regioes
+'''
+[
+    {
+        "regiao": "beira_litoral",
+        "distritos": [
+            {
+                "distrito": "Aveiro",
+                "concelhos": [
+                    {
+                        "concelho": "Águeda",
+                        "freguesias": [
+                            "Aguada de Cima",
+                            "Fermentelos",
+                            "Macinhata do Vouga",
+                            "Valongo do Vouga",
+                            "União das freguesias de Águeda e Borralha",
+                            "União das freguesias de Barrô e Aguada de Baixo",
+                            "União das freguesias de Belazaima do Chão, Castanheira do Vouga e Agadão",
+                            "União das freguesias de Recardães e Espinhel",
+                            "União das freguesias de Travassô e Óis da Ribeira",
+                            "União das freguesias de Trofa, Segadães e Lamas do Vouga",
+                            "União das freguesias do Préstimo e Macieira de Alcoba"
+                        ]
+                    },
+                    {
+                        "concelho": "Albergaria-a-Velha",
+                        "freguesias": [
+                            "Alquerubim",
+                            "Angeja",
+                            "Branca",
+                            "Ribeira de Fráguas",
+                            "Albergaria-a-Velha e Valmaior",
+                            "São João de Loure e Frossos"
+                        ]
+                    },
+'''
+
+# festas
+'''
+[
+    {
+        "nome": "Cortejo dos Reis",
+        "descricao": "Com pequeno auto teatral e leilão das ofertas",
+        "data_inicio": "06/01/2024",
+        "data_fim": null,
+        "regiao": "beira_litoral",
+        "distrito": "Aveiro",
+        "concelho": "Sever do Vouga",
+        "freguesia": "Talhadas",
+        "festa_id": 1
+    },
+    {
+        "nome": "Festa de S. Gonçalinho (S. Gonçalo de Amarante",
+        "descricao": "Casamenteiro das velhas): junto à capela e do alto da mesma, lançamento de cavacas ao povo. Dança dos mancos, pequena comédia interpretada por homens. Música e danças pelas ruas.",
+        "data_inicio": "10/01/2024",
+        "data_fim": null,
+        "regiao": "beira_litoral",
+        "distrito": "Aveiro",
+        "concelho": "Aveiro",
+        "freguesia": null,
+        "festa_id": 2
+    },
+    {
+        "nome": "Festas de Nossa Senhora da Purificação e de S. Brás",
+        "descricao": "Procissão das velas dedicada à Senhora da Purificação ou Senhora das Candeias, devoção muito expandida pelo país, cujo dia é o 2 de Fevereiro. Feira de gastronomia e dos grelos.",
+        "data_inicio": "04/02/2024",
+        "data_fim": null,
+        "regiao": "beira_litoral",
+        "distrito": "Aveiro",
+        "concelho": "Vale de Cambra",
+        "freguesia": "União das freguesias de Vila Chã, Codal e Vila Cova de Perrinho",
+        "festa_id": 3
+    },
+'''
+
+# Juntar da seguinte forma
+'''
+{
+    "regioes": [
+        {
+            "regiao": "beira_litoral",
+            "distritos": [
+                {
+                    "distrito": "Aveiro",
+                    "concelhos": [
+                        {
+                            "concelho": "Águeda",
+                            "freguesias": [
+                                "Aguada de Cima",
+                                "Fermentelos",
+                                "Macinhata do Vouga",
+                                "Valongo do Vouga",
+                                "União das freguesias de Águeda e Borralha",
+                                "União das freguesias de Barrô e Aguada de Baixo",
+                                "União das freguesias de Belazaima do Chão, Castanheira do Vouga e Agadão",
+                                "União das freguesias de Recardães e Espinhel",
+                                "União das freguesias de Travassô e Óis da Ribeira",
+                                "União das freguesias de Trofa, Segadães e Lamas do Vouga",
+                                "União das freguesias do Préstimo e Macieira de Alcoba"
+                            ]
+                        },
+                        {
+                            "concelho": "Albergaria-a-Velha",
+                            "freguesias": [
+                                "Alquerubim",
+                                "Angeja",
+                                "Branca",
+                                "Ribeira de Fráguas",
+                                "Albergaria-a-Velha e Valmaior",
+                                "São João de Loure e Frossos"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "festas": [
+        {
+            "festa_id": 1,
+            "Nome": "Cortejo dos Reis",
+            "Descrição": "com pequeno auto teatral e leilão das ofertas",
+            "Data Início": "06-01-2024",
+            "Data Fim": "06-01-2024",
+            "Região": "beira_litoral",
+            "Distrito": "Aveiro",
+            "Concelho": "Sever do Vouga",
+            "Freguesia": "Talhadas"
+        },
+        {
+            "Nome": "Romaria dos Santos Mártires",
+            "Descrição": "Procissão dos Nus, antigamente composta por fiéis amortalhados em cumprimento das suas promessas: No dia seguinte, nova procissão, em que as crianças passam por debaixo do andor de Santa Clara, para não se atrasarem no falar.",
+            "Data Início": "07-01-2024",
+            "Data Fim": "07-01-2024",
+            "Região": "beira_litoral",
+            "Distrito": "Aveiro",
+            "Concelho": "Águeda",
+            "Freguesia": "Travassô"
+        }
+    ]
+}
+'''
+
+# Transformar o formato das festas conforme solicitado
+formatted_festas = []
+for festa in festas:
+    formatted_festa = {
+        "festa_id": festa["festa_id"],
+        "nome": festa["nome"],
+        "descricao": festa["descricao"],
+        "data_inicio": festa["data_inicio"],
+        "data_fim": festa["data_fim"] if festa["data_fim"] else festa["data_inicio"],
+        "regiao": festa["regiao"],
+        "distrito": festa["distrito"],
+        "concelho": festa["concelho"],
+        "freguesia": festa["freguesia"]
+    }
+    formatted_festas.append(formatted_festa)
+
+# Juntar as regiões e festas no formato desejado
+result = {
+    "regioes": regioes,
+    "festas": formatted_festas
+}
+
+# Guardar o resultado num ficheiro JSON
+with open('dados/regioes_festas.json', 'w') as f:
+    json.dump(result, f, ensure_ascii=False, indent=4)

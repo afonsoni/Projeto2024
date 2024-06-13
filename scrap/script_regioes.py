@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 # Carregar o ficheiro Excel
-file_path = 'FreguesiasPortugalMetadata.xlsx'
+file_path = 'dados/FreguesiasPortugalMetadata.xlsx'
 df = pd.read_excel(file_path)
 
 # Estrutura para armazenar os dados
@@ -40,7 +40,7 @@ for regiao, distritos in data.items():
 json_output = json.dumps(output, ensure_ascii=False, indent=4)
 
 # Salvar em um ficheiro JSON
-with open('output.json', 'w', encoding='utf-8') as f:
+with open('dados/regioes.json', 'w', encoding='utf-8') as f:
     f.write(json_output)
 
 print(json_output)

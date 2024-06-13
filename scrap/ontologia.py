@@ -4,7 +4,7 @@ def normalize_name(name):
     return name.replace(" ", "_").replace(",", "_").replace("-", "_").replace("(","_").replace(")","_").replace("/","_").replace("'","_")
 
 # Ler o conteúdo do arquivo JSON
-with open("festas_combinadas_com_id.json", encoding="utf-8") as f:
+with open("dados/regioes_festas.json", encoding="utf-8") as f:
     try:
         festas_data = json.load(f)
     except json.JSONDecodeError as e:
@@ -203,17 +203,22 @@ for festa in festas_data["festas"]:
 ###  http://rpcw.di.uminho.pt/festas&romarias#{festa["festa_id"]}
 :{festa["festa_id"]} rdf:type owl:NamedIndividual ,
         :Festa ;
-        :nome "{festa["Nome"]}" ;
-        :descricao "{festa["Descrição"]}" ;
-        :dataInicio "{festa["Data Início"]}" ;
-        :dataFim "{festa["Data Fim"]}" ;
-        :ocorreRegiao :{festa["Região"]} ;
-        :ocorreDistrito :{normalize_name(festa["Distrito"])} ;
-        :ocorreConcelho :{normalize_name(festa["Concelho"])} ;
-        :ocorreFreguesia :{normalize_name(festa["Freguesia"])} .
+        :nome "{festa["nome"]}" ;
+        :descricao "{festa["descricao"]}" ;
+        :dataInicio "{festa["data_inicio"]}" ;
+        :dataFim "{festa["data_fim"]}" ;
+        :ocorreRegiao :{festa["regiao"]} ;
+        :ocorreDistrito :{normalize_name(festa["distrito"])} ;
+        :ocorreConcelho :{normalize_name(festa["concelho"])} """
+    if festa["freguesia"]:
+            ttl += f""" ;
+        :ocorreFreguesia :{normalize_name(festa["freguesia"])} .
         
         
-"""
+        """
+    else:
+            ttl += " .\n\n"        
+
 
 # Adicionar regiões
 for regiao in festas_data["regioes"]:
@@ -224,7 +229,7 @@ for regiao in festas_data["regioes"]:
         :nome "{regiao["regiao"]}" ;
 """
     for festa in festas_data["festas"]:
-        if festa["Região"] == regiao:
+        if festa["regiao"] == regiao:
             ttl += f"""
         :regiaoTemFesta :{festa["festa_id"]} ;
 """
@@ -244,7 +249,7 @@ for regiao in festas_data["regioes"]:
         :pertenceRegiao :{normalize_name(regiao["regiao"])} ;
 """
         for festa in festas_data["festas"]:
-            if festa["Distrito"] == distrito:
+            if festa["distrito"] == distrito:
                 ttl += f"""
         :distritoTemFesta :{festa["festa_id"]} ;"""
 
@@ -265,7 +270,7 @@ for regiao in festas_data["regioes"]:
         :pertenceDistrito :{normalize_name(distrito["distrito"])} ;
 """
             for festa in festas_data["festas"]:
-                if festa["Concelho"] == concelho:
+                if festa["concelho"] == concelho:
                     ttl += f"""
         :concelhoTemFesta :{festa["festa_id"]} ;
 """
@@ -287,14 +292,14 @@ for regiao in festas_data["regioes"]:
         :pertenceConcelho :{normalize_name(concelho["concelho"])} """
 
                 for festa in festas_data["festas"]:
-                    if festa["Freguesia"] == freguesia:
+                    if festa["freguesia"] == freguesia:
                         ttl += f""";
         :freguesiaTemFesta :{festa["festa_id"]}"""
                     if festa == festas_data["festas"][-1]:
                         ttl += " .\n"
 
 # Salvar o conteúdo TTL em um novo arquivo
-with open("festas_povoadas.ttl", "w", encoding="utf-8") as output_file:
+with open("dados/festas_povoadas.ttl", "w", encoding="utf-8") as output_file:
     output_file.write(ttl)
 
 print("Conteúdo guardado em festas_povoadas.ttl.")

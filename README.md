@@ -1,6 +1,8 @@
 # TP_RPCW
+
 Trabalho Prático de RPCW
 
+```
 📦festas
  ┣ 📂node_modules
  ┣ 📂public
@@ -42,3 +44,5 @@ Trabalho Prático de RPCW
  ┣ 📜package-lock.json
  ┣ 📜package.json
  ┗ 📜tailwind.config.js
+```
+

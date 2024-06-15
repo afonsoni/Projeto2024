@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef, forwardRef } from 'react';
 import Festa from './Festa'; 
 import DatePicker from 'react-datepicker';
 import 'react-datepicker/dist/react-datepicker.css';
-import { ReactComponent as PortugalMap } from '../assets/mapa/portugal_map.svg'; // Importar arquivo SVG do mapa de Portugal
+import { ReactComponent as PortugalMap } from '../assets/mapa/portugal_map.svg'; 
 import { ReactComponent as AveiroSvg } from '../assets/mapa/aveiro.svg';
 import { ReactComponent as BejaSvg } from '../assets/mapa/beja.svg';
 import { ReactComponent as BragaSvg } from '../assets/mapa/braga.svg';
@@ -31,12 +31,12 @@ const Festas_Mapa = () => {
     const [showFilters, setShowFilters] = useState(false);
     const [containerHeight, setContainerHeight] = useState(0);
     const [festas, setFestas] = useState([]);
-    const [hovered, setHovered] = useState(false);
+    const [hoveredName, setHoveredName] = useState('');
+    const [tooltipPosition, setTooltipPosition] = useState({ x: 0, y: 0 });
     const [selectedDistrict, setSelectedDistrict] = useState(null);
     const [selectedCounty, setSelectedCounty] = useState(null);
     const headerRef = useRef(null);
     const [selectedCounties, setSelectedCounties] = useState([]);
-
 
     useEffect(() => {
         const handleResize = () => {
@@ -94,7 +94,6 @@ const Festas_Mapa = () => {
     const currentDate = new Date();
     currentDate.setHours(0, 0, 0, 0);
 
-
     const filteredFestas = festas
     .filter(festa =>
         festa["Nome da Festa"].toLowerCase().includes(searchTerm.toLowerCase()) &&
@@ -122,14 +121,22 @@ const Festas_Mapa = () => {
 
     const handleMouseEnter = (event) => {
         if (event.target.tagName === 'path') {
-            let districtEncoded = event.target.getAttribute('class');
-            let district = decodeURIComponent(districtEncoded);
-            setHovered(district);
+            let nameEncoded = event.target.getAttribute('class');
+            let name = decodeURIComponent(nameEncoded);
+            console.log(name);
+            setHoveredName(name);
         }
     };
 
     const handleMouseLeave = () => {
-        setHovered(null);
+        setHoveredName('');
+    };
+
+    const handleMouseMove = (event) => {
+        setTooltipPosition({
+            x: event.clientX + 10,
+            y: event.clientY + 10
+        });
     };
 
     const handleClick = (event) => {
@@ -137,6 +144,7 @@ const Festas_Mapa = () => {
             if (!selectedDistrict) {
                 let districtEncoded = event.target.getAttribute('class');
                 let district = decodeURIComponent(districtEncoded);
+                console.log(district);
                 setSelectedDistrict(district);
             } else {
                 let countyEncoded = event.target.getAttribute('class');
@@ -157,7 +165,6 @@ const Festas_Mapa = () => {
         }
     };
     
-
     const close = () => {
         setSelectedDistrict(null);
         setSelectedCounty(null);
@@ -169,10 +176,12 @@ const Festas_Mapa = () => {
         });
     
         return (
-            <div>
+            <div className="flex flex-col items-center justify-center w-full h-full">
                 <h2 className="text-2xl font-bold mb-4 px-4">{district}</h2>
                 {selectedCounty}
-                {highlightedSvg}
+                <div className="district-svg-container">
+                    {highlightedSvg}
+                </div>
             </div>
         );
     };
@@ -206,7 +215,7 @@ const Festas_Mapa = () => {
                         <h2 className="text-2xl font-bold text-[#4a2e2a]">Lista de Festas</h2>
                         <button 
                             onClick={() => setShowFilters(!showFilters)} 
-                            className="text-[#4a2e2a] bg-[#f2e3c6] hover:text-[#f2e3c6] hover:bg-[#4a2e2a] rounded px-2 py-2 flex items-center transition-colors duration-300"
+                            className="text-[#4a2e2a] bg-[#f2e3c6] hover:text-[#f2e2c6] hover:bg-[#4a2e2a] rounded px-2 py-2 flex items-center transition-colors duration-300"
                         >
                             {showFilters ? 'Hide Filters' : 'Show Filters'}
                         </button>
@@ -224,7 +233,7 @@ const Festas_Mapa = () => {
                                     <input 
                                         type="search" 
                                         id="default-search" 
-                                        className=" block w-full p-4 pl-10 text-sm text-black rounded-lg bg-gray-100" 
+                                        className="block w-full p-4 pl-10 text-sm text-black rounded-lg bg-gray-100" 
                                         placeholder="Search Festa..." 
                                         required 
                                         value={searchTerm}
@@ -279,19 +288,35 @@ const Festas_Mapa = () => {
                     </div>
                 </div>
             </div>
-            <div className="md:w-1/2 p-4">
-                <div className="border p-4 rounded bg-white bg-opacity-90 h-full overflow-y-auto" style={{ fontFamily: 'serif', color: '#4a2e2a' }}>
-                    <h2 className="text-2xl font-bold mb-4 px-4">Mapa de Festas</h2>
-                    <div onClick={handleClick}>
+            <div className="md:w-1/2 p-4 relative">
+            <div className="border p-4 rounded bg-white bg-opacity-90 h-full" style={{ fontFamily: 'serif', color: '#4a2e2a' }}>                    <div 
+                        
+                        onClick={handleClick}
+                        onMouseEnter={handleMouseEnter}
+                        onMouseLeave={handleMouseLeave}
+                        onMouseMove={handleMouseMove}
+                        className="flex flex-col items-center justify-center w-auto h-auto max-h-[80vh] p-4"
+                    >
                         {selectedDistrict ? (
-                            <div className="text-center" style={{width: '50%', height: '50%'}}>
+                            <div className="flex flex-col items-center justify-center w-full h-auto">
                                 {districtMap[selectedDistrict]}
-                                <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded" onClick={close}>Fechar</button>
+                                <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-4" onClick={close}>Fechar</button>
                             </div>
                         ) : (
-                            <PortugalMap />
+                            <PortugalMap className="w-full h-auto max-h-[70vh] object-contain p-4"/>
                         )}
                     </div>
+                    {hoveredName && (
+                        <div 
+                            className="tooltip absolute text-white bg-black rounded px-2 py-1"
+                            style={{
+                                left: `${tooltipPosition.x}px`,
+                                top: `${tooltipPosition.y}px`
+                            }}
+                        >
+                            {hoveredName}
+                        </div>
+                    )}
                 </div>
             </div>
         </div>

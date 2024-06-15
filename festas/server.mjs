@@ -181,6 +181,7 @@ app.get('/freguesias', async (req, res) => {
     }
 });
 
+//http://localhost:5000/regiao?distrito=Vila%20Real
 app.get('/regiao', async (req, res) => {
     const { distrito } = req.query;
 
@@ -259,7 +260,7 @@ app.get('/next_id', async (req, res) => {
 
 app.post('/criar_festa', async (req, res) => {
     try {
-        const { nome, dataInicio, dataFim, distrito, concelho, freguesia, descricao } = req.body;
+        let { nome, dataInicio, dataFim, distrito, concelho, freguesia, descricao } = req.body;
 
 
         // Obter o próximo ID disponível
@@ -274,6 +275,12 @@ app.post('/criar_festa', async (req, res) => {
 
         console.log('Creating festa:', { id, nome, dataInicio, dataFim, distrito, concelho, freguesia, descricao, regiao });
 
+        // passar data 14-06-2024 para 14/06/2024
+        dataInicio = dataInicio.split('-').join('/');
+        dataFim = dataFim.split('-').join('/');
+
+        console.log(dataInicio);
+        console.log(dataFim);
         // Construa sua consulta SPARQL para inserir os dados na ontologia
         const query = `
             PREFIX : <http://rpcw.di.uminho.pt/festas&romarias/>

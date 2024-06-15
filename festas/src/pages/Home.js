@@ -56,7 +56,9 @@ export default function Home() {
         <div className="bg-cover bg-center min-h-screen" style={{ backgroundColor: '#f2e3c6' }}>
             <Header />
             <main className="flex-grow flex flex-col mt-20">
-                <div className="bg-white p-4 w-full"> <Descricao /> </div>
+            <div className="flex-grow flex items-center justify-center w-full bg-white" style={{ minHeight: '85vh' }}> {/* 80% da altura da tela */}
+          <Descricao />
+        </div>
                 <div id="festas-section" className=" p-4 w-full bg-brown-800" style={{ marginTop: '20px', paddingTop: '20px' }}>
                 <Festas_Mapa />
                 </div>  

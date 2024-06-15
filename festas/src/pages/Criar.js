@@ -5,6 +5,7 @@ import DatePicker from 'react-datepicker';
 import 'react-datepicker/dist/react-datepicker.css';
 import { registerLocale } from 'react-datepicker';
 import pt from 'date-fns/locale/pt';
+import { set } from 'mongoose';
 
 registerLocale('pt', pt);
 
@@ -19,6 +20,8 @@ export default function Criar() {
     const [districts, setDistricts] = useState([]);
     const [counties, setCounties] = useState([]);
     const [parishes, setParishes] = useState([]);
+    const [successMessage, setSuccessMessage] = useState('');
+    const [errorMessage, setErrorMessage] = useState('');
 
     useEffect(() => {
         const fetchData = async () => {
@@ -84,9 +87,7 @@ export default function Criar() {
     };
 
     const handleCreateEvent = async () => {
-
         console.log("Handle Create Event Called");
-
 
         if (!eventName || !startDate || !endDate || !district || !county) {
             alert('Por favor, preencha todos os campos obrigatórios.');
@@ -119,12 +120,27 @@ export default function Criar() {
             }
 
             const data = await response.json();
-            console.log(data);
+            // Atualizar a mensagem de sucesso
+            setSuccessMessage('Festa criada com sucesso!');
+
+            // Limpar os campos
+            setEventName('');
+            setStartDate(null);
+            setEndDate(null);
+            setDistrict('');
+            setCounty('');
+            setParish('');
+            setDescription('');
+            // Remover a mensagem de sucesso após 5 segundos
+            setTimeout(() => setSuccessMessage(''), 5000);
+            setErrorMessage('');
 
             // Lógica para lidar com o sucesso da criação da festa (opcional)
         } catch (error) {
             console.error('Error creating event:', error);
             // Lógica para lidar com o erro (opcional)
+            setErrorMessage('Erro ao criar festa. Por favor, tente novamente.');
+            setSuccessMessage('');
         }
     };
 
@@ -143,18 +159,30 @@ export default function Criar() {
         <div className="flex flex-col bg-cover bg-center bg-white min-h-screen">
             <Header />
             <main className="flex-grow flex flex-col items-center justify-center mt-28 md:mt-0" id="criar-section">
-                <h2 className="text-2xl font-bold mb-8 mt-8 px-4 text-right text-[#4a2e2a]">Criar Evento</h2>
+                <h2 className="text-3xl font-bold mb-8 mt-8 px-4 text-right text-[#4a2e2a]">Criar Festa</h2>
+                
+                {successMessage && (
+                <div className="mb-4 text-green-500 text-xl">
+                    {successMessage}
+                </div>
+                )}
+                
+                {errorMessage && (
+                <div className="mb-4 text-red-500 text-xl">
+                    {errorMessage}
+                </div>
+                )}
 
-                <form className="w-full max-w-lg">
+                <form className="w-full max-w-2xl">
                     <div className="mb-6">
-                        <label className="block uppercase tracking-wide text-[#4a2e2a] text-xs font-bold mb-2" htmlFor="grid-name">
-                            Nome do Evento
+                        <label className="block uppercase tracking-wide text-[#4a2e2a] text-xl font-bold mb-2" htmlFor="grid-name">
+                            Nome da Festa
                         </label>
-                        <input className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a]" id="grid-name" type="text" placeholder="Nome do Evento" value={eventName} onChange={(e) => setEventName(e.target.value)} />
+                        <input className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a] text-xl" id="grid-name" type="text" placeholder="Nome da Festa" value={eventName} onChange={(e) => setEventName(e.target.value)} />
                     </div>
                     <div className="flex flex-wrap -mx-3 mb-6">
-                        <div className="w-full md:w-1/2 px-3 mb-6 md:mb-0">
-                            <label className="block uppercase tracking-wide text-[#4a2e2a] text-xs font-bold mb-2" htmlFor="grid-start-date">
+                        <div className="w-full md:w-5/12 px-3 ">
+                            <label className="block uppercase tracking-wide text-[#4a2e2a] text-xl font-bold mb-2" htmlFor="grid-start-date">
                                 Data de Início
                             </label>
                             <DatePicker
@@ -168,8 +196,8 @@ export default function Criar() {
                                 todayButton="Hoje"
                             />
                         </div>
-                        <div className="w-full md:w-1/2 px-3">
-                            <label className="block uppercase tracking-wide text-[#4a2e2a] text-xs font-bold mb-2" htmlFor="grid-end-date">
+                        <div className="w-full md:w-5/12 px-3">
+                            <label className="block uppercase tracking-wide text-[#4a2e2a] text-xl font-bold mb-2" htmlFor="grid-end-date">
                                 Data de Fim
                             </label>
                             <DatePicker
@@ -186,16 +214,16 @@ export default function Criar() {
                     </div>
                     <div className="flex flex-wrap -mx-3 mb-6">
                         <div className="w-full md:w-1/3 px-3 mb-6 md:mb-0">
-                            <label className="block uppercase tracking-wide text-[#4a2e2a] text-xs font-bold mb-2" htmlFor="grid-district">
+                            <label className="block uppercase tracking-wide text-[#4a2e2a] text-xl font-bold mb-2" htmlFor="grid-district">
                                 Distrito
                             </label>
                             <select
-                                className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a]"
+                                className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a] text-xl"
                                 id="grid-district"
                                 value={district}
                                 onChange={(e) => setDistrict(e.target.value)}
                             >
-                                <option value="">Selecione um distrito</option>
+                                <option value="">distrito</option>
                                 {districts.map((dist) => (
                                     <option key={dist} value={dist}>
                                         {dist}
@@ -204,17 +232,17 @@ export default function Criar() {
                             </select>
                         </div>
                         <div className="w-full md:w-1/3 px-3 mb-6 md:mb-0">
-                            <label className="block uppercase tracking-wide text-[#4a2e2a] text-xs font-bold mb-2" htmlFor="grid-county">
+                            <label className="block uppercase tracking-wide text-[#4a2e2a] text-xl font-bold mb-2" htmlFor="grid-county">
                                 Concelho
                             </label>
                             <select
-                                className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a]"
+                                className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a] text-xl"
                                 id="grid-county"
                                 value={county}
                                 onChange={(e) => setCounty(e.target.value)}
                                 disabled={!district}
                             >
-                                <option value="">Selecione um concelho</option>
+                                <option value="">concelho</option>
                                 {counties.map((cnt) => (
                                     <option key={cnt} value={cnt}>
                                         {cnt}
@@ -223,17 +251,17 @@ export default function Criar() {
                             </select>
                         </div>
                         <div className="w-full md:w-1/3 px-3 mb-6 md:mb-0">
-                            <label className="block uppercase tracking-wide text-[#4a2e2a] text-xs font-bold mb-2" htmlFor="grid-parish">
+                            <label className="block uppercase tracking-wide text-[#4a2e2a] text-xl font-bold mb-2" htmlFor="grid-parish">
                                 Freguesia
                             </label>
                             <select
-                                className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a]"
+                                className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a] text-xl"
                                 id="grid-parish"
                                 value={parish}
                                 onChange={(e) => setParish(e.target.value)}
                                 disabled={!county}
                             >
-                                <option value="">Selecione uma freguesia</option>
+                                <option value=""> freguesia</option>
                                 {parishes.map((par) => (
                                     <option key={par} value={par}>
                                         {par}
@@ -243,12 +271,12 @@ export default function Criar() {
                         </div>
                     </div>
                     <div className="mb-6">
-                        <label className="block uppercase tracking-wide text-[#4a2e2a] text-xs font-bold mb-2" htmlFor="grid-description">
+                        <label className="block uppercase tracking-wide text-[#4a2e2a] text-xl font-bold mb-2" htmlFor="grid-description">
                             Descrição
                         </label>
-                        <textarea className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a]" id="grid-description" placeholder="Descrição do Evento" value={description} onChange={(e) => setDescription(e.target.value)} />
+                        <textarea className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a] text-xl" id="grid-description" placeholder="Descrição da Festa" value={description} onChange={(e) => setDescription(e.target.value)} />
                     </div>
-                    <button className="bg-[#4a2e2a] hover:bg-[#635346] text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="button" onClick={handleCreateEvent}>
+                    <button className="bg-[#4a2e2a] hover:bg-[#635346] text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline text-2xl" type="button" onClick={handleCreateEvent}>
                         Criar Evento
                     </button>
                 </form>

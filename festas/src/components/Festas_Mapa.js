@@ -289,21 +289,31 @@ const Festas_Mapa = () => {
                 </div>
             </div>
             <div className="md:w-1/2 p-4 relative">
-            <div className="border p-4 rounded bg-white bg-opacity-90 h-full" style={{ fontFamily: 'serif', color: '#4a2e2a' }}>                    <div 
-                        
+            <div className="border p-4 rounded bg-white bg-opacity-90 h-full" style={{ fontFamily: 'serif', color: '#4a2e2a' }}>                    
+                
+                <div ref={headerRef} className="sticky top-0 bg-white p-4 mb-4 rounded z-10 flex justify-between items-center">
+                        <h2 className="text-2xl font-bold text-[#4a2e2a] px-4">Mapa de Festas</h2>
+                        <button 
+                            className="bg-[#f2e3c6] text-[#4a2e2a] hover:bg-[#4a2e2a] hover:text-[#f2e3c6] rounded px-4 py-2 transition-colors duration-300"
+                            onClick={close}
+                        >
+                            Fechar
+                        </button>
+                    </div>
+                    <div onClick={handleClick} className="flex flex-col items-center justify-center w-full h-full mt-2">
+                    <div 
                         onClick={handleClick}
                         onMouseEnter={handleMouseEnter}
                         onMouseLeave={handleMouseLeave}
                         onMouseMove={handleMouseMove}
                         className="flex flex-col items-center justify-center w-auto h-auto max-h-[80vh] p-4"
-                    >
+                    ></div>
                         {selectedDistrict ? (
                             <div className="flex flex-col items-center justify-center w-full h-auto">
                                 {districtMap[selectedDistrict]}
-                                <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-4" onClick={close}>Fechar</button>
                             </div>
                         ) : (
-                            <PortugalMap className="w-full h-auto max-h-[70vh] object-contain p-4"/>
+                            <PortugalMap className="w-full h-auto max-h-[60vh] object-contain p-4"/>
                         )}
                     </div>
                     {hoveredName && (

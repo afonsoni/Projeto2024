@@ -1,9 +1,9 @@
 # TP_RPCW
 
-
 Trabalho Prático de RPCW
 
 ## Realizado por:
+
 - Afonso Ferreira (pg52669)
 - Fernando Alves (pg54470)
 - Joana Pereira (pg53895)
@@ -11,7 +11,7 @@ Trabalho Prático de RPCW
 ## Índice
 
 1. [Introdução](#introdução)
-2. [Coleta de Dados](#coleta-de-dados)
+2. [Recolha de Dados](#recolha-de-dados)
    - [Fonte de Dados](#fonte-de-dados)
    - [Estrutura das Informações no Site](#estrutura-das-informações-no-site)
    - [Exemplos de Formatos das Linhas](#exemplos-de-formatos-das-linhas)
@@ -43,7 +43,6 @@ Trabalho Prático de RPCW
 11. [Demonstração](#demonstração)
 12. [Conclusão](#conclusão)
 
-
 ## Relatório do Trabalho Prático
 
 ### Introdução
@@ -54,11 +53,11 @@ A inspiração veio do site TerraMater, que lista uma variedade de festas e roma
 
 Com o objetivo de criar uma experiência mais interativa e envolvente, decidiu-se desenvolver um site que permitisse aos utilizadores explorar e descobrir festas e romarias de maneira intuitiva e visualmente atraente. Para isso, foi necessário realizar um levantamento extensivo de dados através de web scraping no site TerraMater e criar uma ontologia que organizasse a informação de maneira estruturada e acessível.
 
-### Coleta de Dados
+### Recolha de Dados
 
 #### Fonte de Dados
 
-As informações foram coletadas do site [TerraMater](https://terramater.pt/festas-e-romarias-tras-os-montes/).
+As informações foram recolhidos do site [TerraMater](https://terramater.pt/temas/festas-e-romarias/).
 
 #### Estrutura das Informações no Site
 
@@ -79,9 +78,8 @@ As informações no site estão organizadas da seguinte forma:
 - concelho , data - nome . descricao
 - concelho , data : nome , descricao
 - concelho , data : nome . descricao
-- freguesia, concelho - data+nome : descricao 
-- freguesia, concelho, data+nome . descricao 
-
+- freguesia, concelho - data+nome : descricao
+- freguesia, concelho, data+nome . descricao
 
 Estes foram alguns dos diferentes formatos que foram encontrados e representaram um desafio significativo para a criação de um script capaz de extrair as informações de maneira consistente.
 
@@ -112,7 +110,6 @@ Os diversos formatos das linhas apresentaram desafios significativos. Por exempl
 - Datas que são apresentadas em formatos variados, incluindo expressões como "primeiro domingo de julho".
 
 Para garantir a coerência dos nomes e associar corretamente os distritos com as freguesias e concelhos, foi utilizado um JSON criado a partir do ficheiro `FreguesiasPortugalMetadata.xlsx`, mencionado anteriormente. Este ficheiro forneceu uma referência estruturada para validar e completar as informações extraídas durante o processo de scraping.
-
 
 #### Tratamento de Datas
 
@@ -240,7 +237,6 @@ TP_RPCW
 ┗ 📜tailwind.config.js
 📦scrap
  ┣ 📂dados
- ┣ 📜.DS_Store
  ┣ 📜README.md
  ┣ 📜datas.json
  ┣ 📜distritos_concelhos_freguesias.json
@@ -248,7 +244,6 @@ TP_RPCW
  ┣ 📜ontologia.py
  ┣ 📜outros.txt
  ┣ 📜scraper.py
- ┣ 📜scraper_fernando.py
  ┣ 📜script_regioes.py
  ┣ 📜sem_distritos.txt
  ┣ 📜testes.py
@@ -261,7 +256,7 @@ TP_RPCW
 
 A pasta `scrap` contém scripts e dados relacionados à criação do JSON e da ontologia. Esta parte do projeto envolve:
 
-- **Coleta de Dados:** Scripts para realizar web scraping e extrair informações sobre as festas.
+- **Recolha de Dados:** Scripts para realizar web scraping e extrair informações sobre as festas.
 - **Processamento de Dados:** Arquivos JSON intermediários e finais, além de scripts para manipulação e limpeza de dados.
 - **Criação da Ontologia:** Scripts como `ontologia.py` que geram o arquivo TTL a partir do JSON criado.
 
@@ -337,7 +332,6 @@ As queries SPARQL utilizadas foram testadas no GraphDB para garantir que os dado
 #### `/criar_festa`
 
 **Descrição:** Adicionar uma festa à ontologia.
-
 
 ### Demonstração
 

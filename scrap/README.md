@@ -1,3 +1,7 @@
-## Como correr
+# Como correr
 
-python3 scraperNovo.py mapeamento.txt
+```shell
+python3 scraper.py
+python3 script_regioes.py
+python3 ontologia.py
+```

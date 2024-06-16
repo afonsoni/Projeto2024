@@ -285,8 +285,7 @@ const Festas_Mapa = () => {
                             </div>
                         </div>
                     )}
-                    <div className="grid grid-cols-1 gap-4" style={{ height: `${containerHeight}px`, overflowY: 'auto' }}>
-                        {filteredFestas.map((festa, index) => (
+                    <div className="flex flex-col gap-4" style={{ height: `${containerHeight}px`, overflowY: 'auto' }}>                        {filteredFestas.map((festa, index) => (
                             <Festa key={index} festa={festa} />
                         ))}
                     </div>

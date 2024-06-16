@@ -204,11 +204,6 @@ TP_RPCW
 ┣ 📂public
 ┣ 📂src
 ┃ ┣ 📂assets
-┃ ┃ ┣ 📂mapa
-┃ ┃ ┣ 📜festas.json
-┃ ┃ ┣ 📜fotos_juntas.png
-┃ ┃ ┣ 📜fundo.jpg
-┃ ┃ ┗ 📜romaria.png
 ┃ ┣ 📂components
 ┃ ┃ ┣ 📜Descricao.js
 ┃ ┃ ┣ 📜Festa.js

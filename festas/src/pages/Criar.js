@@ -176,14 +176,22 @@ export default function Criar() {
                 <form className="w-full max-w-2xl">
                     <div className="mb-6">
                         <label className="block uppercase tracking-wide text-[#4a2e2a] text-xl font-bold mb-2" htmlFor="grid-name">
-                            Nome da Festa
+                            Nome da Festa <span className="text-red-500">*</span>
                         </label>
-                        <input className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a] text-xl" id="grid-name" type="text" placeholder="Nome da Festa" value={eventName} onChange={(e) => setEventName(e.target.value)} />
+                        <input 
+                            className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a] text-xl" 
+                            id="grid-name" 
+                            type="text" 
+                            placeholder="Nome da Festa" 
+                            value={eventName} 
+                            onChange={(e) => setEventName(e.target.value)} 
+                            required 
+                        />
                     </div>
                     <div className="flex flex-wrap -mx-3 mb-6">
                         <div className="w-full md:w-5/12 px-3 ">
                             <label className="block uppercase tracking-wide text-[#4a2e2a] text-xl font-bold mb-2" htmlFor="grid-start-date">
-                                Data de Início
+                                Data de Início <span className="text-red-500">*</span>
                             </label>
                             <DatePicker
                                 selected={startDate}
@@ -194,11 +202,12 @@ export default function Criar() {
                                 locale="pt"
                                 isClearable
                                 todayButton="Hoje"
+                                required
                             />
                         </div>
                         <div className="w-full md:w-5/12 px-3">
                             <label className="block uppercase tracking-wide text-[#4a2e2a] text-xl font-bold mb-2" htmlFor="grid-end-date">
-                                Data de Fim
+                                Data de Fim <span className="text-red-500">*</span>
                             </label>
                             <DatePicker
                                 selected={endDate}
@@ -209,21 +218,23 @@ export default function Criar() {
                                 locale="pt"
                                 isClearable
                                 todayButton="Hoje"
+                                required
                             />
                         </div>
                     </div>
                     <div className="flex flex-wrap -mx-3 mb-6">
                         <div className="w-full md:w-1/3 px-3 mb-6 md:mb-0">
                             <label className="block uppercase tracking-wide text-[#4a2e2a] text-xl font-bold mb-2" htmlFor="grid-district">
-                                Distrito
+                                Distrito <span className="text-red-500">*</span>
                             </label>
                             <select
                                 className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a] text-xl"
                                 id="grid-district"
                                 value={district}
                                 onChange={(e) => setDistrict(e.target.value)}
+                                required
                             >
-                                <option value="">distrito</option>
+                                <option value="">Selecione um distrito</option>
                                 {districts.map((dist) => (
                                     <option key={dist} value={dist}>
                                         {dist}
@@ -233,7 +244,7 @@ export default function Criar() {
                         </div>
                         <div className="w-full md:w-1/3 px-3 mb-6 md:mb-0">
                             <label className="block uppercase tracking-wide text-[#4a2e2a] text-xl font-bold mb-2" htmlFor="grid-county">
-                                Concelho
+                                Concelho <span className="text-red-500">*</span>
                             </label>
                             <select
                                 className="appearance-none block w-full bg-[#f2e3c6] text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-[#4a2e2a] text-xl"
@@ -241,8 +252,9 @@ export default function Criar() {
                                 value={county}
                                 onChange={(e) => setCounty(e.target.value)}
                                 disabled={!district}
+                                required
                             >
-                                <option value="">concelho</option>
+                                <option value="">Selecione um concelho</option>
                                 {counties.map((cnt) => (
                                     <option key={cnt} value={cnt}>
                                         {cnt}
@@ -261,7 +273,7 @@ export default function Criar() {
                                 onChange={(e) => setParish(e.target.value)}
                                 disabled={!county}
                             >
-                                <option value=""> freguesia</option>
+                                <option value="">Selecione uma freguesia</option>
                                 {parishes.map((par) => (
                                     <option key={par} value={par}>
                                         {par}

@@ -1,4 +1,3 @@
-
 import express from 'express';
 import fetch from 'node-fetch';
 import cors from 'cors';
@@ -7,13 +6,11 @@ const app = express();
 const PORT = 5000;
 
 app.use(cors());
-
 app.use(express.json());
 
 app.get('/festas', async (req, res) => {
     const district = req.query.district || '';
     const county = req.query.county || '';
-
 
     const query = `
         PREFIX : <http://rpcw.di.uminho.pt/festas&romarias/>
@@ -141,8 +138,6 @@ app.get('/concelhos', async (req, res) => {
 });
 
 
-
-
 app.get('/freguesias', async (req, res) => {
     const { concelho} = req.query;
 
@@ -262,7 +257,6 @@ app.post('/criar_festa', async (req, res) => {
     try {
         let { nome, dataInicio, dataFim, distrito, concelho, freguesia, descricao } = req.body;
 
-
         // Obter o próximo ID disponível
         const idResponse = await fetch('http://localhost:5000/next_id');
         const idData = await idResponse.json();
@@ -281,6 +275,7 @@ app.post('/criar_festa', async (req, res) => {
 
         console.log(dataInicio);
         console.log(dataFim);
+
         // Construa sua consulta SPARQL para inserir os dados na ontologia
         const query = `
             PREFIX : <http://rpcw.di.uminho.pt/festas&romarias/>
@@ -288,27 +283,27 @@ app.post('/criar_festa', async (req, res) => {
             PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 
             INSERT DATA {
-                :${id} rdf:type :Festa ;
-                        :nome '${nome}' ;
-                        :descricao '${descricao}' ;
-                        :dataInicio '${dataInicio}';
-                        :dataFim '${dataFim}' ;
-                        :ocorreRegiao :r ;
-                        :ocorreDistrito :d ;
-                        :ocorreConcelho :c;
-                        :ocorreFreguesia :f .
+                :festa${id} rdf:type :Festa ;
+                           :nome "${nome}" ;
+                           :descricao "${descricao}" ;
+                           :dataInicio "${dataInicio}" ;
+                           :dataFim "${dataFim}" ;
+                           :ocorreRegiao :regiao${id} ;
+                           :ocorreDistrito :distrito${id} ;
+                           :ocorreConcelho :concelho${id} ;
+                           :ocorreFreguesia :freguesia${id} .
 
-                :r rdf:type :Regiao ;
-                            :nome '${regiao}' .
+                :regiao${id} rdf:type :Regiao ;
+                           :nome "${regiao}" .
 
-                :d rdf:type :Distrito ;
-                               :nome '${distrito}' .
+                :distrito${id} rdf:type :Distrito ;
+                           :nome "${distrito}" .
 
-                :c rdf:type :Concelho ;
-                               :nome '${concelho}' .
+                :concelho${id} rdf:type :Concelho ;
+                           :nome "${concelho}" .
 
-                :f rdf:type :Freguesia ;
-                               :nome '${freguesia}' .
+                :freguesia${id} rdf:type :Freguesia ;
+                           :nome "${freguesia}" .
             }
         `;
 
@@ -332,8 +327,6 @@ app.post('/criar_festa', async (req, res) => {
         res.status(500).json({ error: 'Failed to create festa' });
     }
 });
-
-
 
 app.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`);

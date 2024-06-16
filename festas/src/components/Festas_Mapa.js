@@ -137,6 +137,7 @@ const Festas_Mapa = () => {
             x: event.clientX + 10,
             y: event.clientY + 10
         });
+        setHoveredName('');
     };
 
     const handleClick = (event) => {
@@ -144,6 +145,7 @@ const Festas_Mapa = () => {
             if (!selectedDistrict) {
                 let districtEncoded = event.target.getAttribute('class');
                 let district = decodeURIComponent(districtEncoded);
+                console.log(district);
                 console.log(district);
                 setSelectedDistrict(district);
             } else {
@@ -165,6 +167,7 @@ const Festas_Mapa = () => {
         }
     };
     
+    
     const close = () => {
         setSelectedDistrict(null);
         setSelectedCounty(null);
@@ -180,7 +183,9 @@ const Festas_Mapa = () => {
                 <h2 className="text-2xl font-bold mb-4 px-4">{district}</h2>
                 {selectedCounty}
                 <div className="district-svg-container">
+                    <div className="district-svg-container">
                     {highlightedSvg}
+                </div>
                 </div>
             </div>
         );
@@ -215,8 +220,7 @@ const Festas_Mapa = () => {
                         <h2 className="text-2xl font-bold text-[#4a2e2a]">Lista de Festas</h2>
                         <button 
                             onClick={() => setShowFilters(!showFilters)} 
-                            className="text-[#4a2e2a] bg-[#f2e3c6] hover:text-[#f2e2c6] hover:bg-[#4a2e2a] rounded px-2 py-2 flex items-center transition-colors duration-300"
-                        >
+                            className="text-[#4a2e2a] bg-[#f2e3c6] hover:text-[#f2e2c6] hover:bg-[#4a2e2a] rounded px-2 py-2 flex items-center transition-colors duration-300"                        >
                             {showFilters ? 'Hide Filters' : 'Show Filters'}
                         </button>
                     </div>
@@ -289,46 +293,46 @@ const Festas_Mapa = () => {
                 </div>
             </div>
             <div className="md:w-1/2 p-4 relative">
-            <div className="border p-4 rounded bg-white bg-opacity-90 h-full" style={{ fontFamily: 'serif', color: '#4a2e2a' }}>                    
-                
-                <div ref={headerRef} className="sticky top-0 bg-white p-4 mb-4 rounded z-10 flex justify-between items-center">
-                        <h2 className="text-2xl font-bold text-[#4a2e2a] px-4">Mapa de Festas</h2>
-                        <button 
-                            className="bg-[#f2e3c6] text-[#4a2e2a] hover:bg-[#4a2e2a] hover:text-[#f2e3c6] rounded px-4 py-2 transition-colors duration-300"
-                            onClick={close}
-                        >
-                            Fechar
-                        </button>
-                    </div>
-                    <div onClick={handleClick} className="flex flex-col items-center justify-center w-full h-full mt-2">
-                    <div 
-                        onClick={handleClick}
-                        onMouseEnter={handleMouseEnter}
-                        onMouseLeave={handleMouseLeave}
-                        onMouseMove={handleMouseMove}
-                        className="flex flex-col items-center justify-center w-auto h-auto max-h-[80vh] p-4"
-                    ></div>
-                        {selectedDistrict ? (
-                            <div className="flex flex-col items-center justify-center w-full h-auto">
-                                {districtMap[selectedDistrict]}
-                            </div>
-                        ) : (
-                            <PortugalMap className="w-full h-auto max-h-[60vh] object-contain p-4"/>
-                        )}
-                    </div>
-                    {hoveredName && (
-                        <div 
-                            className="tooltip absolute text-white bg-black rounded px-2 py-1"
-                            style={{
-                                left: `${tooltipPosition.x}px`,
-                                top: `${tooltipPosition.y}px`
-                            }}
-                        >
-                            {hoveredName}
-                        </div>
-                    )}
+    <div className="border p-4 rounded bg-white bg-opacity-90 h-full" style={{ fontFamily: 'serif', color: '#4a2e2a' }}>
+        <div ref={headerRef} className="sticky top-0 bg-white p-4 mb-4 rounded z-10 flex justify-between items-center">
+            <h2 className="text-2xl font-bold text-[#4a2e2a] px-4">Mapa de Festas</h2>
+            <button 
+                className="bg-[#f2e3c6] text-[#4a2e2a] hover:bg-[#4a2e2a] hover:text-[#f2e3c6] rounded px-4 py-2 transition-colors duration-300"
+                onClick={close}
+            >
+                Fechar
+            </button>
+        </div>
+        <div 
+            onClick={handleClick}
+            onMouseEnter={handleMouseEnter}
+            onMouseLeave={handleMouseLeave}
+            onMouseMove={handleMouseMove}
+            className="flex flex-col items-center justify-center w-auto h-auto max-h-[80vh] p-4"
+        >
+            {selectedDistrict ? (
+                <div className="flex flex-col items-center justify-center w-full h-auto">
+                    {districtMap[selectedDistrict]}
                 </div>
+            ) : (
+                <PortugalMap className="w-full h-auto max-h-[70vh] object-contain p-4"/>
+            )}
+        </div>
+        {hoveredName && (
+            <div 
+                className="tooltip absolute text-white bg-black rounded px-2 py-1"
+                style={{
+                    left: `${tooltipPosition.x}px`,
+                    top: `${tooltipPosition.y}px`
+                }}
+            >
+                {hoveredName}
             </div>
+        )}
+    </div>
+</div>
+
+
         </div>
     );
 }

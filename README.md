@@ -335,8 +335,58 @@ As queries SPARQL utilizadas foram testadas no GraphDB para garantir que os dado
 
 ### Demonstração
 
-####
+#### Página Inicial
+
+A página inicial está dividida em duas secções principais:
+
+##### Parte Superior:
+
+Apresenta uma breve descrição do que o utilizador irá encontrar no site e a importância do mesmo. O objetivo é proporcionar uma visão geral sobre a relevância das festas e romarias tradicionais em Portugal.
+
+![Página Inicial](screenshots/pagina_inicial.png)
+
+##### Lista de Festas e Mapa:
+
+Ao descer um pouco, encontra-se uma lista de festas à esquerda e um mapa à direita. Inicialmente, são apresentadas todas as festas de Portugal.
+O mapa permite selecionar um distrito, filtrando assim as festas para exibir apenas as pertencentes ao distrito escolhido. É possível clicar num concelho dentro do distrito para mostrar apenas as festas desse concelho específico.
+
+Existe ainda uma funcionalidade de filtro disponível em qualquer momento, permitindo a filtragem das festas pelo nome ou por datas de início e fim.
+
+Nota: As festas mostradas inicialmente têm como ponto de partida a data atual (data em que o utilizador está a ver o site). No entanto, é possível filtrar para exibir festas mais antigas, ajustando a data de início.
+
+![Festas Portugal](screenshots/festas_portugal.png)
+
+![Festas por distrito](screenshots/festas_por_distrito.png)
+
+![Festas por concelho](screenshots/festas_por_concelho.png)
+
+#### Criar Festa
+
+A página "Criar Festa" permite aos utilizadores inserir novas festas no sistema. A interface inclui campos para o nome da festa, datas de início e fim, distrito, concelho, freguesia e uma descrição detalhada.
+
+Nota: Os campos marcados com \* são de preenchimento obrigatório.
+
+![Criar Festa](screenshots/criar_festa.png)
 
 ### Conclusão
 
-Este trabalho prático permitiu a aplicação de várias técnicas de web scraping, processamento de dados e manipulação de ontologias para criar uma aplicação web completa que exibe informações sobre festas tradicionais em Portugal. A utilização de ferramentas como BeautifulSoup, Pandas, e GraphDB foi essencial para o sucesso do projeto
+Este trabalho prático permitiu a aplicação de várias técnicas de web scraping, processamento de dados e manipulação de ontologias para criar uma aplicação web completa que exibe informações sobre festas tradicionais em Portugal. A utilização de ferramentas como BeautifulSoup, Pandas, e GraphDB foi essencial para o sucesso do projeto.
+
+#### Desafios Enfrentados
+
+Durante o desenvolvimento do projeto, foram enfrentados diversos desafios, tais como:
+
+- Diversidade de Formatos de Dados
+- Tratamento de Datas
+- Validação de Dados das freguesias, concelhos e dsitritos
+
+Felizmente, estes desafios foram ultrapassados com sucesso, resultando numa aplicação funcional e útil.
+
+#### Possíveis Melhorias
+Há várias áreas onde a aplicação pode ser melhorada para oferecer uma experiência ainda mais rica e funcional aos utilizadores:
+
+- Filtro por Múltiplos Concelhos: Implementar a possibilidade de selecionar múltiplos concelhos no mapa, permitindo aos utilizadores filtrar festas de várias localidades ao mesmo tempo. Esta funcionalidade aumentaria a flexibilidade e a utilidade do filtro geográfico.
+- Interatividade Avançada no Mapa: Melhorar a interatividade do mapa, como a implementação de animações ao passar o rato sobre os distritos e concelhos, poderia-se mostrar o nome da região.
+- Melhoria da Interface de Utilizador: Continuar a refinar a interface do utilizador para tornar a navegação e a interação com o site mais intuitivas e agradáveis.
+
+Estas melhorias visam não só enriquecer a experiência dos utilizadores, mas também garantir a sustentabilidade e a evolução contínua da aplicação, permitindo que mais pessoas descubram e apreciem as tradições culturais de Portugal.

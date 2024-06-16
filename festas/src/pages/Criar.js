@@ -5,7 +5,6 @@ import DatePicker from 'react-datepicker';
 import 'react-datepicker/dist/react-datepicker.css';
 import { registerLocale } from 'react-datepicker';
 import pt from 'date-fns/locale/pt';
-import { set } from 'mongoose';
 
 registerLocale('pt', pt);
 
